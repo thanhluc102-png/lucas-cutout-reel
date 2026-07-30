@@ -1,0 +1,13 @@
+{
+  "name": "lucas-cutout-reel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "npx --yes hyperframes@0.7.81 render compositions/main -o renders/output.mp4 -f 30 -q high",
+    "preview": "npx --yes hyperframes@0.7.81 preview compositions/main"
+  },
+  "devDependencies": {
+    "hyperframes": "0.7.81"
+  }
+}

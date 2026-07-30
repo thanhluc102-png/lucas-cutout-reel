@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px; height: 1920px; overflow: hidden;
+        background: #0F172A;
+        font-family: 'Be Vietnam Pro', sans-serif;
+      }
+
+      /* Nền retro ô ly */
+      #bg {
+        position: absolute; inset: 0;
+        background: #0F172A;
+      }
+      #grid {
+        position: absolute; inset: 0;
+        background-image:
+          linear-gradient(rgba(148, 163, 184, 0.12) 2px, transparent 2px),
+          linear-gradient(90deg, rgba(148, 163, 184, 0.12) 2px, transparent 2px);
+        background-size: 60px 60px;
+      }
+
+      /* Logo thương hiệu top + Logo Lucas Combo + lucas.vn viết thường */
+      #brand-header {
+        position: absolute; top: 70px; left: 80px; z-index: 50;
+        display: flex; align-items: center; gap: 18px;
+        background: #1E293B; border: 2px solid #38BDF8;
+        padding: 14px 36px; border-radius: 40px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+      }
+      #brand-header .logo-img {
+        height: 52px; width: auto; object-fit: contain;
+      }
+      #brand-header .title {
+        color: #F8FAFC; font-size: 34px; font-weight: 800;
+        text-transform: lowercase; letter-spacing: 0.5px;
+      }
+
+      /* Khung chứa hiệu ứng trượt */
+      .stage {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        padding: 140px 80px 100px; z-index: 10;
+      }
+
+      /* 1. Sản phẩm tách nền */
+      .cutout-wrapper {
+        position: relative;
+        width: 780px; height: 780px;
+        display: flex; align-items: center; justify-content: center;
+        margin-bottom: 30px;
+      }
+      .cutout-wrapper img.prod-img {
+        max-width: 100%; max-height: 100%; object-fit: contain;
+        position: relative; z-index: 2;
+      }
+
+      /* Hiệu ứng ánh sáng lướt qua ĐÚNG KHUÔN SẢN PHẨM (Clean Product Sheen with PNG Mask) */
+      .cutout-wrapper .shine-overlay {
+        position: absolute; inset: 0;
+        z-index: 5;
+        pointer-events: none;
+        -webkit-mask-image: url('../../assets/product-cutout.png');
+        mask-image: url('../../assets/product-cutout.png');
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        mask-repeat: no-repeat;
+        -webkit-mask-position: center;
+        mask-position: center;
+      }
+
+      .cutout-wrapper .shine-beam {
+        position: absolute;
+        top: -60%; left: -60%;
+        width: 50%; height: 220%;
+        background: linear-gradient(
+          115deg,
+          transparent 0%,
+          rgba(255, 255, 255, 0.0) 30%,
+          rgba(255, 255, 255, 0.95) 50%,
+          rgba(255, 255, 255, 0.0) 70%,
+          transparent 100%
+        );
+        transform: rotate(25deg);
+      }
+
+      /* 2. Quy chuẩn font & kiểu dáng ĐỒNG NHẤT 100% cho cả 3 text-box */
+      .text-box {
+        font-family: 'Be Vietnam Pro', sans-serif !important;
+        font-size: 52px !important;
+        font-weight: 800 !important;
+        text-transform: uppercase;
+        letter-spacing: -0.5px;
+        padding: 22px 46px;
+        border-radius: 24px;
+        margin-bottom: 22px;
+        text-align: center;
+        white-space: nowrap;
+      }
+
+      .text-box-1 {
+        background: #FFFFFF;
+        color: #0F172A;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+      }
+      .text-box-2 {
+        background: #38BDF8;
+        color: #0F172A;
+        box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4);
+      }
+      .text-box-3 {
+        background: #10B981;
+        color: #0F172A;
+        box-shadow: 0 14px 35px rgba(16, 185, 129, 0.4);
+      }
+
+      /* Badge giá nổi 3D bay vào từ bên phải */
+      .price-sticker {
+        position: absolute; top: 220px; right: 80px; z-index: 60;
+        background: #FACC15; color: #0F172A;
+        font-family: 'Be Vietnam Pro', sans-serif;
+        font-size: 48px; font-weight: 800;
+        padding: 20px 36px; border-radius: 36px;
+        transform: rotate(6deg);
+        border: 6px solid #FFFFFF;
+        box-shadow: 0 15px 35px rgba(250, 204, 21, 0.4);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="15" data-fps="30" data-width="1080" data-height="1920">
+      <div id="bg"></div>
+      <div id="grid"></div>
+
+      <div id="brand-header">
+        <img class="logo-img" src="../../assets/logo.png" alt="Lucas Combo Logo">
+        <span class="title">lucas.vn</span>
+      </div>
+
+      <div class="price-sticker" id="sticker">CHỈ 745.000₫</div>
+
+      <div class="stage">
+        <div class="cutout-wrapper" id="cutout">
+          <img class="prod-img" src="../../assets/product-cutout.png" alt="Sản phẩm tách nền">
+          <div class="shine-overlay">
+            <div class="shine-beam" id="shine"></div>
+          </div>
+        </div>
+
+        <div class="text-box text-box-1" id="t1">TÚI CHỐNG SỐC INATECK</div>
+        <div class="text-box text-box-2" id="t2">BẢO VỆ 360° ĐẲNG CẤP</div>
+        <div class="text-box text-box-3" id="t3">CHỐNG NƯỚC • KHÔNG TRẦY XƯỚC</div>
+      </div>
+
+      <script>
+        const tl = gsap.timeline({ paused: true });
+
+        tl.from('#cutout', { duration: 0.8, y: 800, scale: 0.5, opacity: 0, ease: 'back.out(1.7)' }, 0.2)
+        .fromTo('#shine', 
+          { x: -500 }, 
+          { duration: 0.65, x: 1300, ease: 'power2.inOut' },
+          0.85
+        )
+        .from('#sticker', { duration: 0.6, x: 500, rotate: 45, opacity: 0, ease: 'power3.out' }, 0.6)
+        .from('#t1', { duration: 0.6, x: -700, opacity: 0, ease: 'power3.out' }, 1.0)
+        .from('#t2', { duration: 0.6, x: 700, opacity: 0, ease: 'power3.out' }, 1.8)
+        .from('#t3', { duration: 0.6, y: 300, scale: 0.7, opacity: 0, ease: 'back.out(1.5)' }, 2.6)
+        .fromTo('#shine', 
+          { x: -500 }, 
+          { duration: 0.65, x: 1300, ease: 'power2.inOut' },
+          4.2
+        )
+        .to('#cutout img', { duration: 2.0, scale: 1.08, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 3.2);
+
+        window.__timelines = window.__timelines || {};
+        window.__timelines.main = tl;
+      </script>
+    </div>
+  </body>
+</html>
