@@ -125,13 +125,13 @@ jobs:
         env:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          DRY_RUN: ${{ inputs.dry_run || vars.DRY_RUN || 'false' }}
+          DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || inputs.dry_run }}
           CAPTION_FILE: jobs/${{ steps.gen.outputs.job }}/caption.txt
           COMMENT_FILE: jobs/${{ steps.gen.outputs.job }}/comment.txt
         run: node lib/post-reel.mjs "jobs/${{ steps.gen.outputs.job }}/final.mp4"
 
       - name: Đồng bộ tương tác + rút bài học
-        if: ${{ (inputs.dry_run || vars.DRY_RUN || 'false') != 'true' }}
+        if: ${{ github.event_name == 'schedule' || inputs.dry_run == 'false' }}
         env:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
@@ -141,7 +141,7 @@ jobs:
           node scripts/optimize.mjs
 
       - name: Ghi sổ nhật ký đăng bài
-        if: ${{ (inputs.dry_run || vars.DRY_RUN || 'false') != 'true' }}
+        if: ${{ github.event_name == 'schedule' || inputs.dry_run == 'false' }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
