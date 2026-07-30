@@ -153,15 +153,12 @@ const html = `<!doctype html>
         font-weight: 800 !important;
         text-transform: uppercase; letter-spacing: -0.5px;
         line-height: 1.25;
-        padding: 18px 36px; border-radius: 24px; margin-bottom: 18px;
+        padding: 16px 32px; border-radius: 24px; margin-bottom: 16px;
         text-align: center;
-        max-width: 940px;
-        width: auto;
-        white-space: normal;
-        word-break: break-word;
+        width: 920px;
         box-sizing: border-box;
       }
-      .text-box-1 { background: #FFFFFF; color: #0F172A; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); white-space: normal; word-break: break-word; }
+      .text-box-1 { background: #FFFFFF; color: #0F172A; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); white-space: normal; word-break: keep-all; overflow-wrap: break-word; }
       .text-box-2 { background: #38BDF8; color: #0F172A; box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4); white-space: nowrap !important; word-break: keep-all !important; }
       .text-box-3 { background: #10B981; color: #0F172A; box-shadow: 0 14px 35px rgba(16, 185, 129, 0.4); white-space: nowrap !important; word-break: keep-all !important; }
       .price-sticker {
