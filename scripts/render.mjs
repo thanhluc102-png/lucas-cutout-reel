@@ -65,13 +65,19 @@ const text1 = (job.title_1 || scenes[0]?.text || scenes[1]?.text || p.name || 'S
 const text2 = (job.title_2 || scenes[2]?.text || scenes[1]?.text || 'BẢO VỆ ĐẲNG CẤP').toUpperCase().trim();
 const text3 = (job.title_3 || scenes[3]?.text || scenes[4]?.text || 'CHÍNH HÃNG LUCAS.VN').toUpperCase().trim();
 
-// Tự động tính font-size theo độ dài chuỗi để KHÔNG BAO GIỜ bị tràn mép màn hình
-function getFontSize(str) {
+// Tự động tính font-size theo độ dài chuỗi để KHÔNG BAO GIỜ bị rớt chữ hay tràn mép
+function getFontSize(str, isTitle1 = false) {
   const len = str.length;
-  if (len <= 20) return '48px';
-  if (len <= 30) return '40px';
-  if (len <= 42) return '34px';
-  return '28px';
+  if (isTitle1) {
+    if (len <= 25) return '44px';
+    if (len <= 45) return '36px';
+    return '30px';
+  }
+  // Title 2 & 3: Ép nằm trên 1 DÒNG DUY NHẤT, tự co font-size để không bị rớt chữ
+  if (len <= 18) return '46px';
+  if (len <= 26) return '38px';
+  if (len <= 34) return '30px';
+  return '25px';
 }
 
 // 3. Dựng index.html chuẩn Cutout Sheen Motion trong thư mục job
@@ -155,9 +161,9 @@ const html = `<!doctype html>
         word-break: break-word;
         box-sizing: border-box;
       }
-      .text-box-1 { background: #FFFFFF; color: #0F172A; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); }
-      .text-box-2 { background: #38BDF8; color: #0F172A; box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4); }
-      .text-box-3 { background: #10B981; color: #0F172A; box-shadow: 0 14px 35px rgba(16, 185, 129, 0.4); }
+      .text-box-1 { background: #FFFFFF; color: #0F172A; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); white-space: normal; word-break: break-word; }
+      .text-box-2 { background: #38BDF8; color: #0F172A; box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4); white-space: nowrap !important; word-break: keep-all !important; }
+      .text-box-3 { background: #10B981; color: #0F172A; box-shadow: 0 14px 35px rgba(16, 185, 129, 0.4); white-space: nowrap !important; word-break: keep-all !important; }
       .price-sticker {
         position: absolute; top: 220px; right: 80px; z-index: 60;
         background: #FACC15; color: #0F172A;
@@ -186,7 +192,7 @@ const html = `<!doctype html>
             <div class="shine-beam" id="shine"></div>
           </div>
         </div>
-        <div class="text-box text-box-1" id="t1" style="font-size: ${getFontSize(text1)} !important;">${text1}</div>
+        <div class="text-box text-box-1" id="t1" style="font-size: ${getFontSize(text1, true)} !important;">${text1}</div>
         <div class="text-box text-box-2" id="t2" style="font-size: ${getFontSize(text2)} !important;">${text2}</div>
         <div class="text-box text-box-3" id="t3" style="font-size: ${getFontSize(text3)} !important;">${text3}</div>
       </div>
