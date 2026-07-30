@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <link rel="stylesheet" href="assets/fonts/fonts.css" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      :root{ --accent: {{ACCENT}}; --accent-soft: {{ACCENT_SOFT}}; --accent-ink: {{ACCENT_INK}}; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #070B16; }
+      body { font-family: 'Inter', sans-serif; -webkit-font-smoothing: antialiased; }
+
+      #bg {
+        position: absolute; inset: 0;
+        background:
+          radial-gradient(120% 70% at 50% -6%, #17233f 0%, rgba(11,18,36,0) 55%),
+          radial-gradient(90% 55% at 50% 116%, #201a12 0%, rgba(7,11,22,0) 60%),
+          linear-gradient(180deg, #070B16 0%, #0B1120 100%);
+      }
+      #grid {
+        position: absolute; inset: 0;
+        background-image:
+          linear-gradient(rgba(140,150,180,0.08) 2px, transparent 2px),
+          linear-gradient(90deg, rgba(140,150,180,0.08) 2px, transparent 2px);
+        background-size: 68px 68px;
+        -webkit-mask-image: radial-gradient(120% 85% at 50% 34%, #000 42%, transparent 92%);
+                mask-image: radial-gradient(120% 85% at 50% 34%, #000 42%, transparent 92%);
+      }
+
+      #prog { position: absolute; top: 40px; left: 60px; right: 60px; display: flex; gap: 12px; z-index: 6; }
+      #prog .seg { flex: 1; height: 7px; border-radius: 7px; background: rgba(255,255,255,0.14); overflow: hidden; }
+      #prog .seg .f { width: 0%; height: 100%; background: var(--accent); border-radius: 7px; }
+      #brand {
+        position: absolute; top: 72px; left: 62px; z-index: 6;
+        color: #34D399; font-size: 40px; font-weight: 700; letter-spacing: 1px;
+        display: flex; align-items: center; gap: 8px;
+      }
+      #brand .caret { width: 14px; height: 44px; background: #34D399; box-shadow: 0 0 16px #34D399; display: inline-block; }
+
+      .clip {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        padding: 200px 110px 346px;
+        text-align: center;
+      }
+
+      /* ---- cảnh mở: con số anh hùng ---- */
+      .kick { color: var(--accent-soft); font-size: 40px; letter-spacing: 14px; font-weight: 600; }
+      #s1-num {
+        color: var(--accent); font-size: 300px; font-weight: 800; letter-spacing: -8px;
+        margin: 44px 0 32px; line-height: 1; text-shadow: 0 0 60px rgb(from var(--accent) r g b / 0.4);
+      }
+      #s1-rule { width: 130px; height: 6px; background: var(--accent); border-radius: 6px; margin-bottom: 44px; }
+      #s1-sub { color: #C7D2EC; font-size: 52px; font-weight: 500; letter-spacing: 2px; }
+
+      /* ---- ảnh sản phẩm ---- */
+      .card {
+        width: 760px; height: 760px; border-radius: 60px;
+        background: radial-gradient(120% 120% at 50% 16%, #F5F7FC, #E4EAF4);
+        display: flex; align-items: center; justify-content: center; overflow: hidden;
+        box-shadow: 0 46px 100px -34px rgba(0,0,0,0.72), inset 0 2px 0 rgba(255,255,255,0.85);
+      }
+      .card img { width: 90%; height: 90%; object-fit: contain; }
+      #s2-cap { color: var(--accent-soft); font-size: 44px; letter-spacing: 8px; font-weight: 600; margin-top: 66px; }
+      .cap { color: #C7D2EC; font-size: 42px; letter-spacing: 4px; font-weight: 500; margin-top: 60px; }
+
+      /* ---- bảng thông số ---- */
+      #rows { width: 100%; }
+      .row {
+        display: flex; justify-content: space-between; align-items: baseline;
+        width: 100%; padding: 42px 8px; border-bottom: 3px solid rgb(from var(--accent) r g b / 0.18);
+      }
+      .row:last-child { border-bottom: 0; }
+      .rk { color: #93A0BE; font-size: 42px; font-weight: 500; letter-spacing: 2px; }
+      .rv { color: #EAF0FF; font-size: 50px; font-weight: 700; }
+
+      /* ---- giá ---- */
+      #s4-price { color: #EAF0FF; font-size: 168px; font-weight: 800; letter-spacing: -5px; margin: 40px 0; text-shadow: 0 0 50px rgba(234,240,255,0.18); }
+      #s4-coupon {
+        display: inline-flex; align-items: center; gap: 18px;
+        background-color: var(--accent);
+        background-image: linear-gradient(180deg, var(--accent-soft), var(--accent)); color: var(--accent-ink);
+        font-size: 44px; font-weight: 700; padding: 22px 48px; border-radius: 80px;
+        box-shadow: 0 16px 40px -14px rgb(from var(--accent) r g b / 0.7);
+      }
+      #s4-rule { width: 460px; height: 3px; background: rgb(from var(--accent) r g b / 0.35); margin: 96px 0 54px; }
+      #s4-cta { color: var(--accent); font-size: 64px; font-weight: 800; letter-spacing: 10px; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="16.0" data-fps="30" data-width="1080" data-height="1920">
+      <div id="bg"></div>
+      <div id="grid"></div>
+
+      <div id="prog">
+        <div class="seg" id="seg-0"><div class="f"></div></div>
+        <div class="seg" id="seg-1"><div class="f"></div></div>
+        <div class="seg" id="seg-2"><div class="f"></div></div>
+        <div class="seg" id="seg-3"><div class="f"></div></div>
+        <div class="seg" id="seg-4"><div class="f"></div></div>
+        <div class="seg" id="seg-5"><div class="f"></div></div>
+      </div>
+      <div id="brand">&gt;lucas.vn<span class="caret"></span></div>
+
+      <div class="clip" id="scene-title" data-start="0.0" data-duration="2.462" data-track-index="0">
+        <div class="kick" id="s1-kick">{{PILL}}</div>
+        <div id="s1-num">{{HERO}}</div>
+        <div id="s1-rule"></div>
+        <div id="s1-sub">{{PUNCH}}</div>
+      </div>
+
+      <div class="clip" id="scene-product" data-start="2.462" data-duration="3.692" data-track-index="0">
+        <div class="card"><img id="s2-img" src="{{IMAGE1}}" alt="" /></div>
+        <div id="s2-cap">{{TAGLINE}}</div>
+      </div>
+
+      <div class="clip" id="scene-angle-2" data-start="6.154" data-duration="2.461" data-track-index="0">
+        <div class="card"><img id="s3-img" src="{{IMAGE2}}" alt="" /></div>
+        <div class="cap">{{SPEC3_K}} — {{SPEC3_V}}</div>
+      </div>
+
+      <div class="clip" id="scene-angle-3" data-start="8.615" data-duration="2.462" data-track-index="0">
+        <div class="card"><img id="s4-img" src="{{IMAGE3}}" alt="" /></div>
+        <div class="cap">{{SPEC4_K}} — {{SPEC4_V}}</div>
+      </div>
+
+      <div class="clip" id="scene-specs" data-start="11.077" data-duration="2.461" data-track-index="0">
+        <div class="kick">THÔNG SỐ</div>
+        <div id="rows" style="margin-top: 72px;">
+          <div class="row"><span class="rk">{{SPEC1_K}}</span><span class="rv">{{SPEC1_V}}</span></div>
+          <div class="row"><span class="rk">{{SPEC2_K}}</span><span class="rv">{{SPEC2_V}}</span></div>
+          <div class="row"><span class="rk">{{SPEC3_K}}</span><span class="rv">{{SPEC3_V}}</span></div>
+          <div class="row"><span class="rk">{{SPEC4_K}}</span><span class="rv">{{SPEC4_V}}</span></div>
+        </div>
+      </div>
+
+      <div class="clip" id="scene-price" data-start="13.538" data-duration="2.462" data-track-index="0">
+        <div class="kick">GIÁ CHÍNH HÃNG</div>
+        <div id="s4-price">{{PRICE}}</div>
+        <div id="s4-coupon">Nhập {{COUPON}}</div>
+        <div id="s4-rule"></div>
+        <div id="s4-cta">LUCAS.VN</div>
+      </div>
+
+      <!--AUDIO-->
+
+      <script>
+        const tl = gsap.timeline({ paused: true });
+        const slow = 'power2.out';
+
+        const segs = [[0,2.462],[2.462,3.692],[6.154,2.461],[8.615,2.462],[11.077,2.461],[13.538,2.462]];
+        segs.forEach(([s, d], i) => {
+          tl.fromTo(`#seg-${i} .f`, { width: '0%' }, { width: '100%', duration: d, ease: 'none' }, s);
+        });
+
+        tl.from('#s1-kick', { opacity: 0, duration: 0.6 }, 0.1);
+        tl.from('#s1-num',  { opacity: 0, y: 34, scale: 0.94, duration: 0.9, ease: slow }, 0.3);
+        tl.fromTo('#s1-rule', { scaleX: 0 }, { scaleX: 1, duration: 0.6, ease: slow }, 0.95);
+        tl.from('#s1-sub',  { opacity: 0, duration: 0.7 }, 1.05);
+
+        // Đẩy máy vào rất chậm — cảm giác đắt tiền nằm ở tốc độ.
+        tl.from('#scene-product .card', { opacity: 0, scale: 0.9, duration: 0.75, ease: slow }, 2.522);
+        tl.to('#s2-img', { scale: 1.08, duration: 3.692, ease: 'none' }, 2.522);
+        tl.from('#s2-cap', { opacity: 0, y: 20, duration: 0.7 }, 3.1);
+
+        tl.from('#scene-angle-2 .card', { opacity: 0, scale: 1.05, duration: 0.8, ease: slow }, 6.214);
+        tl.to('#s3-img', { scale: 1.06, duration: 2.461, ease: 'none' }, 6.214);
+        tl.from('#scene-angle-2 .cap', { opacity: 0, duration: 0.6 }, 6.5);
+
+        tl.from('#scene-angle-3 .card', { opacity: 0, scale: 1.05, duration: 0.8, ease: slow }, 8.675);
+        tl.to('#s4-img', { scale: 1.06, duration: 2.462, ease: 'none' }, 8.675);
+        tl.from('#scene-angle-3 .cap', { opacity: 0, duration: 0.6 }, 8.96);
+
+        tl.from('.row', { opacity: 0, y: 24, duration: 0.5, stagger: 0.3, ease: slow }, 11.137);
+
+        tl.from('#s4-price',  { opacity: 0, y: 24, duration: 0.7, ease: slow }, 13.598);
+        tl.from('#s4-coupon', { opacity: 0, duration: 0.6 }, 13.9);
+        tl.fromTo('#s4-rule', { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: slow }, 14.2);
+        tl.from('#s4-cta',    { opacity: 0, duration: 0.6 }, 14.5);
+
+        window.__timelines = window.__timelines || {};
+        window.__timelines.main = tl;
+      </script>
+    </div>
+  </body>
+</html>
