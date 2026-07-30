@@ -19,7 +19,7 @@ on:
         required: false
         default: ''
       dry_run:
-        description: 'true = render + xem trước, KHÔNG đăng'
+        description: 'true = render + xem trước, KHÔNG đăng (đặt false khi đã duyệt)'
         required: false
         default: 'true'
 
