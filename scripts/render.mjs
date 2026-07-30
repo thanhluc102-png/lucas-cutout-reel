@@ -61,7 +61,7 @@ const priceK = Math.round((p.price_vnd || 0) / 1000);
 const priceText = p.price_is_from ? `CHỈ TỪ ${priceK}.000₫` : `CHỈ ${priceK}.000₫`;
 
 const scenes = job.scenes || [];
-const text1 = (job.title_1 || scenes[0]?.text || scenes[1]?.text || p.name || 'SẢN PHẨM CHÍNH HÃNG').toUpperCase().trim();
+const text1 = (p.name || job.title_1 || 'SẢN PHẨM CHÍNH HÃNG').toUpperCase().trim();
 const text2 = (job.title_2 || scenes[2]?.text || scenes[1]?.text || 'BẢO VỆ ĐẲNG CẤP').toUpperCase().trim();
 const text3 = (job.title_3 || scenes[3]?.text || scenes[4]?.text || 'CHÍNH HÃNG LUCAS.VN').toUpperCase().trim();
 
