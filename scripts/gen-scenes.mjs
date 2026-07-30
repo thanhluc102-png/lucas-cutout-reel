@@ -173,12 +173,17 @@ async function askClaude(extraFix) {
 }
 
 // --- lắp job hoàn chỉnh ------------------------------------------------------
-function shortenHeadline(str, defaultText = 'CHÍNH HÃNG LUCAS.VN') {
+function shortenHeadline(str, defaultText = 'BẢO VỆ ĐẲNG CẤP', maxChars = 25) {
   if (!str) return defaultText;
-  const clean = str.replace(/[.,!?:;]/g, '').trim();
+  const clean = str.replace(/[.,!?:;]/g, '').trim().toUpperCase();
+  if (clean.length <= maxChars) return clean;
   const words = clean.split(/\s+/).filter(Boolean);
-  if (words.length <= 5) return clean.toUpperCase();
-  return words.slice(0, 4).join(' ').toUpperCase();
+  let res = '';
+  for (const w of words) {
+    if ((res + ' ' + w).trim().length > maxChars) break;
+    res = (res + ' ' + w).trim();
+  }
+  return res || clean.slice(0, maxChars);
 }
 
 function assemble(creative) {
