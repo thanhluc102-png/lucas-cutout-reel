@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Repo sản xuất video ngắn dạng **Sản phẩm Cut-out + Chữ chuyển động & Ánh sáng lướt (Product Cutout & Light Sweep Sheen)** cho **Lucas Combo Plus** (lucas.vn).
+Repo sản xuất video ngắn dạng **Sản phẩm Cut-out + Chữ chuyển động & Ánh sáng lướt (Product Cutout & Light Sweep Sheen)** cho **Lucas Combo** (lucas.vn).
 
 ## Quy trình sản xuất
 

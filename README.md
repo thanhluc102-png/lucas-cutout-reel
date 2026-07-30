@@ -1,6 +1,6 @@
 # Lucas Cutout Reel
 
-Repository chuyên tạo video ngắn dạng **Product Cutout + Light Sheen Motion** cho **Lucas Combo Plus** (`lucas.vn`).
+Repository chuyên tạo video ngắn dạng **Product Cutout + Light Sheen Motion** cho **Lucas Combo** (`lucas.vn`).
 
 ## Đặc trưng thiết kế
 - **Tách nền sản phẩm PNG Cutout (780px)** nổi bật ở vị trí trung tâm.
