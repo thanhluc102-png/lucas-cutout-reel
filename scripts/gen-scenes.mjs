@@ -128,6 +128,11 @@ RÀNG BUỘC KỸ THUẬT (validator chặn cứng, sai là hỏng):
 - price_label: ${onSale ? `"GIẢM ${discount}%"` : '"CHÍNH HÃNG"'}.
 - Không dùng từ cấm (cực kỳ, siêu phẩm, đỉnh cao, số lượng có hạn, nhanh tay kẻo hết...). Không mở hook bằng "Xin chào", "Bạn có biết".
 
+3 THẺ TEXT BOX MÀN HÌNH (Cutout Reel):
+- title_1: Tên sản phẩm/thương hiệu ngắn gọn (2–4 từ VIẾT HOA, vd "TÚI CHỐNG SỐC INATECK").
+- title_2: Tính năng/điểm mạnh chính (2–4 từ VIẾT HOA, vd "BẢO VỆ 360° ĐẲNG CẤP").
+- title_3: Cam kết/lợi ích nổi bật (2–4 từ VIẾT HOA, vd "CHỐNG NƯỚC • KHÔNG TRẦY XƯỚC").
+
 CAPTION FACEBOOK (field "caption") — GIẬT TÍT, đừng hiền:
 - Mở bằng câu hook/gây tò mò mạnh (có thể chính là câu hook, thêm 1 emoji hợp cảm xúc).
 - 2–4 dòng ngắn: nỗi lo + giải pháp + điểm mạnh thật + giá (${priceStr}${onSale ? `, giảm ${discount}%` : ''}).
@@ -184,6 +189,9 @@ function assemble(creative) {
   });
   return {
     version: 1, job_id: jobId, title: (creative.title || product.name).slice(0, 60),
+    title_1: (creative.title_1 || product.name.slice(0, 30)).toUpperCase(),
+    title_2: (creative.title_2 || creative.scenes?.[1]?.text || 'BẢO VỆ ĐẲNG CẤP').toUpperCase(),
+    title_3: (creative.title_3 || creative.scenes?.[2]?.text || 'CHÍNH HÃNG LUCAS.VN').toUpperCase(),
     format: creative.format || 'hook', aspect: '9:16',
     brand: { bg: '#0B1B2E', accent: '#C9A227' },
     audio: { voice_provider: 'elevenlabs', gender: 'nu', region: 'mien_nam', speed: 1.05, bgm: 'auto', bpm: 195, ...(voiceId ? { voice_id: voiceId } : {}) },
