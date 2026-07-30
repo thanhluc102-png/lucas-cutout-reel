@@ -31,7 +31,7 @@ if (fs.existsSync(path.join(root, 'assets', 'bgm.mp4'))) {
   fs.copyFileSync(path.join(root, 'assets', 'bgm.mp4'), path.join(assetsDir, 'bgm.mp4'));
 }
 
-// 1. Tải ảnh sản phẩm
+// 1. Tải ảnh sản phẩm & TỰ ĐỘNG TÁCH NỀN PHÔNG TRẮNG (Cutout PNG)
 const p = job.products?.[0] || {};
 const imgSrc = p.image || job.scenes?.[0]?.asset?.src;
 if (!imgSrc) throw new Error('Không tìm thấy ảnh sản phẩm');
@@ -47,14 +47,32 @@ const localProdImg = path.join(assetsDir, 'product-cutout.png');
 console.log(`Tải ảnh sản phẩm ${imgSrc.slice(0, 60)}...`);
 await download(imgSrc, localProdImg);
 
+// Tự động tách nền phông trắng -> PNG trong suốt (Cutout)
+try {
+  console.log('Tự động tách nền phông trắng sản phẩm...');
+  execFileSync('python3', [path.join(root, 'scripts', 'remove_white_bg.py'), localProdImg, localProdImg]);
+  console.log('✔ Tách nền sản phẩm PNG thành công!');
+} catch (e) {
+  console.warn('Cảnh báo tách nền Python (dùng ảnh gốc):', e.message);
+}
+
 // 2. Chuẩn bị thông tin Text 1, Text 2, Text 3 và Price Sticker
 const priceK = Math.round((p.price_vnd || 0) / 1000);
 const priceText = p.price_is_from ? `CHỈ TỪ ${priceK}.000₫` : `CHỈ ${priceK}.000₫`;
 
 const scenes = job.scenes || [];
-const text1 = (job.title_1 || scenes[0]?.text || scenes[1]?.text || p.name || 'SẢN PHẨM CHÍNH HÃNG').toUpperCase();
-const text2 = (job.title_2 || scenes[2]?.text || scenes[1]?.text || 'BẢO VỆ ĐẲNG CẤP').toUpperCase();
-const text3 = (job.title_3 || scenes[3]?.text || scenes[4]?.text || 'CHÍNH HÃNG LUCAS.VN').toUpperCase();
+const text1 = (job.title_1 || scenes[0]?.text || scenes[1]?.text || p.name || 'SẢN PHẨM CHÍNH HÃNG').toUpperCase().trim();
+const text2 = (job.title_2 || scenes[2]?.text || scenes[1]?.text || 'BẢO VỆ ĐẲNG CẤP').toUpperCase().trim();
+const text3 = (job.title_3 || scenes[3]?.text || scenes[4]?.text || 'CHÍNH HÃNG LUCAS.VN').toUpperCase().trim();
+
+// Tự động tính font-size theo độ dài chuỗi để KHÔNG BAO GIỜ bị tràn mép màn hình
+function getFontSize(str) {
+  const len = str.length;
+  if (len <= 20) return '48px';
+  if (len <= 30) return '40px';
+  if (len <= 42) return '34px';
+  return '28px';
+}
 
 // 3. Dựng index.html chuẩn Cutout Sheen Motion trong thư mục job
 const html = `<!doctype html>
@@ -96,13 +114,13 @@ const html = `<!doctype html>
       .stage {
         position: absolute; inset: 0;
         display: flex; flex-direction: column; align-items: center; justify-content: center;
-        padding: 140px 80px 100px; z-index: 10;
+        padding: 140px 60px 100px; z-index: 10;
       }
       .cutout-wrapper {
         position: relative;
-        width: 780px; height: 780px;
+        width: 760px; height: 760px;
         display: flex; align-items: center; justify-content: center;
-        margin-bottom: 30px;
+        margin-bottom: 24px;
       }
       .cutout-wrapper img.prod-img {
         max-width: 100%; max-height: 100%; object-fit: contain;
@@ -126,11 +144,16 @@ const html = `<!doctype html>
       }
       .text-box {
         font-family: 'Be Vietnam Pro', sans-serif !important;
-        font-size: 52px !important;
         font-weight: 800 !important;
         text-transform: uppercase; letter-spacing: -0.5px;
-        padding: 22px 46px; border-radius: 24px; margin-bottom: 22px;
-        text-align: center; white-space: nowrap;
+        line-height: 1.25;
+        padding: 18px 36px; border-radius: 24px; margin-bottom: 18px;
+        text-align: center;
+        max-width: 940px;
+        width: auto;
+        white-space: normal;
+        word-break: break-word;
+        box-sizing: border-box;
       }
       .text-box-1 { background: #FFFFFF; color: #0F172A; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); }
       .text-box-2 { background: #38BDF8; color: #0F172A; box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4); }
@@ -139,8 +162,8 @@ const html = `<!doctype html>
         position: absolute; top: 220px; right: 80px; z-index: 60;
         background: #FACC15; color: #0F172A;
         font-family: 'Be Vietnam Pro', sans-serif;
-        font-size: 48px; font-weight: 800;
-        padding: 20px 36px; border-radius: 36px;
+        font-size: 46px; font-weight: 800;
+        padding: 18px 34px; border-radius: 36px;
         transform: rotate(6deg); border: 6px solid #FFFFFF;
         box-shadow: 0 15px 35px rgba(250, 204, 21, 0.4);
       }
@@ -163,9 +186,9 @@ const html = `<!doctype html>
             <div class="shine-beam" id="shine"></div>
           </div>
         </div>
-        <div class="text-box text-box-1" id="t1">${text1}</div>
-        <div class="text-box text-box-2" id="t2">${text2}</div>
-        <div class="text-box text-box-3" id="t3">${text3}</div>
+        <div class="text-box text-box-1" id="t1" style="font-size: ${getFontSize(text1)} !important;">${text1}</div>
+        <div class="text-box text-box-2" id="t2" style="font-size: ${getFontSize(text2)} !important;">${text2}</div>
+        <div class="text-box text-box-3" id="t3" style="font-size: ${getFontSize(text3)} !important;">${text3}</div>
       </div>
       <script>
         const tl = gsap.timeline({ paused: true });
