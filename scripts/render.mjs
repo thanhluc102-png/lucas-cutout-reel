@@ -99,8 +99,13 @@ for (const s of scenes) {
 }
 
 // --- font -------------------------------------------------------------------
-fs.cpSync(path.join(root, 'assets', 'fonts'), path.join(dir, 'assets', 'fonts'), { recursive: true });
-fs.copyFileSync(path.join(root, 'assets', 'logo.png'), path.join(dir, 'assets', 'logo.png'));
+const fontsSrc = path.join(root, 'assets', 'fonts');
+if (fs.existsSync(fontsSrc)) {
+  fs.cpSync(fontsSrc, path.join(dir, 'assets', 'fonts'), { recursive: true });
+}
+if (fs.existsSync(path.join(root, 'assets', 'logo.png'))) {
+  fs.copyFileSync(path.join(root, 'assets', 'logo.png'), path.join(dir, 'assets', 'logo.png'));
+}
 
 // --- dựng HTML --------------------------------------------------------------
 const component = fs.readFileSync(path.join(root, 'templates', 'subtitle.mjs'), 'utf8');
