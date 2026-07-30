@@ -1,8 +1,8 @@
-- Ưu tiên hook nêu **nỗi đau/tình huống thực tế** ("văng khỏi kẹp mỗi lần qua ổ gà") — cho tương tác cao nhất (Score=6).
-- Dùng câu hỏi mở đầu để người xem tự nhận ra vấn đề của mình, khơi phản ứng.
-- Nêu **con số/thông số cụ thể** ("mỏng 10mm", "hút chắc không rơi") tạo cảm giác đáng tin, gợi comment.
-- Thêm emoji liên quan sản phẩm (🧲) để tăng điểm nhấn thị giác nhẹ nhàng.
-- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá" — nhạt, tương tác thấp nhất (Score=4).
-- Không mở đầu bằng tên/thương hiệu shop; tập trung vào lợi ích và vấn đề của khách.
-- Chèn lời kêu gọi hỏi/chia sẻ để đẩy Comments và Shares (trọng số cao nhất).
-- Ưu tiên phụ kiện giải quyết bất tiện hằng ngày (kẹp điện thoại, ví MagSafe) hơn sản phẩm mô tả trung tính (balo, cáp sạc).
+- Dùng hook nêu "nỗi đau" cụ thể (điện thoại văng khỏi kẹp, ổ gà) cho tương tác cao nhất — luôn mở đầu bằng vấn đề thực tế người dùng gặp phải.
+- Đặt câu hỏi trực diện chạm đúng tình huống bực bội đạt Score cao nhất (6); ưu tiên cấu trúc "Vấn đề + dấu hỏi?".
+- Tránh hook kiểu thông báo bán hàng khô ("có sẵn tại Lucas", "đang giảm giá") vì Score thấp và không kích thích cảm xúc.
+- Thêm emoji gợi hình/cảm xúc (🧲😤) để tăng reactions, nhưng emoji đơn thuần không cứu được hook thiếu nỗi đau.
+- Nhấn mạnh thông số cụ thể gây khó chịu (laptop 16 inch không vừa, mỏng 10mm) để tạo hình ảnh rõ ràng, nhưng phải gắn với vấn đề mới hiệu quả.
+- Sản phẩm giải quyết vấn đề rõ ràng (kẹp điện thoại, balo laptop) dễ tương tác hơn sản phẩm mô tả tính năng suông.
+- Viết theo giọng đời thường, hơi gắt/thẳng ("bỏ đi 😤") để tạo đồng cảm, tránh giọng quảng cáo trung tính.
+- Chưa có video nào đạt Share (>0): cần thêm yếu tố bất ngờ/hữu ích đáng chia sẻ, không chỉ dừng ở nỗi đau cá nhân.
