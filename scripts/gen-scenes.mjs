@@ -128,10 +128,10 @@ RÀNG BUỘC KỸ THUẬT (validator chặn cứng, sai là hỏng):
 - price_label: ${onSale ? `"GIẢM ${discount}%"` : '"CHÍNH HÃNG"'}.
 - Không dùng từ cấm (cực kỳ, siêu phẩm, đỉnh cao, số lượng có hạn, nhanh tay kẻo hết...). Không mở hook bằng "Xin chào", "Bạn có biết".
 
-3 THẺ TEXT BOX MÀN HÌNH (Cutout Reel):
-- title_1: Tên sản phẩm/thương hiệu ngắn gọn (2–4 từ VIẾT HOA, vd "TÚI CHỐNG SỐC INATECK").
-- title_2: Tính năng/điểm mạnh chính (2–4 từ VIẾT HOA, vd "BẢO VỆ 360° ĐẲNG CẤP").
-- title_3: Cam kết/lợi ích nổi bật (2–4 từ VIẾT HOA, vd "CHỐNG NƯỚC • KHÔNG TRẦY XƯỚC").
+3 THẺ TEXT BOX DÁN MÀN HÌNH (Cutout Reel):
+- title_1 (Text Box 1): BẮT BUỘC GIỮ NGUYÊN 100% TÊN SẢN PHẨM ĐẦY ĐỦ ("${product.name.toUpperCase()}"). TUYỆT ĐỐI KHÔNG CẮT NGẮN TÊN SẢN PHẨM!
+- title_2 (Text Box 2): RÚT GỌN NỘI DUNG TÍNH NĂNG CHÍNH THÀNH CÂU TIÊU ĐỀ CỰC KỲ NGẮN GỌN (CHỈ 2–4 TỪ VIẾT HOA, TỐI ĐA 25 KÝ TỰ, vd "BẢO VỆ 360° ĐẲNG CẤP", "HÚT NANO-GEL SIÊU CHẮC"). KHÔNG ĐƯỢC VIẾT DÀI THÒN!
+- title_3 (Text Box 3): RÚT GỌN CÔNG DỤNG/CAM KẾT THÀNH CÂU TIÊU ĐỀ CỰC KỲ NGẮN GỌN (CHỈ 2–4 TỪ VIẾT HOA, TỐI ĐA 25 KÝ TỰ, vd "CHỐNG NƯỚC • KHÔNG TRẦY XƯỚC", "BẢO HÀNH CHÍNH HÃNG 12T"). KHÔNG ĐƯỢC VIẾT DÀI THÒN!
 
 CAPTION FACEBOOK (field "caption") — GIẬT TÍT, đừng hiền:
 - Mở bằng câu hook/gây tò mò mạnh (có thể chính là câu hook, thêm 1 emoji hợp cảm xúc).
@@ -173,6 +173,14 @@ async function askClaude(extraFix) {
 }
 
 // --- lắp job hoàn chỉnh ------------------------------------------------------
+function shortenHeadline(str, defaultText = 'CHÍNH HÃNG LUCAS.VN') {
+  if (!str) return defaultText;
+  const clean = str.replace(/[.,!?:;]/g, '').trim();
+  const words = clean.split(/\s+/).filter(Boolean);
+  if (words.length <= 5) return clean.toUpperCase();
+  return words.slice(0, 4).join(' ').toUpperCase();
+}
+
 function assemble(creative) {
   const jobId = new Date().toISOString().slice(0, 10) + '_' + Math.random().toString(36).slice(2, 7);
   const scenes = creative.scenes.map((s, i) => {
@@ -189,9 +197,9 @@ function assemble(creative) {
   });
   return {
     version: 1, job_id: jobId, title: (creative.title || product.name).slice(0, 60),
-    title_1: (creative.title_1 || product.name.slice(0, 30)).toUpperCase(),
-    title_2: (creative.title_2 || creative.scenes?.[1]?.text || 'BẢO VỆ ĐẲNG CẤP').toUpperCase(),
-    title_3: (creative.title_3 || creative.scenes?.[2]?.text || 'CHÍNH HÃNG LUCAS.VN').toUpperCase(),
+    title_1: product.name.toUpperCase(),
+    title_2: shortenHeadline(creative.title_2 || creative.scenes?.[1]?.text, 'BẢO VỆ 360° ĐẲNG CẤP'),
+    title_3: shortenHeadline(creative.title_3 || creative.scenes?.[2]?.text, 'CHÍNH HÃNG LUCAS.VN'),
     format: creative.format || 'hook', aspect: '9:16',
     brand: { bg: '#0B1B2E', accent: '#C9A227' },
     audio: { voice_provider: 'elevenlabs', gender: 'nu', region: 'mien_nam', speed: 1.05, bgm: 'auto', bpm: 195, ...(voiceId ? { voice_id: voiceId } : {}) },
