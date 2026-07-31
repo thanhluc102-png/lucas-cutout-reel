@@ -1,8 +1,8 @@
-- Hook "vấn đề đau" cụ thể (ổ gà, laptop 16 inch, tụt pin) cho Score cao nhất — luôn mở đầu bằng tình huống bực bội thực tế người dùng gặp.
-- Hook dạng câu hỏi khoét nỗi đau ("...vẫn tụt pin?", "...bỏ đi 😤") kéo Reactions/Comments tốt hơn hook mô tả tính năng.
-- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp, không tạo cảm xúc.
-- Hook nêu thông số khô ("mỏng 10mm, hút chắc") kém hiệu quả — hãy đổi thành nỗi lo ("sợ rơi thẻ khi hút iPhone?").
-- Chèn 1 emoji đúng ngữ cảnh (😤🔌🔋😬🧲) để tăng cảm xúc, không lạm dụng nhiều emoji.
-- Ưu tiên sản phẩm giải quyết bất tiện hằng ngày (kẹp điện thoại, sạc xe, balo chống nước) — dễ chạm insight hơn phụ kiện cao cấp thuần.
-- Shares = 0 toàn bộ: cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, tip bất ngờ, "gửi ngay cho đứa hay làm rơi điện thoại").
-- Giữ câu ngắn, xoáy 1 nỗi đau duy nhất mỗi hook; tránh liệt kê nhiều tính năng cùng lúc.
+- Mở bằng câu hỏi nêu nỗi đau cụ thể ("văng khỏi kẹp mỗi lần qua ổ gà?") cho score cao nhất — luôn ưu tiên kiểu này.
+- Dùng tình huống thực tế + hậu quả khó chịu (tụt pin, không vừa laptop, rơi rớt) thay vì mô tả tính năng suông.
+- Tránh hook kiểu thông báo bán hàng ("hàng chính hãng", "đang giảm giá tại Lucas") — tương tác thấp, thiếu cảm xúc.
+- Thêm emoji gợi hình đúng ngữ cảnh (🧲🔌🔋😤😬) để tăng chú ý, nhưng tối đa 1 emoji/hook.
+- Nhấn vào sự bất tiện của việc mang nhiều phụ kiện (2 cục sạc, cáp rời) — nỗi đau này gợi phản hồi tốt.
+- Viết ngắn, một câu, giọng đời thường, kết bằng dấu hỏi hoặc thái độ bực bội để kích comment.
+- Không mở bằng tên sản phẩm hay thông số kỹ thuật; để nỗi đau dẫn dắt, sản phẩm là lời giải.
+- Mọi hook đều gần như không có share/reaction cao → cần thử thêm yếu tố gây tranh luận hoặc "mẹo hay muốn lưu lại" để đẩy share.
