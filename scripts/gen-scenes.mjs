@@ -129,9 +129,9 @@ RÀNG BUỘC KỸ THUẬT (validator chặn cứng, sai là hỏng):
 - Không dùng từ cấm (cực kỳ, siêu phẩm, đỉnh cao, số lượng có hạn, nhanh tay kẻo hết...). Không mở hook bằng "Xin chào", "Bạn có biết".
 
 3 THẺ TEXT BOX DÁN MÀN HÌNH (Cutout Reel):
-- title_1 (Text Box 1): BẮT BUỘC GIỮ NGUYÊN 100% TÊN SẢN PHẨM ĐẦY ĐỦ ("${product.name.toUpperCase()}"). TUYỆT ĐỐI KHÔNG CẮT NGẮN TÊN SẢN PHẨM!
-- title_2 (Text Box 2): RÚT GỌN NỘI DUNG TÍNH NĂNG CHÍNH THÀNH CÂU TIÊU ĐỀ CỰC KỲ NGẮN GỌN (CHỈ 2–4 TỪ VIẾT HOA, TỐI ĐA 25 KÝ TỰ, vd "BẢO VỆ 360° ĐẲNG CẤP", "HÚT NANO-GEL SIÊU CHẮC"). KHÔNG ĐƯỢC VIẾT DÀI THÒN!
-- title_3 (Text Box 3): RÚT GỌN CÔNG DỤNG/CAM KẾT THÀNH CÂU TIÊU ĐỀ CỰC KỲ NGẮN GỌN (CHỈ 2–4 TỪ VIẾT HOA, TỐI ĐA 25 KÝ TỰ, vd "CHỐNG NƯỚC • KHÔNG TRẦY XƯỚC", "BẢO HÀNH CHÍNH HÃNG 12T"). KHÔNG ĐƯỢC VIẾT DÀI THÒN!
+- title_1 (Khung Trắng): BẮT BUỘC GIỮ NGUYÊN 100% TÊN SẢN PHẨM ĐẦY ĐỦ ("${product.name.toUpperCase()}"). TUYỆT ĐỐI KHÔNG CẮT NGẮN TÊN SẢN PHẨM!
+- title_2 (Khung Xanh Da Trời): Tiêu đề ngắn 2–5 từ VIẾT HOA về tính năng nổi bật. CÂU PHẢI HOÀN CHỈNH NGUYÊN VẸN, CÓ NGHĨA, KHÔNG BỊ CẮT CHỮ DỞ DANG! (Ví dụ: "NGĂN LAPTOP ĐỆM DÀY CHỐNG SỐC", "CÔNG NGHỆ NANO-GEL VACUUM").
+- title_3 (Khung Xanh Ngọc): Tiêu đề ngắn 2–5 từ VIẾT HOA về công dụng/cam kết. CÂU PHẢI HOÀN CHỈNH NGUYÊN VẸN, CÓ NGHĨA, KHÔNG BỊ CẮT CHỮ DỞ DANG! (Ví dụ: "KHÓA KÉO LẤY ĐỒ NHANH BÊN HÔNG", "CHỐNG NƯỚC • KHÔNG TRẦY XƯỚC", "BẢO HÀNH CHÍNH HÃNG 12T").
 
 CAPTION FACEBOOK (field "caption") — GIẬT TÍT, đừng hiền:
 - Mở bằng câu hook/gây tò mò mạnh (có thể chính là câu hook, thêm 1 emoji hợp cảm xúc).
@@ -173,17 +173,10 @@ async function askClaude(extraFix) {
 }
 
 // --- lắp job hoàn chỉnh ------------------------------------------------------
-function shortenHeadline(str, defaultText = 'BẢO VỆ ĐẲNG CẤP', maxChars = 25) {
+function cleanHeadline(str, defaultText = 'BẢO VỆ ĐẲNG CẤP') {
   if (!str) return defaultText;
   const clean = str.replace(/[.,!?:;]/g, '').trim().toUpperCase();
-  if (clean.length <= maxChars) return clean;
-  const words = clean.split(/\s+/).filter(Boolean);
-  let res = '';
-  for (const w of words) {
-    if ((res + ' ' + w).trim().length > maxChars) break;
-    res = (res + ' ' + w).trim();
-  }
-  return res || clean.slice(0, maxChars);
+  return clean || defaultText;
 }
 
 function assemble(creative) {
@@ -203,8 +196,8 @@ function assemble(creative) {
   return {
     version: 1, job_id: jobId, title: (creative.title || product.name).slice(0, 60),
     title_1: product.name.toUpperCase(),
-    title_2: shortenHeadline(creative.title_2 || creative.scenes?.[1]?.text, 'BẢO VỆ 360° ĐẲNG CẤP'),
-    title_3: shortenHeadline(creative.title_3 || creative.scenes?.[2]?.text, 'CHÍNH HÃNG LUCAS.VN'),
+    title_2: cleanHeadline(creative.title_2 || creative.scenes?.[1]?.text, 'BẢO VỆ 360° ĐẲNG CẤP'),
+    title_3: cleanHeadline(creative.title_3 || creative.scenes?.[2]?.text, 'CHÍNH HÃNG LUCAS.VN'),
     format: creative.format || 'hook', aspect: '9:16',
     brand: { bg: '#0B1B2E', accent: '#C9A227' },
     audio: { voice_provider: 'elevenlabs', gender: 'nu', region: 'mien_nam', speed: 1.05, bgm: 'auto', bpm: 195, ...(voiceId ? { voice_id: voiceId } : {}) },

@@ -60,25 +60,17 @@ try {
 const priceK = Math.round((p.price_vnd || 0) / 1000);
 const priceText = p.price_is_from ? `CHỈ TỪ ${priceK}.000₫` : `CHỈ ${priceK}.000₫`;
 
-function capLength(str, max = 25) {
-  if (!str) return '';
-  const clean = str.replace(/[.,!?:;]/g, '').trim();
-  if (clean.length <= max) return clean;
-  const words = clean.split(/\s+/).filter(Boolean);
-  let res = '';
-  for (const w of words) {
-    if ((res + ' ' + w).trim().length > max) break;
-    res = (res + ' ' + w).trim();
-  }
-  return res || clean.slice(0, max);
+function cleanText(str, defaultText = '') {
+  if (!str) return defaultText;
+  return str.replace(/[.,!?:;]/g, '').trim().toUpperCase();
 }
 
 const scenes = job.scenes || [];
 const text1 = (p.name || job.title_1 || 'SẢN PHẨM CHÍNH HÃNG').toUpperCase().trim();
-const text2 = capLength(job.title_2 || scenes[2]?.text || scenes[1]?.text || 'BẢO VỆ ĐẲNG CẤP', 25).toUpperCase().trim();
-const text3 = capLength(job.title_3 || scenes[3]?.text || scenes[4]?.text || 'CHÍNH HÃNG LUCAS.VN', 25).toUpperCase().trim();
+const text2 = cleanText(job.title_2 || scenes[2]?.text || scenes[1]?.text || 'BẢO VỆ ĐẲNG CẤP');
+const text3 = cleanText(job.title_3 || scenes[3]?.text || scenes[4]?.text || 'CHÍNH HÃNG LUCAS.VN');
 
-// Tự động tính font-size theo độ dài chuỗi để KHÔNG BAO GIỜ bị rớt chữ hay tràn mép
+// Tự động tính font-size theo độ dài chuỗi để KHÔNG BAO GIỜ bị cắt chữ hay mất chữ
 function getFontSize(str, isTitle1 = false) {
   const len = str.length;
   if (isTitle1) {
@@ -86,12 +78,10 @@ function getFontSize(str, isTitle1 = false) {
     if (len <= 45) return '34px';
     return '28px';
   }
-  // Title 2 & 3: Ép nằm trên 1 DÒNG DUY NHẤT, co font vừa khít khung
-  if (len <= 16) return '42px';
-  if (len <= 22) return '36px';
-  if (len <= 28) return '30px';
-  if (len <= 35) return '26px';
-  return '22px';
+  if (len <= 20) return '42px';
+  if (len <= 30) return '34px';
+  if (len <= 42) return '28px';
+  return '24px';
 }
 
 // 3. Dựng index.html chuẩn Cutout Sheen Motion trong thư mục job
@@ -173,8 +163,8 @@ const html = `<!doctype html>
         box-sizing: border-box;
       }
       .text-box-1 { background: #FFFFFF; color: #0F172A; box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); width: 920px; white-space: normal; word-break: keep-all; overflow-wrap: break-word; }
-      .text-box-2 { background: #38BDF8; color: #0F172A; box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4); max-width: 920px; width: max-content; white-space: nowrap !important; word-break: keep-all !important; }
-      .text-box-3 { background: #10B981; color: #0F172A; box-shadow: 0 14px 35px rgba(16, 185, 129, 0.4); max-width: 920px; width: max-content; white-space: nowrap !important; word-break: keep-all !important; }
+      .text-box-2 { background: #38BDF8; color: #0F172A; box-shadow: 0 14px 35px rgba(56, 189, 248, 0.4); max-width: 920px; width: auto; white-space: normal; word-break: keep-all; overflow-wrap: break-word; }
+      .text-box-3 { background: #10B981; color: #0F172A; box-shadow: 0 14px 35px rgba(16, 185, 129, 0.4); max-width: 920px; width: auto; white-space: normal; word-break: keep-all; overflow-wrap: break-word; }
       .price-sticker {
         position: absolute; top: 220px; right: 80px; z-index: 60;
         background: #FACC15; color: #0F172A;
