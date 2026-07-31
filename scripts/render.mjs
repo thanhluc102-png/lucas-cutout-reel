@@ -56,9 +56,13 @@ try {
   console.warn('Cảnh báo tách nền Python (dùng ảnh gốc):', e.message);
 }
 
-// 2. Chuẩn bị thông tin Text 1, Text 2, Text 3 và Price Sticker
-const priceK = Math.round((p.price_vnd || 0) / 1000);
-const priceText = p.price_is_from ? `CHỈ TỪ ${priceK}.000₫` : `CHỈ ${priceK}.000₫`;
+function formatVnPrice(priceVnd, isFrom = false) {
+  if (!priceVnd || priceVnd <= 0) return 'CHÍNH HÃNG';
+  const formatted = priceVnd.toLocaleString('vi-VN').replace(/,/g, '.');
+  return isFrom ? `CHỈ TỪ ${formatted}₫` : `CHỈ ${formatted}₫`;
+}
+
+const priceText = formatVnPrice(p.price_vnd, p.price_is_from);
 
 function cleanText(str, defaultText = '') {
   if (!str) return defaultText;
