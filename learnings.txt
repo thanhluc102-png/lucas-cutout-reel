@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi "nỗi đau" cụ thể (văng khỏi kẹp, tụt pin, gãy cổ dây) cho tương tác cao nhất — luôn ưu tiên kiểu này.
-- Hook chạm tình huống đời thực + hình ảnh sinh động ("xe qua ổ gà", "laptop 16 inch") kéo Reactions tốt hơn hẳn.
-- Tránh hook kiểu quảng cáo suông ("hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas") — điểm thấp, vô cảm.
-- Thêm 1 emoji đúng ngữ cảnh (🔋🧲⚡😤) để tăng cảm xúc, nhưng đừng lạm dụng.
-- Nêu thẳng đặc điểm/thông số ăn tiền (10mm, 100W, chống nước, 3in2) ngay trong hook để tạo tò mò.
-- Tất cả video đều 0 Share → cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, giá sốc, hoặc tình huống ai cũng gặp.
-- Ưu tiên nhóm phụ kiện giải quyết vấn đề hằng ngày (kẹp điện thoại, sạc, cáp) hơn nhóm sản phẩm cao cấp mô tả chung chung.
-- Công thức chuẩn: [Nỗi đau dạng câu hỏi] + [chi tiết cụ thể] + [emoji] → chốt bằng giải pháp/sản phẩm.
+- Mở bằng câu hỏi chạm nỗi đau cụ thể ("văng khỏi kẹp mỗi lần qua ổ gà?") cho tương tác cao nhất, ưu tiên kiểu này.
+- Vẽ tình huống thực tế khó chịu người dùng gặp hằng ngày, thêm emoji minh họa (😤🔌😬) để tăng cảm xúc.
+- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp, không tạo cảm xúc.
+- Nhấn mạnh hậu quả xấu nếu không có sản phẩm ("gãy cổ dây sau 2 tháng", "laptop không chống nước") để kích phản ứng.
+- Chốt vào một tính năng khác biệt, đo lường được (10mm, 16 inch, 100W) thay vì lời khen mơ hồ.
+- Sản phẩm giải quyết bất tiện di chuyển/xe cộ (kẹp điện thoại, sạc trên xe) hút reaction tốt hơn phụ kiện tĩnh.
+- Luôn cài câu hỏi tu từ khiến người xem tự soi mình ("Laptop bạn đang nằm trong balo không chống nước?").
+- Dữ liệu quá ít và Shares=0 toàn bộ — cần test thêm CTA khuyến khích chia sẻ để cải thiện Score.
