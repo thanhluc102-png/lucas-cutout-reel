@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi chạm nỗi đau cụ thể ("văng khỏi kẹp mỗi lần qua ổ gà?") cho tương tác cao nhất, ưu tiên kiểu này.
-- Vẽ tình huống thực tế khó chịu người dùng gặp hằng ngày, thêm emoji minh họa (😤🔌😬) để tăng cảm xúc.
-- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp, không tạo cảm xúc.
-- Nhấn mạnh hậu quả xấu nếu không có sản phẩm ("gãy cổ dây sau 2 tháng", "laptop không chống nước") để kích phản ứng.
-- Chốt vào một tính năng khác biệt, đo lường được (10mm, 16 inch, 100W) thay vì lời khen mơ hồ.
-- Sản phẩm giải quyết bất tiện di chuyển/xe cộ (kẹp điện thoại, sạc trên xe) hút reaction tốt hơn phụ kiện tĩnh.
-- Luôn cài câu hỏi tu từ khiến người xem tự soi mình ("Laptop bạn đang nằm trong balo không chống nước?").
-- Dữ liệu quá ít và Shares=0 toàn bộ — cần test thêm CTA khuyến khích chia sẻ để cải thiện Score.
+- Mở đầu bằng câu hỏi "nỗi đau" cụ thể (ổ gà văng điện thoại, gãy cổ dây) cho tương tác cao nhất (Score 5-6) → luôn dùng.
+- Hook nêu tính năng chung chung hoặc "hàng chính hãng/đang giảm giá" cho Score thấp (3-4) → tránh viết kiểu quảng cáo suông.
+- Chèn tình huống đời thực người dùng tự nhận ra mình trong đó (đi làm, đi mưa, xe qua ổ gà) để đẩy Reactions lên.
+- Dùng 1 emoji đúng ngữ cảnh (🧲🔋😤😬) tăng cảm xúc; tránh hook trần trụi không emoji.
+- Nêu con số/thông số gây tò mò (10mm, 16 inch, 100W, 2 tháng) để tăng độ thuyết phục.
+- Sản phẩm giải quyết bức xúc rõ ràng (kẹp điện thoại, cáp bền) hút tương tác hơn sản phẩm mô tả tiện ích mơ hồ (ví MagSafe, túi chống mưa).
+- Toàn bộ hook đều Shares=0, Comments=1 → thêm CTA kích chia sẻ/tag bạn bè hoặc câu hỏi mở cuối video để phá trần tương tác.
+- Ưu tiên format "Vấn đề bực mình? + emoji" thay vì "Đặc điểm sản phẩm + nơi bán".
