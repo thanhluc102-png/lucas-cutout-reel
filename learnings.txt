@@ -1,8 +1,8 @@
-- Hook nêu **vấn đề/nỗi đau cụ thể** (văng khỏi kẹp, ổ gà, gãy cổ dây) cho Score cao nhất (5-6); ưu tiên kiểu này.
-- Mở đầu bằng **câu hỏi khơi trúng bực bội thường ngày** ("...vẫn tụt pin?", "...không đút vừa laptop?") tạo phản ứng tốt hơn mô tả suông.
-- Hook kiểu **liệt kê thông số/tính năng khô khan** ("chính hãng, có sẵn", "đang giảm giá", "mỏng 10mm") cho Score thấp (4) — tránh.
-- Nhóm **balo/túi chống nước, va đập** kéo Reactions nhỉnh hơn khi gắn với tình huống thực (đi mưa, va đáy balo).
-- Thêm **emoji gợi cảm xúc/bối cảnh** (😤😬🌧️⚡) hợp lý giúp tăng tương tác nhẹ.
-- Tránh hook **quá chung chung, không có xung đột** ("balo hay cặp xách", "hút chắc không rơi") — chỉ chạm đáy Score 3-4.
-- Comment gần như luôn = 1, Share = 0 → **đòn bẩy nằm ở Reactions**; viết để người xem gật đầu "đúng rồi" ngay câu đầu.
-- Công thức nên dùng: **[Tình huống đau] + [hậu quả bực mình] + [emoji]**, đặt sản phẩm là giải pháp, không mở bằng tên/giá.
+- Mở bằng câu hỏi "nỗi đau" cụ thể (văng khỏi kẹp, tụt pin, va đáy balo) cho tương tác cao nhất — luôn ưu tiên kiểu này.
+- Tránh hook thông báo suông kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp nhất, không có sức hút.
+- Gắn số liệu/thông số gây tò mò ("mỏng 10mm", "chống rơi chuẩn quân sự", "gãy sau 2 tháng") để tăng reactions.
+- Dùng tình huống đời thực + emoji đúng ngữ cảnh (🔋😤🌧️) để tăng độ đồng cảm, nhưng emoji chỉ là phụ, nội dung mới quyết định.
+- Sản phẩm giải quyết vấn đề rõ ràng (giá đỡ điện thoại, cáp bền, túi chống nước) hút hơn sản phẩm mô tả chung chung (ví, ốp mỏng).
+- Chèn phép so sánh/nghịch lý ("mỏng mà chắc", "balo hay cặp — cả hai") để tạo điểm nhấn khác biệt.
+- Toàn bộ mẫu đều Shares=0, Comments=1: cần thêm CTA kích share (tag bạn bè, "gửi ngay cho đứa hay tụt pin") để phá trần Score.
+- Viết ngắn, 1 câu punch thẳng vào nỗi đau, tránh liệt kê tính năng dài dòng.
