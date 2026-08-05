@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi nỗi đau cụ thể ("văng khỏi kẹp mỗi lần qua ổ gà?", "gãy cổ dây sau 2 tháng?") cho điểm cao nhất — luôn dùng scenario thực tế người dùng gặp.
-- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — không có nỗi đau nên tương tác thấp nhất.
-- Nhấn con số/thông số gây tò mò ("2mm mà chống rơi chuẩn quân sự", "mỏng 10mm") để tạo tương phản bất ngờ.
-- Ưu tiên chủ đề phụ kiện xe/di chuyển (kẹp điện thoại, sạc trên xe, chống nước) — nhóm này kéo reactions nhỉnh hơn.
-- Chèn 1 emoji cuối hook đúng ngữ cảnh (🧲🔋🌧️🛡️) — không lạm dụng nhiều emoji.
-- Dùng giọng thẳng, hơi khiêu khích ("thì bỏ đi", "cho mệt?", "ném đi được rồi") để kích cảm xúc và bình luận.
-- Tập trung giải quyết vấn đề "cồng kềnh/nhiều món/dễ hỏng" — gợi ý sản phẩm gộp tiện lợi (all-in-one, 3in2).
-- Không nêu tên brand/nơi bán trong hook; để lộ giải pháp ở phần sau, hook chỉ chạm đau.
+- Mở bằng câu hỏi "nỗi đau" cụ thể, hình ảnh hoá tình huống bực bội (văng khỏi kẹp, ổ gà, cồng kềnh) → điểm cao nhất (Score 6).
+- Dùng phủ định/khiêu khích mạnh ("Ném… đi được rồi", "bỏ đi 😤") để kích phản ứng, cho tương tác tốt.
+- Nêu điểm đau kỹ thuật đời thường (cáp gãy cổ dây, đi mưa vẫn khô) hiệu quả hơn nêu thông số suông (Score 5).
+- Tránh hook kiểu thông báo bán hàng khô ("có sẵn tại Lucas", "đang giảm giá") → tương tác thấp nhất, không có nỗi đau.
+- Tránh mô tả spec thuần "mỏng 10mm/2mm, 100W" khi không gắn với tình huống thực tế → chỉ đạt Score 3-4.
+- Đưa con số vào bối cảnh xung đột (laptop 16 inch không đút vừa, sạc cả tiếng vẫn tụt pin) thay vì con số trơ.
+- Thêm emoji cảm xúc (😤😬🌧️) hợp nội dung để tăng reactions; emoji trung tính (🔌🔋) ít tác dụng.
+- Ưu tiên chủ đề balo/túi và phụ kiện chống rơi-chống nước; nhóm sạc/cáp cần hook đau hơn vì hay bị điểm thấp.
