@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi "nỗi đau" cụ thể (văng khỏi kẹp, tụt pin, va đáy balo) cho tương tác cao nhất — luôn ưu tiên kiểu này.
-- Tránh hook thông báo suông kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp nhất, không có sức hút.
-- Gắn số liệu/thông số gây tò mò ("mỏng 10mm", "chống rơi chuẩn quân sự", "gãy sau 2 tháng") để tăng reactions.
-- Dùng tình huống đời thực + emoji đúng ngữ cảnh (🔋😤🌧️) để tăng độ đồng cảm, nhưng emoji chỉ là phụ, nội dung mới quyết định.
-- Sản phẩm giải quyết vấn đề rõ ràng (giá đỡ điện thoại, cáp bền, túi chống nước) hút hơn sản phẩm mô tả chung chung (ví, ốp mỏng).
-- Chèn phép so sánh/nghịch lý ("mỏng mà chắc", "balo hay cặp — cả hai") để tạo điểm nhấn khác biệt.
-- Toàn bộ mẫu đều Shares=0, Comments=1: cần thêm CTA kích share (tag bạn bè, "gửi ngay cho đứa hay tụt pin") để phá trần Score.
-- Viết ngắn, 1 câu punch thẳng vào nỗi đau, tránh liệt kê tính năng dài dòng.
+- Mở bằng câu hỏi nỗi đau cụ thể ("văng khỏi kẹp mỗi lần qua ổ gà?", "gãy cổ dây sau 2 tháng?") cho điểm cao nhất — luôn dùng scenario thực tế người dùng gặp.
+- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — không có nỗi đau nên tương tác thấp nhất.
+- Nhấn con số/thông số gây tò mò ("2mm mà chống rơi chuẩn quân sự", "mỏng 10mm") để tạo tương phản bất ngờ.
+- Ưu tiên chủ đề phụ kiện xe/di chuyển (kẹp điện thoại, sạc trên xe, chống nước) — nhóm này kéo reactions nhỉnh hơn.
+- Chèn 1 emoji cuối hook đúng ngữ cảnh (🧲🔋🌧️🛡️) — không lạm dụng nhiều emoji.
+- Dùng giọng thẳng, hơi khiêu khích ("thì bỏ đi", "cho mệt?", "ném đi được rồi") để kích cảm xúc và bình luận.
+- Tập trung giải quyết vấn đề "cồng kềnh/nhiều món/dễ hỏng" — gợi ý sản phẩm gộp tiện lợi (all-in-one, 3in2).
+- Không nêu tên brand/nơi bán trong hook; để lộ giải pháp ở phần sau, hook chỉ chạm đau.
