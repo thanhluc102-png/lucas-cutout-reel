@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi "nỗi đau" cụ thể, hình ảnh hoá tình huống bực bội (văng khỏi kẹp, ổ gà, cồng kềnh) → điểm cao nhất (Score 6).
-- Dùng phủ định/khiêu khích mạnh ("Ném… đi được rồi", "bỏ đi 😤") để kích phản ứng, cho tương tác tốt.
-- Nêu điểm đau kỹ thuật đời thường (cáp gãy cổ dây, đi mưa vẫn khô) hiệu quả hơn nêu thông số suông (Score 5).
-- Tránh hook kiểu thông báo bán hàng khô ("có sẵn tại Lucas", "đang giảm giá") → tương tác thấp nhất, không có nỗi đau.
-- Tránh mô tả spec thuần "mỏng 10mm/2mm, 100W" khi không gắn với tình huống thực tế → chỉ đạt Score 3-4.
-- Đưa con số vào bối cảnh xung đột (laptop 16 inch không đút vừa, sạc cả tiếng vẫn tụt pin) thay vì con số trơ.
-- Thêm emoji cảm xúc (😤😬🌧️) hợp nội dung để tăng reactions; emoji trung tính (🔌🔋) ít tác dụng.
-- Ưu tiên chủ đề balo/túi và phụ kiện chống rơi-chống nước; nhóm sạc/cáp cần hook đau hơn vì hay bị điểm thấp.
+- Hook đánh trúng nỗi đau cụ thể ("văng khỏi kẹp qua ổ gà", "cồng kềnh ném đi") cho Score cao nhất (6) — luôn mở đầu bằng vấn đề thực tế người dùng gặp.
+- Hook dạng câu hỏi phơi bày tình huống khó chịu ("Laptop nằm chung ngăn chìa khoá?", "Cáp gãy cổ dây sau 2 tháng?") kéo tương tác tốt hơn hook mô tả tính năng suông.
+- Tránh hook chỉ nêu thông tin bán hàng ("Hàng chính hãng", "Đang giảm giá") — Score thấp, không tạo cảm xúc.
+- Tránh hook khoe thông số kỹ thuật khô khan ("mỏng 10mm", "mỏng 2mm chống rơi", "mất dáng đẹp") — Score chỉ 3-4, kém hiệu quả.
+- Sản phẩm balo/túi (chống va, chống nước, đa năng) ăn khách nhất; nhấn tình huống hỏng hóc, bất tiện khi mang laptop.
+- Dùng emoji cảm xúc mạnh (😤😬🎒) thay vì emoji trung tính (🔌🔋🧲) để tăng độ đồng cảm.
+- Viết ngắn, giọng khiêu khích/thách thức ("bỏ đi", "ném đi được rồi") kích phản ứng mạnh hơn câu trần thuật.
+- Mọi hook đều đạt Comment=1 nhưng Share=0 — cần thêm yếu tố bất ngờ/hữu ích đáng chia sẻ (mẹo, so sánh trước-sau) để phá trần Score.
