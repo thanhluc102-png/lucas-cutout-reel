@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi "nỗi đau" cụ thể (văng khỏi kẹp, ném balo cồng kềnh) cho Score cao nhất (6) — luôn ưu tiên kiểu này.
-- Thêm cảnh báo/thách thức trực diện ("bỏ đi", "cứu không nổi MacBook") để kích phản ứng, tránh câu mô tả suông kiểu "hàng chính hãng, đang giảm giá" (chỉ Score 3-4).
-- Nêu con số/thông số gây sốc (mỏng 10mm, chống rơi chuẩn quân sự, gãy cổ dây sau 2 tháng) giúp tăng reactions.
-- Chủ đề balo/túi chống sốc–chống nước và ốp/phụ kiện "mỏng mà bền" cho tương tác tốt hơn cáp sạc & pin dự phòng (nhóm này đều Score 3).
-- Dùng emoji đơn 🎒🧲🛡️🌧️ đặt cuối hook để tăng nhịp, không lạm dụng.
-- Tránh mở bằng tên brand hoặc "có sẵn/giảm giá" — hook thiên khuyến mãi luôn kém nhất.
-- Đánh vào tình huống đời thường dễ hình dung (đi mưa, xe qua ổ gà, laptop va đáy balo) thay vì liệt kê tính năng khô khan.
-- Không có video nào đạt Share — cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, so sánh bất ngờ) để phá trần Score.
+- Mở bằng câu hỏi "nỗi đau" cụ thể (văng khỏi kẹp, ổ gà, giày bẩn chung ngăn laptop) cho Score cao nhất (6) — ưu tiên kiểu này.
+- Dùng lối "chê thẳng/khiêu khích" (bỏ đi, ném đi, không cứu nổi, mất dáng đẹp) kích reaction mạnh — nên dùng.
+- Nêu con số/thông số gây sốc (mỏng 10mm, 2mm, laptop 16 inch, túi 200K) tạo tò mò, Score khá (4-5).
+- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp, không có nỗi đau.
+- Tránh mở bằng đặc điểm sản phẩm phẳng (ví MagSafe, ốp mỏng) nếu không gắn với tình huống bực bội — kém hơn.
+- Sản phẩm balo/túi + tình huống "hỏng đồ, va đập, ướt" và phụ kiện sạc/cáp + "tụt pin, gãy dây" là chủ đề dễ chạm — khai thác nhiều.
+- Luôn viết dạng câu hỏi tu từ hoặc câu chốt gọn kèm 1 emoji cuối — đúng công thức các hook điểm cao.
+- Nhấn hậu quả tiêu cực trước, giải pháp sau (đồ nhanh hỏng, MacBook rơi vỡ) thay vì khen sản phẩm trước.
