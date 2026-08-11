@@ -1,8 +1,8 @@
-- Mở bằng câu hỏi "nỗi đau" cụ thể (văng khỏi kẹp, ổ gà, giày bẩn chung ngăn laptop) cho Score cao nhất (6) — ưu tiên kiểu này.
-- Dùng lối "chê thẳng/khiêu khích" (bỏ đi, ném đi, không cứu nổi, mất dáng đẹp) kích reaction mạnh — nên dùng.
-- Nêu con số/thông số gây sốc (mỏng 10mm, 2mm, laptop 16 inch, túi 200K) tạo tò mò, Score khá (4-5).
-- Tránh hook chung chung kiểu "hàng chính hãng", "đang giảm giá", "có sẵn tại Lucas" — Score thấp, không có nỗi đau.
-- Tránh mở bằng đặc điểm sản phẩm phẳng (ví MagSafe, ốp mỏng) nếu không gắn với tình huống bực bội — kém hơn.
-- Sản phẩm balo/túi + tình huống "hỏng đồ, va đập, ướt" và phụ kiện sạc/cáp + "tụt pin, gãy dây" là chủ đề dễ chạm — khai thác nhiều.
-- Luôn viết dạng câu hỏi tu từ hoặc câu chốt gọn kèm 1 emoji cuối — đúng công thức các hook điểm cao.
-- Nhấn hậu quả tiêu cực trước, giải pháp sau (đồ nhanh hỏng, MacBook rơi vỡ) thay vì khen sản phẩm trước.
+- Mở bằng **nỗi đau cụ thể + hình ảnh sống động** (ổ gà văng điện thoại, balo cồng kềnh, giày bẩn chung ngăn laptop) → điểm cao nhất (Score 5-6).
+- Dùng câu hỏi khịa thẳng vào tình huống thực tế người dùng đang mắc phải, tạo cảm giác "đúng mình luôn".
+- Ưu tiên nhóm sản phẩm **balo/túi** với góc "vô lý – bất tiện" (cồng kềnh, không chống nước, laptop va đập) → tương tác tốt nhất.
+- Với phụ kiện nhỏ (cáp, sạc, ốp), đánh vào **nỗi lo hỏng/mất tiền** ("gãy cổ dây sau 2 tháng", "ốp dày mất dáng") thay vì mô tả thông số.
+- Tránh hook kiểu **thông báo bán hàng khô khan** ("có sẵn tại Lucas", "đang giảm giá") → điểm thấp, không gây cảm xúc.
+- Tránh mở đầu bằng **tính năng/thông số thuần** ("cắm 1 củ sạc 4 thiết bị", "MagSafe 10mm") khi chưa gắn nỗi đau → Score chỉ 3-4.
+- Chèn 1 emoji gợi cảm xúc/hình ảnh (😤😬🎒) cuối hook để tăng phản ứng, không lạm dụng.
+- Công thức thắng: **[Tình huống bực bội quen thuộc] + [hậu quả đắt giá] + [emoji chốt]** — đừng chốt bằng lời rao giá.
