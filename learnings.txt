@@ -1,8 +1,15 @@
-- Hook mở bằng câu hỏi chỉ đúng nỗi đau cụ thể ("văng khỏi kẹp khi qua ổ gà", "sạc cả tiếng vẫn tụt pin") cho Score cao nhất (6) — luôn dùng dạng này.
-- Hook khoe con số/lợi ích gây sốc ("sạc 4 thiết bị 1 củ", "mỏng 2mm chống rơi quân sự", "ném balo cồng kềnh đi") kéo tương tác mạnh — ưu tiên số liệu + nghịch lý.
-- Sản phẩm balo/túi và sạc đa cổng là nhóm hiệu quả nhất; đẩy mạnh 2 nhóm này.
-- Chống nước, chống sốc, đa năng (2-trong-1) là các góc bán chạy — luôn nhấn tính năng bảo vệ đồ đắt tiền (laptop, MacBook).
-- Tránh hook chung chung, thiếu cảm xúc ("Đang giảm giá tại Lucas") — Score thấp, không có nỗi đau.
-- Tránh hook đặt câu hỏi mờ nhạt, thiếu hình ảnh cụ thể ("nằm sát đáy balo", "túi 200K không cứu nổi") — chỉ đạt Score 3.
-- Thêm 1 emoji đúng ngữ cảnh cuối hook (🧲🔋🎒⚡🛡️) để tăng nhận diện, không lạm dụng.
-- Viết ngắn, 1 câu, nhắm thẳng tình huống đời thường người dùng gặp hằng ngày (đi làm, đi xe, đi mưa).
+- **Hook mạnh nhất = câu tuyên bố dứt khoát/khiêu khích** ("Ném cái balo cồng kềnh đi được rồi", "Cắm một củ sạc 4 thiết bị", "Điện thoại văng khỏi kẹp khi qua ổ gà") → Score 6, dẫn đầu.
+
+- **Nêu con số cụ thể + nghịch lý gây tò mò** ("mỏng 2mm mà chống rơi chuẩn quân sự", "sạc 4 thiết bị cùng lúc") tăng reactions rõ rệt.
+
+- **Sản phẩm hiệu suất cao**: đế/kẹp điện thoại xe, sạc đa cổng, ốp lưng mỏng, túi chống nước — dễ đạt Score 5-6.
+
+- **Chạm nỗi đau thực tế + emoji cảm xúc** (😤😬🧲) thắng hơn mô tả tính năng khô khan.
+
+- **Tránh hook liệt kê chung chung** ("Đi làm, du lịch, dã ngoại lo hết", "Balo hay cặp xách") → Score thấp 3-4, nhạt.
+
+- **Tránh lặp motif "laptop nằm trong balo..."** — bị trùng lặp, tương tác tụt về 3.
+
+- **Câu hỏi tu từ ngắn, đánh trúng tình huống cụ thể** ("Sạc cả tiếng vẫn tụt pin?") tốt hơn câu hỏi dài dòng.
+
+- **Điểm yếu chung: Shares=0 toàn bộ** → cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, giá sốc, cảnh báo hỏng đồ) để phá ngưỡng share.
