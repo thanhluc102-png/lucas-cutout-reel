@@ -1,8 +1,8 @@
-- Mở bằng **nỗi đau cụ thể + hình ảnh sống động** (ổ gà văng điện thoại, balo cồng kềnh, giày bẩn chung ngăn laptop) → điểm cao nhất (Score 5-6).
-- Dùng câu hỏi khịa thẳng vào tình huống thực tế người dùng đang mắc phải, tạo cảm giác "đúng mình luôn".
-- Ưu tiên nhóm sản phẩm **balo/túi** với góc "vô lý – bất tiện" (cồng kềnh, không chống nước, laptop va đập) → tương tác tốt nhất.
-- Với phụ kiện nhỏ (cáp, sạc, ốp), đánh vào **nỗi lo hỏng/mất tiền** ("gãy cổ dây sau 2 tháng", "ốp dày mất dáng") thay vì mô tả thông số.
-- Tránh hook kiểu **thông báo bán hàng khô khan** ("có sẵn tại Lucas", "đang giảm giá") → điểm thấp, không gây cảm xúc.
-- Tránh mở đầu bằng **tính năng/thông số thuần** ("cắm 1 củ sạc 4 thiết bị", "MagSafe 10mm") khi chưa gắn nỗi đau → Score chỉ 3-4.
-- Chèn 1 emoji gợi cảm xúc/hình ảnh (😤😬🎒) cuối hook để tăng phản ứng, không lạm dụng.
-- Công thức thắng: **[Tình huống bực bội quen thuộc] + [hậu quả đắt giá] + [emoji chốt]** — đừng chốt bằng lời rao giá.
+- Hook mở bằng câu hỏi chỉ đúng nỗi đau cụ thể ("văng khỏi kẹp khi qua ổ gà", "sạc cả tiếng vẫn tụt pin") cho Score cao nhất (6) — luôn dùng dạng này.
+- Hook khoe con số/lợi ích gây sốc ("sạc 4 thiết bị 1 củ", "mỏng 2mm chống rơi quân sự", "ném balo cồng kềnh đi") kéo tương tác mạnh — ưu tiên số liệu + nghịch lý.
+- Sản phẩm balo/túi và sạc đa cổng là nhóm hiệu quả nhất; đẩy mạnh 2 nhóm này.
+- Chống nước, chống sốc, đa năng (2-trong-1) là các góc bán chạy — luôn nhấn tính năng bảo vệ đồ đắt tiền (laptop, MacBook).
+- Tránh hook chung chung, thiếu cảm xúc ("Đang giảm giá tại Lucas") — Score thấp, không có nỗi đau.
+- Tránh hook đặt câu hỏi mờ nhạt, thiếu hình ảnh cụ thể ("nằm sát đáy balo", "túi 200K không cứu nổi") — chỉ đạt Score 3.
+- Thêm 1 emoji đúng ngữ cảnh cuối hook (🧲🔋🎒⚡🛡️) để tăng nhận diện, không lạm dụng.
+- Viết ngắn, 1 câu, nhắm thẳng tình huống đời thường người dùng gặp hằng ngày (đi làm, đi xe, đi mưa).
