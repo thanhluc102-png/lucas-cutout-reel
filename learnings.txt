@@ -1,15 +1,8 @@
-- **Hook mạnh nhất = câu tuyên bố dứt khoát/khiêu khích** ("Ném cái balo cồng kềnh đi được rồi", "Cắm một củ sạc 4 thiết bị", "Điện thoại văng khỏi kẹp khi qua ổ gà") → Score 6, dẫn đầu.
-
-- **Nêu con số cụ thể + nghịch lý gây tò mò** ("mỏng 2mm mà chống rơi chuẩn quân sự", "sạc 4 thiết bị cùng lúc") tăng reactions rõ rệt.
-
-- **Sản phẩm hiệu suất cao**: đế/kẹp điện thoại xe, sạc đa cổng, ốp lưng mỏng, túi chống nước — dễ đạt Score 5-6.
-
-- **Chạm nỗi đau thực tế + emoji cảm xúc** (😤😬🧲) thắng hơn mô tả tính năng khô khan.
-
-- **Tránh hook liệt kê chung chung** ("Đi làm, du lịch, dã ngoại lo hết", "Balo hay cặp xách") → Score thấp 3-4, nhạt.
-
-- **Tránh lặp motif "laptop nằm trong balo..."** — bị trùng lặp, tương tác tụt về 3.
-
-- **Câu hỏi tu từ ngắn, đánh trúng tình huống cụ thể** ("Sạc cả tiếng vẫn tụt pin?") tốt hơn câu hỏi dài dòng.
-
-- **Điểm yếu chung: Shares=0 toàn bộ** → cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, giá sốc, cảnh báo hỏng đồ) để phá ngưỡng share.
+- Hook khẳng định mạnh, có thái độ ("Ném cái balo cồng kềnh đi được rồi", "Cắm một củ sạc 4 thiết bị") cho tương tác cao nhất — dùng câu tuyên bố dứt khoát, gây tò mò.
+- Nêu con số/lợi ích cụ thể gây bất ngờ ("sạc 4 thiết bị", "mỏng 2mm chống rơi quân sự", "chống nước đi mưa vẫn khô") kéo Reactions tốt hơn hook chung chung.
+- Đánh vào nỗi đau đời thường có hình ảnh cụ thể ("giày bẩn chung ngăn laptop", "ốp dày làm mất dáng iPhone") hiệu quả hơn câu hỏi mơ hồ.
+- Tránh hook dạng câu hỏi lo lắng dài dòng, kết thúc bằng dấu hỏi yếu ("Sạc cả tiếng vẫn tụt pin?", "Xe xẹp lốp mà không mang bơm?") — điểm thấp nhất (Score=3).
+- Sản phẩm balo/túi và phụ kiện sạc đa năng hút tương tác tốt hơn ví, ốp lẻ; ưu tiên xoáy vào nhóm này.
+- Mở đầu bằng động từ mệnh lệnh hoặc câu chốt gọn, tránh mở bằng "Laptop bạn đang..." lặp lại gây nhàm (loạt hook này đều điểm thấp).
+- Kèm emoji đơn 1 cái cuối câu, chọn emoji cảm xúc/biểu tượng sản phẩm rõ nghĩa (🎒⚡🛡️) thay vì emoji than thở (😬😮‍💨).
+- Giữ hook ngắn 1 dòng, một ý sắc, tránh nhồi 2 mệnh đề khiến mất lực tác động.
