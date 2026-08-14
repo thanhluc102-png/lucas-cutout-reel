@@ -1,8 +1,15 @@
-- Hook khẳng định mạnh, "phủi tay" ("Ném cái balo cồng kềnh đi", "Cắm một củ sạc 4 thiết bị") cho score cao nhất (6) — ưu tiên câu tự tin, giải pháp dứt khoát.
-- Nêu con số cụ thể gây tò mò ("mỏng 2mm chống rơi chuẩn quân sự", "sạc 4 thiết bị cùng lúc") kéo tương tác lên rõ rệt.
-- Hook chạm nỗi đau bẩn/hỏng đồ trực quan ("giày bẩn chung ngăn laptop", "đi mưa vẫn khô ráo") đạt score 5 — nên khai thác tình huống đời thường cụ thể.
-- Nhóm phụ kiện túi/balo và ốp lưng đang nhỉnh hơn nhóm sạc/cáp về reaction — ưu tiên sản phẩm này khi cần tương tác.
-- Tránh hook dạng câu hỏi lo âu chung chung, mờ nhạt ("Xe xẹp lốp không mang bơm?", "Sạc cả tiếng vẫn tụt pin?") — score thấp nhất (3).
-- Tránh mở đầu bằng "Đi làm mà..." lặp lại và than vãn dài dòng — gây nhàm, reaction=0.
-- Chèn emoji đúng ngữ cảnh sản phẩm (🛡️ ⚡ 🌧️) thay vì emoji than thở (😮‍💨 😬) để tăng cảm giác giải pháp.
-- Ưu tiên hook ngắn, một ý mạnh, kết bằng lời hứa lợi ích rõ ràng thay vì bỏ lửng nỗi đau.
+- **Hook "phá bỏ/vứt đi cái cũ" thắng đậm**: kiểu "Ném cái balo cồng kềnh đi được rồi" (Score 6) — dùng lời khẳng định giải phóng, không hỏi rườm rà.
+
+- **Hook khoe con số/năng lực cụ thể lên top**: "Sạc 4 thiết bị cùng lúc" (Score 6), "chống rơi chuẩn quân sự", "mỏng 2mm" — số liệu gây shock kéo reaction.
+
+- **Nhóm balo/túi chống nước – chống sốc cho laptop cho tương tác ổn định cao** (Score 4-6): nhấn nỗi đau "hỏng đồ đắt tiền" (MacBook, laptop 16 inch).
+
+- **Ưu tiên hook chạm nỗi sợ mất mát tài sản lớn**: "cứu MacBook khi rơi", "ngăn giày bẩn chung laptop" — tài sản càng đắt, phản ứng càng mạnh.
+
+- **Tránh hook mô tả tính năng khô, thiếu cảm xúc** (Score 3): "Balo 40L xách tay máy bay", "sạc dự phòng mang cáp rời" — quá kỹ thuật, không đau, không lợi ích cảm xúc.
+
+- **Tránh hook nỗi đau mờ nhạt, ai cũng biết** (Score 3): "xách 2 cục sạc mệt", "xe xẹp lốp không mang bơm" — vấn đề nhỏ, không cấp bách.
+
+- **Công thức thắng: [Vứt/Khỏi cần cái cũ] HOẶC [Con số gây shock] + [Bảo vệ tài sản đắt]**, kèm 1 emoji mạnh (🎒⚡🛡️).
+
+- **Hook nên khẳng định mạnh thay vì hỏi lửng lơ**: câu khẳng định ("là cả hai", "đi mưa vẫn khô") nhỉnh hơn câu hỏi phàn nàn chung chung.
