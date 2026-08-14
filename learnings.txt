@@ -1,8 +1,8 @@
-- Hook khẳng định mạnh, có thái độ ("Ném cái balo cồng kềnh đi được rồi", "Cắm một củ sạc 4 thiết bị") cho tương tác cao nhất — dùng câu tuyên bố dứt khoát, gây tò mò.
-- Nêu con số/lợi ích cụ thể gây bất ngờ ("sạc 4 thiết bị", "mỏng 2mm chống rơi quân sự", "chống nước đi mưa vẫn khô") kéo Reactions tốt hơn hook chung chung.
-- Đánh vào nỗi đau đời thường có hình ảnh cụ thể ("giày bẩn chung ngăn laptop", "ốp dày làm mất dáng iPhone") hiệu quả hơn câu hỏi mơ hồ.
-- Tránh hook dạng câu hỏi lo lắng dài dòng, kết thúc bằng dấu hỏi yếu ("Sạc cả tiếng vẫn tụt pin?", "Xe xẹp lốp mà không mang bơm?") — điểm thấp nhất (Score=3).
-- Sản phẩm balo/túi và phụ kiện sạc đa năng hút tương tác tốt hơn ví, ốp lẻ; ưu tiên xoáy vào nhóm này.
-- Mở đầu bằng động từ mệnh lệnh hoặc câu chốt gọn, tránh mở bằng "Laptop bạn đang..." lặp lại gây nhàm (loạt hook này đều điểm thấp).
-- Kèm emoji đơn 1 cái cuối câu, chọn emoji cảm xúc/biểu tượng sản phẩm rõ nghĩa (🎒⚡🛡️) thay vì emoji than thở (😬😮‍💨).
-- Giữ hook ngắn 1 dòng, một ý sắc, tránh nhồi 2 mệnh đề khiến mất lực tác động.
+- Hook khẳng định mạnh, "phủi tay" ("Ném cái balo cồng kềnh đi", "Cắm một củ sạc 4 thiết bị") cho score cao nhất (6) — ưu tiên câu tự tin, giải pháp dứt khoát.
+- Nêu con số cụ thể gây tò mò ("mỏng 2mm chống rơi chuẩn quân sự", "sạc 4 thiết bị cùng lúc") kéo tương tác lên rõ rệt.
+- Hook chạm nỗi đau bẩn/hỏng đồ trực quan ("giày bẩn chung ngăn laptop", "đi mưa vẫn khô ráo") đạt score 5 — nên khai thác tình huống đời thường cụ thể.
+- Nhóm phụ kiện túi/balo và ốp lưng đang nhỉnh hơn nhóm sạc/cáp về reaction — ưu tiên sản phẩm này khi cần tương tác.
+- Tránh hook dạng câu hỏi lo âu chung chung, mờ nhạt ("Xe xẹp lốp không mang bơm?", "Sạc cả tiếng vẫn tụt pin?") — score thấp nhất (3).
+- Tránh mở đầu bằng "Đi làm mà..." lặp lại và than vãn dài dòng — gây nhàm, reaction=0.
+- Chèn emoji đúng ngữ cảnh sản phẩm (🛡️ ⚡ 🌧️) thay vì emoji than thở (😮‍💨 😬) để tăng cảm giác giải pháp.
+- Ưu tiên hook ngắn, một ý mạnh, kết bằng lời hứa lợi ích rõ ràng thay vì bỏ lửng nỗi đau.
