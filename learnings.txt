@@ -1,15 +1,8 @@
-- **Hook "vứt bỏ/thay mới" gây phản ứng mạnh nhất** (Score 6): dùng động từ mệnh lệnh dứt khoát như "Ném đi được rồi", tạo cảm giác giải thoát khỏi nỗi khổ cũ.
-
-- **Hook khoe con số/hiệu năng ấn tượng cho điểm cao** (Score 6): "Cắm một củ sạc 4 thiết bị", "Balo 40L đựng laptop 16 inch" — số cụ thể + lợi ích vượt kỳ vọng.
-
-- **Sản phẩm balo và túi chống nước/đa năng tương tác tốt** (Score 5-6): nhấn nghịch lý "balo hay cặp — cả hai", "đi mưa vẫn khô", "một balo lo hết".
-
-- **Hook chỉ ra nghịch lý sản phẩm mỏng-nhưng-khỏe hiệu quả** (Score 5): "Ốp mỏng 2mm chống rơi quân sự", "ốp dày làm mất dáng" — đánh vào mâu thuẫn mong muốn của khách.
-
-- **Hook "chê ngầm" thói quen sai của khách kéo react** (Score 5): "Ngăn giày chung laptop nên đồ nhanh hỏng", "cáp rẻ gãy sau 2 tháng" — chạm nỗi đau + trách nhẹ.
-
-- **Tránh hook câu hỏi mô tả tình huống chung chung** (Score 3): "Sạc cả tiếng vẫn tụt pin?", "xe xẹp lốp không mang bơm?" — quá quen, không có yếu tố bất ngờ hay con số.
-
-- **Tránh hook mô tả tính năng khô khan, không cảm xúc** (Score 3): "Pin sạc đầy trong 2 giờ dùng bền" — thiếu nỗi đau, thiếu nghịch lý, không có động từ mạnh.
-
-- **Công thức mạnh nhất: động từ mệnh lệnh HOẶC con số sốc + nghịch lý + chạm nỗi đau cụ thể**, ưu tiên sản phẩm balo/sạc đa năng/ốp mỏng.
+- Hook khẳng định lợi ích cụ thể bằng con số ("sạc 4 thiết bị", "40L", "2mm chống rơi chuẩn quân sự") cho Score cao nhất — ưu tiên kiểu này.
+- Hook "ném đồ cũ đi" / tuyên bố dứt khoát ("Ném cái balo cồng kềnh đi được rồi") kích reaction mạnh — nên dùng.
+- Sản phẩm balo và phụ kiện sạc (hub, sạc dự phòng) cho tương tác tốt nhất — tập trung nhóm này.
+- Hook "nỗi đau" dạng câu hỏi ("Xe xẹp lốp?", "Điện thoại rơi?") cho Score thấp (3) — hạn chế hoặc phải kèm giải pháp cụ thể ngay.
+- Tránh mở đầu bằng câu hỏi tiêu cực dài dòng không có lợi ích rõ; chuyển sang câu khẳng định gọn.
+- Luôn nhét 1 con số/thông số gây sốc (dung lượng, độ mỏng, số thiết bị) để tăng reaction.
+- Giữ hook ngắn 1 dòng, kèm 1 emoji đúng ngữ cảnh sản phẩm.
+- Nhấn tính "2-trong-1" hoặc đa năng ("balo lo hết", "vừa balo vừa cặp") để tăng độ chú ý.
