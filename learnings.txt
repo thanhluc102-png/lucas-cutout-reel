@@ -1,15 +1,15 @@
-- **Hook "phá bỏ/vứt đi cái cũ" thắng đậm**: kiểu "Ném cái balo cồng kềnh đi được rồi" (Score 6) — dùng lời khẳng định giải phóng, không hỏi rườm rà.
+- **Hook "vứt bỏ/thay mới" gây phản ứng mạnh nhất** (Score 6): dùng động từ mệnh lệnh dứt khoát như "Ném đi được rồi", tạo cảm giác giải thoát khỏi nỗi khổ cũ.
 
-- **Hook khoe con số/năng lực cụ thể lên top**: "Sạc 4 thiết bị cùng lúc" (Score 6), "chống rơi chuẩn quân sự", "mỏng 2mm" — số liệu gây shock kéo reaction.
+- **Hook khoe con số/hiệu năng ấn tượng cho điểm cao** (Score 6): "Cắm một củ sạc 4 thiết bị", "Balo 40L đựng laptop 16 inch" — số cụ thể + lợi ích vượt kỳ vọng.
 
-- **Nhóm balo/túi chống nước – chống sốc cho laptop cho tương tác ổn định cao** (Score 4-6): nhấn nỗi đau "hỏng đồ đắt tiền" (MacBook, laptop 16 inch).
+- **Sản phẩm balo và túi chống nước/đa năng tương tác tốt** (Score 5-6): nhấn nghịch lý "balo hay cặp — cả hai", "đi mưa vẫn khô", "một balo lo hết".
 
-- **Ưu tiên hook chạm nỗi sợ mất mát tài sản lớn**: "cứu MacBook khi rơi", "ngăn giày bẩn chung laptop" — tài sản càng đắt, phản ứng càng mạnh.
+- **Hook chỉ ra nghịch lý sản phẩm mỏng-nhưng-khỏe hiệu quả** (Score 5): "Ốp mỏng 2mm chống rơi quân sự", "ốp dày làm mất dáng" — đánh vào mâu thuẫn mong muốn của khách.
 
-- **Tránh hook mô tả tính năng khô, thiếu cảm xúc** (Score 3): "Balo 40L xách tay máy bay", "sạc dự phòng mang cáp rời" — quá kỹ thuật, không đau, không lợi ích cảm xúc.
+- **Hook "chê ngầm" thói quen sai của khách kéo react** (Score 5): "Ngăn giày chung laptop nên đồ nhanh hỏng", "cáp rẻ gãy sau 2 tháng" — chạm nỗi đau + trách nhẹ.
 
-- **Tránh hook nỗi đau mờ nhạt, ai cũng biết** (Score 3): "xách 2 cục sạc mệt", "xe xẹp lốp không mang bơm" — vấn đề nhỏ, không cấp bách.
+- **Tránh hook câu hỏi mô tả tình huống chung chung** (Score 3): "Sạc cả tiếng vẫn tụt pin?", "xe xẹp lốp không mang bơm?" — quá quen, không có yếu tố bất ngờ hay con số.
 
-- **Công thức thắng: [Vứt/Khỏi cần cái cũ] HOẶC [Con số gây shock] + [Bảo vệ tài sản đắt]**, kèm 1 emoji mạnh (🎒⚡🛡️).
+- **Tránh hook mô tả tính năng khô khan, không cảm xúc** (Score 3): "Pin sạc đầy trong 2 giờ dùng bền" — thiếu nỗi đau, thiếu nghịch lý, không có động từ mạnh.
 
-- **Hook nên khẳng định mạnh thay vì hỏi lửng lơ**: câu khẳng định ("là cả hai", "đi mưa vẫn khô") nhỉnh hơn câu hỏi phàn nàn chung chung.
+- **Công thức mạnh nhất: động từ mệnh lệnh HOẶC con số sốc + nghịch lý + chạm nỗi đau cụ thể**, ưu tiên sản phẩm balo/sạc đa năng/ốp mỏng.
