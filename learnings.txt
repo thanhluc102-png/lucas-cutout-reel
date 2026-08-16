@@ -1,8 +1,8 @@
-- Hook khẳng định lợi ích cụ thể bằng con số ("sạc 4 thiết bị", "40L", "2mm chống rơi chuẩn quân sự") cho Score cao nhất — ưu tiên kiểu này.
-- Hook "ném đồ cũ đi" / tuyên bố dứt khoát ("Ném cái balo cồng kềnh đi được rồi") kích reaction mạnh — nên dùng.
-- Sản phẩm balo và phụ kiện sạc (hub, sạc dự phòng) cho tương tác tốt nhất — tập trung nhóm này.
-- Hook "nỗi đau" dạng câu hỏi ("Xe xẹp lốp?", "Điện thoại rơi?") cho Score thấp (3) — hạn chế hoặc phải kèm giải pháp cụ thể ngay.
-- Tránh mở đầu bằng câu hỏi tiêu cực dài dòng không có lợi ích rõ; chuyển sang câu khẳng định gọn.
-- Luôn nhét 1 con số/thông số gây sốc (dung lượng, độ mỏng, số thiết bị) để tăng reaction.
-- Giữ hook ngắn 1 dòng, kèm 1 emoji đúng ngữ cảnh sản phẩm.
-- Nhấn tính "2-trong-1" hoặc đa năng ("balo lo hết", "vừa balo vừa cặp") để tăng độ chú ý.
+- Hook mạnh nhất là kiểu "vứt bỏ nỗi bực" hoặc "một món lo hết" (Score 6): dùng câu ra lệnh dứt khoát ("Ném cái balo cồng kềnh đi") hoặc nêu lợi ích gộp ("sạc 4 thiết bị cùng lúc").
+- Sản phẩm cho tương tác cao: balo đa năng và củ sạc/hub nhiều cổng — nhấn tính "gọn - đa dụng - giải quyết nhiều vấn đề một lần".
+- Hook nêu con số cụ thể, gây tò mò ("40L đựng laptop 16 inch mà xách tay lên máy bay", "sạc 4 thiết bị") kéo reaction tốt hơn hook chung chung.
+- Hook chạm nỗi đau rõ ràng người dùng tự thấy mình ("balo cồng kềnh", "điện thoại trượt khi vào cua") hiệu quả hơn hook mô tả thông số khô khan.
+- Tránh hook mở đầu bằng câu hỏi giả định xa lạ ("Xe xẹp lốp giữa đường?", "Sạc dự phòng mang cả cáp rời?") — Score thấp nhất (3), người xem không thấy mình trong đó.
+- Tránh hook nói về thông số kỹ thuật khô ("Pin sạc đầy trong 2 giờ") và tình huống hiếm gặp — kém tương tác.
+- Ưu tiên emoji khớp ngữ cảnh mạnh (🎒⚡🛡️) và giọng văn thẳng, cụt, mang tính khẳng định thay vì rào đón.
+- Công thức nên dùng: [Nỗi đau cụ thể/quen thuộc] + [con số hoặc lợi ích gộp] + [giọng dứt khoát], nhắm vào balo và phụ kiện sạc.
