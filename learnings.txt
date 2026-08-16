@@ -1,8 +1,8 @@
-- Hook mạnh nhất là kiểu "vứt bỏ nỗi bực" hoặc "một món lo hết" (Score 6): dùng câu ra lệnh dứt khoát ("Ném cái balo cồng kềnh đi") hoặc nêu lợi ích gộp ("sạc 4 thiết bị cùng lúc").
-- Sản phẩm cho tương tác cao: balo đa năng và củ sạc/hub nhiều cổng — nhấn tính "gọn - đa dụng - giải quyết nhiều vấn đề một lần".
-- Hook nêu con số cụ thể, gây tò mò ("40L đựng laptop 16 inch mà xách tay lên máy bay", "sạc 4 thiết bị") kéo reaction tốt hơn hook chung chung.
-- Hook chạm nỗi đau rõ ràng người dùng tự thấy mình ("balo cồng kềnh", "điện thoại trượt khi vào cua") hiệu quả hơn hook mô tả thông số khô khan.
-- Tránh hook mở đầu bằng câu hỏi giả định xa lạ ("Xe xẹp lốp giữa đường?", "Sạc dự phòng mang cả cáp rời?") — Score thấp nhất (3), người xem không thấy mình trong đó.
-- Tránh hook nói về thông số kỹ thuật khô ("Pin sạc đầy trong 2 giờ") và tình huống hiếm gặp — kém tương tác.
-- Ưu tiên emoji khớp ngữ cảnh mạnh (🎒⚡🛡️) và giọng văn thẳng, cụt, mang tính khẳng định thay vì rào đón.
-- Công thức nên dùng: [Nỗi đau cụ thể/quen thuộc] + [con số hoặc lợi ích gộp] + [giọng dứt khoát], nhắm vào balo và phụ kiện sạc.
+- Hook mạnh nhất: khẳng định lợi ích cụ thể + con số/hình ảnh gọn ("Cắm một củ sạc 4 thiết bị", "Ném balo cồng kềnh đi được rồi") → Score 6, nên ưu tiên.
+- Sản phẩm ăn khách: balo/túi tiện lợi và phụ kiện sạc đa năng cho tương tác cao nhất; đây là nhóm cần đẩy mạnh.
+- Câu chốt gọn, khiêu khích hành động ("Ném đi được rồi") hiệu quả hơn câu mô tả dài dòng.
+- Hook cảnh báo nỗi đau NHẸ + có emoji cảm xúc (⚡🎒) giữ mức khá (Score 5), dùng làm nền ổn định.
+- Tránh hook bi kịch nặng nề, cảnh báo tiêu cực xa lạ ("Mất hộ chiếu", "xe xẹp lốp", "MacBook rơi") → Score 3, kém nhất.
+- Tránh mở đầu bằng câu hỏi lo lắng dài ("Laptop nằm chung ngăn với chìa khóa?") → tương tác thấp.
+- Ưu tiên emoji ⚡ và 🎒, thêm con số cụ thể (40L, 2 giờ, 4 thiết bị) để tăng độ tin và tò mò.
+- Không có video nào đạt Share; cần thêm yếu tố "đáng chia sẻ" như mẹo bất ngờ hoặc lợi ích khiến người xem muốn gửi cho bạn bè.
