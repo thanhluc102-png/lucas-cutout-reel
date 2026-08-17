@@ -1,8 +1,8 @@
-- Ưu tiên hook "giải pháp/lợi ích cụ thể" (giải quyết đau đầu thực tế, con số rõ) — nhóm điểm cao nhất: sạc 4 thiết bị cùng lúc, ném balo cồng kềnh, balo 40L đựng laptop 16 inch.
-- Sản phẩm cho tương tác tốt: balo đa năng, sạc/hub, phụ kiện chống rơi có điểm nhấn số liệu; đây là nhóm nên đẩy mạnh.
-- Chèn số cụ thể (2mm, 40L, 4 thiết bị, 16 inch) tăng sức thuyết phục và kéo Reactions cao hơn.
-- Hook nêu lợi ích "một món lo hết / cả hai trong một" (đa năng) hiệu quả hơn hook chỉ nêu vấn đề suông.
-- Tránh hook "cảnh báo/dọa sợ" chung chung, mơ hồ (mất hộ chiếu, vừa lái vừa xem, đồ sạch bẩn chung ngăn) — nhóm điểm thấp nhất (Score=3).
-- Tránh mở đầu bằng câu hỏi tiêu cực dài dòng không kèm giải pháp; dễ rơi về đáy tương tác.
-- Emoji nên đi kèm và khớp lợi ích (⚡🔋🎒🛡️), giữ 1 emoji cuối câu, không lạm dụng mặt buồn 😮‍💨😰.
-- Viết ngắn, 1 câu, bật ngay lợi ích khác biệt ở đầu hook thay vì dẫn dắt vòng vo.
+- Hook nêu **lợi ích cụ thể, con số rõ ràng** (sạc 4 thiết bị cùng lúc, balo 40L đựng laptop 16 inch, vứt balo cồng kềnh) cho Score cao nhất (6) — ưu tiên kiểu này.
+- Sản phẩm **balo và sạc/hub đa năng** tương tác tốt nhất; dồn nội dung vào nhóm này.
+- Mở đầu bằng **giải pháp/kết quả mơ ước** ("Ném cái balo cồng kềnh đi được rồi") thắng hook chỉ nêu nỗi đau đơn thuần.
+- Hook **nỗi đau chung ngăn/bẩn-sạch, mất hộ chiếu, xe xẹp lốp** không có giải pháp gợi mở → Score thấp (3), nên tránh hoặc thêm ngay lợi ích.
+- Hook dạng **câu hỏi lo lắng thuần túy** ("Xe xẹp lốp giữa đường?") kém hơn hook khẳng định lợi ích — chuyển câu hỏi thành lời hứa cụ thể.
+- Thêm **con số/thông số gây sốc** (2mm, chuẩn quân sự, 40L, 2 giờ) để tăng độ tin và tương tác.
+- Tránh hook **quá chung chung, không đối tượng rõ** ("Pin sạc hộp đầy trong 2 giờ") — cần gắn tình huống dùng cụ thể.
+- Giữ **1 emoji đúng ngữ cảnh** cuối hook; câu ngắn, đánh trúng 1 vấn đề duy nhất.
