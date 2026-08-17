@@ -1,8 +1,8 @@
-- Hook mạnh nhất: khẳng định lợi ích cụ thể + con số/hình ảnh gọn ("Cắm một củ sạc 4 thiết bị", "Ném balo cồng kềnh đi được rồi") → Score 6, nên ưu tiên.
-- Sản phẩm ăn khách: balo/túi tiện lợi và phụ kiện sạc đa năng cho tương tác cao nhất; đây là nhóm cần đẩy mạnh.
-- Câu chốt gọn, khiêu khích hành động ("Ném đi được rồi") hiệu quả hơn câu mô tả dài dòng.
-- Hook cảnh báo nỗi đau NHẸ + có emoji cảm xúc (⚡🎒) giữ mức khá (Score 5), dùng làm nền ổn định.
-- Tránh hook bi kịch nặng nề, cảnh báo tiêu cực xa lạ ("Mất hộ chiếu", "xe xẹp lốp", "MacBook rơi") → Score 3, kém nhất.
-- Tránh mở đầu bằng câu hỏi lo lắng dài ("Laptop nằm chung ngăn với chìa khóa?") → tương tác thấp.
-- Ưu tiên emoji ⚡ và 🎒, thêm con số cụ thể (40L, 2 giờ, 4 thiết bị) để tăng độ tin và tò mò.
-- Không có video nào đạt Share; cần thêm yếu tố "đáng chia sẻ" như mẹo bất ngờ hoặc lợi ích khiến người xem muốn gửi cho bạn bè.
+- Ưu tiên hook "giải pháp/lợi ích cụ thể" (giải quyết đau đầu thực tế, con số rõ) — nhóm điểm cao nhất: sạc 4 thiết bị cùng lúc, ném balo cồng kềnh, balo 40L đựng laptop 16 inch.
+- Sản phẩm cho tương tác tốt: balo đa năng, sạc/hub, phụ kiện chống rơi có điểm nhấn số liệu; đây là nhóm nên đẩy mạnh.
+- Chèn số cụ thể (2mm, 40L, 4 thiết bị, 16 inch) tăng sức thuyết phục và kéo Reactions cao hơn.
+- Hook nêu lợi ích "một món lo hết / cả hai trong một" (đa năng) hiệu quả hơn hook chỉ nêu vấn đề suông.
+- Tránh hook "cảnh báo/dọa sợ" chung chung, mơ hồ (mất hộ chiếu, vừa lái vừa xem, đồ sạch bẩn chung ngăn) — nhóm điểm thấp nhất (Score=3).
+- Tránh mở đầu bằng câu hỏi tiêu cực dài dòng không kèm giải pháp; dễ rơi về đáy tương tác.
+- Emoji nên đi kèm và khớp lợi ích (⚡🔋🎒🛡️), giữ 1 emoji cuối câu, không lạm dụng mặt buồn 😮‍💨😰.
+- Viết ngắn, 1 câu, bật ngay lợi ích khác biệt ở đầu hook thay vì dẫn dắt vòng vo.
