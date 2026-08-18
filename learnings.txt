@@ -1,8 +1,8 @@
-- Hook nêu **lợi ích cụ thể, con số rõ ràng** (sạc 4 thiết bị cùng lúc, balo 40L đựng laptop 16 inch, vứt balo cồng kềnh) cho Score cao nhất (6) — ưu tiên kiểu này.
-- Sản phẩm **balo và sạc/hub đa năng** tương tác tốt nhất; dồn nội dung vào nhóm này.
-- Mở đầu bằng **giải pháp/kết quả mơ ước** ("Ném cái balo cồng kềnh đi được rồi") thắng hook chỉ nêu nỗi đau đơn thuần.
-- Hook **nỗi đau chung ngăn/bẩn-sạch, mất hộ chiếu, xe xẹp lốp** không có giải pháp gợi mở → Score thấp (3), nên tránh hoặc thêm ngay lợi ích.
-- Hook dạng **câu hỏi lo lắng thuần túy** ("Xe xẹp lốp giữa đường?") kém hơn hook khẳng định lợi ích — chuyển câu hỏi thành lời hứa cụ thể.
-- Thêm **con số/thông số gây sốc** (2mm, chuẩn quân sự, 40L, 2 giờ) để tăng độ tin và tương tác.
-- Tránh hook **quá chung chung, không đối tượng rõ** ("Pin sạc hộp đầy trong 2 giờ") — cần gắn tình huống dùng cụ thể.
-- Giữ **1 emoji đúng ngữ cảnh** cuối hook; câu ngắn, đánh trúng 1 vấn đề duy nhất.
+- Ưu tiên hook "giải pháp/lợi ích cụ thể có con số" (sạc 4 thiết bị, balo 40L, ốp 2mm) — nhóm Score cao nhất (5-6).
+- Hook khẳng định mạnh, gọn, có emoji lợi ích (⚡🛡️🎒) hiệu quả hơn hook câu hỏi bi quan.
+- Tránh hook dạng câu hỏi "nỗi đau" mơ hồ, tiêu cực nặng (mất hộ chiếu, ví rơi, rơi laptop) — đa số Score chỉ 3.
+- Sản phẩm dễ tương tác: balo đa năng, sạc/pin nhiều thiết bị, ốp mỏng chống sốc — dùng làm chủ lực.
+- Chèn số liệu/tiêu chuẩn cụ thể (2mm, 40L, 16 inch, 4 thiết bị, chuẩn quân sự) để tăng tin cậy và reaction.
+- Nhấn tính năng "một sản phẩm lo hết / đa dụng" (đi làm–du lịch–dã ngoại) kéo tương tác tốt.
+- Hạn chế lạm dụng emoji thở dài/khó chịu (😮‍💨😤😬) vì gắn với các hook Score thấp.
+- Mọi hook nên ngắn 1 câu, mở bằng lợi ích hoặc tình huống quen thuộc tích cực thay vì hù dọa.
