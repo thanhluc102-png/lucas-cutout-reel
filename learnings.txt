@@ -1,8 +1,13 @@
-- Ưu tiên hook "giải pháp/lợi ích cụ thể có con số" (sạc 4 thiết bị, balo 40L, ốp 2mm) — nhóm Score cao nhất (5-6).
-- Hook khẳng định mạnh, gọn, có emoji lợi ích (⚡🛡️🎒) hiệu quả hơn hook câu hỏi bi quan.
-- Tránh hook dạng câu hỏi "nỗi đau" mơ hồ, tiêu cực nặng (mất hộ chiếu, ví rơi, rơi laptop) — đa số Score chỉ 3.
-- Sản phẩm dễ tương tác: balo đa năng, sạc/pin nhiều thiết bị, ốp mỏng chống sốc — dùng làm chủ lực.
-- Chèn số liệu/tiêu chuẩn cụ thể (2mm, 40L, 16 inch, 4 thiết bị, chuẩn quân sự) để tăng tin cậy và reaction.
-- Nhấn tính năng "một sản phẩm lo hết / đa dụng" (đi làm–du lịch–dã ngoại) kéo tương tác tốt.
-- Hạn chế lạm dụng emoji thở dài/khó chịu (😮‍💨😤😬) vì gắn với các hook Score thấp.
-- Mọi hook nên ngắn 1 câu, mở bằng lợi ích hoặc tình huống quen thuộc tích cực thay vì hù dọa.
+- **Hook thắng (Score 5-6): mô tả LỢI ÍCH cụ thể + con số** — "sạc 4 thiết bị cùng lúc", "balo 40L đựng laptop 16 inch", "ốp mỏng 2mm chống rơi quân sự". Ưu tiên số liệu và tính năng rõ ràng.
+
+- **Sản phẩm mạnh nhất: balo (tổ chức ngăn, dung tích) và sạc/pin (đa thiết bị, tốc độ)** — luôn được 5-6 điểm, nên khai thác nhiều.
+
+- **Hook thua (Score 3): câu hỏi "nỗi đau" chung chung, tiêu cực, không có sản phẩm rõ** — "ví rơi ở đâu?", "điện thoại trơn tay rơi?", "mất hộ chiếu". Reactions=0 vì mơ hồ, ai cũng biết vấn đề nhưng không thấy giải pháp.
+
+- **Tránh lạm dụng emoji thở dài 😮‍💨😤😥** — gần như luôn đi kèm Score thấp; thay bằng emoji tích cực/mạnh ⚡🛡️🎒⛰️.
+
+- **Câu khẳng định giải pháp > câu hỏi bỏ ngỏ** — "Ném balo cồng kềnh đi được rồi" (6đ) thắng "Ví rơi ở đâu?" (3đ). Nêu vấn đề rồi PHẢI hé lộ cách giải.
+
+- **Ốp lưng/phụ kiện điện thoại: chỉ dùng khi có góc độ độc đáo** (mỏng+chống sốc, giữ dáng đẹp) — Score trung bình 4-5, tránh lặp motif "trơn tay rơi khi lái xe".
+
+- **Công thức đề xuất: [Lợi ích số hóa] + [tình huống thực tế] + [emoji mạnh]** — càng cụ thể, càng nhiều reactions.
