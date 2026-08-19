@@ -1,15 +1,8 @@
-- **Hook mô tả lợi ích/tính năng cụ thể thắng hook hù dọa:** "Cắm một củ sạc 4 thiết bị" và "Balo 40L đựng laptop 16 inch" (Score 5-6) ăn đứt các hook "nguy hiểm/ác mộng/ngại".
-
-- **Ưu tiên sản phẩm balo & sạc/hub đa năng:** nhóm này gom điểm cao nhất; phụ kiện chống rơi điện thoại và giá đỡ xe luôn đội sổ (Score 3-4).
-
-- **Tránh hook thuần dọa dẫm cảm xúc tiêu cực** ("Mất hộ chiếu là ác mộng", "rước tai nạn", "xe xẹp lốp giữa đường") — gần như chỉ đạt Score 3.
-
-- **Nhấn con số & kết quả đo được** (40L, 16 inch, 4 thiết bị, 2 giờ) để tăng độ tin và tương tác.
-
-- **Đánh vào nỗi đau "để chung ngăn bẩn/sạch"** hiệu quả vừa phải (Score 5) — dùng được nhưng nên kèm giải pháp rõ, không chỉ chê.
-
-- **Toàn bộ Shares=0 và Comments đều =1:** hook hiện tại chưa tạo lý do share/thảo luận → thêm CTA đặt câu hỏi mở hoặc tình huống gây tranh luận.
-
-- **Emoji nên khớp lợi ích tích cực (⚡🔋🎒) thay vì mặt thở dài (😮‍💨😤😥)** — cụm emoji tiêu cực trùng với các hook điểm thấp.
-
-- **Công thức nên nhân rộng:** [Tính năng nổi bật] + [con số cụ thể] + [tình huống dùng thực tế], hạn chế mở đầu bằng câu hỏi hù dọa.
+- Hook nêu **tiện ích cụ thể, con số rõ ràng** (sạc 4 thiết bị, balo 40L, laptop 16 inch) cho điểm cao nhất — ưu tiên kiểu này.
+- Sản phẩm **sạc/hub/pin và balo đa năng** hút tương tác tốt nhất; đặc biệt là lợi ích "một món lo hết".
+- Mở đầu bằng **nỗi đau va chạm/bảo vệ đồ đắt tiền** (laptop, iPhone mất dáng, ngăn bẩn dính laptop) đạt Score 5 đều đặn — nên khai thác.
+- Chèn **con số/giá trị định lượng** (200K, 2 giờ, 40L, 4 thiết bị) tăng reaction rõ rệt so với hook chung chung.
+- Hook **fear chung chung, mơ hồ** (mất hộ chiếu, ví rơi, pin bền, tẩu sạc phát nhạc) cho điểm thấp nhất (Score 3) — nên tránh hoặc thêm chi tiết cụ thể.
+- Chủ đề **an toàn khi lái xe** (vừa lái vừa cầm điện thoại) chỉ đạt mức trung bình — cần gắn giải pháp/sản phẩm cụ thể hơn.
+- Câu hỏi tu từ dạng "...không?" hiệu quả **chỉ khi kèm giải pháp bất ngờ**; hỏi suông hiệu quả kém.
+- Không hook nào tạo Share — cần thêm **yếu tố đáng chia sẻ** (mẹo hay, deal sốc, tình huống đồng cảm mạnh) để nâng Score.
