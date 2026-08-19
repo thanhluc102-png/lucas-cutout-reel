@@ -1,13 +1,15 @@
-- **Hook thắng (Score 5-6): mô tả LỢI ÍCH cụ thể + con số** — "sạc 4 thiết bị cùng lúc", "balo 40L đựng laptop 16 inch", "ốp mỏng 2mm chống rơi quân sự". Ưu tiên số liệu và tính năng rõ ràng.
+- **Hook mô tả lợi ích/tính năng cụ thể thắng hook hù dọa:** "Cắm một củ sạc 4 thiết bị" và "Balo 40L đựng laptop 16 inch" (Score 5-6) ăn đứt các hook "nguy hiểm/ác mộng/ngại".
 
-- **Sản phẩm mạnh nhất: balo (tổ chức ngăn, dung tích) và sạc/pin (đa thiết bị, tốc độ)** — luôn được 5-6 điểm, nên khai thác nhiều.
+- **Ưu tiên sản phẩm balo & sạc/hub đa năng:** nhóm này gom điểm cao nhất; phụ kiện chống rơi điện thoại và giá đỡ xe luôn đội sổ (Score 3-4).
 
-- **Hook thua (Score 3): câu hỏi "nỗi đau" chung chung, tiêu cực, không có sản phẩm rõ** — "ví rơi ở đâu?", "điện thoại trơn tay rơi?", "mất hộ chiếu". Reactions=0 vì mơ hồ, ai cũng biết vấn đề nhưng không thấy giải pháp.
+- **Tránh hook thuần dọa dẫm cảm xúc tiêu cực** ("Mất hộ chiếu là ác mộng", "rước tai nạn", "xe xẹp lốp giữa đường") — gần như chỉ đạt Score 3.
 
-- **Tránh lạm dụng emoji thở dài 😮‍💨😤😥** — gần như luôn đi kèm Score thấp; thay bằng emoji tích cực/mạnh ⚡🛡️🎒⛰️.
+- **Nhấn con số & kết quả đo được** (40L, 16 inch, 4 thiết bị, 2 giờ) để tăng độ tin và tương tác.
 
-- **Câu khẳng định giải pháp > câu hỏi bỏ ngỏ** — "Ném balo cồng kềnh đi được rồi" (6đ) thắng "Ví rơi ở đâu?" (3đ). Nêu vấn đề rồi PHẢI hé lộ cách giải.
+- **Đánh vào nỗi đau "để chung ngăn bẩn/sạch"** hiệu quả vừa phải (Score 5) — dùng được nhưng nên kèm giải pháp rõ, không chỉ chê.
 
-- **Ốp lưng/phụ kiện điện thoại: chỉ dùng khi có góc độ độc đáo** (mỏng+chống sốc, giữ dáng đẹp) — Score trung bình 4-5, tránh lặp motif "trơn tay rơi khi lái xe".
+- **Toàn bộ Shares=0 và Comments đều =1:** hook hiện tại chưa tạo lý do share/thảo luận → thêm CTA đặt câu hỏi mở hoặc tình huống gây tranh luận.
 
-- **Công thức đề xuất: [Lợi ích số hóa] + [tình huống thực tế] + [emoji mạnh]** — càng cụ thể, càng nhiều reactions.
+- **Emoji nên khớp lợi ích tích cực (⚡🔋🎒) thay vì mặt thở dài (😮‍💨😤😥)** — cụm emoji tiêu cực trùng với các hook điểm thấp.
+
+- **Công thức nên nhân rộng:** [Tính năng nổi bật] + [con số cụ thể] + [tình huống dùng thực tế], hạn chế mở đầu bằng câu hỏi hù dọa.
