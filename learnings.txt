@@ -1,8 +1,8 @@
-- Hook nêu **tiện ích cụ thể, con số rõ ràng** (sạc 4 thiết bị, balo 40L, laptop 16 inch) cho điểm cao nhất — ưu tiên kiểu này.
-- Sản phẩm **sạc/hub/pin và balo đa năng** hút tương tác tốt nhất; đặc biệt là lợi ích "một món lo hết".
-- Mở đầu bằng **nỗi đau va chạm/bảo vệ đồ đắt tiền** (laptop, iPhone mất dáng, ngăn bẩn dính laptop) đạt Score 5 đều đặn — nên khai thác.
-- Chèn **con số/giá trị định lượng** (200K, 2 giờ, 40L, 4 thiết bị) tăng reaction rõ rệt so với hook chung chung.
-- Hook **fear chung chung, mơ hồ** (mất hộ chiếu, ví rơi, pin bền, tẩu sạc phát nhạc) cho điểm thấp nhất (Score 3) — nên tránh hoặc thêm chi tiết cụ thể.
-- Chủ đề **an toàn khi lái xe** (vừa lái vừa cầm điện thoại) chỉ đạt mức trung bình — cần gắn giải pháp/sản phẩm cụ thể hơn.
-- Câu hỏi tu từ dạng "...không?" hiệu quả **chỉ khi kèm giải pháp bất ngờ**; hỏi suông hiệu quả kém.
-- Không hook nào tạo Share — cần thêm **yếu tố đáng chia sẻ** (mẹo hay, deal sốc, tình huống đồng cảm mạnh) để nâng Score.
+- Hook nêu **lợi ích cụ thể, con số rõ ràng** (sạc 4 thiết bị, balo 40L, laptop 16 inch) cho Score cao nhất (5–6); ưu tiên kiểu này.
+- Sản phẩm **sạc/hub/pin đa năng** và **balo có tính năng nổi bật** hút tương tác tốt nhất; đẩy mạnh nhóm này.
+- Hook **giải quyết nỗi đau thường gặp + hình ảnh dễ tưởng tượng** (đồ bẩn chung ngăn laptop, điện thoại trượt vào cua) đạt Score 5; nên khai thác.
+- Tránh hook **nỗi sợ chung chung, xa vời** (mất hộ chiếu, mồ hôi ăn mòn nhôm, mất ví) — chỉ Score 3, kém hiệu quả.
+- Tránh **lặp mô-típ "vừa lái xe vừa cầm điện thoại"** quá nhiều lần; hook trùng ý gây nhàm, tương tác thấp dần.
+- Ưu tiên **mở đầu bằng tình huống thực tế + emoji tương ứng**, câu ngắn, chốt bằng lợi ích thay vì chỉ hù dọa.
+- Chèn **số liệu/định lượng** (200K, 2 giờ, 4 thiết bị, 40L) để tăng độ tin và tò mò — pattern chung của các hook điểm cao.
+- Không có hook nào đạt Share; cần thêm **yếu tố "đáng chia sẻ"** (mẹo hay, deal hời, tình huống ai cũng gặp) để nâng Score.
