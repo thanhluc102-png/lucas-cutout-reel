@@ -1,8 +1,8 @@
-- Hook nêu **lợi ích cụ thể + con số/tính năng độc đáo** cho điểm cao nhất (sạc 4 thiết bị, balo 40L, ngăn treo chống sốc): viết theo hướng "được gì" thay vì chỉ "sợ gì".
-- Sản phẩm nhóm **balo/túi chống sốc** và **sạc đa cổng** hút tương tác tốt nhất; ưu tiên khai thác các dòng này.
-- Hook **hỏi về nỗi đau chung chung, mơ hồ** (mất hộ chiếu, ví rơi, pin bền) cho điểm thấp: tránh câu sợ hãi thiếu giải pháp rõ.
-- Chèn **chi tiết gây tò mò/nghịch lý** ("tẩu sạc phát được nhạc không?", "mồ hôi tay ăn mòn nhôm") gợi comment nhưng ít reaction: dùng vừa phải.
-- Ưu tiên hook mô tả **tình huống + hệ quả thấy được ngay** (giày bẩn chung ngăn laptop → đồ nhanh hỏng) hơn câu chỉ dọa suông.
-- **Emoji chủ đề rõ** (🎒⚡🔋) đi kèm lợi ích cụ thể tăng nhận diện sản phẩm; tránh lạm dụng emoji buồn (😮‍💨😰) vì gắn với hook điểm thấp.
-- Không có video nào đạt Share: cần thêm **CTA khuyến khích chia sẻ** hoặc yếu tố "gửi cho người cần" để phá trần tương tác.
-- Công thức thắng: **[Tính năng/con số cụ thể] + [giải quyết vấn đề thực tế] + [emoji sản phẩm]**, tránh **[nỗi sợ mơ hồ] + [dấu hỏi] + [emoji tiêu cực]**.
+- Hook nêu **hậu quả cụ thể + tình huống quen thuộc** (giày bẩn dính laptop, đồ nhanh hỏng) cho điểm cao nhất — luôn gắn nỗi đau vào cảnh đời thực.
+- Sản phẩm **sạc đa cổng / cường độ mạnh** ("cắm 1 củ sạc 4 thiết bị") hút tương tác tốt — nhấn con số lợi ích rõ ràng.
+- Sản phẩm **balo chống sốc / ngăn treo laptop** ổn định điểm khá — nhấn chi tiết kỹ thuật bảo vệ đồ (treo, không chạm đáy).
+- Hook có **con số + thông số ấn tượng** (40L, laptop 16 inch, xách tay lên máy bay) tăng độ tin và tương tác.
+- Tránh hook **giá trị chung chung / kể tính năng** ("vừa sạc vừa pin dự phòng", "pin đầy trong 2 giờ") — điểm thấp nhất.
+- Tránh hook **câu hỏi lạ, khó liên hệ** ("tẩu sạc có phát nhạc không?") và tình huống hiếm gặp (mất hộ chiếu) — kém hiệu quả.
+- Mở đầu bằng **câu hỏi chạm đúng bực bội hằng ngày** + emoji cảm xúc (😤😮‍💨) tốt hơn câu khẳng định phẳng.
+- Ưu tiên ngắn, 1 nỗi đau rõ + 1 lợi ích/số liệu; tránh gộp nhiều ý mờ nhạt.
