@@ -1,8 +1,15 @@
-- Hook nêu **hậu quả cụ thể + tình huống quen thuộc** (giày bẩn dính laptop, đồ nhanh hỏng) cho điểm cao nhất — luôn gắn nỗi đau vào cảnh đời thực.
-- Sản phẩm **sạc đa cổng / cường độ mạnh** ("cắm 1 củ sạc 4 thiết bị") hút tương tác tốt — nhấn con số lợi ích rõ ràng.
-- Sản phẩm **balo chống sốc / ngăn treo laptop** ổn định điểm khá — nhấn chi tiết kỹ thuật bảo vệ đồ (treo, không chạm đáy).
-- Hook có **con số + thông số ấn tượng** (40L, laptop 16 inch, xách tay lên máy bay) tăng độ tin và tương tác.
-- Tránh hook **giá trị chung chung / kể tính năng** ("vừa sạc vừa pin dự phòng", "pin đầy trong 2 giờ") — điểm thấp nhất.
-- Tránh hook **câu hỏi lạ, khó liên hệ** ("tẩu sạc có phát nhạc không?") và tình huống hiếm gặp (mất hộ chiếu) — kém hiệu quả.
-- Mở đầu bằng **câu hỏi chạm đúng bực bội hằng ngày** + emoji cảm xúc (😤😮‍💨) tốt hơn câu khẳng định phẳng.
-- Ưu tiên ngắn, 1 nỗi đau rõ + 1 lợi ích/số liệu; tránh gộp nhiều ý mờ nhạt.
+- **Hook nêu lợi ích/tính năng cụ thể cho tương tác cao nhất** (Score 5-6): "sạc 4 thiết bị cùng lúc", "balo 40L đựng laptop 16 inch xách tay lên máy bay", "ngăn laptop treo chống va đập" → nêu con số + công dụng rõ ràng.
+
+- **Hook mô tả nỗi đau kèm giải pháp ngầm cũng khá** (Score 4-5): "điện thoại trượt khi vào cua", "trơn tay rơi khi lái xe" → gắn tình huống đời thực người đọc dễ hình dung.
+
+- **Tránh hook nỗi sợ chung chung, không rõ sản phẩm** (Score 3): "mất hộ chiếu là ác mộng", "ví rơi không tìm được", "mồ hôi tay ăn mòn MacBook" → quá mơ hồ, thiếu lợi ích cụ thể.
+
+- **Tránh hook chỉ đặt câu hỏi trách móc mà không hé lộ giải pháp** (Score 3): "tẩu sạc có phát nhạc không?", "cổ tay tì lên nhôm lạnh" → gây khó chịu, không tạo tò mò tích cực.
+
+- **Ưu tiên sản phẩm sạc/pin đa năng và balo dung tích lớn** — nhóm ghi con số + đa công dụng ("bớt 2 món trong túi", "một balo lo hết") kéo Score cao.
+
+- **Luôn chèn số liệu ấn tượng** (dung tích, thời gian sạc, kích thước, số thiết bị) để tăng độ tin và tương tác.
+
+- **Dùng emoji đúng ngữ cảnh tích cực** (⚡🔋🎒🎵) thay vì lạm dụng emoji tiêu cực (😤😮‍💨😰😬) vốn gắn với hook điểm thấp.
+
+- **Toàn bộ chưa có Share nào** → thêm yếu tố "đáng chia sẻ": mẹo hữu ích, giải pháp bất ngờ, hoặc lợi ích tiết kiệm rõ rệt để kích Share (trọng số x5).
