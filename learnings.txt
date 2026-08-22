@@ -1,15 +1,15 @@
-- **Hook nêu lợi ích/tính năng cụ thể cho tương tác cao nhất** (Score 5-6): "sạc 4 thiết bị cùng lúc", "balo 40L đựng laptop 16 inch xách tay lên máy bay", "ngăn laptop treo chống va đập" → nêu con số + công dụng rõ ràng.
+- **Ưu tiên hook mô tả tính năng/lợi ích cụ thể có số liệu** (VD: "Balo 40L đựng laptop 16 inch", "sạc đầy 2 giờ") — nhóm này đạt Score 5 cao nhất.
 
-- **Hook mô tả nỗi đau kèm giải pháp ngầm cũng khá** (Score 4-5): "điện thoại trượt khi vào cua", "trơn tay rơi khi lái xe" → gắn tình huống đời thực người đọc dễ hình dung.
+- **Gộp nhiều công dụng vào một sản phẩm** ("vừa sạc vừa pin dự phòng", "một balo lo hết") kích thích tương tác tốt.
 
-- **Tránh hook nỗi sợ chung chung, không rõ sản phẩm** (Score 3): "mất hộ chiếu là ác mộng", "ví rơi không tìm được", "mồ hôi tay ăn mòn MacBook" → quá mơ hồ, thiếu lợi ích cụ thể.
+- **Hook chống rơi/trơn trượt điện thoại có bối cảnh rõ** ("rơi khỏi táp-lô khi lái xe", "trơn tay khi xem phim") cho Score khá (4-5).
 
-- **Tránh hook chỉ đặt câu hỏi trách móc mà không hé lộ giải pháp** (Score 3): "tẩu sạc có phát nhạc không?", "cổ tay tì lên nhôm lạnh" → gây khó chịu, không tạo tò mò tích cực.
+- **Tránh hook đặt câu hỏi nỗi đau chung chung, cảm xúc tiêu cực đơn thuần** ("Xe xẹp lốp?", "Mất hộ chiếu là ác mộng", "Ví rơi ở đâu?") — chỉ đạt Score 3.
 
-- **Ưu tiên sản phẩm sạc/pin đa năng và balo dung tích lớn** — nhóm ghi con số + đa công dụng ("bớt 2 món trong túi", "một balo lo hết") kéo Score cao.
+- **Tránh hook mang tính hù dọa/mài mòn** ("mồ hôi tay ăn mòn nhôm", "cổ tay mài mòn máy") — tương tác thấp nhất.
 
-- **Luôn chèn số liệu ấn tượng** (dung tích, thời gian sạc, kích thước, số thiết bị) để tăng độ tin và tương tác.
+- **Sản phẩm balo và phụ kiện điện thoại là chủ lực**, nên viết theo hướng khoe tính năng thay vì khơi nỗi sợ.
 
-- **Dùng emoji đúng ngữ cảnh tích cực** (⚡🔋🎒🎵) thay vì lạm dụng emoji tiêu cực (😤😮‍💨😰😬) vốn gắn với hook điểm thấp.
+- **Chèn số liệu + emoji sản phẩm (🎒🔋)** thay vì emoji cảm xúc tiêu cực (😤😮‍💨😰) để tăng Reactions.
 
-- **Toàn bộ chưa có Share nào** → thêm yếu tố "đáng chia sẻ": mẹo hữu ích, giải pháp bất ngờ, hoặc lợi ích tiết kiệm rõ rệt để kích Share (trọng số x5).
+- **Toàn bộ chưa có Share** → cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, so sánh bất ngờ, hoặc con số ấn tượng để đẩy Score.
