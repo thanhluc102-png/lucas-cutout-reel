@@ -1,15 +1,8 @@
-- **Ưu tiên hook mô tả tính năng/lợi ích cụ thể có số liệu** (VD: "Balo 40L đựng laptop 16 inch", "sạc đầy 2 giờ") — nhóm này đạt Score 5 cao nhất.
-
-- **Gộp nhiều công dụng vào một sản phẩm** ("vừa sạc vừa pin dự phòng", "một balo lo hết") kích thích tương tác tốt.
-
-- **Hook chống rơi/trơn trượt điện thoại có bối cảnh rõ** ("rơi khỏi táp-lô khi lái xe", "trơn tay khi xem phim") cho Score khá (4-5).
-
-- **Tránh hook đặt câu hỏi nỗi đau chung chung, cảm xúc tiêu cực đơn thuần** ("Xe xẹp lốp?", "Mất hộ chiếu là ác mộng", "Ví rơi ở đâu?") — chỉ đạt Score 3.
-
-- **Tránh hook mang tính hù dọa/mài mòn** ("mồ hôi tay ăn mòn nhôm", "cổ tay mài mòn máy") — tương tác thấp nhất.
-
-- **Sản phẩm balo và phụ kiện điện thoại là chủ lực**, nên viết theo hướng khoe tính năng thay vì khơi nỗi sợ.
-
-- **Chèn số liệu + emoji sản phẩm (🎒🔋)** thay vì emoji cảm xúc tiêu cực (😤😮‍💨😰) để tăng Reactions.
-
-- **Toàn bộ chưa có Share** → cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, so sánh bất ngờ, hoặc con số ấn tượng để đẩy Score.
+- Ưu tiên hook nêu **lợi ích/tính năng cụ thể có con số** (40L, laptop 16 inch, sạc đầy 2 giờ, 2-3 ngày): Score cao nhất (5).
+- Hook kiểu **"gộp nhiều món làm một" / tiện lợi kép** (vừa sạc vừa pin, một balo lo hết) cho Reactions cao — nên khai thác.
+- Sản phẩm **balo & phụ kiện laptop** kéo tương tác tốt nhất; phụ kiện sạc/pin chung chung yếu hơn.
+- Hook **giải pháp bảo vệ máy** ("ngăn laptop treo", "chống mài mòn nhôm") hiệu quả nếu nói rõ cơ chế, cụ thể.
+- Tránh hook **chỉ nêu nỗi đau/hù dọa mơ hồ** (mất hộ chiếu, xe xẹp lốp, ví rơi, vừa lái vừa cầm điện thoại): Score thấp (3), không có Reactions.
+- Tránh **câu hỏi tu từ trừu tượng** không kèm sản phẩm hay con số — ít tương tác.
+- Emoji nên chọn **tích cực/sản phẩm** (🎒🔋) thay vì **than thở** (😮‍💨😰😬) vốn gắn với hook điểm thấp.
+- Công thức nên dùng: **[Tính năng số cụ thể] + [lợi ích tiết kiệm/tiện lợi] + emoji sản phẩm**.
