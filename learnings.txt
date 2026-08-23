@@ -1,8 +1,8 @@
-- Ưu tiên hook nêu **lợi ích/tính năng cụ thể có con số** (40L, laptop 16 inch, sạc đầy 2 giờ, 2-3 ngày): Score cao nhất (5).
-- Hook kiểu **"gộp nhiều món làm một" / tiện lợi kép** (vừa sạc vừa pin, một balo lo hết) cho Reactions cao — nên khai thác.
-- Sản phẩm **balo & phụ kiện laptop** kéo tương tác tốt nhất; phụ kiện sạc/pin chung chung yếu hơn.
-- Hook **giải pháp bảo vệ máy** ("ngăn laptop treo", "chống mài mòn nhôm") hiệu quả nếu nói rõ cơ chế, cụ thể.
-- Tránh hook **chỉ nêu nỗi đau/hù dọa mơ hồ** (mất hộ chiếu, xe xẹp lốp, ví rơi, vừa lái vừa cầm điện thoại): Score thấp (3), không có Reactions.
-- Tránh **câu hỏi tu từ trừu tượng** không kèm sản phẩm hay con số — ít tương tác.
-- Emoji nên chọn **tích cực/sản phẩm** (🎒🔋) thay vì **than thở** (😮‍💨😰😬) vốn gắn với hook điểm thấp.
-- Công thức nên dùng: **[Tính năng số cụ thể] + [lợi ích tiết kiệm/tiện lợi] + emoji sản phẩm**.
+- Hook nêu **lợi ích/tính năng cụ thể** (số liệu: "40L", "laptop 16 inch", "2 trong 1") cho điểm cao nhất (Score 5) — ưu tiên viết kiểu này.
+- Nhóm sản phẩm **balo** và **sạc/pin dự phòng đa năng** tương tác tốt nhất; nên đẩy mạnh.
+- Hook dạng **câu hỏi hù dọa chung chung** ("Mất hộ chiếu...", "Đi cả ngày sợ hết pin?") chỉ đạt Score 3 — nên tránh hoặc thêm giải pháp cụ thể.
+- Chèn **con số/thông số kỹ thuật** ("16 inch", "40L", "2 giờ", "2-3 ngày") giúp tăng reactions rõ rệt.
+- Nhấn **"gộp nhiều món thành một"** ("bớt 2 món trong túi", "vừa sạc vừa pin") kéo tương tác lên — dùng góc tiết kiệm/tiện lợi.
+- Hook chạm **nỗi đau vật lý cụ thể của sản phẩm cao cấp** ("mồ hôi tay ăn mòn MacBook") vẫn yếu nếu chỉ dọa — cần kèm giải pháp bảo vệ rõ ràng.
+- Toàn bộ mẫu **0 share**; thêm yếu tố "mẹo hữu ích/đáng lưu lại" hoặc "gửi cho người thân hay đi công tác" để kích share.
+- Giữ hook **ngắn, 1 câu, có emoji liên quan**, mở bằng lợi ích thay vì câu hỏi tiêu cực thuần túy.
