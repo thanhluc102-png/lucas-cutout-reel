@@ -1,8 +1,15 @@
-- Hook nêu **lợi ích/tính năng cụ thể** (số liệu: "40L", "laptop 16 inch", "2 trong 1") cho điểm cao nhất (Score 5) — ưu tiên viết kiểu này.
-- Nhóm sản phẩm **balo** và **sạc/pin dự phòng đa năng** tương tác tốt nhất; nên đẩy mạnh.
-- Hook dạng **câu hỏi hù dọa chung chung** ("Mất hộ chiếu...", "Đi cả ngày sợ hết pin?") chỉ đạt Score 3 — nên tránh hoặc thêm giải pháp cụ thể.
-- Chèn **con số/thông số kỹ thuật** ("16 inch", "40L", "2 giờ", "2-3 ngày") giúp tăng reactions rõ rệt.
-- Nhấn **"gộp nhiều món thành một"** ("bớt 2 món trong túi", "vừa sạc vừa pin") kéo tương tác lên — dùng góc tiết kiệm/tiện lợi.
-- Hook chạm **nỗi đau vật lý cụ thể của sản phẩm cao cấp** ("mồ hôi tay ăn mòn MacBook") vẫn yếu nếu chỉ dọa — cần kèm giải pháp bảo vệ rõ ràng.
-- Toàn bộ mẫu **0 share**; thêm yếu tố "mẹo hữu ích/đáng lưu lại" hoặc "gửi cho người thân hay đi công tác" để kích share.
-- Giữ hook **ngắn, 1 câu, có emoji liên quan**, mở bằng lợi ích thay vì câu hỏi tiêu cực thuần túy.
+- **Nhóm sản phẩm mạnh nhất: giá đỡ điện thoại ô tô, balo laptop, pin/sạc dự phòng** — đây là 3 dòng cho Score cao (4–5), nên ưu tiên viết.
+
+- **Hook thắng = nêu tính năng/lợi ích cụ thể, có con số** ("Balo 40L đựng laptop 16 inch", "Pin sạc đầy 2 giờ", "vừa sạc vừa pin dự phòng bớt 2 món") — luôn cho Reactions cao.
+
+- **Hook nêu nỗi đau lái xe + điện thoại rơi/trơn tay** hiệu quả ổn định (Score 4–5), nên khai thác đều tình huống nguy hiểm rất đời thường.
+
+- **Tránh hook chỉ dọa nạn/sợ hãi chung chung** ("Mất hộ chiếu là ác mộng", "mồ hôi ăn mòn MacBook", "cổ tay mài mòn máy") — Score thấp (3), thiếu giải pháp rõ.
+
+- **Tránh hook câu hỏi mơ hồ hoặc quá kỹ thuật** ("tẩu sạc phát nhạc?", "ốp che mặt đáy?", "ngăn laptop mỏng?") — không tạo Reactions.
+
+- **Công thức tốt: nỗi đau cụ thể + con số/tính năng giải quyết ngay** trong 1 câu, thay vì chỉ gợi cảm giác tiêu cực.
+
+- **Ưu tiên emoji sản phẩm rõ nghĩa (🎒🔋💻)** thay vì emoji cảm xúc than thở (😮‍💨😰😬) vốn gắn với các post Score thấp.
+
+- **Không post nào có Share** — cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, tip bất ngờ, giá hời) để nâng Score qua ngưỡng hiện tại.
