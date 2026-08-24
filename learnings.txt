@@ -1,8 +1,8 @@
-- Hook nêu lợi ích cụ thể, số liệu rõ (40L, laptop 16 inch, sạc đầy 2 giờ, gộp 2 món thành 1) đạt Score cao nhất (5) — ưu tiên kiểu này.
-- Nhóm sản phẩm balo/túi và pin-sạc cho tương tác tốt nhất; hãy tập trung viết nhiều cho 2 nhóm này.
-- Hook dạng "gộp nhiều thành một", "giải quyết nỗi lo mất pin/không đủ chỗ" kéo Reactions lên — nhấn mạnh sự tiện lợi tổng hợp.
-- Hook câu hỏi tiêu cực chung chung (mất hộ chiếu, tẩu sạc phát nhạc, mồ hôi tay ăn mòn nhôm) chỉ đạt Score 3 — tránh nỗi đau quá hẹp/ngách lạ.
-- Hạn chế hook chỉ dọa mà không hé lộ giải pháp; thêm ngay lợi ích cụ thể để tăng Reactions.
-- Không có video nào đạt Share — cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, tình huống ai cũng gặp, khoảnh khắc "wow").
-- Giữ hook ngắn 1 dòng, 1 emoji cuối, chèn con số hoặc chi tiết đo lường được để nổi bật.
-- Tránh hook so sánh giá đắt tiền tiêu cực ("balo 5 triệu mỏng lét") vì tương tác thấp; thay bằng khẳng định giá trị sản phẩm.
+- **Hook nêu lợi ích gộp/tiết kiệm ("vừa sạc vừa pin", "sạc 3 thiết bị cùng lúc", "bớt 2 món trong túi") cho Score cao nhất (5) — ưu tiên kiểu này.**
+- **Hook về bảo vệ laptop có chi tiết cụ thể ("ngăn laptop kiểu treo không chạm đáy") đạt Score 5 — dùng mô tả tính năng hình ảnh hóa, tránh nói chung chung.**
+- **Hook chống trơn/rơi điện thoại khi lái xe/xem phim đạt Score 5 — tình huống đời thường + rủi ro rõ ràng hiệu quả.**
+- **Hook dạng câu hỏi cảnh báo ("Balo 5 triệu mà ngăn mỏng lét?", "Ví rơi đâu không biết tìm?") ra tương tác trung bình (4) — ổn nhưng chưa bứt phá.**
+- **Hook nỗi sợ mơ hồ, xa lạ ("mất hộ chiếu nước ngoài", "mồ hôi tay ăn mòn nhôm", "tẩu sạc phát nhạc không?") cho Score thấp nhất (3) — tránh vấn đề hiếm gặp hoặc quá kỹ thuật.**
+- **Hook chỉ nêu vấn đề mà không gợi giải pháp/lợi ích cụ thể đều kém — luôn kèm cái được sau nỗi đau.**
+- **Emoji nên khớp cảm xúc lợi ích (⚡🔋💻) hơn là emoji tiêu cực đơn thuần (😬😰😥) vốn gắn với các hook Score thấp.**
+- **Nhấn tình huống quen thuộc hằng ngày + con số/lợi ích đo được, tránh kịch bản cực đoan hiếm xảy ra.**
