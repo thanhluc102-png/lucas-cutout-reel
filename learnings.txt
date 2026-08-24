@@ -1,15 +1,8 @@
-- **Nhóm sản phẩm mạnh nhất: giá đỡ điện thoại ô tô, balo laptop, pin/sạc dự phòng** — đây là 3 dòng cho Score cao (4–5), nên ưu tiên viết.
-
-- **Hook thắng = nêu tính năng/lợi ích cụ thể, có con số** ("Balo 40L đựng laptop 16 inch", "Pin sạc đầy 2 giờ", "vừa sạc vừa pin dự phòng bớt 2 món") — luôn cho Reactions cao.
-
-- **Hook nêu nỗi đau lái xe + điện thoại rơi/trơn tay** hiệu quả ổn định (Score 4–5), nên khai thác đều tình huống nguy hiểm rất đời thường.
-
-- **Tránh hook chỉ dọa nạn/sợ hãi chung chung** ("Mất hộ chiếu là ác mộng", "mồ hôi ăn mòn MacBook", "cổ tay mài mòn máy") — Score thấp (3), thiếu giải pháp rõ.
-
-- **Tránh hook câu hỏi mơ hồ hoặc quá kỹ thuật** ("tẩu sạc phát nhạc?", "ốp che mặt đáy?", "ngăn laptop mỏng?") — không tạo Reactions.
-
-- **Công thức tốt: nỗi đau cụ thể + con số/tính năng giải quyết ngay** trong 1 câu, thay vì chỉ gợi cảm giác tiêu cực.
-
-- **Ưu tiên emoji sản phẩm rõ nghĩa (🎒🔋💻)** thay vì emoji cảm xúc than thở (😮‍💨😰😬) vốn gắn với các post Score thấp.
-
-- **Không post nào có Share** — cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, tip bất ngờ, giá hời) để nâng Score qua ngưỡng hiện tại.
+- Hook nêu lợi ích cụ thể, số liệu rõ (40L, laptop 16 inch, sạc đầy 2 giờ, gộp 2 món thành 1) đạt Score cao nhất (5) — ưu tiên kiểu này.
+- Nhóm sản phẩm balo/túi và pin-sạc cho tương tác tốt nhất; hãy tập trung viết nhiều cho 2 nhóm này.
+- Hook dạng "gộp nhiều thành một", "giải quyết nỗi lo mất pin/không đủ chỗ" kéo Reactions lên — nhấn mạnh sự tiện lợi tổng hợp.
+- Hook câu hỏi tiêu cực chung chung (mất hộ chiếu, tẩu sạc phát nhạc, mồ hôi tay ăn mòn nhôm) chỉ đạt Score 3 — tránh nỗi đau quá hẹp/ngách lạ.
+- Hạn chế hook chỉ dọa mà không hé lộ giải pháp; thêm ngay lợi ích cụ thể để tăng Reactions.
+- Không có video nào đạt Share — cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, tình huống ai cũng gặp, khoảnh khắc "wow").
+- Giữ hook ngắn 1 dòng, 1 emoji cuối, chèn con số hoặc chi tiết đo lường được để nổi bật.
+- Tránh hook so sánh giá đắt tiền tiêu cực ("balo 5 triệu mỏng lét") vì tương tác thấp; thay bằng khẳng định giá trị sản phẩm.
