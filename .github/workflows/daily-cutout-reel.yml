@@ -110,7 +110,7 @@ jobs:
           node scripts/align.mjs "${{ steps.gen.outputs.file }}"
 
       - name: Render MP4
-        run: node scripts/render.mjs ${{ steps.gen.outputs.file }}
+        run: node scripts/render-painpoint.mjs ${{ steps.gen.outputs.file }}
 
       - name: QC Kiểm tra Video
         run: node scripts/qc.mjs "jobs/${{ steps.gen.outputs.job }}/final.mp4" "${{ steps.gen.outputs.file }}"

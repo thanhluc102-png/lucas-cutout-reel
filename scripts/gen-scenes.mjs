@@ -95,12 +95,13 @@ const SCHEMA = {
     price_scene_index: { type: 'integer' },
     price_label: { type: 'string' },
     hook: {
-      type: 'object', additionalProperties: false, required: ['style'],
+      // Format cutout hiện chỉ dựng kiểu "painpoint" (scripts/render-painpoint.mjs):
+      // câu nỗi đau phóng to rồi thu nhỏ thành tiêu đề, từ khoá bị gạch ngang.
+      // "lines" và "hl" là BẮT BUỘC — thiếu hl thì không có gì để gạch.
+      type: 'object', additionalProperties: false, required: ['style', 'lines', 'hl'],
       properties: {
-        style: { enum: ['stack', 'flash', 'slam', 'highlight'] },
-        hero: { type: 'string' },
+        style: { enum: ['painpoint'] },
         hl: { type: 'array', items: { type: 'string' } },
-        hlPhrase: { type: 'string' },
         lines: { type: 'array', items: { type: 'string' } },
       },
     },
@@ -147,11 +148,18 @@ SỰ THẬT — TUYỆT ĐỐI KHÔNG BỊA:
 - Nếu không chắc con số, mô tả định tính ("nhiều cổng", "sạc nhanh") thay vì bịa số cụ thể.
 - Không "làm tròn cho oách" (vd ghi "6 cổng" khi chỉ có 3). Sai một con số là quảng cáo sai.
 
-KINETIC HOOK — chọn "style" hợp câu hook:
-- "slam": hook có CON SỐ/thông số mạnh -> đặt hero = con số đó (vd "170W"), pre = 1 dòng trước, post = 1 dòng sau.
-- "highlight": hook nêu nỗi lo -> lines = 2-3 dòng ngắn tách ra, hlPhrase = cụm cần tô (phải nằm nguyên trong 1 dòng).
-- "stack"/"flash": hook câu hỏi -> lines = 2-4 dòng ngắn tách ra, hl = 1-2 từ khoá cần tô gold.
-Nội dung hook trong "hook" phải KHỚP với text của cảnh hook (cùng câu, chỉ tách dòng/tô chữ).
+HOOK NỖI ĐAU (bắt buộc, style luôn = "painpoint"):
+Câu hook hiện to giữa màn cho người xem đọc, rồi thu nhỏ thành tiêu đề; đúng lúc đó
+một nét gạch đỏ kéo ngang qua TỪ KHOÁ nỗi đau để phủ định nó, sản phẩm mới hiện ra.
+- "style": đúng chuỗi "painpoint".
+- "lines": chia câu hook thành 2 dòng ngắn (tối đa 3), gộp lại phải đúng bằng text
+  của cảnh hook — cùng câu, chỉ khác chỗ xuống dòng.
+- "hl": ĐÚNG 1 phần tử — cụm từ chỉ NỖI ĐAU sẽ bị gạch, dài 1–3 từ.
+  BẮT BUỘC: cụm này phải xuất hiện NGUYÊN VĂN, khớp từng ký tự (kể cả dấu và chữ
+  hoa/thường) bên trong MỘT dòng của "lines". Nếu nó bị cắt ngang hai dòng thì
+  nét gạch không vẽ được -> hãy tách dòng lại cho cụm nằm trọn trong một dòng.
+  Chọn cụm mà sản phẩm này phủ định được (vd "dày cui", "sạc cả tiếng", "tẩu 20W"),
+  KHÔNG chọn từ vô nghĩa như "của bạn", "đang", "vẫn".
 ${extraFix ? `\nSỬA LỖI validator lần trước:\n${extraFix}\n` : ''}
 Chỉ trả JSON đúng schema, không thêm gì khác.`;
 }
@@ -169,7 +177,19 @@ function sanitizeCreative(c) {
     c.hook.lines = clean(c.hook.lines, 4);
     if (n > c.hook.lines.length) console.warn(`[gen] hook.lines có ${n} dòng -> lọc còn ${c.hook.lines.length}`);
   }
-  if (Array.isArray(c?.hook?.hl)) c.hook.hl = clean(c.hook.hl, 3);
+  if (Array.isArray(c?.hook?.hl)) c.hook.hl = clean(c.hook.hl, 1);
+
+  // Nét gạch được vẽ bằng cách tách chuỗi dòng theo đúng từ khoá (render-painpoint.mjs).
+  // Từ khoá lệch một ký tự, hoặc bị cắt ngang hai dòng, là gạch KHÔNG hiện mà render
+  // vẫn chạy trót lọt -> video ra lò thiếu hẳn hiệu ứng mà không ai biết. Chặn tại đây
+  // để vòng lặp sinh lại, thay vì phát hiện khi đã đăng.
+  const hl = c?.hook?.hl?.[0];
+  const lines = c?.hook?.lines;
+  if (!hl) throw new Error('hook.hl rỗng — cần đúng 1 cụm từ chỉ nỗi đau để gạch ngang');
+  if (!Array.isArray(lines) || !lines.length) throw new Error('hook.lines rỗng');
+  if (!lines.some((ln) => ln.includes(hl)))
+    throw new Error(`hook.hl "${hl}" không nằm nguyên văn trong bất kỳ dòng nào của hook.lines (${JSON.stringify(lines)})`);
+
   return c;
 }
 
@@ -272,7 +292,8 @@ for (let attempt = 1; attempt <= 3; attempt++) {
       console.warn(`[gen] validator báo lỗi, thử lại:\n${fix}`);
     } else {
       fix = `Phản hồi lần trước không dùng được (${e.message}). Trả về JSON hợp lệ, gọn, đúng schema. `
-          + `"hook.lines" tối đa 4 dòng, không có dòng rỗng hay dòng chỉ chứa khoảng trắng.`;
+          + `"hook.lines" tối đa 4 dòng, không có dòng rỗng hay dòng chỉ chứa khoảng trắng. `
+          + `"hook.hl" đúng 1 cụm, phải nằm NGUYÊN VĂN trọn trong một dòng của "hook.lines".`;
       console.warn(`[gen] lỗi khi lấy nội dung từ Claude, thử lại: ${e.message}`);
     }
   }
