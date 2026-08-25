@@ -34,6 +34,22 @@ if (fs.existsSync(path.join(root, 'assets', 'logo.png'))) {
 // Nhạc nền: thả nhiều bài vào assets/bgm/ thì mỗi video bốc một bài. Còn để trống
 // (hoặc chưa có thư mục) thì quay về dùng assets/bgm.mp4 như cũ.
 const BGM_EXTS = new Set(['.mp3', '.m4a', '.aac', '.wav', '.ogg', '.opus', '.flac', '.mp4']);
+
+// FNV-1a + bước trộn bit. KHÔNG dùng kiểu h*31+c quen thuộc: 31 ≡ 1 (mod 3) nên
+// với 3 bài nhạc, h%3 suy biến thành tổng mã ký tự chia 3 — thử 6 job_id khác nhau
+// thì cả 6 ra cùng một bài.
+function hashId(s) {
+  let h = 2166136261;
+  for (const ch of String(s)) {
+    h ^= ch.charCodeAt(0);
+    h = Math.imul(h, 16777619) >>> 0;
+  }
+  h ^= h >>> 16;
+  h = Math.imul(h, 2246822507) >>> 0;
+  h ^= h >>> 13;
+  return h >>> 0;
+}
+
 function pickBgm(jobId) {
   const dir = path.join(root, 'assets', 'bgm');
   const list = fs.existsSync(dir)
@@ -47,19 +63,7 @@ function pickBgm(jobId) {
   // Bốc theo job_id chứ không bốc ngẫu nhiên: render lại cùng một job phải ra đúng
   // bài cũ (không thì mỗi lần dựng lại nhạc một kiểu, không đối chiếu được), mà 3
   // suất đăng trong ngày có job_id khác nhau nên vẫn khác bài.
-  //
-  // FNV-1a + bước trộn bit, KHÔNG dùng kiểu h*31+c quen thuộc: 31 ≡ 1 (mod 3) nên
-  // với 3 bài nhạc, h%3 suy biến thành tổng mã ký tự chia 3 — thử 6 job_id khác
-  // nhau thì cả 6 ra cùng một bài.
-  let h = 2166136261;
-  for (const ch of String(jobId)) {
-    h ^= ch.charCodeAt(0);
-    h = Math.imul(h, 16777619) >>> 0;
-  }
-  h ^= h >>> 16;
-  h = Math.imul(h, 2246822507) >>> 0;
-  h ^= h >>> 13;
-  return list[(h >>> 0) % list.length];
+  return list[hashId(jobId) % list.length];
 }
 
 const p = job.products?.[0] || {};
@@ -112,6 +116,12 @@ const FALLBACK_DUR = 15;    // không có giọng (chạy thử tay) thì giữ 
 // Nhạc tải trên mạng mỗi bài một mức: bài master to có thể hơn 10 LU so với bài
 // này, cùng ducking 0.14 vẫn đủ át giọng đọc.
 const BGM_TARGET_LUFS = -17.5;
+// Vào bài ở giây 15–20 thay vì giây 0: nhạc production hay có intro dựng dần, 26
+// giây đầu thường loãng hơn đoạn đã vào nhịp. Rải trong khoảng để hai video dùng
+// chung một bài không nghe y hệt nhau.
+const BGM_SKIP_MIN = 15;
+const BGM_SKIP_MAX = 20;
+const BGM_FADE_IN = 0.4;    // cắt từ giữa bài nên phải vuốt vào, không thì nhạc nổ đột ngột
 
 function probeDur(f) {
   const out = execFileSync('ffprobe',
@@ -135,39 +145,52 @@ function probeLufs(f) {
 const voiceSrc = [job.audio?.voice_path, path.join(jobDir, 'voice.mp3')]
   .filter(Boolean).find((pth) => fs.existsSync(pth)) || null;
 
-const bgmSrc = pickBgm(job.job_id || path.basename(file, '.json'));
+const jobKey = job.job_id || path.basename(file, '.json');
+const bgmSrc = pickBgm(jobKey);
 if (!bgmSrc) throw new Error('Không có nhạc nền: thả file vào assets/bgm/ hoặc để assets/bgm.mp4');
+
+// Thời lượng video chốt trước, vì điểm vào bài nhạc phải chừa đủ chỗ phía sau.
+let TOTAL = FALLBACK_DUR;
+let voiceDur = null;
+if (voiceSrc) {
+  voiceDur = probeDur(voiceSrc);
+  TOTAL = Number((VOICE_START + voiceDur + VOICE_TAIL).toFixed(2));
+} else {
+  console.warn('▲ Không thấy voice.mp3 — dựng chỉ có nhạc nền, video cố định 15s.');
+}
 
 const bgmLufs = probeLufs(bgmSrc);
 const bgmGainDb = (BGM_TARGET_LUFS - bgmLufs).toFixed(2);
-console.log(`Nhạc nền: ${path.basename(bgmSrc)} (${bgmLufs} LUFS -> bù ${bgmGainDb} dB)`);
+const bgmDur = probeDur(bgmSrc);
+// Salt '#skip' để điểm vào không dính líu gì tới việc chọn bài. Kẹp lại cho chắc:
+// bài ngắn hơn video thì lùi hẳn về 0 và để -stream_loop lo phần lặp.
+const wantSkip = BGM_SKIP_MIN + (hashId(jobKey + '#skip') % (BGM_SKIP_MAX - BGM_SKIP_MIN + 1));
+const bgmStart = Math.max(0, Math.min(wantSkip, bgmDur - TOTAL - 0.3));
+console.log(`Nhạc nền: ${path.basename(bgmSrc)} (${bgmLufs} LUFS -> bù ${bgmGainDb} dB, `
+  + `vào từ ${bgmStart.toFixed(1)}s / ${bgmDur.toFixed(0)}s)`);
 
 const audioSrc = 'assets/audio-mix.m4a';
 const mixOut = path.join(assetsDir, 'audio-mix.m4a');
-let TOTAL = FALLBACK_DUR;
+const fadeAt = Math.max(0, TOTAL - 1.2).toFixed(2);
+// Chuỗi xử lý nhạc dùng chung cho cả hai nhánh: cắt đúng độ dài video -> chuẩn hoá
+// về mốc chung -> hạ xuống nền -> vuốt vào (vì cắt từ giữa bài) và vuốt ra ở đuôi.
+const bgmChain = (vol) =>
+  `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${bgmGainDb}dB,volume=${vol},`
+  + `afade=t=in:st=0:d=${BGM_FADE_IN},afade=t=out:st=${fadeAt}:d=1.2`;
 
 if (!voiceSrc) {
-  console.warn('▲ Không thấy voice.mp3 — dựng chỉ có nhạc nền, video cố định 15s.');
-  const fadeAt = Math.max(0, TOTAL - 1.2).toFixed(2);
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error',
-    '-stream_loop', '-1', '-i', bgmSrc,
-    '-filter_complex',
-      `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${bgmGainDb}dB,volume=${BGM_SOLO},`
-      + `afade=t=out:st=${fadeAt}:d=1.2[a]`,
+    '-stream_loop', '-1', '-ss', String(bgmStart), '-i', bgmSrc,
+    '-filter_complex', `${bgmChain(BGM_SOLO)}[a]`,
     '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', mixOut], { stdio: 'inherit' });
 } else {
-  const vd = probeDur(voiceSrc);
-  TOTAL = Number((VOICE_START + vd + VOICE_TAIL).toFixed(2));
   const delayMs = Math.round(VOICE_START * 1000);
-  const fadeAt = Math.max(0, TOTAL - 1.2).toFixed(2);
-
-  console.log(`Trộn tiếng: giọng ${vd.toFixed(1)}s + nhạc (ducking ${BGM_DUCK}) -> video ${TOTAL}s`);
+  console.log(`Trộn tiếng: giọng ${voiceDur.toFixed(1)}s + nhạc (ducking ${BGM_DUCK}) -> video ${TOTAL}s`);
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error',
-    '-stream_loop', '-1', '-i', bgmSrc,   // lặp vô hạn rồi cắt đúng độ dài video
+    '-stream_loop', '-1', '-ss', String(bgmStart), '-i', bgmSrc,
     '-i', voiceSrc,
     '-filter_complex',
-      `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${bgmGainDb}dB,volume=${BGM_DUCK},`
-      + `afade=t=out:st=${fadeAt}:d=1.2[m];`
+      `${bgmChain(BGM_DUCK)}[m];`
       + `[1:a]adelay=${delayMs}|${delayMs}[v];`
       // normalize=0: amix mặc định chia đều biên độ theo số input, giọng sẽ bị kéo tụt
       + `[m][v]amix=inputs=2:duration=first:normalize=0[a]`,
