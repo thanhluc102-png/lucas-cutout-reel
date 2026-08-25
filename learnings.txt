@@ -1,8 +1,8 @@
-- Ưu tiên hook nêu **lợi ích gộp/đa năng** ("vừa sạc vừa pin", "sạc 3 thiết bị cùng lúc", "bớt 2 món trong túi") — nhóm Score cao nhất (5).
-- Hook về **bảo vệ laptop cụ thể, có chi tiết kỹ thuật** ("ngăn laptop treo không chạm đáy") cho tương tác tốt; nói chung chung ("balo không bảo vệ nổi laptop") thì kém hơn.
-- Dùng **nỗi đau vật lý dễ hình dung** ("điện thoại trơn tay rơi khi lái xe/xem phim") hiệu quả hơn nỗi đau trừu tượng/hiếm gặp ("mất hộ chiếu", "mất ví").
-- Tránh hook **hù dọa mơ hồ, xa lạ** ("mồ hôi tay ăn mòn nhôm", "cổ tay mài mòn máy", "tẩu sạc phát nhạc") — toàn Score thấp (3).
-- Chốt **con số/tình huống đời thường cụ thể** ("đi công tác 2-3 ngày nhét vừa 1 balo") nhích tương tác hơn câu hỏi trống rỗng.
-- Emoji nên khớp ngữ cảnh sản phẩm (🔋⚡💻🎒); tránh lạm dụng mặt 😮‍💨😬 kể lể tiêu cực — gắn nhiều với Score 3.
-- Không hook nào đạt Share; cần thêm **yếu tố đáng chia sẻ**: mẹo hữu ích, giá hời, hoặc "gửi ngay cho người hay làm rơi đồ".
-- Công thức thắng: **[lợi ích kép/tiết kiệm] + [chi tiết cụ thể] + [tình huống quen thuộc]**, tránh [dọa nạt hiếm gặp/trừu tượng].
+- Hook nêu **lợi ích/tính năng gộp nhiều món** ("vừa sạc vừa pin dự phòng", "sạc 3 thiết bị cùng lúc", "ngăn laptop treo chống sốc") cho Score cao nhất (5) — ưu tiên kiểu này.
+- Sản phẩm **sạc/pin/hub đa năng và balo-túi chống sốc laptop** kéo tương tác tốt nhất; tập trung khai thác nhóm này.
+- Hook chạm **nỗi sợ mất mát/tai nạn/hư hỏng chung chung** ("mất hộ chiếu", "vừa lái vừa liếc điện thoại", "mồ hôi ăn mòn nhôm") tương tác thấp (3) — nên tránh hoặc thêm giải pháp cụ thể.
+- Hook dạng **câu hỏi tu từ mơ hồ** ("tẩu sạc có phát nhạc không?", "ốp che luôn mặt đáy không?") hiệu quả kém — thay bằng khẳng định lợi ích rõ ràng.
+- Ưu tiên cấu trúc **"gộp 2-3 công dụng vào 1 món / bớt đồ trong túi"** vì gợi giá trị thực tế, tăng reaction.
+- Hook có **con số cụ thể + hình ảnh va đập/bảo vệ** ("va đập không chạm đáy", "3 thiết bị không chờ nhau") mạnh hơn hook cảm xúc trừu tượng.
+- Không hook nào đạt share/comment cao — cần thêm **CTA khơi bình luận** (hỏi trải nghiệm, tag bạn hay quên đồ) để đẩy Score.
+- Emoji nên gắn đúng ngữ cảnh lợi ích (🔋⚡🎒) thay vì emoji tiêu cực (😰😬😥) vốn đi kèm các hook điểm thấp.
