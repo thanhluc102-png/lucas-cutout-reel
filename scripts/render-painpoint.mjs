@@ -122,6 +122,10 @@ const BGM_TARGET_LUFS = -17.5;
 const BGM_SKIP_MIN = 15;
 const BGM_SKIP_MAX = 20;
 const BGM_FADE_IN = 0.4;    // cắt từ giữa bài nên phải vuốt vào, không thì nhạc nổ đột ngột
+// Trần đỉnh ~-1 dBFS. Giọng ElevenLabs mỗi giọng một mức, cộng thêm nhạc vào là có
+// lúc chạm 0 dBFS và vỡ tiếng. Đo trên 3 bản dựng thử: đỉnh đã bò tới -0.59 dB,
+// chưa méo nhưng không còn chỗ hở — chặn cứng ở đây cho chắc.
+const PEAK_CEILING = 0.794;
 
 function probeDur(f) {
   const out = execFileSync('ffprobe',
@@ -181,7 +185,7 @@ const bgmChain = (vol) =>
 if (!voiceSrc) {
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error',
     '-stream_loop', '-1', '-ss', String(bgmStart), '-i', bgmSrc,
-    '-filter_complex', `${bgmChain(BGM_SOLO)}[a]`,
+    '-filter_complex', `${bgmChain(BGM_SOLO)},alimiter=limit=${PEAK_CEILING}:level=disabled[a]`,
     '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', mixOut], { stdio: 'inherit' });
 } else {
   const delayMs = Math.round(VOICE_START * 1000);
@@ -193,7 +197,7 @@ if (!voiceSrc) {
       `${bgmChain(BGM_DUCK)}[m];`
       + `[1:a]adelay=${delayMs}|${delayMs}[v];`
       // normalize=0: amix mặc định chia đều biên độ theo số input, giọng sẽ bị kéo tụt
-      + `[m][v]amix=inputs=2:duration=first:normalize=0[a]`,
+      + `[m][v]amix=inputs=2:duration=first:normalize=0,alimiter=limit=${PEAK_CEILING}:level=disabled[a]`,
     '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', mixOut], { stdio: 'inherit' });
 }
 
@@ -256,6 +260,8 @@ function getPainFontSize(str) {
 //   3 dòng chữ        1264 – 1495
 const PAIN_DOCK_BOTTOM = 496;
 const PAIN_DOCK_SCALE = 0.5;
+const BAND_TOP = 400;         // mép trên dải an toàn; chữ đậu không được dâng quá đây
+const MIN_DOCK_SCALE = 0.32;  // sàn để hook dài không bị co tới mức không đọc nổi
 const STAGE_PAD_TOP = 536;
 const BAND_BOTTOM = 1495;   // đáy dải an toàn cho chữ (rules/visual.md: 400–1500)
 const CUTOUT_SIZE = 700;    // cỡ ảnh tối đa, dùng khi tên sản phẩm ngắn gọn 1 dòng
@@ -421,8 +427,21 @@ const html = `<!doctype html>
         // 3 dòng cũng giữ nguyên khoảng hở với ảnh sản phẩm bên dưới thay vì đè lên.
         const painEl = document.getElementById('pain');
         const PAIN_DOCK_SCALE = ${PAIN_DOCK_SCALE};
-        const PAIN_DOCK_Y =
-          ${PAIN_DOCK_BOTTOM} - 960 - painEl.offsetHeight * PAIN_DOCK_SCALE / 2;
+
+        // Chỗ đậu bị KHOÁ TRẦN chiều cao: hook dài xuống 3 dòng thì khối chữ dâng
+        // ngược lên vùng 250–360 của sticker giá và bị nó đè kín (đã dính ở bản
+        // balo Thule: chữ leo tới y=325, cụm bị gạch mất hút sau sticker).
+        // Co nhỏ thêm cho vừa trần thay vì để tràn. Có sàn ${MIN_DOCK_SCALE} để chữ
+        // không nhỏ tới mức không đọc nổi — chạm sàn thì mép trên nhích lên quá 400
+        // một chút, nhưng vẫn nằm dưới đáy sticker nên không chồng nhau.
+        const MAX_DOCK_H = ${PAIN_DOCK_BOTTOM} - ${BAND_TOP};
+        const dockScale = () => Math.max(${MIN_DOCK_SCALE},
+          Math.min(PAIN_DOCK_SCALE, MAX_DOCK_H / painEl.offsetHeight));
+        // Hàm chứ không phải số: GSAP tính giá trị hàm LÚC RENDER, còn số thì chốt
+        // ngay lúc chạy script — mà lúc đó font chưa tải xong nên offsetHeight là số
+        // đo của font dự phòng, sai chỗ đậu.
+        const dockY = () =>
+          ${PAIN_DOCK_BOTTOM} - 960 - painEl.offsetHeight * dockScale() / 2;
 
 
         const tl = gsap.timeline({ paused: true });
@@ -430,7 +449,7 @@ const html = `<!doctype html>
         tl.fromTo('#pain', { scale: 0.45, opacity: 0 },
                            { duration: 0.75, scale: 1, opacity: 1, ease: 'back.out(1.4)' }, 0.15)
         // 2. Thu nhỏ + dạt lên đỉnh, hoá thành tiêu đề.
-        .to('#pain', { duration: 0.85, scale: PAIN_DOCK_SCALE, y: PAIN_DOCK_Y, ease: 'power3.inOut' }, 1.95)
+        .to('#pain', { duration: 0.85, scale: dockScale, y: dockY, ease: 'power3.inOut' }, 1.95)
         // 3. Sản phẩm cutout bật lên chỗ vừa trống ra.
         .from('#cutout', { duration: 0.8, y: 700, scale: 0.5, opacity: 0, ease: 'back.out(1.6)' }, 2.6)
         .from('#sticker', { duration: 0.6, x: 500, rotate: 45, opacity: 0, ease: 'power3.out' }, 3.1)
@@ -443,7 +462,7 @@ const html = `<!doctype html>
         .from('#t3', { duration: 0.6, y: 300, scale: 0.7, opacity: 0, ease: 'back.out(1.5)' }, 5.0)
         // 4. Cả chữ lẫn sản phẩm cùng thở — lệch chu kỳ để khung hình không "đập" cùng nhịp.
         .to('#cutout .prod-img', { duration: 2.0, scale: 1.08, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 5.8)
-        .to('#pain', { duration: 2.4, scale: PAIN_DOCK_SCALE + 0.045, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 5.8);
+        .to('#pain', { duration: 2.4, scale: () => dockScale() + 0.045, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 5.8);
 
         // Nét gạch kéo ngang phủ định nỗi đau, kết thúc đúng lúc chữ bắt đầu thu nhỏ.
         tl.to('#pain .strike-line', { duration: 0.4, scaleX: 1, ease: 'power2.out' }, 1.55);
