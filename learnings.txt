@@ -1,8 +1,8 @@
-- **Hook nêu lợi ích gộp/tiết kiệm ("vừa sạc vừa pin", "sạc 3 thiết bị cùng lúc", "bớt 2 món trong túi") cho Score cao nhất (5) — ưu tiên kiểu này.**
-- **Hook về bảo vệ laptop có chi tiết cụ thể ("ngăn laptop kiểu treo không chạm đáy") đạt Score 5 — dùng mô tả tính năng hình ảnh hóa, tránh nói chung chung.**
-- **Hook chống trơn/rơi điện thoại khi lái xe/xem phim đạt Score 5 — tình huống đời thường + rủi ro rõ ràng hiệu quả.**
-- **Hook dạng câu hỏi cảnh báo ("Balo 5 triệu mà ngăn mỏng lét?", "Ví rơi đâu không biết tìm?") ra tương tác trung bình (4) — ổn nhưng chưa bứt phá.**
-- **Hook nỗi sợ mơ hồ, xa lạ ("mất hộ chiếu nước ngoài", "mồ hôi tay ăn mòn nhôm", "tẩu sạc phát nhạc không?") cho Score thấp nhất (3) — tránh vấn đề hiếm gặp hoặc quá kỹ thuật.**
-- **Hook chỉ nêu vấn đề mà không gợi giải pháp/lợi ích cụ thể đều kém — luôn kèm cái được sau nỗi đau.**
-- **Emoji nên khớp cảm xúc lợi ích (⚡🔋💻) hơn là emoji tiêu cực đơn thuần (😬😰😥) vốn gắn với các hook Score thấp.**
-- **Nhấn tình huống quen thuộc hằng ngày + con số/lợi ích đo được, tránh kịch bản cực đoan hiếm xảy ra.**
+- Ưu tiên hook nêu **lợi ích gộp/đa năng** ("vừa sạc vừa pin", "sạc 3 thiết bị cùng lúc", "bớt 2 món trong túi") — nhóm Score cao nhất (5).
+- Hook về **bảo vệ laptop cụ thể, có chi tiết kỹ thuật** ("ngăn laptop treo không chạm đáy") cho tương tác tốt; nói chung chung ("balo không bảo vệ nổi laptop") thì kém hơn.
+- Dùng **nỗi đau vật lý dễ hình dung** ("điện thoại trơn tay rơi khi lái xe/xem phim") hiệu quả hơn nỗi đau trừu tượng/hiếm gặp ("mất hộ chiếu", "mất ví").
+- Tránh hook **hù dọa mơ hồ, xa lạ** ("mồ hôi tay ăn mòn nhôm", "cổ tay mài mòn máy", "tẩu sạc phát nhạc") — toàn Score thấp (3).
+- Chốt **con số/tình huống đời thường cụ thể** ("đi công tác 2-3 ngày nhét vừa 1 balo") nhích tương tác hơn câu hỏi trống rỗng.
+- Emoji nên khớp ngữ cảnh sản phẩm (🔋⚡💻🎒); tránh lạm dụng mặt 😮‍💨😬 kể lể tiêu cực — gắn nhiều với Score 3.
+- Không hook nào đạt Share; cần thêm **yếu tố đáng chia sẻ**: mẹo hữu ích, giá hời, hoặc "gửi ngay cho người hay làm rơi đồ".
+- Công thức thắng: **[lợi ích kép/tiết kiệm] + [chi tiết cụ thể] + [tình huống quen thuộc]**, tránh [dọa nạt hiếm gặp/trừu tượng].
