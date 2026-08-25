@@ -14,7 +14,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { execFileSync } from 'node:child_process';
+import { execFileSync, spawnSync } from 'node:child_process';
 
 const root = path.resolve(fileURLToPath(new URL('..', import.meta.url)));
 const file = process.argv[2];
@@ -31,8 +31,35 @@ fs.mkdirSync(assetsDir, { recursive: true });
 if (fs.existsSync(path.join(root, 'assets', 'logo.png'))) {
   fs.copyFileSync(path.join(root, 'assets', 'logo.png'), path.join(assetsDir, 'logo.png'));
 }
-if (fs.existsSync(path.join(root, 'assets', 'bgm.mp4'))) {
-  fs.copyFileSync(path.join(root, 'assets', 'bgm.mp4'), path.join(assetsDir, 'bgm.mp4'));
+// Nhạc nền: thả nhiều bài vào assets/bgm/ thì mỗi video bốc một bài. Còn để trống
+// (hoặc chưa có thư mục) thì quay về dùng assets/bgm.mp4 như cũ.
+const BGM_EXTS = new Set(['.mp3', '.m4a', '.aac', '.wav', '.ogg', '.opus', '.flac', '.mp4']);
+function pickBgm(jobId) {
+  const dir = path.join(root, 'assets', 'bgm');
+  const list = fs.existsSync(dir)
+    ? fs.readdirSync(dir).filter((f) => BGM_EXTS.has(path.extname(f).toLowerCase())).sort()
+        .map((f) => path.join(dir, f))
+    : [];
+  if (!list.length) {
+    const legacy = path.join(root, 'assets', 'bgm.mp4');
+    return fs.existsSync(legacy) ? legacy : null;
+  }
+  // Bốc theo job_id chứ không bốc ngẫu nhiên: render lại cùng một job phải ra đúng
+  // bài cũ (không thì mỗi lần dựng lại nhạc một kiểu, không đối chiếu được), mà 3
+  // suất đăng trong ngày có job_id khác nhau nên vẫn khác bài.
+  //
+  // FNV-1a + bước trộn bit, KHÔNG dùng kiểu h*31+c quen thuộc: 31 ≡ 1 (mod 3) nên
+  // với 3 bài nhạc, h%3 suy biến thành tổng mã ký tự chia 3 — thử 6 job_id khác
+  // nhau thì cả 6 ra cùng một bài.
+  let h = 2166136261;
+  for (const ch of String(jobId)) {
+    h ^= ch.charCodeAt(0);
+    h = Math.imul(h, 16777619) >>> 0;
+  }
+  h ^= h >>> 16;
+  h = Math.imul(h, 2246822507) >>> 0;
+  h ^= h >>> 13;
+  return list[(h >>> 0) % list.length];
 }
 
 const p = job.products?.[0] || {};
@@ -78,7 +105,13 @@ const priceText = formatVnPrice(p.price_vnd, p.price_is_from);
 const VOICE_START = 0.25;   // giọng vào ngay lúc câu nỗi đau hiện ra
 const VOICE_TAIL = 0.8;     // chừa đuôi, không cắt cụt chữ cuối
 const BGM_DUCK = 0.14;      // hạ nhạc khi có lời cho nghe rõ giọng
+const BGM_SOLO = 0.35;      // không có lời thì để nhạc to hơn
 const FALLBACK_DUR = 15;    // không có giọng (chạy thử tay) thì giữ như cũ
+// Mức chuẩn hoá nhạc nền. -17.5 LUFS chính là mức của assets/bgm.mp4 gốc — giữ
+// nguyên con số đã đo được cán cân giọng/nhạc tốt, rồi kéo MỌI bài mới về đúng đó.
+// Nhạc tải trên mạng mỗi bài một mức: bài master to có thể hơn 10 LU so với bài
+// này, cùng ducking 0.14 vẫn đủ át giọng đọc.
+const BGM_TARGET_LUFS = -17.5;
 
 function probeDur(f) {
   const out = execFileSync('ffprobe',
@@ -88,36 +121,57 @@ function probeDur(f) {
   return d;
 }
 
+// Đo sẵn rồi bù gain cố định, KHÔNG dùng filter loudnorm: loudnorm là bộ nén động,
+// nhạc nền bị nó bơm lên mỗi khi giọng đọc ngắt quãng, nghe phập phồng.
+function probeLufs(f) {
+  // ffmpeg in kết quả ebur128 ra STDERR, không phải stdout -> phải spawnSync để đọc.
+  const r = spawnSync('ffmpeg', ['-hide_banner', '-i', f, '-af', 'ebur128', '-f', 'null', '-'],
+    { encoding: 'utf8' });
+  const m = (r.stderr || '').match(/Integrated loudness:[\s\S]*?I:\s*(-?\d+(?:\.\d+)?)\s*LUFS/);
+  if (!m) throw new Error(`không đo được độ ồn: ${f}`);
+  return parseFloat(m[1]);
+}
+
 const voiceSrc = [job.audio?.voice_path, path.join(jobDir, 'voice.mp3')]
   .filter(Boolean).find((pth) => fs.existsSync(pth)) || null;
 
-let audioSrc = 'assets/bgm.mp4';
-let audioLoop = true;
+const bgmSrc = pickBgm(job.job_id || path.basename(file, '.json'));
+if (!bgmSrc) throw new Error('Không có nhạc nền: thả file vào assets/bgm/ hoặc để assets/bgm.mp4');
+
+const bgmLufs = probeLufs(bgmSrc);
+const bgmGainDb = (BGM_TARGET_LUFS - bgmLufs).toFixed(2);
+console.log(`Nhạc nền: ${path.basename(bgmSrc)} (${bgmLufs} LUFS -> bù ${bgmGainDb} dB)`);
+
+const audioSrc = 'assets/audio-mix.m4a';
+const mixOut = path.join(assetsDir, 'audio-mix.m4a');
 let TOTAL = FALLBACK_DUR;
 
 if (!voiceSrc) {
   console.warn('▲ Không thấy voice.mp3 — dựng chỉ có nhạc nền, video cố định 15s.');
+  const fadeAt = Math.max(0, TOTAL - 1.2).toFixed(2);
+  execFileSync('ffmpeg', ['-y', '-loglevel', 'error',
+    '-stream_loop', '-1', '-i', bgmSrc,
+    '-filter_complex',
+      `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${bgmGainDb}dB,volume=${BGM_SOLO},`
+      + `afade=t=out:st=${fadeAt}:d=1.2[a]`,
+    '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', mixOut], { stdio: 'inherit' });
 } else {
   const vd = probeDur(voiceSrc);
   TOTAL = Number((VOICE_START + vd + VOICE_TAIL).toFixed(2));
-  const bgmFile = path.join(assetsDir, 'bgm.mp4');
-  const mixOut = path.join(assetsDir, 'audio-mix.m4a');
   const delayMs = Math.round(VOICE_START * 1000);
   const fadeAt = Math.max(0, TOTAL - 1.2).toFixed(2);
 
-  console.log(`Trộn tiếng: giọng ${vd.toFixed(1)}s + nhạc nền (ducking ${BGM_DUCK}) -> video ${TOTAL}s`);
+  console.log(`Trộn tiếng: giọng ${vd.toFixed(1)}s + nhạc (ducking ${BGM_DUCK}) -> video ${TOTAL}s`);
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error',
-    '-stream_loop', '-1', '-i', bgmFile,   // lặp vô hạn rồi cắt đúng độ dài video
+    '-stream_loop', '-1', '-i', bgmSrc,   // lặp vô hạn rồi cắt đúng độ dài video
     '-i', voiceSrc,
     '-filter_complex',
-      `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${BGM_DUCK},afade=t=out:st=${fadeAt}:d=1.2[m];`
+      `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${bgmGainDb}dB,volume=${BGM_DUCK},`
+      + `afade=t=out:st=${fadeAt}:d=1.2[m];`
       + `[1:a]adelay=${delayMs}|${delayMs}[v];`
       // normalize=0: amix mặc định chia đều biên độ theo số input, giọng sẽ bị kéo tụt
       + `[m][v]amix=inputs=2:duration=first:normalize=0[a]`,
     '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', mixOut], { stdio: 'inherit' });
-
-  audioSrc = 'assets/audio-mix.m4a';
-  audioLoop = false;
 }
 
 function cleanText(str, defaultText = '') {
@@ -315,7 +369,9 @@ const html = `<!doctype html>
     <div id="root" data-composition-id="main" data-start="0" data-duration="${TOTAL}" data-fps="30" data-width="1080" data-height="1920">
       <div id="bg"></div>
       <div id="grid"></div>
-      <audio id="bgm" src="${audioSrc}" autoplay${audioLoop ? ' loop' : ''}></audio>
+      <!-- Một track đã trộn sẵn (giọng + nhạc đã chuẩn hoá & ducking), cắt đúng độ
+           dài video nên không cần loop. -->
+      <audio id="bgm" src="${audioSrc}" autoplay></audio>
       <div id="brand-header">
         <img class="logo-img" src="assets/logo.png" alt="Lucas Combo Logo">
         <span class="title">lucas.vn</span>
