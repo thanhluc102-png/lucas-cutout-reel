@@ -66,6 +66,60 @@ function formatVnPrice(priceVnd, isFrom = false) {
 
 const priceText = formatVnPrice(p.price_vnd, p.price_is_from);
 
+// --- giọng đọc + nhạc nền ----------------------------------------------------
+// Workflow chạy voice.mjs (ElevenLabs, tốn tiền) rồi whisper large-v3, nhưng bản
+// dựng cũ chỉ nhúng mỗi assets/bgm.mp4 — giọng đọc bị bỏ luôn, mỗi lần chạy trả
+// tiền API xong vứt đi. qc.mjs không bắt được vì nó chỉ hỏi "có audio track không",
+// mà nhạc nền thì luôn thoả.
+//
+// Trộn sẵn MỘT track bằng ffmpeg thay vì để nhiều thẻ <audio> cho trình dựng tự
+// mix: nhạc nền chỉ dài 17s trong khi video dài theo giọng đọc (kịch bản 18–32s),
+// phải tự lặp + cắt + fade mới không bị hụt tiếng ở đoạn cuối.
+const VOICE_START = 0.25;   // giọng vào ngay lúc câu nỗi đau hiện ra
+const VOICE_TAIL = 0.8;     // chừa đuôi, không cắt cụt chữ cuối
+const BGM_DUCK = 0.14;      // hạ nhạc khi có lời cho nghe rõ giọng
+const FALLBACK_DUR = 15;    // không có giọng (chạy thử tay) thì giữ như cũ
+
+function probeDur(f) {
+  const out = execFileSync('ffprobe',
+    ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f]).toString().trim();
+  const d = parseFloat(out);
+  if (!(d > 0)) throw new Error(`không đọc được thời lượng: ${f}`);
+  return d;
+}
+
+const voiceSrc = [job.audio?.voice_path, path.join(jobDir, 'voice.mp3')]
+  .filter(Boolean).find((pth) => fs.existsSync(pth)) || null;
+
+let audioSrc = 'assets/bgm.mp4';
+let audioLoop = true;
+let TOTAL = FALLBACK_DUR;
+
+if (!voiceSrc) {
+  console.warn('▲ Không thấy voice.mp3 — dựng chỉ có nhạc nền, video cố định 15s.');
+} else {
+  const vd = probeDur(voiceSrc);
+  TOTAL = Number((VOICE_START + vd + VOICE_TAIL).toFixed(2));
+  const bgmFile = path.join(assetsDir, 'bgm.mp4');
+  const mixOut = path.join(assetsDir, 'audio-mix.m4a');
+  const delayMs = Math.round(VOICE_START * 1000);
+  const fadeAt = Math.max(0, TOTAL - 1.2).toFixed(2);
+
+  console.log(`Trộn tiếng: giọng ${vd.toFixed(1)}s + nhạc nền (ducking ${BGM_DUCK}) -> video ${TOTAL}s`);
+  execFileSync('ffmpeg', ['-y', '-loglevel', 'error',
+    '-stream_loop', '-1', '-i', bgmFile,   // lặp vô hạn rồi cắt đúng độ dài video
+    '-i', voiceSrc,
+    '-filter_complex',
+      `[0:a]atrim=0:${TOTAL},asetpts=N/SR/TB,volume=${BGM_DUCK},afade=t=out:st=${fadeAt}:d=1.2[m];`
+      + `[1:a]adelay=${delayMs}|${delayMs}[v];`
+      // normalize=0: amix mặc định chia đều biên độ theo số input, giọng sẽ bị kéo tụt
+      + `[m][v]amix=inputs=2:duration=first:normalize=0[a]`,
+    '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', mixOut], { stdio: 'inherit' });
+
+  audioSrc = 'assets/audio-mix.m4a';
+  audioLoop = false;
+}
+
 function cleanText(str, defaultText = '') {
   if (!str) return defaultText;
   return str.replace(/[.,!?:;]/g, '').trim().toUpperCase();
@@ -258,10 +312,10 @@ const html = `<!doctype html>
     </style>
   </head>
   <body>
-    <div id="root" data-composition-id="main" data-start="0" data-duration="15" data-fps="30" data-width="1080" data-height="1920">
+    <div id="root" data-composition-id="main" data-start="0" data-duration="${TOTAL}" data-fps="30" data-width="1080" data-height="1920">
       <div id="bg"></div>
       <div id="grid"></div>
-      <audio id="bgm" src="assets/bgm.mp4" autoplay loop></audio>
+      <audio id="bgm" src="${audioSrc}" autoplay${audioLoop ? ' loop' : ''}></audio>
       <div id="brand-header">
         <img class="logo-img" src="assets/logo.png" alt="Lucas Combo Logo">
         <span class="title">lucas.vn</span>
@@ -301,14 +355,16 @@ const html = `<!doctype html>
         // 3. Sản phẩm cutout bật lên chỗ vừa trống ra.
         .from('#cutout', { duration: 0.8, y: 700, scale: 0.5, opacity: 0, ease: 'back.out(1.6)' }, 2.6)
         .from('#sticker', { duration: 0.6, x: 500, rotate: 45, opacity: 0, ease: 'power3.out' }, 3.1)
-        .fromTo('#shine', { x: -500 }, { duration: 0.65, x: 1300, ease: 'power2.inOut' }, 3.3)
+        // Tia sáng quét LẶP LẠI suốt clip, không phải vài lần cố định: video dài theo
+        // giọng đọc (18–32s) nên từ giây ~6 trở đi chỉ còn nhịp thở, để yên thì chết hình.
+        .fromTo('#shine', { x: -500 },
+          { duration: 0.65, x: 1300, ease: 'power2.inOut', repeat: -1, repeatDelay: 4.5 }, 3.3)
         .from('#t1', { duration: 0.6, x: -700, opacity: 0, ease: 'power3.out' }, 3.6)
         .from('#t2', { duration: 0.6, x: 700, opacity: 0, ease: 'power3.out' }, 4.3)
         .from('#t3', { duration: 0.6, y: 300, scale: 0.7, opacity: 0, ease: 'back.out(1.5)' }, 5.0)
         // 4. Cả chữ lẫn sản phẩm cùng thở — lệch chu kỳ để khung hình không "đập" cùng nhịp.
         .to('#cutout .prod-img', { duration: 2.0, scale: 1.08, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 5.8)
-        .to('#pain', { duration: 2.4, scale: PAIN_DOCK_SCALE + 0.045, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 5.8)
-        .fromTo('#shine', { x: -500 }, { duration: 0.65, x: 1300, ease: 'power2.inOut' }, 9.5);
+        .to('#pain', { duration: 2.4, scale: PAIN_DOCK_SCALE + 0.045, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 5.8);
 
         // Nét gạch kéo ngang phủ định nỗi đau, kết thúc đúng lúc chữ bắt đầu thu nhỏ.
         tl.to('#pain .strike-line', { duration: 0.4, scaleX: 1, ease: 'power2.out' }, 1.55);
