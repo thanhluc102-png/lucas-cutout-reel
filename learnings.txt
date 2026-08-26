@@ -1,8 +1,8 @@
-- Hook nêu **lợi ích/tính năng gộp nhiều món** ("vừa sạc vừa pin dự phòng", "sạc 3 thiết bị cùng lúc", "ngăn laptop treo chống sốc") cho Score cao nhất (5) — ưu tiên kiểu này.
-- Sản phẩm **sạc/pin/hub đa năng và balo-túi chống sốc laptop** kéo tương tác tốt nhất; tập trung khai thác nhóm này.
-- Hook chạm **nỗi sợ mất mát/tai nạn/hư hỏng chung chung** ("mất hộ chiếu", "vừa lái vừa liếc điện thoại", "mồ hôi ăn mòn nhôm") tương tác thấp (3) — nên tránh hoặc thêm giải pháp cụ thể.
-- Hook dạng **câu hỏi tu từ mơ hồ** ("tẩu sạc có phát nhạc không?", "ốp che luôn mặt đáy không?") hiệu quả kém — thay bằng khẳng định lợi ích rõ ràng.
-- Ưu tiên cấu trúc **"gộp 2-3 công dụng vào 1 món / bớt đồ trong túi"** vì gợi giá trị thực tế, tăng reaction.
-- Hook có **con số cụ thể + hình ảnh va đập/bảo vệ** ("va đập không chạm đáy", "3 thiết bị không chờ nhau") mạnh hơn hook cảm xúc trừu tượng.
-- Không hook nào đạt share/comment cao — cần thêm **CTA khơi bình luận** (hỏi trải nghiệm, tag bạn hay quên đồ) để đẩy Score.
-- Emoji nên gắn đúng ngữ cảnh lợi ích (🔋⚡🎒) thay vì emoji tiêu cực (😰😬😥) vốn đi kèm các hook điểm thấp.
+- Hook nêu **lợi ích cụ thể + con số/tính năng gộp** (2-in-1, sạc 3 thiết bị cùng lúc, treo chống va đập) đạt Score cao nhất (5) — ưu tiên kiểu này.
+- Sản phẩm **sạc/pin dự phòng đa năng** và **balo có ngăn laptop chống sốc** cho tương tác tốt nhất — khai thác mạnh.
+- Hook chạm nỗi đau vật lý rõ ràng ("điện thoại trơn tay rơi", "va đập không chạm đáy") kéo Reactions=2 — dùng hình ảnh cụ thể, dễ mường tượng.
+- Tránh hook **hù dọa mơ hồ, xa lạ** ("mất hộ chiếu", "tẩu sạc phát nhạc?") — Score thấp nhất (3), không ai thấy mình trong đó.
+- Tránh hook về **mòn nhôm/xước máy Mac** lặp đi lặp lại ("mồ hôi tay ăn mòn", "cổ tay tì nhôm", "màn ăn xước") — bão hòa, Reactions=0.
+- Ưu tiên **câu khẳng định lợi ích** hơn câu hỏi dồn dập — câu hỏi tu từ dễ rơi vào Score 3-4.
+- Chèn **tình huống đời thường quen thuộc** (đi làm, đi công tác 2-3 ngày, sạc nhiều thiết bị) thay vì kịch bản hiếm gặp.
+- Không có share nào đạt được → thêm **yếu tố đáng khoe/bất ngờ** (tiết kiệm không gian, gộp nhiều món) để kích share.
