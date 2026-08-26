@@ -1,8 +1,15 @@
-- Hook nêu **lợi ích cụ thể + con số/tính năng gộp** (2-in-1, sạc 3 thiết bị cùng lúc, treo chống va đập) đạt Score cao nhất (5) — ưu tiên kiểu này.
-- Sản phẩm **sạc/pin dự phòng đa năng** và **balo có ngăn laptop chống sốc** cho tương tác tốt nhất — khai thác mạnh.
-- Hook chạm nỗi đau vật lý rõ ràng ("điện thoại trơn tay rơi", "va đập không chạm đáy") kéo Reactions=2 — dùng hình ảnh cụ thể, dễ mường tượng.
-- Tránh hook **hù dọa mơ hồ, xa lạ** ("mất hộ chiếu", "tẩu sạc phát nhạc?") — Score thấp nhất (3), không ai thấy mình trong đó.
-- Tránh hook về **mòn nhôm/xước máy Mac** lặp đi lặp lại ("mồ hôi tay ăn mòn", "cổ tay tì nhôm", "màn ăn xước") — bão hòa, Reactions=0.
-- Ưu tiên **câu khẳng định lợi ích** hơn câu hỏi dồn dập — câu hỏi tu từ dễ rơi vào Score 3-4.
-- Chèn **tình huống đời thường quen thuộc** (đi làm, đi công tác 2-3 ngày, sạc nhiều thiết bị) thay vì kịch bản hiếm gặp.
-- Không có share nào đạt được → thêm **yếu tố đáng khoe/bất ngờ** (tiết kiệm không gian, gộp nhiều món) để kích share.
+- **Không đủ Share/Comment để đánh giá mạnh**: mọi hook chỉ chênh nhau ở Reactions (0-2), Score dao động 3-5 → tối ưu vào yếu tố kéo Reactions.
+
+- **Hook "giải pháp tiện ích" thắng (Score 5)**: kiểu "2-trong-1", "sạc nhiều thiết bị cùng lúc", "va đập không chạm đáy", "chống trơn rơi" → nêu lợi ích cụ thể + con số → nhồi loại này nhiều nhất.
+
+- **Hook "cảnh báo hư hỏng máy" kém nhất (Score 3)**: kiểu "mồ hôi ăn mòn nhôm", "màn ăn xước mỗi ngày", "cổ tay mài mòn máy" → dọa mơ hồ, Reactions=0 → tránh hoặc phải gắn giải pháp rõ ràng.
+
+- **Ưu tiên hook nêu tình huống đau + lợi ích tức thì** (rơi điện thoại khi lái xe, bảo vệ laptop khỏi va đập) hơn hook chỉ chê sản phẩm cũ ("ốp dày cui", "ngăn laptop mỏng lét").
+
+- **Có con số cụ thể tăng sức hút**: "3 thiết bị cùng lúc", "bớt 2 món", "đi 2-3 ngày một balo" cho Reactions cao hơn hook chung chung.
+
+- **Emoji tích cực/năng lượng (⚡🔋🎒) đi kèm giải pháp** hiệu quả hơn emoji lo lắng (😬😥) đi kèm cảnh báo suông.
+
+- **Sản phẩm sạc/pin dự phòng đa năng và balo chống sốc laptop** là nhóm ăn tương tác tốt nhất → khai thác thêm góc "gộp nhiều chức năng", "bảo vệ khi va đập".
+
+- **Cấu trúc nên dùng**: [tình huống đau quen thuộc] → [lợi ích/giải pháp cụ thể có số] → [emoji hành động], tránh dừng ở câu hỏi dọa mà không mở giải pháp.
