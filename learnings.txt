@@ -1,15 +1,15 @@
-- **Không đủ Share/Comment để đánh giá mạnh**: mọi hook chỉ chênh nhau ở Reactions (0-2), Score dao động 3-5 → tối ưu vào yếu tố kéo Reactions.
+- **Hook về sạc/pin (đa năng, tiết kiệm món đồ) đạt điểm cao nhất (Score 5):** ưu tiên viết cho phụ kiện sạc/pin dự phòng, nhấn "gộp nhiều thành một", "không phải chờ nhau".
 
-- **Hook "giải pháp tiện ích" thắng (Score 5)**: kiểu "2-trong-1", "sạc nhiều thiết bị cùng lúc", "va đập không chạm đáy", "chống trơn rơi" → nêu lợi ích cụ thể + con số → nhồi loại này nhiều nhất.
+- **Hook nêu nỗi đau vật lý cụ thể + hậu quả (rơi, va đập, nứt máy) hiệu quả:** "trơn tay rơi", "va đập không chạm đáy" đạt Score 5.
 
-- **Hook "cảnh báo hư hỏng máy" kém nhất (Score 3)**: kiểu "mồ hôi ăn mòn nhôm", "màn ăn xước mỗi ngày", "cổ tay mài mòn máy" → dọa mơ hồ, Reactions=0 → tránh hoặc phải gắn giải pháp rõ ràng.
+- **Balo/ngăn laptop chống sốc bán tốt khi mô tả tình huống thật:** giữ mô-típ "ngăn treo, không chạm đáy", "sát đáy = nứt máy".
 
-- **Ưu tiên hook nêu tình huống đau + lợi ích tức thì** (rơi điện thoại khi lái xe, bảo vệ laptop khỏi va đập) hơn hook chỉ chê sản phẩm cũ ("ốp dày cui", "ngăn laptop mỏng lét").
+- **Tránh hook chỉ dọa xước/mòn máy chung chung (mồ hôi tay, cổ tay tì nhôm, màn ăn xước):** toàn Score 3, cảm giác mơ hồ, không thúc đẩy phản ứng.
 
-- **Có con số cụ thể tăng sức hút**: "3 thiết bị cùng lúc", "bớt 2 món", "đi 2-3 ngày một balo" cho Reactions cao hơn hook chung chung.
+- **Tránh hook về ốp mỏng/dày cho iPhone (Air, 17):** đều Score 3, thị trường quá bão hòa, ít cảm xúc.
 
-- **Emoji tích cực/năng lượng (⚡🔋🎒) đi kèm giải pháp** hiệu quả hơn emoji lo lắng (😬😥) đi kèm cảnh báo suông.
+- **Câu hỏi khơi tò mò lạ ("tẩu sạc có phát nhạc không?") gây comment nhưng thiếu reaction:** dùng tiết chế, cần thêm lợi ích rõ ràng.
 
-- **Sản phẩm sạc/pin dự phòng đa năng và balo chống sốc laptop** là nhóm ăn tương tác tốt nhất → khai thác thêm góc "gộp nhiều chức năng", "bảo vệ khi va đập".
+- **Công thức thắng: [Nỗi đau cụ thể/tình huống thật] + [emoji cảm xúc] + [ngụ ý giải pháp gộp/bảo vệ]**, hướng đến sạc-pin và balo chống sốc.
 
-- **Cấu trúc nên dùng**: [tình huống đau quen thuộc] → [lợi ích/giải pháp cụ thể có số] → [emoji hành động], tránh dừng ở câu hỏi dọa mà không mở giải pháp.
+- **Chưa video nào có Share:** thêm yếu tố "đáng khoe/mẹo hữu ích" để kích chia sẻ, không chỉ dừng ở dọa nỗi đau.
