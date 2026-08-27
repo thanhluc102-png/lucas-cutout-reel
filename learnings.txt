@@ -1,15 +1,15 @@
-- **Hook về sạc/pin (đa năng, tiết kiệm món đồ) đạt điểm cao nhất (Score 5):** ưu tiên viết cho phụ kiện sạc/pin dự phòng, nhấn "gộp nhiều thành một", "không phải chờ nhau".
+- Score toàn bộ dao động thấp (3–6), chênh lệch nhỏ → Reactions là biến số quyết định thứ hạng, Shares=0 tuyệt đối, Comments gần như luôn =1.
 
-- **Hook nêu nỗi đau vật lý cụ thể + hậu quả (rơi, va đập, nứt máy) hiệu quả:** "trơn tay rơi", "va đập không chạm đáy" đạt Score 5.
+- Hook đạt Score cao nhất (5–6) đều nói về **lợi ích gộp/đa năng** hoặc **hậu quả cụ thể dễ hình dung**: "vừa sạc vừa pin dự phòng", "sạc 3 thiết bị cùng lúc", "ngăn laptop sát đáy làm nứt máy", "ốp dày làm iPhone nặng trịch".
 
-- **Balo/ngăn laptop chống sốc bán tốt khi mô tả tình huống thật:** giữ mô-típ "ngăn treo, không chạm đáy", "sát đáy = nứt máy".
+- Sản phẩm sạc/pin đa năng và bảo vệ laptop trong balo cho tương tác tốt nhất → ưu tiên nhóm này.
 
-- **Tránh hook chỉ dọa xước/mòn máy chung chung (mồ hôi tay, cổ tay tì nhôm, màn ăn xước):** toàn Score 3, cảm giác mơ hồ, không thúc đẩy phản ứng.
+- Hook dạng câu hỏi mơ hồ, cảm xúc chung chung ("Ví rơi ở đâu không biết", "tẩu sạc phát nhạc không") cho Score thấp (3–4) → tránh câu hỏi thiếu hậu quả rõ.
 
-- **Tránh hook về ốp mỏng/dày cho iPhone (Air, 17):** đều Score 3, thị trường quá bão hòa, ít cảm xúc.
+- Nêu **con số + tình huống thực** ("iPhone 17", "MacBook Neo", "3 thiết bị", "5 triệu") tăng tương tác → gắn model/số liệu cụ thể.
 
-- **Câu hỏi khơi tò mò lạ ("tẩu sạc có phát nhạc không?") gây comment nhưng thiếu reaction:** dùng tiết chế, cần thêm lợi ích rõ ràng.
+- Hook khơi **nỗi sợ mất tiền/hỏng máy đắt** ("nứt máy", "xước lưng", "ăn mòn nhôm") hiệu quả hơn nỗi phiền nhẹ ("trơn tay", "kéo thêm vali").
 
-- **Công thức thắng: [Nỗi đau cụ thể/tình huống thật] + [emoji cảm xúc] + [ngụ ý giải pháp gộp/bảo vệ]**, hướng đến sạc-pin và balo chống sốc.
+- Emoji 😮‍💨 và 😬 xuất hiện ở cả hook cao lẫn thấp → emoji không phải yếu tố quyết định, nội dung mới là chính.
 
-- **Chưa video nào có Share:** thêm yếu tố "đáng khoe/mẹo hữu ích" để kích chia sẻ, không chỉ dừng ở dọa nỗi đau.
+- Công thức nên nhân bản: [Thiết bị đắt tiền cụ thể] + [hậu quả hư hỏng/lãng phí rõ ràng] HOẶC [lợi ích gộp nhiều món thành một] → tránh hook trừu tượng, không số liệu.
