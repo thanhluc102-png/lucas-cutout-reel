@@ -1,15 +1,8 @@
-- Score toàn bộ dao động thấp (3–6), chênh lệch nhỏ → Reactions là biến số quyết định thứ hạng, Shares=0 tuyệt đối, Comments gần như luôn =1.
-
-- Hook đạt Score cao nhất (5–6) đều nói về **lợi ích gộp/đa năng** hoặc **hậu quả cụ thể dễ hình dung**: "vừa sạc vừa pin dự phòng", "sạc 3 thiết bị cùng lúc", "ngăn laptop sát đáy làm nứt máy", "ốp dày làm iPhone nặng trịch".
-
-- Sản phẩm sạc/pin đa năng và bảo vệ laptop trong balo cho tương tác tốt nhất → ưu tiên nhóm này.
-
-- Hook dạng câu hỏi mơ hồ, cảm xúc chung chung ("Ví rơi ở đâu không biết", "tẩu sạc phát nhạc không") cho Score thấp (3–4) → tránh câu hỏi thiếu hậu quả rõ.
-
-- Nêu **con số + tình huống thực** ("iPhone 17", "MacBook Neo", "3 thiết bị", "5 triệu") tăng tương tác → gắn model/số liệu cụ thể.
-
-- Hook khơi **nỗi sợ mất tiền/hỏng máy đắt** ("nứt máy", "xước lưng", "ăn mòn nhôm") hiệu quả hơn nỗi phiền nhẹ ("trơn tay", "kéo thêm vali").
-
-- Emoji 😮‍💨 và 😬 xuất hiện ở cả hook cao lẫn thấp → emoji không phải yếu tố quyết định, nội dung mới là chính.
-
-- Công thức nên nhân bản: [Thiết bị đắt tiền cụ thể] + [hậu quả hư hỏng/lãng phí rõ ràng] HOẶC [lợi ích gộp nhiều món thành một] → tránh hook trừu tượng, không số liệu.
+- Score cao nhất (5-6) rơi vào hook về **sạc/pin đa năng** (gộp nhiều món) và **balo/laptop bị va đập nứt máy** — ưu tiên nhóm chủ đề này.
+- Hook "nỗi đau tài chính + hậu quả cụ thể" (VD: "Balo 5 triệu mà ngăn mỏng lét?", "công thức làm nứt máy") kéo Reactions cao hơn hook mô tả chung chung.
+- Hook đặt **câu hỏi chạm trực tiếp thói quen hằng ngày** ("Sạc 3 thiết bị cùng lúc?", "Cầm 2 túi mỗi sáng?") tạo comment tốt, nên giữ dạng câu hỏi.
+- Hook nhấn **"gộp/bớt món"** ("vừa sạc vừa pin dự phòng — bớt 2 món") đạt Score 5, tận dụng góc tiện lợi tối giản.
+- Tránh hook **mô tả nỗi đau mòn/xước quá kỹ thuật** ("mồ hôi ăn mòn nhôm", "cổ tay tì lên nhôm lạnh") — Score chỉ 3, cảm giác cường điệu, khó đồng cảm.
+- Tránh **lặp lại motif "😬 xước/nứt máy"** quá nhiều lần vì đã bão hòa, tương tác tụt về 3.
+- Emoji 🔋⚡ (năng lượng) hiệu quả hơn 😬 (lo âu) — ưu tiên emoji gợi giải pháp thay vì sợ hãi.
+- Shares luôn = 0: cần thêm yếu tố **đáng chia sẻ** (mẹo, so sánh giá, "gửi ngay cho đứa hay làm rơi máy") để nâng Score.
