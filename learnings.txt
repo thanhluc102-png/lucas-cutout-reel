@@ -1,15 +1,15 @@
-- **Nhóm sản phẩm mạnh nhất:** balo & túi (ngăn laptop, chống sốc, chống nước) và sạc/pin đa năng — Score 4-5 đều đặn; ưu tiên viết cho 2 nhóm này.
+- Hook nêu **nỗi đau tài chính "phí phạm tiền"** (balo 5tr, phụ kiện đắt mà vô dụng) và **mất tính năng cốt lõi** (ốp làm iPhone hết mỏng/nặng) cho Score cao — ưu tiên khai thác.
 
-- **Hook "chi phí cao nhất":** mô tả cảnh laptop nứt/ướt/xước do lỗi thiết kế balo (đặt sát đáy, chung ngăn chìa khoá) cho Score cao (5) — dùng nỗi sợ hư hỏng tài sản đắt tiền.
+- **Phụ kiện sạc/pin đa năng** (2-in-1, sạc nhiều thiết bị cùng lúc) đạt Reactions cao ổn định (2 reactions) — nên đẩy mạnh, gắn lợi ích "bớt món trong túi".
 
-- **Hook combo tiết kiệm:** "bớt được 2 món", "sạc nhiều thiết bị cùng lúc không chờ nhau" đạt Score 5 — nhấn lợi ích gộp nhiều chức năng vào một.
+- Hook chạm **rủi ro hư hỏng cụ thể, dễ hình dung** (nứt máy, laptop ướt nhẹp, va đập với chìa khoá) tốt hơn hook mòn/xước chung chung — thêm chi tiết cảm giác "ám ảnh".
 
-- **Hook gây tranh luận/chọc tức nhẹ** (ốp dày làm iPhone hết mỏng, nặng trịch) kéo nhiều comment (Score 6 cao nhất) — thêm chi tiết đối lập "mua đắt mà vẫn tệ" để kích bình luận.
+- **Hook gây tranh cãi/thách thức** ("Đừng liều", "đựng làm gì?", câu hỏi khiêu khích) kéo comment tốt — dùng câu hỏi phản biện thẳng.
 
-- **Tránh hook quá lạ/khó liên hệ:** "tẩu sạc phát nhạc" chỉ Score 3 — bỏ kiểu gimmick không chạm nhu cầu thật.
+- Hook **mòn nhôm / xước lưng / mồ hôi tay** (miếng dán, ốp bảo vệ) cho Score thấp nhất (3) — tránh lặp mô-típ "ăn mòn/xước" đơn điệu, đổi sang góc bất ngờ.
 
-- **Tránh hook "ăn mòn/xước" chung chung** cho MacBook (mồ hôi tay, cổ tay tì nhôm, màn ăn xước) — lặp lại nhiều, Score thấp 3; nếu dùng phải gắn hậu quả cụ thể + con số.
+- Emoji cảm xúc mạnh (😮‍💨 😤 👀) nhích tương tác hơn 🎒 chung chung — chọn emoji khơi gợi khó chịu/tò mò.
 
-- **Công thức chữ hiệu quả:** câu hỏi khơi nỗi đau/tình huống thật → gợi thiệt hại tiền bạc → 1 emoji cảm xúc (😬🎒🔋⚡) cuối câu, giữ dưới 20 từ.
+- Toàn bộ Shares=0 và Comments≈1: nội dung **chưa đủ giá trị để chia sẻ** — thêm mẹo hữu ích / con số / phép so sánh gây sốc để tăng Share (yếu tố nặng điểm nhất).
 
-- **Chốt ưu tiên viết:** balo bảo vệ laptop + phụ kiện sạc gộp chức năng; hạn chế ốp/dán màn trừ khi có góc chọc tức hoặc tình huống rình mò riêng tư (👀).
+- Hook nên **cá nhân hoá "của bạn"** + **mô tả hành động đang diễn ra hằng ngày** ("đang ăn xước mỗi ngày", "người bên cạnh đang đọc") để tăng đồng cảm.
