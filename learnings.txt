@@ -1,8 +1,15 @@
-- Ưu tiên hook nêu "nỗi đau kép/mất mát cụ thể" (nứt máy, ướt laptop, nặng trịch trong túi) — nhóm này đạt Score 5-6 cao nhất.
-- Chèn con số/tình huống định lượng ("2-3 ngày một balo", "sạc 3 thiết bị cùng lúc", "balo 5 triệu") để tăng phản hồi rõ rệt.
-- Nhấn lợi ích "gộp nhiều món làm một" (vừa sạc vừa pin dự phòng) — kích Reactions tốt nhất.
-- Ưu tiên sản phẩm: pin/sạc đa năng và balo chống sốc laptop — cho tương tác trội hơn ốp lưng.
-- Kết hook bằng câu hỏi hoặc cảnh báo hậu quả ("là công thức làm nứt máy", "va đập là xước?") để đẩy Comments lên.
-- Tránh hook chê ốp dày chung chung ("giấu thiết kế", "hết mỏng") — đều tụt về Score 3.
-- Tránh câu hỏi nhẹ, thiếu hậu quả cụ thể (tẩu sạc phát nhạc, ốp che mặt đáy) — tương tác thấp.
-- Không có share nào đạt được: thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, so sánh sốc, giá trị hữu ích) vào cuối hook.
+- **Nhóm sản phẩm mạnh nhất:** balo & túi (ngăn laptop, chống sốc, chống nước) và sạc/pin đa năng — Score 4-5 đều đặn; ưu tiên viết cho 2 nhóm này.
+
+- **Hook "chi phí cao nhất":** mô tả cảnh laptop nứt/ướt/xước do lỗi thiết kế balo (đặt sát đáy, chung ngăn chìa khoá) cho Score cao (5) — dùng nỗi sợ hư hỏng tài sản đắt tiền.
+
+- **Hook combo tiết kiệm:** "bớt được 2 món", "sạc nhiều thiết bị cùng lúc không chờ nhau" đạt Score 5 — nhấn lợi ích gộp nhiều chức năng vào một.
+
+- **Hook gây tranh luận/chọc tức nhẹ** (ốp dày làm iPhone hết mỏng, nặng trịch) kéo nhiều comment (Score 6 cao nhất) — thêm chi tiết đối lập "mua đắt mà vẫn tệ" để kích bình luận.
+
+- **Tránh hook quá lạ/khó liên hệ:** "tẩu sạc phát nhạc" chỉ Score 3 — bỏ kiểu gimmick không chạm nhu cầu thật.
+
+- **Tránh hook "ăn mòn/xước" chung chung** cho MacBook (mồ hôi tay, cổ tay tì nhôm, màn ăn xước) — lặp lại nhiều, Score thấp 3; nếu dùng phải gắn hậu quả cụ thể + con số.
+
+- **Công thức chữ hiệu quả:** câu hỏi khơi nỗi đau/tình huống thật → gợi thiệt hại tiền bạc → 1 emoji cảm xúc (😬🎒🔋⚡) cuối câu, giữ dưới 20 từ.
+
+- **Chốt ưu tiên viết:** balo bảo vệ laptop + phụ kiện sạc gộp chức năng; hạn chế ốp/dán màn trừ khi có góc chọc tức hoặc tình huống rình mò riêng tư (👀).
