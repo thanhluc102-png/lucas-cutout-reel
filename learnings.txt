@@ -1,15 +1,8 @@
-- Hook nêu **nỗi đau tài chính "phí phạm tiền"** (balo 5tr, phụ kiện đắt mà vô dụng) và **mất tính năng cốt lõi** (ốp làm iPhone hết mỏng/nặng) cho Score cao — ưu tiên khai thác.
-
-- **Phụ kiện sạc/pin đa năng** (2-in-1, sạc nhiều thiết bị cùng lúc) đạt Reactions cao ổn định (2 reactions) — nên đẩy mạnh, gắn lợi ích "bớt món trong túi".
-
-- Hook chạm **rủi ro hư hỏng cụ thể, dễ hình dung** (nứt máy, laptop ướt nhẹp, va đập với chìa khoá) tốt hơn hook mòn/xước chung chung — thêm chi tiết cảm giác "ám ảnh".
-
-- **Hook gây tranh cãi/thách thức** ("Đừng liều", "đựng làm gì?", câu hỏi khiêu khích) kéo comment tốt — dùng câu hỏi phản biện thẳng.
-
-- Hook **mòn nhôm / xước lưng / mồ hôi tay** (miếng dán, ốp bảo vệ) cho Score thấp nhất (3) — tránh lặp mô-típ "ăn mòn/xước" đơn điệu, đổi sang góc bất ngờ.
-
-- Emoji cảm xúc mạnh (😮‍💨 😤 👀) nhích tương tác hơn 🎒 chung chung — chọn emoji khơi gợi khó chịu/tò mò.
-
-- Toàn bộ Shares=0 và Comments≈1: nội dung **chưa đủ giá trị để chia sẻ** — thêm mẹo hữu ích / con số / phép so sánh gây sốc để tăng Share (yếu tố nặng điểm nhất).
-
-- Hook nên **cá nhân hoá "của bạn"** + **mô tả hành động đang diễn ra hằng ngày** ("đang ăn xước mỗi ngày", "người bên cạnh đang đọc") để tăng đồng cảm.
+- Hook chạm nỗi đau cụ thể + hình ảnh hư hại rõ ("xước, nứt, va đập, ướt nhẹp") cho điểm cao nhất — luôn mô tả hậu quả có thể hình dung.
+- Chủ đề bảo vệ laptop trong balo (ngăn chống sốc, va đập) là mảng ăn khách nhất, ưu tiên khai thác.
+- Nhóm phụ kiện ốp/iPhone hiệu quả khi đánh vào "ốp dày làm mất mỏng/nặng/giấu thiết kế" — đánh vào cái tôi thẩm mỹ, không đánh vào chống sốc.
+- Câu hỏi tu từ dồn người xem vào thế "đúng rồi, mình đang gặp" kéo comment tốt (kết thúc bằng dấu "?").
+- Chèn tình huống đời thường cụ thể (đi mưa, phòng họp, cả bàn 6 thiết bị) tăng đồng cảm và tương tác.
+- Tránh hook chung chung về sạc/pin/gọn nhẹ ("bớt 2 món", "sợ hết pin") — điểm thấp, thiếu nỗi đau sắc bén.
+- Emoji cảm xúc lo lắng (😬😮‍💨😤) hợp hook nỗi đau, tăng độ đồng cảm hơn emoji trung tính (🔋🔌).
+- Chưa hook nào tạo được Share — thử thêm yếu tố "mẹo/cảnh báo đáng lưu lại" để kích chia sẻ.
