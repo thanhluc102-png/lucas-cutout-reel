@@ -1,8 +1,8 @@
-- Hook chạm nỗi đau cụ thể + hình ảnh hư hại rõ ("xước, nứt, va đập, ướt nhẹp") cho điểm cao nhất — luôn mô tả hậu quả có thể hình dung.
-- Chủ đề bảo vệ laptop trong balo (ngăn chống sốc, va đập) là mảng ăn khách nhất, ưu tiên khai thác.
-- Nhóm phụ kiện ốp/iPhone hiệu quả khi đánh vào "ốp dày làm mất mỏng/nặng/giấu thiết kế" — đánh vào cái tôi thẩm mỹ, không đánh vào chống sốc.
-- Câu hỏi tu từ dồn người xem vào thế "đúng rồi, mình đang gặp" kéo comment tốt (kết thúc bằng dấu "?").
-- Chèn tình huống đời thường cụ thể (đi mưa, phòng họp, cả bàn 6 thiết bị) tăng đồng cảm và tương tác.
-- Tránh hook chung chung về sạc/pin/gọn nhẹ ("bớt 2 món", "sợ hết pin") — điểm thấp, thiếu nỗi đau sắc bén.
-- Emoji cảm xúc lo lắng (😬😮‍💨😤) hợp hook nỗi đau, tăng độ đồng cảm hơn emoji trung tính (🔋🔌).
-- Chưa hook nào tạo được Share — thử thêm yếu tố "mẹo/cảnh báo đáng lưu lại" để kích chia sẻ.
+- Ưu tiên hook "nỗi đau va đập/xước máy" cho balo & ốp: gợi rủi ro cụ thể (laptop nứt, xước lưng, chung ngăn chìa khoá) cho Score cao nhất (5-7).
+- Kích comment bằng câu hỏi trực tiếp kết thúc bằng "?" — nhóm này kéo Score 6-7 (comment nhân 3).
+- Chèn chi tiết đắt tiền tương phản ("balo 5 triệu ngăn mỏng lét", "MacBook Neo mới cứng") để tăng đồng cảm và phản ứng.
+- Dùng emoji cảm xúc tiêu cực (😬 😮‍💨 😤) đầu/cuối hook — gắn với các hook đau điểm cho tương tác tốt hơn emoji trung tính.
+- Tránh hook lợi ích chung chung về sạc/pin ("vừa sạc vừa pin", "sạc cùng lúc") — chỉ đạt Score 3-5, thiếu nỗi đau nhọn.
+- Tránh liệt kê thông số khô ("6 thiết bị 1 tẩu 20W") — Score thấp (3), không tạo cảm xúc.
+- Thêm yếu tố "người khác nhìn/bị lộ" (đọc lén màn hình, giấu thiết kế iPhone) — chạm sĩ diện, Score khá (4-5).
+- Công thức mạnh nhất: [Món đồ đắt] + [tình huống hỏng cụ thể] + [câu hỏi] + [emoji lo lắng].
