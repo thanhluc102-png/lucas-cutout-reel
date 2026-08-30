@@ -1,8 +1,8 @@
-- Hook nêu tác hại/rủi ro CỤ THỂ (nứt máy, xước lưng, nặng trịch túi) cho score cao nhất (5-6); tránh hook chung chung, mơ hồ.
-- Chủ đề ỐP iPhone (mỏng/dày/nặng) và NGĂN LAPTOP trong balo (đặt sát đáy, va đập) hút tương tác mạnh nhất — ưu tiên khai thác.
-- Sạc đa thiết bị cùng lúc (score 5) ăn khách; nhưng "tìm sạc, 1 tẩu 20W" lại yếu — nhấn vào tiện lợi tức thì hơn là mô tả tình huống.
-- Câu hỏi xoáy vào nỗi đau tài chính ("balo 5 triệu mà mỏng lét") hoặc thẩm mỹ ("giấu thiết kế iPhone") kích comment tốt.
-- Emoji cảm xúc 😬😮‍💨 kết hợp câu ngắn, giật gân giúp tăng phản ứng; giữ 1 emoji cuối câu.
-- Hook về màn hình bị người khác nhìn/xước (privacy, trầy) trung bình — chỉ dùng xen kẽ, không lạm dụng.
-- Tránh hook kể lể dài, thiếu con số hoặc hình ảnh đắt (vd "đi mưa laptop ướt", "cầm 2 túi") vì score thấp (3).
-- Không có share nào đạt được → thêm yếu tố "đáng chia sẻ": tip bất ngờ, con số sốc, hoặc lời cảnh báo để bạn bè cùng tránh.
+- Hook có con số cụ thể ("Balo 5 triệu", "20W", "6 thiết bị", "2 túi") kích thích chú ý — ưu tiên chèn số vào câu mở.
+- Chủ đề bảo vệ/hư hỏng thiết bị (laptop nứt, xước, ướt) và ốp dày làm mất thẩm mỹ iPhone cho score cao nhất (5-6) — khai thác mạnh nỗi sợ hỏng + mất đẹp.
+- Hook gợi tình huống trớ trêu hằng ngày ("người bên cạnh đọc màn hình", "ngăn laptop sát đáy") tạo tò mò tốt hơn hook chung chung về sạc.
+- Nhóm sản phẩm sạc/tẩu đa cổng cho score thấp (đa số =3) khi viết kiểu than phiền chung — cần cụ thể hóa bằng con số thiết bị/tình huống mới ăn tương tác.
+- Câu hỏi tu từ + emoji cảm xúc (😬 😮‍💨) hiệu quả; nhưng emoji đơn thuần không cứu hook nhạt.
+- Nhắc đích danh dòng máy hot (iPhone 17, iPhone Air, MacBook) tăng liên quan và tương tác — luôn gắn tên model cụ thể.
+- Tránh hook mô tả nhu cầu mơ hồ ("đi cả ngày sợ hết pin", "lộn tung tìm sạc") vì score thấp — thay bằng hậu quả cụ thể, gây ám ảnh.
+- Toàn bộ Shares=0: cần thêm yếu tố "mẹo hữu ích/đáng lưu lại" để tăng chia sẻ, đừng chỉ dừng ở than phiền.
