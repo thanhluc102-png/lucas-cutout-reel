@@ -1,8 +1,15 @@
-- Hook có con số cụ thể ("Balo 5 triệu", "20W", "6 thiết bị", "2 túi") kích thích chú ý — ưu tiên chèn số vào câu mở.
-- Chủ đề bảo vệ/hư hỏng thiết bị (laptop nứt, xước, ướt) và ốp dày làm mất thẩm mỹ iPhone cho score cao nhất (5-6) — khai thác mạnh nỗi sợ hỏng + mất đẹp.
-- Hook gợi tình huống trớ trêu hằng ngày ("người bên cạnh đọc màn hình", "ngăn laptop sát đáy") tạo tò mò tốt hơn hook chung chung về sạc.
-- Nhóm sản phẩm sạc/tẩu đa cổng cho score thấp (đa số =3) khi viết kiểu than phiền chung — cần cụ thể hóa bằng con số thiết bị/tình huống mới ăn tương tác.
-- Câu hỏi tu từ + emoji cảm xúc (😬 😮‍💨) hiệu quả; nhưng emoji đơn thuần không cứu hook nhạt.
-- Nhắc đích danh dòng máy hot (iPhone 17, iPhone Air, MacBook) tăng liên quan và tương tác — luôn gắn tên model cụ thể.
-- Tránh hook mô tả nhu cầu mơ hồ ("đi cả ngày sợ hết pin", "lộn tung tìm sạc") vì score thấp — thay bằng hậu quả cụ thể, gây ám ảnh.
-- Toàn bộ Shares=0: cần thêm yếu tố "mẹo hữu ích/đáng lưu lại" để tăng chia sẻ, đừng chỉ dừng ở than phiền.
+- **Hook nhắm iPhone/ốp lưng cho tương tác cao nhất** (Score 5-6): công thức "ốp dày cui làm iPhone [nặng/mất mỏng/giấu thiết kế]" — đánh vào tiếc nuối thẩm mỹ, luôn kèm số máy cụ thể (17, Air).
+
+- **Hook về sạc đa thiết bị cùng lúc** đạt Score cao (5): nhấn "sạc nhiều món không chờ nhau", "cả bàn 6 thiết bị 1 tẩu 20W" — cụ thể hóa con số gây tức giận nhẹ.
+
+- **Hook balo/chống sốc laptop mô tả tai nạn cụ thể** (nứt máy, ngăn sát đáy) đạt Score 5, mạnh hơn kiểu chung chung "lo xước lo va đập" (Score 3-4).
+
+- **Chèn số cụ thể + tình huống đau đớn hữu hình** (nứt, xước, ướt nhẹp, rớt lăn lóc) kéo tương tác lên; hook trừu tượng/mơ hồ rớt xuống Score 3.
+
+- **Emoji cảm xúc mạnh (😤😮‍💨😬) + câu hỏi xoáy nỗi đau** hiệu quả hơn emoji trung tính (🔋🔌🚗) vốn toàn Score 3.
+
+- **Nên tránh**: hook về pin/sạc dự phòng chung chung, sạc trên ô tô, "xách ổ điện" — đều Score 3, nỗi đau nhạt, không gợi hình.
+
+- **Tránh hook liệt kê tính năng phẳng** ("đi cả ngày sợ hết pin"); ưu tiên khơi mâu thuẫn cụ thể ("balo 5 triệu mà ngăn mỏng lét").
+
+- **Không có share nào** → thêm yếu tố gây tranh luận/gắn tag bạn bè để đẩy chỉ số nặng nhất; hiện chỉ dừng ở 1 comment/bài.
