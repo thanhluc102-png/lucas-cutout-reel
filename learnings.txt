@@ -1,15 +1,8 @@
-- **Hook nhắm iPhone/ốp lưng cho tương tác cao nhất** (Score 5-6): công thức "ốp dày cui làm iPhone [nặng/mất mỏng/giấu thiết kế]" — đánh vào tiếc nuối thẩm mỹ, luôn kèm số máy cụ thể (17, Air).
-
-- **Hook về sạc đa thiết bị cùng lúc** đạt Score cao (5): nhấn "sạc nhiều món không chờ nhau", "cả bàn 6 thiết bị 1 tẩu 20W" — cụ thể hóa con số gây tức giận nhẹ.
-
-- **Hook balo/chống sốc laptop mô tả tai nạn cụ thể** (nứt máy, ngăn sát đáy) đạt Score 5, mạnh hơn kiểu chung chung "lo xước lo va đập" (Score 3-4).
-
-- **Chèn số cụ thể + tình huống đau đớn hữu hình** (nứt, xước, ướt nhẹp, rớt lăn lóc) kéo tương tác lên; hook trừu tượng/mơ hồ rớt xuống Score 3.
-
-- **Emoji cảm xúc mạnh (😤😮‍💨😬) + câu hỏi xoáy nỗi đau** hiệu quả hơn emoji trung tính (🔋🔌🚗) vốn toàn Score 3.
-
-- **Nên tránh**: hook về pin/sạc dự phòng chung chung, sạc trên ô tô, "xách ổ điện" — đều Score 3, nỗi đau nhạt, không gợi hình.
-
-- **Tránh hook liệt kê tính năng phẳng** ("đi cả ngày sợ hết pin"); ưu tiên khơi mâu thuẫn cụ thể ("balo 5 triệu mà ngăn mỏng lét").
-
-- **Không có share nào** → thêm yếu tố gây tranh luận/gắn tag bạn bè để đẩy chỉ số nặng nhất; hiện chỉ dừng ở 1 comment/bài.
+- Ưu tiên hook về ốp iPhone (mỏng/nặng/giấu thiết kế) và sạc đa thiết bị: nhóm điểm cao nhất (Score 5-6).
+- Câu hỏi "đau" chạm trực tiếp nỗi sợ cụ thể (nứt máy, ăn xước, nặng trịch) kéo comment tốt hơn mô tả chung chung.
+- Chốt bằng con số/tình huống trần trụi ("6 thiết bị 1 tẩu 20W", "2 túi mỗi sáng") tạo tương tác hơn lời khuyên mờ nhạt.
+- Emoji cảm xúc mạnh (😤😮‍💨🤏) đi kèm nỗi bực bội cho điểm nhỉnh hơn emoji trung tính (🎒🔌).
+- Tránh hook balo dạng liệt kê lỗi rẻ tiền (quai đứt, sát đáy, ướt nhẹp): lặp nhiều, điểm thấp đều (Score 3).
+- Tránh mở bằng mô tả sản phẩm thay vì nỗi đau người dùng; hook nêu vấn đề cá nhân hoá ("của bạn") ăn điểm hơn.
+- Giữ hook 1 câu, 1 nỗi đau duy nhất, kết bằng dấu hỏi hoặc chấm lửng gợi tò mò.
+- Chưa có share nào: thử thêm yếu tố "gửi cho đứa hay làm xước máy" để kích chia sẻ.
