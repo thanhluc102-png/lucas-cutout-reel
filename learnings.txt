@@ -1,15 +1,8 @@
-- **Score cao nhất (5-6) đến từ hook có "bối cảnh khổ" cụ thể + tình huống đời thường**: lái xe cắm dây rớt điện thoại (6), iPhone nặng trịch trong túi (6), laptop sát đáy nứt máy (5), xách nguyên ổ điện (5) → ưu tiên vẽ ra cảnh bức bối quen thuộc.
-
-- **Sản phẩm mạnh nhất: sạc/hub đa cổng (charging) và balo laptop chống sốc** — gom nhiều Score 5-6. Nên khai thác đều nhóm này.
-
-- **Hook "ốp lưng iPhone" hiệu quả khi gắn nỗi đau kép** (nặng/dày/giấu thiết kế) chứ chung chung thì đuối → luôn thêm hệ quả cụ thể (nặng túi, mất thẩm mỹ).
-
-- **Kém nhất (Score 3) là hook giáo điều, dọa suông, thiếu hình ảnh sinh động**: "màn ăn xước mỗi ngày", "gõ máy cổ mỏi", "cả bàn 6 thiết bị 1 tẩu" → tránh câu cảnh báo khô, mơ hồ.
-
-- **Con số cụ thể tăng lực hook**: "2 túi", "6 thiết bị", "4 dây", "3 món" — nhưng phải đi kèm nỗi đau rõ, không chỉ liệt kê.
-
-- **Mở đầu bằng hành động sai của người dùng ("Nhét…", "Cắm…", "Xách…", "Vừa lái vừa…") kéo tương tác tốt hơn câu khẳng định trừu tượng.**
-
-- **Emoji thở dài 😮‍💨/😬 hợp tông "đồng cảm nỗi khổ" và xuất hiện nhiều ở bài Score cao** → giữ tông than thở nhẹ, tránh emoji trung tính.
-
-- **Chưa bài nào có Share** → thêm yếu tố "ai cũng dính", mẹo hữu ích hoặc bất ngờ đáng khoe để kích chia sẻ, không chỉ dừng ở than phiền.
+- Ưu tiên hook chạm nỗi đau cụ thể + tình huống đời thực (vừa lái vừa cắm sạc, xách cả ổ điện, balo lộn tung tìm sạc) — nhóm sạc/hub cho score cao nhất (5-6).
+- Hook có con số/nghịch lý gây sốc ("6 thiết bị chỉ 1 tẩu 20W", "cắm 4 dây sạc rề") tăng comment; đẩy con số vào đầu câu.
+- Chủ đề bảo vệ laptop trong balo (nứt máy, sát đáy, va đập chìa khoá) ổn định 4-5, nên khai thác đều.
+- Dùng emoji cảm xúc mệt/ám ảnh (😮‍💨 😬) hiệu quả hơn emoji vật phẩm trung tính (🎒 🔌) — chọn emoji biểu cảm.
+- Hook dạng câu hỏi "đúng nỗi đau của bạn?" kéo comment tốt hơn câu khẳng định phẳng.
+- Tránh hook chung chung, mô tả sản phẩm khô ("balo rẻ ngăn một lớp vải", "màn ăn xước mỗi ngày") — score thấp (3).
+- Nhóm ốp/privacy MacBook tương tác trung bình-thấp; nếu dùng phải thêm tình huống xã hội cụ thể ("người bên cạnh đọc hết màn hình") thay vì chỉ nói mỏng/xước.
+- Không hook nào đạt Share — thêm yếu tố "đáng gửi cho đồng nghiệp/hội đi làm", mẹo hữu ích hoặc tổng kết bất ngờ để kích share.
