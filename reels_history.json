@@ -701,10 +701,10 @@
     "hook": "Xách nguyên ổ điện đi chỉ để sạc 3 món? 😮‍💨",
     "publish_time": "2026-08-30T06:45:23.580Z",
     "performance": {
-      "reactions": 1,
+      "reactions": 2,
       "comments": 1,
       "shares": 0,
-      "score": 4
+      "score": 5
     }
   },
   {
@@ -713,10 +713,10 @@
     "hook": "Vừa lái vừa cắm dây sạc lằng nhằng, điện thoại rớt lăn lóc? 🚗",
     "publish_time": "2026-08-30T10:36:51.198Z",
     "performance": {
-      "reactions": 2,
+      "reactions": 3,
       "comments": 1,
       "shares": 0,
-      "score": 5
+      "score": 6
     }
   },
   {
@@ -736,6 +736,18 @@
     "product_name": "",
     "hook": "Cắm 4 dây, chờ mãi máy nào cũng sạc chậm rề? ⚡",
     "publish_time": "2026-08-31T07:09:58.731Z",
+    "performance": {
+      "reactions": 1,
+      "comments": 1,
+      "shares": 0,
+      "score": 4
+    }
+  },
+  {
+    "post_id": "1545958176733949",
+    "product_name": "",
+    "hook": "Gõ máy cả ngày mà cổ mỏi nhừ? 😮‍💨",
+    "publish_time": "2026-08-31T11:43:05.838Z",
     "performance": {
       "reactions": 0,
       "comments": 1,
