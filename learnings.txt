@@ -1,8 +1,15 @@
-- Ưu tiên hook về ốp iPhone (mỏng/nặng/giấu thiết kế) và sạc đa thiết bị: nhóm điểm cao nhất (Score 5-6).
-- Câu hỏi "đau" chạm trực tiếp nỗi sợ cụ thể (nứt máy, ăn xước, nặng trịch) kéo comment tốt hơn mô tả chung chung.
-- Chốt bằng con số/tình huống trần trụi ("6 thiết bị 1 tẩu 20W", "2 túi mỗi sáng") tạo tương tác hơn lời khuyên mờ nhạt.
-- Emoji cảm xúc mạnh (😤😮‍💨🤏) đi kèm nỗi bực bội cho điểm nhỉnh hơn emoji trung tính (🎒🔌).
-- Tránh hook balo dạng liệt kê lỗi rẻ tiền (quai đứt, sát đáy, ướt nhẹp): lặp nhiều, điểm thấp đều (Score 3).
-- Tránh mở bằng mô tả sản phẩm thay vì nỗi đau người dùng; hook nêu vấn đề cá nhân hoá ("của bạn") ăn điểm hơn.
-- Giữ hook 1 câu, 1 nỗi đau duy nhất, kết bằng dấu hỏi hoặc chấm lửng gợi tò mò.
-- Chưa có share nào: thử thêm yếu tố "gửi cho đứa hay làm xước máy" để kích chia sẻ.
+- **Hook cho Reactions cao nhất**: nói về vấn đề "va đập/nứt máy" laptop và "sạc chậm/nhiều thiết bị" — dùng con số cụ thể (2 túi, 6 thiết bị, 4 dây), cảm giác đau thực tế.
+
+- **Score cao nhất đến từ Comments** (không có Share nào): viết hook gợi tranh luận/đồng cảm, kết bằng câu hỏi mở để kích comment — ví dụ "Ốp dày cui làm iPhone 17 nặng trịch?" (Score=6).
+
+- **Nhóm sản phẩm mạnh nhất**: phụ kiện laptop/balo chống sốc và củ sạc đa cổng — chạm nỗi lo mất tiền (5 triệu, MacBook mới) và bất tiện hằng ngày.
+
+- **Công thức thắng**: [Tình huống quen thuộc] + [hậu quả sợ hãi cụ thể] + [emoji 😬😮‍💨] — càng "ám ảnh", "xước lưng", "nứt máy" càng ăn comment.
+
+- **Nên tránh**: hook chung chung, thiên về thông số kỹ thuật khô khan ("Cắm 4 dây sạc chậm rề", "Cả bàn 6 thiết bị 1 tẩu") — chỉ đạt Score=3.
+
+- **Emoji hiệu quả**: 😬 😮‍💨 (nỗi lo/thở dài) > 🎒 🔌 ⚡ (mô tả đơn thuần) — emoji cảm xúc kéo tương tác tốt hơn emoji vật thể.
+
+- **Độ dài & giọng điệu**: 1 câu ngắn, xưng "bạn", dùng động từ mạnh mô tả thiệt hại ("ăn xước", "rớt lăn lóc", "ướt nhẹp") để tăng đồng cảm và comment.
+
+- **Chưa có video nào đạt Share**: cần thử thêm hook mang tính "mẹo hữu ích" hoặc "cảnh báo cho người thân" để kích chia sẻ — hướng còn bỏ ngỏ.

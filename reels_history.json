@@ -689,10 +689,10 @@
     "hook": "Balo lộn tung cả lên chỉ để tìm cái sạc? 🎒",
     "publish_time": "2026-08-29T17:20:45.647Z",
     "performance": {
-      "reactions": 0,
+      "reactions": 1,
       "comments": 1,
       "shares": 0,
-      "score": 3
+      "score": 4
     }
   },
   {
@@ -701,10 +701,10 @@
     "hook": "Xách nguyên ổ điện đi chỉ để sạc 3 món? 😮‍💨",
     "publish_time": "2026-08-30T06:45:23.580Z",
     "performance": {
-      "reactions": 0,
+      "reactions": 1,
       "comments": 1,
       "shares": 0,
-      "score": 3
+      "score": 4
     }
   },
   {
@@ -713,10 +713,10 @@
     "hook": "Vừa lái vừa cắm dây sạc lằng nhằng, điện thoại rớt lăn lóc? 🚗",
     "publish_time": "2026-08-30T10:36:51.198Z",
     "performance": {
-      "reactions": 1,
+      "reactions": 2,
       "comments": 1,
       "shares": 0,
-      "score": 4
+      "score": 5
     }
   },
   {
@@ -724,6 +724,18 @@
     "product_name": "",
     "hook": "Ba lô rẻ, quai đứt, laptop nằm sát đáy va đập cả ngày 😮‍💨",
     "publish_time": "2026-08-30T17:39:47.767Z",
+    "performance": {
+      "reactions": 2,
+      "comments": 1,
+      "shares": 0,
+      "score": 5
+    }
+  },
+  {
+    "post_id": "4481635595434769",
+    "product_name": "",
+    "hook": "Cắm 4 dây, chờ mãi máy nào cũng sạc chậm rề? ⚡",
+    "publish_time": "2026-08-31T07:09:58.731Z",
     "performance": {
       "reactions": 0,
       "comments": 1,
