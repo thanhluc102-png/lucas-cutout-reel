@@ -1,8 +1,15 @@
-- Ưu tiên hook chạm nỗi đau cụ thể, hình dung được ngay: "vừa lái vừa cắm dây, điện thoại rớt lăn lóc" (Score 6), "iPhone nặng trịch trong túi" (Score 6) — cảnh cụ thể thắng lời chung chung.
-- Chèn số/con số gây choáng: "cả bàn 6 thiết bị chỉ 1 tẩu 20W", "cắm 4 dây sạc chậm rề", "xách nguyên ổ điện sạc 3 món" — số lượng làm nỗi đau rõ hơn.
-- Nhóm sạc/hub và balo bảo vệ laptop cho tương tác ổn định nhất; tập trung 2 dòng sản phẩm này.
-- Dùng công thức "hành động sai + hậu quả xấu": "laptop nằm sát đáy = nứt máy", "chung ngăn chìa khoá = xước" — chỉ rõ nhân-quả kéo reaction lên.
-- Emoji đúng cảm xúc mệt/ám ảnh (😮‍💨 😬) hoạt động tốt; tránh emoji trung tính nhạt.
-- Tránh hook mơ hồ thiếu hậu quả rõ: "ốp dày làm hết mỏng", "ba dây sạc rối bàn" (Score 3) — thiếu kịch tính, chốt yếu.
-- Mở bằng câu hỏi khơi trúng cảnh thường ngày ("Gõ máy cả ngày cổ mỏi nhừ?") tốt hơn câu khẳng định phẳng.
-- Chưa hook nào tạo Share — thêm yếu tố "mẹo hay đáng khoe" hoặc "ai cũng mắc lỗi này" để kích chia sẻ ở reel tiếp theo.
+- **Hook bối cảnh cụ thể + rủi ro trực quan cho tương tác cao nhất** (vừa lái vừa giữ điện thoại rớt = 6, ốp dày nặng trịch trong túi = 6): dùng tình huống thật, nỗi sợ hữu hình.
+
+- **Ưu tiên sản phẩm sạc/xe hơi và ốp lưng iPhone**: nhóm sạc-tẩu-giá đỡ ô tô và ốp iPhone kéo Reactions cao nhất; đây là chủ đề nên khai thác nhiều.
+
+- **Dùng con số cụ thể gây sốc** ("6 thiết bị 1 tẩu 20W", "cắm 4 dây sạc chậm rề", "3 dây rối bàn") để tạo hình ảnh mạnh, tăng phản ứng.
+
+- **Chèn cảm xúc ám ảnh + emoji thở dài 😮‍💨 😬** hiệu quả hơn emoji trung tính 🎒 🔌: đánh vào ký ức khó chịu của người xem.
+
+- **Tránh hook trách móc chung chung, lặp mô típ balo-laptop** ("ngăn laptop một lớp vải", "ba dây rối bàn"): quá nhiều biến thể balo khiến Score thấp (chủ yếu 3-4), nội dung bão hòa.
+
+- **Kết hook bằng câu hỏi tu từ nhức nhối** ("Bỏ đi", "va đập là xước?") để kích comment — comment là nguồn Score chính vì hầu như không có share.
+
+- **Đặt nỗi đau lên đầu câu, giải pháp ngầm ở sau**: mở bằng vấn đề gai góc trong 6 chữ đầu, không mở bằng tên sản phẩm.
+
+- **Nhắm thiết bị hot (iPhone Air/17, MacBook) + tình huống di chuyển (xe hơi, đi mưa)** để tạo liên quan tức thì, tăng khả năng người xem tự nhận ra mình.
