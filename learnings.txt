@@ -1,15 +1,8 @@
-- **Hook bối cảnh cụ thể + rủi ro trực quan cho tương tác cao nhất** (vừa lái vừa giữ điện thoại rớt = 6, ốp dày nặng trịch trong túi = 6): dùng tình huống thật, nỗi sợ hữu hình.
-
-- **Ưu tiên sản phẩm sạc/xe hơi và ốp lưng iPhone**: nhóm sạc-tẩu-giá đỡ ô tô và ốp iPhone kéo Reactions cao nhất; đây là chủ đề nên khai thác nhiều.
-
-- **Dùng con số cụ thể gây sốc** ("6 thiết bị 1 tẩu 20W", "cắm 4 dây sạc chậm rề", "3 dây rối bàn") để tạo hình ảnh mạnh, tăng phản ứng.
-
-- **Chèn cảm xúc ám ảnh + emoji thở dài 😮‍💨 😬** hiệu quả hơn emoji trung tính 🎒 🔌: đánh vào ký ức khó chịu của người xem.
-
-- **Tránh hook trách móc chung chung, lặp mô típ balo-laptop** ("ngăn laptop một lớp vải", "ba dây rối bàn"): quá nhiều biến thể balo khiến Score thấp (chủ yếu 3-4), nội dung bão hòa.
-
-- **Kết hook bằng câu hỏi tu từ nhức nhối** ("Bỏ đi", "va đập là xước?") để kích comment — comment là nguồn Score chính vì hầu như không có share.
-
-- **Đặt nỗi đau lên đầu câu, giải pháp ngầm ở sau**: mở bằng vấn đề gai góc trong 6 chữ đầu, không mở bằng tên sản phẩm.
-
-- **Nhắm thiết bị hot (iPhone Air/17, MacBook) + tình huống di chuyển (xe hơi, đi mưa)** để tạo liên quan tức thì, tăng khả năng người xem tự nhận ra mình.
+- Ưu tiên hook "hành động nguy hiểm cụ thể" (vừa lái vừa cắm sạc, điện thoại rớt lăn lóc): Score cao nhất (6) nhờ chạm nỗi lo an toàn tức thì.
+- Dùng hook châm biếm sự bất tiện lố bịch ("ốp dày cui nặng trịch", "xách nguyên ổ điện đi", "cả bàn 6 thiết bị 1 tẩu 20W"): kéo Reactions + Comments tốt.
+- Nêu con số/chi tiết gây sốc (6 thiết bị, 1 tẩu, 4 dây, 3 món): tăng tương tác so với câu chung chung.
+- Chèn emoji cảm xúc thở dài 😮‍💨 hoặc mắt 👀 vào hook mạnh; tránh emoji trung tính lặp lại (🎒) làm hook nhạt.
+- Tránh hook "than vãn thụ động, mơ hồ" kiểu "laptop ướt nhẹp ám ảnh", "mưa một trận laptop ướt": Score thấp nhất (3), thiếu tình huống kịch tính.
+- Nhóm sản phẩm sạc/hub/giá đỡ điện thoại (đồ điện, an toàn khi lái) đang thắng balo; balo bị lặp motif "xước/va đập/ướt" nên bão hoà, cần đổi góc.
+- Mở hook bằng khoảnh khắc đau cụ thể + đại từ "bạn" và dấu hỏi tu từ để ép người xem tự soi mình.
+- Chưa hook nào đạt Share; thử thêm yếu tố "mẹo lạ / tiết lộ bí mật" (ai cũng đọc được màn hình bạn 👀) để kích chia sẻ.
