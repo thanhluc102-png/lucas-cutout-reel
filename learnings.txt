@@ -1,8 +1,8 @@
-- Ưu tiên hook chạm nỗi đau cụ thể + tình huống đời thực (vừa lái vừa cắm sạc, xách cả ổ điện, balo lộn tung tìm sạc) — nhóm sạc/hub cho score cao nhất (5-6).
-- Hook có con số/nghịch lý gây sốc ("6 thiết bị chỉ 1 tẩu 20W", "cắm 4 dây sạc rề") tăng comment; đẩy con số vào đầu câu.
-- Chủ đề bảo vệ laptop trong balo (nứt máy, sát đáy, va đập chìa khoá) ổn định 4-5, nên khai thác đều.
-- Dùng emoji cảm xúc mệt/ám ảnh (😮‍💨 😬) hiệu quả hơn emoji vật phẩm trung tính (🎒 🔌) — chọn emoji biểu cảm.
-- Hook dạng câu hỏi "đúng nỗi đau của bạn?" kéo comment tốt hơn câu khẳng định phẳng.
-- Tránh hook chung chung, mô tả sản phẩm khô ("balo rẻ ngăn một lớp vải", "màn ăn xước mỗi ngày") — score thấp (3).
-- Nhóm ốp/privacy MacBook tương tác trung bình-thấp; nếu dùng phải thêm tình huống xã hội cụ thể ("người bên cạnh đọc hết màn hình") thay vì chỉ nói mỏng/xước.
-- Không hook nào đạt Share — thêm yếu tố "đáng gửi cho đồng nghiệp/hội đi làm", mẹo hữu ích hoặc tổng kết bất ngờ để kích share.
+- Ưu tiên hook chạm nỗi đau cụ thể, hình dung được ngay: "vừa lái vừa cắm dây, điện thoại rớt lăn lóc" (Score 6), "iPhone nặng trịch trong túi" (Score 6) — cảnh cụ thể thắng lời chung chung.
+- Chèn số/con số gây choáng: "cả bàn 6 thiết bị chỉ 1 tẩu 20W", "cắm 4 dây sạc chậm rề", "xách nguyên ổ điện sạc 3 món" — số lượng làm nỗi đau rõ hơn.
+- Nhóm sạc/hub và balo bảo vệ laptop cho tương tác ổn định nhất; tập trung 2 dòng sản phẩm này.
+- Dùng công thức "hành động sai + hậu quả xấu": "laptop nằm sát đáy = nứt máy", "chung ngăn chìa khoá = xước" — chỉ rõ nhân-quả kéo reaction lên.
+- Emoji đúng cảm xúc mệt/ám ảnh (😮‍💨 😬) hoạt động tốt; tránh emoji trung tính nhạt.
+- Tránh hook mơ hồ thiếu hậu quả rõ: "ốp dày làm hết mỏng", "ba dây sạc rối bàn" (Score 3) — thiếu kịch tính, chốt yếu.
+- Mở bằng câu hỏi khơi trúng cảnh thường ngày ("Gõ máy cả ngày cổ mỏi nhừ?") tốt hơn câu khẳng định phẳng.
+- Chưa hook nào tạo Share — thêm yếu tố "mẹo hay đáng khoe" hoặc "ai cũng mắc lỗi này" để kích chia sẻ ở reel tiếp theo.
