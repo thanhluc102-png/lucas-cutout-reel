@@ -1,8 +1,8 @@
-- Ưu tiên hook "hành động nguy hiểm cụ thể" (vừa lái vừa cắm sạc, điện thoại rớt lăn lóc): Score cao nhất (6) nhờ chạm nỗi lo an toàn tức thì.
-- Dùng hook châm biếm sự bất tiện lố bịch ("ốp dày cui nặng trịch", "xách nguyên ổ điện đi", "cả bàn 6 thiết bị 1 tẩu 20W"): kéo Reactions + Comments tốt.
-- Nêu con số/chi tiết gây sốc (6 thiết bị, 1 tẩu, 4 dây, 3 món): tăng tương tác so với câu chung chung.
-- Chèn emoji cảm xúc thở dài 😮‍💨 hoặc mắt 👀 vào hook mạnh; tránh emoji trung tính lặp lại (🎒) làm hook nhạt.
-- Tránh hook "than vãn thụ động, mơ hồ" kiểu "laptop ướt nhẹp ám ảnh", "mưa một trận laptop ướt": Score thấp nhất (3), thiếu tình huống kịch tính.
-- Nhóm sản phẩm sạc/hub/giá đỡ điện thoại (đồ điện, an toàn khi lái) đang thắng balo; balo bị lặp motif "xước/va đập/ướt" nên bão hoà, cần đổi góc.
-- Mở hook bằng khoảnh khắc đau cụ thể + đại từ "bạn" và dấu hỏi tu từ để ép người xem tự soi mình.
-- Chưa hook nào đạt Share; thử thêm yếu tố "mẹo lạ / tiết lộ bí mật" (ai cũng đọc được màn hình bạn 👀) để kích chia sẻ.
+- Hook nhắc tình huống nguy hiểm/khoảnh khắc lái xe cụ thể ("vừa lái vừa cắm dây, điện thoại rớt") cho tương tác cao nhất — ưu tiên bối cảnh đời thường có rủi ro thấy rõ.
+- Chủ đề sạc/hub đa thiết bị ("6 thiết bị 1 tẩu 20W", "xách nguyên ổ điện") và ốp/phụ kiện iPhone hút reactions tốt — khai thác mạnh nhóm này.
+- Dùng con số cụ thể (4 dây, 6 thiết bị, 20W, 3 món) để tăng độ chạm, tránh nói chung chung.
+- Đánh vào nỗi đau cảm xúc + hình ảnh ám ảnh ("laptop ướt nhẹp", "cổ mỏi nhừ", "va đập cả ngày") thay vì chỉ mô tả sản phẩm.
+- Kết hook bằng câu hỏi nhức nhối hoặc mệnh lệnh ngắn ("Bỏ đi", "Bực thật?") để kích comment.
+- Tránh hook thuần cảnh báo kỹ thuật khô khan ("ngăn laptop sát đáy", "một lớp vải mỏng") — tương tác thấp vì thiếu cảm xúc.
+- Mỗi hook gắn đúng 1 emoji khớp ngữ cảnh (🚗🔌🎒⚡), đặt cuối câu để tăng nhịp.
+- Giữ hook 1 câu, dưới 20 từ, mở bằng tình huống người đọc đang gặp — không lan man nhiều ý.
