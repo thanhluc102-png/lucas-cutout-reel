@@ -1,8 +1,8 @@
-- Hook về **phụ kiện xe/di chuyển** (giá đỡ điện thoại, tẩu sạc ô tô) cho tương tác cao nhất — dùng nỗi sợ "điện thoại rớt khi lái/vô cua/ổ gà".
-- Ưu tiên hook chạm **rủi ro mất an toàn hoặc hư hỏng tài sản** (rớt máy, laptop va đập, ướt) hơn là chỉ nói bất tiện nhẹ.
-- Thêm **con số cụ thể** (6 thiết bị/1 tẩu, sạc 3 món, cắm 4 dây) để tăng độ hình dung và tương tác.
-- Hook dạng **câu hỏi + tình huống đau thực tế** (kèm emoji 😤😮‍💨) hoạt động tốt hơn câu khẳng định trừu tượng.
-- Chủ đề **sạc/hub đa cổng** tương tác trung bình — cần gắn ngữ cảnh cụ thể (bàn làm việc, đi công tác) thay vì nói chung chung "dây rối".
-- Tránh hook **quá dài, nhiều mệnh đề** hoặc mô tả sản phẩm cao cấp mơ hồ ("balo đắt tiền") — dễ rơi score thấp nhất.
-- Tránh hook **chỉ nêu vấn đề chung, không có kịch tính/hậu quả rõ** (xe non hơi, ổ điện) — kém hút reaction.
-- Toàn bộ mẫu **Shares=0, Comments≈1**: cần chèn **CTA kích share/bình luận** (gắn thẻ bạn bè, hỏi ý kiến) để phá trần tương tác.
+- Hook về xe/lái xe (giá đỡ điện thoại, sạc trên xe) cho tương tác cao nhất — ưu tiên chủ đề "vừa lái vừa cầm điện thoại", "điện thoại rớt khi vào cua/ổ gà".
+- Chạm nỗi đau cụ thể + hình ảnh động ("rớt lăn lóc", "tay run", "xách nguyên ổ điện") ghi điểm hơn mô tả chung chung.
+- Nêu con số/tình huống phóng đại ("6 thiết bị 1 tẩu 20W", "MacBook 40 triệu", "cắm 4 dây") tạo tò mò và tăng reactions.
+- Hook có yếu tố xấu hổ/riêng tư ("người bên cạnh đọc hết màn hình") gợi cảm xúc mạnh — nên khai thác thêm.
+- Tránh hook balo mô tả chất lượng kém chung chung ("balo rẻ", "vải mỏng", "bèo nhèo") — lặp nhiều, tương tác thấp.
+- Tránh hook sạc đa cổng dạng liệt kê dây rối ("3 dây rối", "4 dây sạc chậm") — bão hòa, điểm thấp.
+- Mở đầu bằng câu hỏi nhức nhối + emoji cảm xúc (😤😮‍💨👀) thay vì emoji đồ vật (🔌🎒) để kéo phản ứng.
+- Giữ hook ngắn 1 câu, đặt tình huống "đang xảy ra với bạn" thay vì kể đặc điểm sản phẩm.
