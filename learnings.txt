@@ -1,7 +1,8 @@
-- Hook nhắc cảnh lái xe (rớt điện thoại, vừa lái vừa cắm dây) cho tương tác cao nhất (Score 6) → ưu tiên phụ kiện xe/giá đỡ điện thoại, tả cảnh nguy hiểm cụ thể.
-- Hook kết bằng câu hỏi "bực/khó chịu" kèm con số cụ thể (6 thiết bị 1 tẩu, cắm 4 dây, sạc 3 món) tạo đồng cảm mạnh → nhồi số liệu vào nỗi đau.
-- Nỗi đau "mỏi cổ khi gõ máy" và "ốp dày giấu thiết kế iPhone" đạt Score 5 → khai thác góc thẩm mỹ + sức khỏe, không chỉ chống trộm/chống xước.
-- Chủ đề laptop ướt vì mưa lặp quá nhiều và toàn Score thấp (3) → tránh lặp motif "đi mưa laptop ướt", đã bão hòa.
-- Emoji 🚗😤⚡ đi kèm cảnh khẩn cấp/khó chịu hiệu quả hơn 🎒😮‍💨 vốn gắn với hook balo điểm thấp.
-- Không hook nào tạo được Share → thêm yếu tố "mẹo hay muốn khoe" hoặc "gửi ngay cho đứa hay quên sạc" để kích chia sẻ.
-- Mở đầu bằng hình ảnh hành động cụ thể (rớt lăn lóc, xách nguyên ổ điện) hút react hơn mở bằng tính từ chung chung (rẻ, mỏng, dày cui).
+- Hook nhắc bối cảnh lái xe/xe cộ cho điểm cao nhất (Score 6, 4-5): ưu tiên chủ đề giá đỡ điện thoại, tẩu sạc, bơm xe – gắn cảm giác nguy hiểm/mất an toàn.
+- Chèn nỗi đau thân thể cụ thể (“cổ mỏi nhừ”, “tay run”) kéo tương tác cao hơn nỗi đau chung chung về đồ vật.
+- Hook dạng câu hỏi “giật” về tình huống bức bối (dây rối, sạc chậm, va đập) hiệu quả; dùng con số cụ thể (“6 thiết bị 1 tẩu”, “4 dây”) tăng độ thuyết phục.
+- Nhóm balo/chống nước cho điểm thấp đều (Score 3-4) vì hook lặp mô-típ “xước – va đập – ướt”: cần đổi góc, tránh trùng lặp.
+- Tránh mở đầu bằng “Balo…” lặp lại; đa dạng chủ ngữ và ngữ cảnh để không nhàm.
+- Emoji hợp cảm xúc tiêu cực (😤😮‍💨👀) đi kèm hook đau/bực cho tương tác nhỉnh hơn emoji đồ vật (🎒🔌).
+- Giữ hook 1 câu, xoáy đúng 1 nỗi đau + hệ quả xấu ngay lập tức, kết bằng dấu hỏi hoặc chấm than để kích phản hồi.
+- Toàn bộ share = 0: cần thêm yếu tố “đáng chia sẻ” (mẹo hữu ích, tình huống ai cũng gặp, con số bất ngờ) để nâng Score.
