@@ -1,8 +1,8 @@
-- Hook về xe/lái xe (giá đỡ điện thoại, sạc trên xe) cho tương tác cao nhất — ưu tiên chủ đề "vừa lái vừa cầm điện thoại", "điện thoại rớt khi vào cua/ổ gà".
-- Chạm nỗi đau cụ thể + hình ảnh động ("rớt lăn lóc", "tay run", "xách nguyên ổ điện") ghi điểm hơn mô tả chung chung.
-- Nêu con số/tình huống phóng đại ("6 thiết bị 1 tẩu 20W", "MacBook 40 triệu", "cắm 4 dây") tạo tò mò và tăng reactions.
-- Hook có yếu tố xấu hổ/riêng tư ("người bên cạnh đọc hết màn hình") gợi cảm xúc mạnh — nên khai thác thêm.
-- Tránh hook balo mô tả chất lượng kém chung chung ("balo rẻ", "vải mỏng", "bèo nhèo") — lặp nhiều, tương tác thấp.
-- Tránh hook sạc đa cổng dạng liệt kê dây rối ("3 dây rối", "4 dây sạc chậm") — bão hòa, điểm thấp.
-- Mở đầu bằng câu hỏi nhức nhối + emoji cảm xúc (😤😮‍💨👀) thay vì emoji đồ vật (🔌🎒) để kéo phản ứng.
-- Giữ hook ngắn 1 câu, đặt tình huống "đang xảy ra với bạn" thay vì kể đặc điểm sản phẩm.
+- Hook chủ đề **xe máy/lái xe** (giá đỡ điện thoại, sạc trên xe, ổ gà, vô cua) cho score cao nhất (5-6) — ưu tiên khai thác mạnh nỗi đau khi vừa lái vừa dùng điện thoại.
+- Hook **balo/túi laptop** nhấn "tài sản đắt tiền bị đe doạ" (MacBook 40 triệu, laptop nằm sát đáy va đập) đạt score 5 — gắn giá trị món đồ càng cao càng hiệu quả.
+- Hook **sức khoẻ/cơ thể** (gõ máy cổ mỏi nhừ → giá đỡ laptop) đạt score 5 — khai thác đau nhức thể chất rất tốt, nên mở rộng.
+- Công thức thắng: **tình huống cụ thể + hậu quả đắt giá + con số/chi tiết thật** (rơi lăn lóc, ướt sạch, 40 triệu) tạo cảm xúc mạnh, kéo Reactions.
+- Emoji cảm xúc bực bội/ngán ngẩm (😤😮‍💨) đi kèm tình huống thực tế cho tương tác tốt hơn emoji vật phẩm trung tính (🔌⚡).
+- Tránh hook **trừu tượng/chung chung** ("Cắm dây sạc mãi rồi cũng chán", "Ba dây sạc rối bàn? Bỏ đi") — score thấp (3) vì thiếu tình huống cụ thể, không chạm nỗi đau.
+- Tránh hook **thiên về thông số kỹ thuật** (20W, cắm 4 dây sạc chậm) khi không có bối cảnh đời thường — kém hiệu quả (3-4).
+- Mọi hook đều 0 Share → cần thêm yếu tố **đáng chia sẻ** (mẹo hữu ích, giải pháp bất ngờ, tính "ai cũng cần") thay vì chỉ nêu vấn đề.
