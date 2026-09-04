@@ -1,7 +1,15 @@
-- Hook về **tình huống nguy hiểm/mất mát cụ thể khi lái xe** (điện thoại rớt, tay run, vào ổ gà) cho Score cao nhất (5-6) → ưu tiên chủ đề phụ kiện xe máy/ô tô + giá đỡ điện thoại.
-- Hook chạm **nỗi đau tài sản đắt tiền bị đe doạ** ("MacBook 40 triệu", "cổ mỏi cả ngày") kéo Reactions cao (2-3) → luôn gắn con số/giá trị cụ thể vào rủi ro.
-- Hook có **con số cụ thể** ("6 thiết bị 1 tẩu 20W", "4 dây sạc chậm", "3 món") tạo hình ảnh rõ, nhưng nếu quá kỹ thuật/khô thì tụt về Score=3 → giữ số nhưng thêm cảm xúc.
-- Hook **cảm thán chung chung, thiếu tình huống** ("Cắm dây sạc mãi rồi cũng chán", "Ba dây rối bàn? Bỏ đi") cho Score thấp nhất (3) → tránh câu mệt mỏi mơ hồ, không có cảnh cụ thể.
-- Mọi hook đều chỉ được đúng 1 comment và 0 share → phải **tăng độ tranh luận/gây tag bạn bè** (câu hỏi "ai giống mình?", tình huống ai cũng dính) để nâng Comments & Shares.
-- Công thức thắng: **[Tình huống cụ thể + rủi ro cho đồ đắt tiền/an toàn] + [số liệu] + [emoji bực/lo]** → viết theo cảnh phim ngắn, không viết khẩu hiệu.
-- Nên đẩy mạnh nhóm sản phẩm **an toàn khi di chuyển** (giá đỡ điện thoại xe, sạc ô tô) vì kéo phản ứng mạnh hơn nhóm balo/sạc để bàn.
+- **Hook có bối cảnh lái xe/xe máy cho điểm cao nhất** (Score 5-6): "vừa lái vừa cắm dây", "điện thoại rớt khỏi tẩu vào ổ gà" — ưu tiên tình huống nguy hiểm, cụ thể, có hình ảnh động.
+
+- **Nhắc giá trị tài sản đắt tiền tạo tương tác tốt**: "MacBook 40 triệu", "ổ điện", "cổ mỏi nhừ" — gắn nỗi đau vào món đồ giá trị hoặc sức khỏe cơ thể.
+
+- **Con số cụ thể tăng sức nặng**: "sạc 3 món", "cắm 4 dây", "laptop 40 triệu" — số liệu rõ ràng hơn nói chung chung.
+
+- **Hook chỉ than nhẹ, chung chung cho điểm thấp nhất** (Score 3): "cắm dây sạc mãi cũng chán", "ba dây sạc rối" — tránh câu mờ nhạt, thiếu kịch tính, thiếu hậu quả.
+
+- **Câu hỏi kèm hậu quả trực quan mạnh hơn câu hỏi trống**: "laptop nằm sát đáy va đập cả ngày" thắng "balo không có áo mưa".
+
+- **Emoji 😬😤 (bực/khó chịu) đi kèm hook điểm cao; hook điểm thấp hay dùng 😮‍💨 (thở dài)** — chọn cảm xúc gay gắt thay vì cam chịu.
+
+- **Không hook nào đạt Share** — cần thêm yếu tố "phải khoe/tag bạn": mẹo bất ngờ, giá hời sốc, hoặc câu "gửi ngay cho đứa hay quên sạc".
+
+- **Chốt công thức thắng**: Bối cảnh lái xe/di chuyển + tài sản đắt + số cụ thể + hậu quả trực quan + emoji bực tức.
