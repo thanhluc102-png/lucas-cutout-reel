@@ -1,8 +1,7 @@
-- Hook chủ đề **xe máy/lái xe** (giá đỡ điện thoại, sạc trên xe, ổ gà, vô cua) cho score cao nhất (5-6) — ưu tiên khai thác mạnh nỗi đau khi vừa lái vừa dùng điện thoại.
-- Hook **balo/túi laptop** nhấn "tài sản đắt tiền bị đe doạ" (MacBook 40 triệu, laptop nằm sát đáy va đập) đạt score 5 — gắn giá trị món đồ càng cao càng hiệu quả.
-- Hook **sức khoẻ/cơ thể** (gõ máy cổ mỏi nhừ → giá đỡ laptop) đạt score 5 — khai thác đau nhức thể chất rất tốt, nên mở rộng.
-- Công thức thắng: **tình huống cụ thể + hậu quả đắt giá + con số/chi tiết thật** (rơi lăn lóc, ướt sạch, 40 triệu) tạo cảm xúc mạnh, kéo Reactions.
-- Emoji cảm xúc bực bội/ngán ngẩm (😤😮‍💨) đi kèm tình huống thực tế cho tương tác tốt hơn emoji vật phẩm trung tính (🔌⚡).
-- Tránh hook **trừu tượng/chung chung** ("Cắm dây sạc mãi rồi cũng chán", "Ba dây sạc rối bàn? Bỏ đi") — score thấp (3) vì thiếu tình huống cụ thể, không chạm nỗi đau.
-- Tránh hook **thiên về thông số kỹ thuật** (20W, cắm 4 dây sạc chậm) khi không có bối cảnh đời thường — kém hiệu quả (3-4).
-- Mọi hook đều 0 Share → cần thêm yếu tố **đáng chia sẻ** (mẹo hữu ích, giải pháp bất ngờ, tính "ai cũng cần") thay vì chỉ nêu vấn đề.
+- Hook về **tình huống nguy hiểm/mất mát cụ thể khi lái xe** (điện thoại rớt, tay run, vào ổ gà) cho Score cao nhất (5-6) → ưu tiên chủ đề phụ kiện xe máy/ô tô + giá đỡ điện thoại.
+- Hook chạm **nỗi đau tài sản đắt tiền bị đe doạ** ("MacBook 40 triệu", "cổ mỏi cả ngày") kéo Reactions cao (2-3) → luôn gắn con số/giá trị cụ thể vào rủi ro.
+- Hook có **con số cụ thể** ("6 thiết bị 1 tẩu 20W", "4 dây sạc chậm", "3 món") tạo hình ảnh rõ, nhưng nếu quá kỹ thuật/khô thì tụt về Score=3 → giữ số nhưng thêm cảm xúc.
+- Hook **cảm thán chung chung, thiếu tình huống** ("Cắm dây sạc mãi rồi cũng chán", "Ba dây rối bàn? Bỏ đi") cho Score thấp nhất (3) → tránh câu mệt mỏi mơ hồ, không có cảnh cụ thể.
+- Mọi hook đều chỉ được đúng 1 comment và 0 share → phải **tăng độ tranh luận/gây tag bạn bè** (câu hỏi "ai giống mình?", tình huống ai cũng dính) để nâng Comments & Shares.
+- Công thức thắng: **[Tình huống cụ thể + rủi ro cho đồ đắt tiền/an toàn] + [số liệu] + [emoji bực/lo]** → viết theo cảnh phim ngắn, không viết khẩu hiệu.
+- Nên đẩy mạnh nhóm sản phẩm **an toàn khi di chuyển** (giá đỡ điện thoại xe, sạc ô tô) vì kéo phản ứng mạnh hơn nhóm balo/sạc để bàn.
