@@ -1,8 +1,8 @@
-- Ưu tiên hook về **tình huống nguy hiểm/khó chịu khi lái xe** (giá đỡ điện thoại, sạc ô tô): nhóm này đạt Score cao nhất (5-6).
-- Chèn **con số/chi tiết cụ thể** ("MacBook 40 triệu", "sạc 3 món", "cắm 4 dây") — tạo hình ảnh rõ, kéo Reactions lên.
-- Mở đầu bằng **cảnh lộn xộn, thất bại thực tế** ("Balo lộn tung", "điện thoại rớt lăn lóc") hiệu quả hơn câu than chung chung.
-- Tránh hook **mơ hồ, cảm thán suông** ("Cắm dây sạc mãi rồi cũng chán", "Ba dây sạc rối bàn") — Score thấp nhất (3), 0 Reactions.
-- Tránh mở đầu bằng lời khen sản phẩm rồi mới chê ("Balo cầm vào là biết đắt tiền, nhưng...") — làm loãng nỗi đau, tương tác kém.
-- Kết hook bằng **câu hỏi giật nỗi đau** ("...rớt lăn lóc?", "...vào ổ gà?") thay vì kết luận đóng ("Bỏ đi", "Nguy hiểm thật đấy").
-- Emoji nên chọn 😤/😮‍💨 gắn với bực bội cụ thể; hiệu quả hơn khi nỗi đau đã rõ ràng, không cứu được hook nhạt.
-- Chưa hook nào đạt Share — cần thêm yếu tố **hữu ích/đáng khoe** (mẹo, giải pháp bất ngờ) để đẩy chỉ số nặng nhất này lên.
+- **Sạc/pin đa cổ, giá đỡ điện thoại xe máy, balo laptop là 3 nhóm chủ lực; ưu tiên viết hook cho nhóm này.**
+- **Hook mạnh nhất (Score 5-6): nêu nỗi đau cụ thể + hình ảnh hài hước phóng đại** — "xách nguyên ổ điện đi", "mang cả rổ dây", "laptop nằm sát đáy va đập".
+- **Chèn con số/chi tiết đắt tiền tăng cảm xúc**: "MacBook 40 triệu", "sạc 3 món", "4 dây" — kích người xem tự soi mình.
+- **Gắn nỗi sợ an toàn/mất mát khi lái xe cho hiệu quả tốt**: "rớt khỏi tẩu khi vào ổ gà", "rớt lăn lóc" mạnh hơn câu chung chung.
+- **Tránh hook mơ hồ, than chán, không hình ảnh** (Score 3): "cắm dây sạc mãi rồi cũng chán", "ba dây sạc rối bàn... bỏ đi" — thiếu tình huống nên chết tương tác.
+- **Tránh câu hỏi quá hiển nhiên/giáo huấn**: "cầm điện thoại xem chỉ đường? nguy hiểm thật đấy" — nghe như cảnh báo, kém cuốn.
+- **Công thức nên dùng: [Tình huống đời thực bất tiện] + [chi tiết cụ thể/số liệu] + emoji 😮‍💨😤 cuối câu.**
+- **Điểm yếu chung toàn bộ: 0 share, comment cào bằng — cần thêm CTA/câu chốt kích chia sẻ, hỏi mở để tăng comment thật.**
