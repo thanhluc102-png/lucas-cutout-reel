@@ -1,15 +1,8 @@
-- **Hook có bối cảnh lái xe/xe máy cho điểm cao nhất** (Score 5-6): "vừa lái vừa cắm dây", "điện thoại rớt khỏi tẩu vào ổ gà" — ưu tiên tình huống nguy hiểm, cụ thể, có hình ảnh động.
-
-- **Nhắc giá trị tài sản đắt tiền tạo tương tác tốt**: "MacBook 40 triệu", "ổ điện", "cổ mỏi nhừ" — gắn nỗi đau vào món đồ giá trị hoặc sức khỏe cơ thể.
-
-- **Con số cụ thể tăng sức nặng**: "sạc 3 món", "cắm 4 dây", "laptop 40 triệu" — số liệu rõ ràng hơn nói chung chung.
-
-- **Hook chỉ than nhẹ, chung chung cho điểm thấp nhất** (Score 3): "cắm dây sạc mãi cũng chán", "ba dây sạc rối" — tránh câu mờ nhạt, thiếu kịch tính, thiếu hậu quả.
-
-- **Câu hỏi kèm hậu quả trực quan mạnh hơn câu hỏi trống**: "laptop nằm sát đáy va đập cả ngày" thắng "balo không có áo mưa".
-
-- **Emoji 😬😤 (bực/khó chịu) đi kèm hook điểm cao; hook điểm thấp hay dùng 😮‍💨 (thở dài)** — chọn cảm xúc gay gắt thay vì cam chịu.
-
-- **Không hook nào đạt Share** — cần thêm yếu tố "phải khoe/tag bạn": mẹo bất ngờ, giá hời sốc, hoặc câu "gửi ngay cho đứa hay quên sạc".
-
-- **Chốt công thức thắng**: Bối cảnh lái xe/di chuyển + tài sản đắt + số cụ thể + hậu quả trực quan + emoji bực tức.
+- Ưu tiên hook về **tình huống nguy hiểm/khó chịu khi lái xe** (giá đỡ điện thoại, sạc ô tô): nhóm này đạt Score cao nhất (5-6).
+- Chèn **con số/chi tiết cụ thể** ("MacBook 40 triệu", "sạc 3 món", "cắm 4 dây") — tạo hình ảnh rõ, kéo Reactions lên.
+- Mở đầu bằng **cảnh lộn xộn, thất bại thực tế** ("Balo lộn tung", "điện thoại rớt lăn lóc") hiệu quả hơn câu than chung chung.
+- Tránh hook **mơ hồ, cảm thán suông** ("Cắm dây sạc mãi rồi cũng chán", "Ba dây sạc rối bàn") — Score thấp nhất (3), 0 Reactions.
+- Tránh mở đầu bằng lời khen sản phẩm rồi mới chê ("Balo cầm vào là biết đắt tiền, nhưng...") — làm loãng nỗi đau, tương tác kém.
+- Kết hook bằng **câu hỏi giật nỗi đau** ("...rớt lăn lóc?", "...vào ổ gà?") thay vì kết luận đóng ("Bỏ đi", "Nguy hiểm thật đấy").
+- Emoji nên chọn 😤/😮‍💨 gắn với bực bội cụ thể; hiệu quả hơn khi nỗi đau đã rõ ràng, không cứu được hook nhạt.
+- Chưa hook nào đạt Share — cần thêm yếu tố **hữu ích/đáng khoe** (mẹo, giải pháp bất ngờ) để đẩy chỉ số nặng nhất này lên.
