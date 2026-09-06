@@ -1,8 +1,8 @@
-- **Nhóm sản phẩm mạnh nhất:** Giá đỡ điện thoại xe hơi/xe máy (Score 5-6) và củ sạc đa cổng (Score 4-5) → ưu tiên viết cho 2 nhóm này.
-- **Hook thắng đậm:** mô tả tai nạn/rủi ro cụ thể, sinh động ("rớt lăn lóc", "rơi khỏi giá đỡ lúc vô cua", "vào ổ gà") → hình ảnh hóa nỗi đau cho Reactions cao.
-- **Chốt số cụ thể tăng lực:** nêu con số/giá trị tài sản ("MacBook 40 triệu", "cắm 4 dây", "3 thiết bị") làm nỗi đau đắt giá hơn → Score nhích lên.
-- **Tránh hook chung chung, cảm thán suông:** "Cắm dây sạc mãi rồi cũng chán thôi", "Đi công tác 3 ngày nhét đồ không đủ" (Score 3) → thiếu hình ảnh, không gợi thiệt hại rõ.
-- **Balo cần gắn thiệt hại vật chất:** hook balo thắng khi nói "laptop va đập/ướt sạch", thua khi chỉ khen chung chung → luôn kèm hậu quả cụ thể cho đồ đắt tiền.
-- **Công thức mở đầu ăn khách:** [tình huống thật] + [hậu quả tệ trực quan] + emoji cảm xúc (😤 😮‍💨) → giữ 1 câu, dạng câu hỏi giật.
-- **Emoji đúng ngữ cảnh:** 🚗😤 (tức giận/nguy hiểm) cho đồ xe, 🎒 cho balo, ⚡🔌 cho sạc → tăng nhận diện nhóm.
-- **Điểm yếu chung toàn bộ:** Shares=0 và Comments=1 kịch trần → thêm CTA kích chia sẻ/hỏi ("tag người hay làm rớt điện thoại", "bạn dùng loại nào?") để phá trần Score.
+- **Hook thắng (Score 5):** mở bằng nỗi đau cụ thể + tài sản giá trị ("MacBook 40 triệu", "laptop nằm sát đáy va đập", "điện thoại rớt khỏi tẩu vào ổ gà", "cả rổ dây sạc") — hình ảnh thiệt hại rõ ràng, dễ hình dung.
+- **Nhóm sản phẩm mạnh:** balo chống sốc laptop, giá đỡ điện thoại xe máy, củ sạc đa cổng gộp dây, phụ kiện giảm mỏi cổ khi làm việc.
+- **Công thức vàng:** "Vật/tình huống + hư hỏng/nguy hiểm cụ thể + emoji cảm xúc (😤😮‍💨)" — luôn kết bằng câu hỏi tu từ đánh vào lo sợ.
+- **Tránh hook chung chung, mơ hồ:** "Cắm dây sạc mãi rồi cũng chán", "Ba dây sạc rối bàn? Bỏ đi" (Score 3) — thiếu thiệt hại cụ thể, cảm xúc nhạt.
+- **Tránh nỗi đau xa lạ/ít ai gặp:** "Mất hộ chiếu ở sân bay", "đi công tác 3 ngày nhét đồ không đủ" (Score 3) — kém liên hệ đại chúng.
+- **Ưu tiên con số + tài sản đắt tiền** để tăng cảm giác mất mát ("40 triệu", "4 dây", "3 thiết bị") — kéo Reactions lên.
+- **Emoji hiệu quả nhất:** 😤 và 😮‍💨 (bực/mệt) > 😰 (sợ) — chọn emoji bực bội gần gũi.
+- **Điểm yếu chung:** Shares=0 toàn bộ — cần thêm yếu tố "gửi cho người thân đang gặp cảnh này" hoặc tip hữu ích để kích chia sẻ.
