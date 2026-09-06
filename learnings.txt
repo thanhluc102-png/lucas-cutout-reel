@@ -1,8 +1,8 @@
-- **Sạc/pin đa cổ, giá đỡ điện thoại xe máy, balo laptop là 3 nhóm chủ lực; ưu tiên viết hook cho nhóm này.**
-- **Hook mạnh nhất (Score 5-6): nêu nỗi đau cụ thể + hình ảnh hài hước phóng đại** — "xách nguyên ổ điện đi", "mang cả rổ dây", "laptop nằm sát đáy va đập".
-- **Chèn con số/chi tiết đắt tiền tăng cảm xúc**: "MacBook 40 triệu", "sạc 3 món", "4 dây" — kích người xem tự soi mình.
-- **Gắn nỗi sợ an toàn/mất mát khi lái xe cho hiệu quả tốt**: "rớt khỏi tẩu khi vào ổ gà", "rớt lăn lóc" mạnh hơn câu chung chung.
-- **Tránh hook mơ hồ, than chán, không hình ảnh** (Score 3): "cắm dây sạc mãi rồi cũng chán", "ba dây sạc rối bàn... bỏ đi" — thiếu tình huống nên chết tương tác.
-- **Tránh câu hỏi quá hiển nhiên/giáo huấn**: "cầm điện thoại xem chỉ đường? nguy hiểm thật đấy" — nghe như cảnh báo, kém cuốn.
-- **Công thức nên dùng: [Tình huống đời thực bất tiện] + [chi tiết cụ thể/số liệu] + emoji 😮‍💨😤 cuối câu.**
-- **Điểm yếu chung toàn bộ: 0 share, comment cào bằng — cần thêm CTA/câu chốt kích chia sẻ, hỏi mở để tăng comment thật.**
+- **Nhóm sản phẩm mạnh nhất:** Giá đỡ điện thoại xe hơi/xe máy (Score 5-6) và củ sạc đa cổng (Score 4-5) → ưu tiên viết cho 2 nhóm này.
+- **Hook thắng đậm:** mô tả tai nạn/rủi ro cụ thể, sinh động ("rớt lăn lóc", "rơi khỏi giá đỡ lúc vô cua", "vào ổ gà") → hình ảnh hóa nỗi đau cho Reactions cao.
+- **Chốt số cụ thể tăng lực:** nêu con số/giá trị tài sản ("MacBook 40 triệu", "cắm 4 dây", "3 thiết bị") làm nỗi đau đắt giá hơn → Score nhích lên.
+- **Tránh hook chung chung, cảm thán suông:** "Cắm dây sạc mãi rồi cũng chán thôi", "Đi công tác 3 ngày nhét đồ không đủ" (Score 3) → thiếu hình ảnh, không gợi thiệt hại rõ.
+- **Balo cần gắn thiệt hại vật chất:** hook balo thắng khi nói "laptop va đập/ướt sạch", thua khi chỉ khen chung chung → luôn kèm hậu quả cụ thể cho đồ đắt tiền.
+- **Công thức mở đầu ăn khách:** [tình huống thật] + [hậu quả tệ trực quan] + emoji cảm xúc (😤 😮‍💨) → giữ 1 câu, dạng câu hỏi giật.
+- **Emoji đúng ngữ cảnh:** 🚗😤 (tức giận/nguy hiểm) cho đồ xe, 🎒 cho balo, ⚡🔌 cho sạc → tăng nhận diện nhóm.
+- **Điểm yếu chung toàn bộ:** Shares=0 và Comments=1 kịch trần → thêm CTA kích chia sẻ/hỏi ("tag người hay làm rớt điện thoại", "bạn dùng loại nào?") để phá trần Score.
