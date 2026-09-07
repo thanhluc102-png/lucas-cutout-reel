@@ -1,15 +1,8 @@
-- **Nhóm sản phẩm mạnh nhất**: Giá đỡ điện thoại xe máy (chống rơi/rớt khi vào cua, ổ gà) và sạc đa cổng — hook cụ thể tình huống nguy hiểm/bực bội cho Score 4-5.
-
-- **Công thức hook thắng**: Nêu 1 tình huống đau cụ thể + con số/chi tiết đắt giá (VD "MacBook 40 triệu", "cắm 4 dây", "sạc cả rổ dây") — càng cụ thể càng nhiều Reactions.
-
-- **Emoji hiệu quả**: 😤 (bực tức) và ⚡ 🎒 gợi cảm xúc mạnh cho tương tác nhỉnh hơn; 😮‍💨 (mệt mỏi) trung tính, dễ rơi vào Score 3.
-
-- **Nên tránh**: Hook chung chung, không có nỗi đau rõ ("Cắm dây sạc mãi rồi cũng chán", "Mất hộ chiếu là ác mộng") — thiếu chi tiết cụ thể nên Score thấp (3).
-
-- **Balo**: chỉ mạnh khi gắn tài sản giá trị hoặc rủi ro rõ (laptop ướt, MacBook 40 triệu); hook mơ hồ về dung lượng/công tác cho tương tác kém.
-
-- **Nhấn hậu quả tức thì**: hook mô tả khoảnh khắc mất mát/nguy hiểm ("rớt khỏi tẩu khi vào ổ gà") ăn điểm hơn hook chỉ than phiền nhẹ.
-
-- **Điểm yếu chung toàn bộ**: Shares=0 và Comments=1 cố định → cần thêm CTA kích share/bình luận (đặt câu hỏi, "tag người cần", mini game) để phá trần Score.
-
-- **Độ dài hook**: câu hỏi ngắn 1 dòng chốt bằng "?" + cảm thán giữ nguyên; tránh câu khẳng định phẳng không gợi phản ứng.
+- Nhóm điểm cao nhất (Score=5): hook nêu nỗi đau vật lý cụ thể, sợ hãi mất mát tài sản đắt tiền — "MacBook 40 triệu", "điện thoại rớt khỏi tẩu vào ổ gà", "mang cả rổ dây sạc". Ưu tiên gắn con số/tài sản giá trị cao.
+- Sản phẩm cho tương tác tốt: giá đỡ điện thoại xe máy (chống rơi khi vào cua/ổ gà) và củ sạc đa cổng (gom nhiều dây) — hai chủ đề lặp lại ở nhóm Score cao.
+- Công thức thắng: mô tả tình huống bực tức đang xảy ra + emoji 😤/😮‍💨 + nhấn hậu quả tức thì (rớt, ướt, méo, run tay).
+- Nên chốt hook bằng chi tiết hình ảnh mạnh ("bóp méo laptop 17 inch", "vào ổ gà") thay vì mô tả chung chung ("cắm dây sạc mãi cũng chán").
+- Tránh hook mờ nhạt, cảm xúc yếu, không nêu sản phẩm rõ (Score=3): "Cắm dây sạc mãi rồi cũng chán", "Điện thoại trượt khỏi tay lái" chung chung — thiếu kịch tính, thiếu con số.
+- Chủ đề balo tài sản đắt (MacBook 40 triệu) mạnh hơn balo dung lượng/công tác chung chung; ưu tiên góc "bảo vệ đồ đắt tiền" hơn "chứa nhiều đồ".
+- Mọi hook đều 0 share: cần thêm yếu tố đáng chia sẻ (mẹo bất ngờ, con số gây sốc, "ai cũng nên biết") để phá trần tương tác.
+- Giữ hook 1 câu hỏi nhức nhối + 1 emoji cảm xúc; đặt tài sản/giá tiền/tình huống nguy hiểm ngay đầu câu.
