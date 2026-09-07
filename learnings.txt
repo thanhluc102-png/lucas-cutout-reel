@@ -1,8 +1,15 @@
-- **Hook thắng (Score 5):** mở bằng nỗi đau cụ thể + tài sản giá trị ("MacBook 40 triệu", "laptop nằm sát đáy va đập", "điện thoại rớt khỏi tẩu vào ổ gà", "cả rổ dây sạc") — hình ảnh thiệt hại rõ ràng, dễ hình dung.
-- **Nhóm sản phẩm mạnh:** balo chống sốc laptop, giá đỡ điện thoại xe máy, củ sạc đa cổng gộp dây, phụ kiện giảm mỏi cổ khi làm việc.
-- **Công thức vàng:** "Vật/tình huống + hư hỏng/nguy hiểm cụ thể + emoji cảm xúc (😤😮‍💨)" — luôn kết bằng câu hỏi tu từ đánh vào lo sợ.
-- **Tránh hook chung chung, mơ hồ:** "Cắm dây sạc mãi rồi cũng chán", "Ba dây sạc rối bàn? Bỏ đi" (Score 3) — thiếu thiệt hại cụ thể, cảm xúc nhạt.
-- **Tránh nỗi đau xa lạ/ít ai gặp:** "Mất hộ chiếu ở sân bay", "đi công tác 3 ngày nhét đồ không đủ" (Score 3) — kém liên hệ đại chúng.
-- **Ưu tiên con số + tài sản đắt tiền** để tăng cảm giác mất mát ("40 triệu", "4 dây", "3 thiết bị") — kéo Reactions lên.
-- **Emoji hiệu quả nhất:** 😤 và 😮‍💨 (bực/mệt) > 😰 (sợ) — chọn emoji bực bội gần gũi.
-- **Điểm yếu chung:** Shares=0 toàn bộ — cần thêm yếu tố "gửi cho người thân đang gặp cảnh này" hoặc tip hữu ích để kích chia sẻ.
+- **Nhóm sản phẩm mạnh nhất**: Giá đỡ điện thoại xe máy (chống rơi/rớt khi vào cua, ổ gà) và sạc đa cổng — hook cụ thể tình huống nguy hiểm/bực bội cho Score 4-5.
+
+- **Công thức hook thắng**: Nêu 1 tình huống đau cụ thể + con số/chi tiết đắt giá (VD "MacBook 40 triệu", "cắm 4 dây", "sạc cả rổ dây") — càng cụ thể càng nhiều Reactions.
+
+- **Emoji hiệu quả**: 😤 (bực tức) và ⚡ 🎒 gợi cảm xúc mạnh cho tương tác nhỉnh hơn; 😮‍💨 (mệt mỏi) trung tính, dễ rơi vào Score 3.
+
+- **Nên tránh**: Hook chung chung, không có nỗi đau rõ ("Cắm dây sạc mãi rồi cũng chán", "Mất hộ chiếu là ác mộng") — thiếu chi tiết cụ thể nên Score thấp (3).
+
+- **Balo**: chỉ mạnh khi gắn tài sản giá trị hoặc rủi ro rõ (laptop ướt, MacBook 40 triệu); hook mơ hồ về dung lượng/công tác cho tương tác kém.
+
+- **Nhấn hậu quả tức thì**: hook mô tả khoảnh khắc mất mát/nguy hiểm ("rớt khỏi tẩu khi vào ổ gà") ăn điểm hơn hook chỉ than phiền nhẹ.
+
+- **Điểm yếu chung toàn bộ**: Shares=0 và Comments=1 cố định → cần thêm CTA kích share/bình luận (đặt câu hỏi, "tag người cần", mini game) để phá trần Score.
+
+- **Độ dài hook**: câu hỏi ngắn 1 dòng chốt bằng "?" + cảm thán giữ nguyên; tránh câu khẳng định phẳng không gợi phản ứng.
