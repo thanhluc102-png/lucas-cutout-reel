@@ -1,8 +1,8 @@
-- Nhóm điểm cao nhất (Score=5): hook nêu nỗi đau vật lý cụ thể, sợ hãi mất mát tài sản đắt tiền — "MacBook 40 triệu", "điện thoại rớt khỏi tẩu vào ổ gà", "mang cả rổ dây sạc". Ưu tiên gắn con số/tài sản giá trị cao.
-- Sản phẩm cho tương tác tốt: giá đỡ điện thoại xe máy (chống rơi khi vào cua/ổ gà) và củ sạc đa cổng (gom nhiều dây) — hai chủ đề lặp lại ở nhóm Score cao.
-- Công thức thắng: mô tả tình huống bực tức đang xảy ra + emoji 😤/😮‍💨 + nhấn hậu quả tức thì (rớt, ướt, méo, run tay).
-- Nên chốt hook bằng chi tiết hình ảnh mạnh ("bóp méo laptop 17 inch", "vào ổ gà") thay vì mô tả chung chung ("cắm dây sạc mãi cũng chán").
-- Tránh hook mờ nhạt, cảm xúc yếu, không nêu sản phẩm rõ (Score=3): "Cắm dây sạc mãi rồi cũng chán", "Điện thoại trượt khỏi tay lái" chung chung — thiếu kịch tính, thiếu con số.
-- Chủ đề balo tài sản đắt (MacBook 40 triệu) mạnh hơn balo dung lượng/công tác chung chung; ưu tiên góc "bảo vệ đồ đắt tiền" hơn "chứa nhiều đồ".
-- Mọi hook đều 0 share: cần thêm yếu tố đáng chia sẻ (mẹo bất ngờ, con số gây sốc, "ai cũng nên biết") để phá trần tương tác.
-- Giữ hook 1 câu hỏi nhức nhối + 1 emoji cảm xúc; đặt tài sản/giá tiền/tình huống nguy hiểm ngay đầu câu.
+- Hook đề cập vật giá trị cao cụ thể (MacBook 40 triệu, con số inch) cho tương tác cao nhất — luôn gắn tiền/thông số vào nỗi đau.
+- Chủ đề xe máy (điện thoại rơi khỏi giá đỡ, vào cua, ổ gà) và sạc đa thiết bị (cả rổ dây, sạc 3 món) hiệu quả nhất — ưu tiên nhóm này.
+- Mở đầu bằng câu hỏi tình huống đau + emoji 😤/😬 kéo Reactions tốt hơn câu than thở chung chung 😮‍💨.
+- Nêu hậu quả rõ ràng, tức thì (laptop ướt, tay run, rớt xe) mạnh hơn nỗi lo mơ hồ (nơm nớp, chán, ác mộng).
+- Tránh hook cảm xúc chung chung, không sản phẩm cụ thể (“Cắm dây sạc mãi cũng chán”, “Mất hộ chiếu là ác mộng”) — Reactions=0.
+- Tránh lặp motif y hệt nhiều lần (điện thoại trượt/vào cua lặp lại làm tụt tương tác) — đổi góc mỗi lần.
+- Con số càng cụ thể càng tốt (3 ngày, 4 dây, 17 inch, 40 triệu) để tăng độ tin và kích phản ứng.
+- Shares luôn = 0 → thêm yếu tố đáng chia sẻ (mẹo hữu ích, cảnh báo an toàn) để phá trần điểm.
