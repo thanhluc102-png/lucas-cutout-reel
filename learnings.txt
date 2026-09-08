@@ -1,8 +1,15 @@
-- Hook thắng đậm nhất (Score 5): mô tả tai nạn cụ thể + gắn con số/giá trị đắt tiền — "MacBook 40 triệu", "rớt khỏi tẩu khi vào ổ gà", "cả rổ dây cho 3 thiết bị". Ưu tiên chi tiết hình ảnh hóa.
-- Nhóm sản phẩm mạnh: giá đỡ/tẩu điện thoại xe máy, balo laptop cao cấp, củ sạc đa cổng. Đây là các reel nên đẩy nhiều.
-- Công thức ăn tương tác: nêu nỗi đau + hậu quả tiền bạc rõ ràng ("laptop 40 triệu", "hộ chiếu"), cảm xúc bực/sợ (😤😰), câu hỏi giật.
-- Số cụ thể > mô tả chung chung: "MacBook 40 triệu", "laptop 17 inch", "4 dây", "3 thiết bị" cho điểm cao hơn hook mơ hồ.
-- Hook kém nên tránh: câu chán nản chung chung không có tình huống ("Cắm dây sạc mãi rồi cũng chán", "Mất ví mất vali") — Score chỉ 3, thiếu kịch tính cụ thể.
-- Tránh lặp mô-típ "điện thoại rơi/trượt khi vào cua" quá nhiều lần: bản có số/vật thể lạ (ổ gà) ăn hơn bản chung chung.
-- Toàn bộ mẫu Shares=0, Comments=1: hook hiện chỉ đủ gợi tò mò, chưa tạo động lực chia sẻ. Thử thêm yếu tố "gửi cho người cần" hoặc lợi ích chia sẻ được.
-- Giữ hook ngắn 1 câu hỏi + 1 emoji cảm xúc mạnh ở cuối; càng cụ thể tình huống + con số càng tốt.
+- Score toàn bộ cực thấp (3-5), 0 shares, comments đều =1 → tương tác thật rất yếu, chỉ nên tối ưu tương đối.
+
+- Hook điểm cao nhất (Score=5) đều nêu **con số/giá trị cụ thể + hình ảnh tổn thất rõ**: "MacBook 40 triệu", "cắm 4 dây chỉ 1 sạc nhanh", "sạc cả rổ dây". Ưu tiên chèn số liệu, tên sản phẩm đắt tiền, tình huống lượng hóa.
+
+- Sản phẩm nhóm sạc/hub đa cổng và balo laptop cao cấp cho Score nhỉnh hơn → khai thác mạnh hai dòng này.
+
+- Hook mô tả nỗi đau "động" gắn chuyển động cụ thể (rớt khỏi tẩu vào ổ gà, trượt khi vô cua) tốt hơn hook chung chung ("cắm dây sạc mãi rồi cũng chán").
+
+- Tránh hook mơ hồ, cảm xúc chung không có vật thể giá trị: "mất ví mất vali", "cắm dây mãi cũng chán", "nhét đồ không đủ" → toàn Score=3.
+
+- Emoji 😤😰 (bực/lo cụ thể) hoạt động ổn hơn 😮‍💨 (thở dài mơ hồ) → chọn emoji gắn cảm xúc rõ ràng.
+
+- Công thức nên dùng: [Tình huống chuyển động cụ thể] + [tài sản đắt tiền/con số] + [hậu quả tức thì] + emoji bực/lo.
+
+- Chưa hook nào tạo được share → thử thêm yếu tố "mẹo cứu nguy" hoặc "ai cũng gặp" để kích chia sẻ ở lượt tới.
