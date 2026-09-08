@@ -1,8 +1,8 @@
-- Hook đề cập vật giá trị cao cụ thể (MacBook 40 triệu, con số inch) cho tương tác cao nhất — luôn gắn tiền/thông số vào nỗi đau.
-- Chủ đề xe máy (điện thoại rơi khỏi giá đỡ, vào cua, ổ gà) và sạc đa thiết bị (cả rổ dây, sạc 3 món) hiệu quả nhất — ưu tiên nhóm này.
-- Mở đầu bằng câu hỏi tình huống đau + emoji 😤/😬 kéo Reactions tốt hơn câu than thở chung chung 😮‍💨.
-- Nêu hậu quả rõ ràng, tức thì (laptop ướt, tay run, rớt xe) mạnh hơn nỗi lo mơ hồ (nơm nớp, chán, ác mộng).
-- Tránh hook cảm xúc chung chung, không sản phẩm cụ thể (“Cắm dây sạc mãi cũng chán”, “Mất hộ chiếu là ác mộng”) — Reactions=0.
-- Tránh lặp motif y hệt nhiều lần (điện thoại trượt/vào cua lặp lại làm tụt tương tác) — đổi góc mỗi lần.
-- Con số càng cụ thể càng tốt (3 ngày, 4 dây, 17 inch, 40 triệu) để tăng độ tin và kích phản ứng.
-- Shares luôn = 0 → thêm yếu tố đáng chia sẻ (mẹo hữu ích, cảnh báo an toàn) để phá trần điểm.
+- Hook thắng đậm nhất (Score 5): mô tả tai nạn cụ thể + gắn con số/giá trị đắt tiền — "MacBook 40 triệu", "rớt khỏi tẩu khi vào ổ gà", "cả rổ dây cho 3 thiết bị". Ưu tiên chi tiết hình ảnh hóa.
+- Nhóm sản phẩm mạnh: giá đỡ/tẩu điện thoại xe máy, balo laptop cao cấp, củ sạc đa cổng. Đây là các reel nên đẩy nhiều.
+- Công thức ăn tương tác: nêu nỗi đau + hậu quả tiền bạc rõ ràng ("laptop 40 triệu", "hộ chiếu"), cảm xúc bực/sợ (😤😰), câu hỏi giật.
+- Số cụ thể > mô tả chung chung: "MacBook 40 triệu", "laptop 17 inch", "4 dây", "3 thiết bị" cho điểm cao hơn hook mơ hồ.
+- Hook kém nên tránh: câu chán nản chung chung không có tình huống ("Cắm dây sạc mãi rồi cũng chán", "Mất ví mất vali") — Score chỉ 3, thiếu kịch tính cụ thể.
+- Tránh lặp mô-típ "điện thoại rơi/trượt khi vào cua" quá nhiều lần: bản có số/vật thể lạ (ổ gà) ăn hơn bản chung chung.
+- Toàn bộ mẫu Shares=0, Comments=1: hook hiện chỉ đủ gợi tò mò, chưa tạo động lực chia sẻ. Thử thêm yếu tố "gửi cho người cần" hoặc lợi ích chia sẻ được.
+- Giữ hook ngắn 1 câu hỏi + 1 emoji cảm xúc mạnh ở cuối; càng cụ thể tình huống + con số càng tốt.
