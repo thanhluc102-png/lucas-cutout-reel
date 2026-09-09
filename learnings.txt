@@ -1,15 +1,8 @@
-- Score toàn bộ cực thấp (3-5), 0 shares, comments đều =1 → tương tác thật rất yếu, chỉ nên tối ưu tương đối.
-
-- Hook điểm cao nhất (Score=5) đều nêu **con số/giá trị cụ thể + hình ảnh tổn thất rõ**: "MacBook 40 triệu", "cắm 4 dây chỉ 1 sạc nhanh", "sạc cả rổ dây". Ưu tiên chèn số liệu, tên sản phẩm đắt tiền, tình huống lượng hóa.
-
-- Sản phẩm nhóm sạc/hub đa cổng và balo laptop cao cấp cho Score nhỉnh hơn → khai thác mạnh hai dòng này.
-
-- Hook mô tả nỗi đau "động" gắn chuyển động cụ thể (rớt khỏi tẩu vào ổ gà, trượt khi vô cua) tốt hơn hook chung chung ("cắm dây sạc mãi rồi cũng chán").
-
-- Tránh hook mơ hồ, cảm xúc chung không có vật thể giá trị: "mất ví mất vali", "cắm dây mãi cũng chán", "nhét đồ không đủ" → toàn Score=3.
-
-- Emoji 😤😰 (bực/lo cụ thể) hoạt động ổn hơn 😮‍💨 (thở dài mơ hồ) → chọn emoji gắn cảm xúc rõ ràng.
-
-- Công thức nên dùng: [Tình huống chuyển động cụ thể] + [tài sản đắt tiền/con số] + [hậu quả tức thì] + emoji bực/lo.
-
-- Chưa hook nào tạo được share → thử thêm yếu tố "mẹo cứu nguy" hoặc "ai cũng gặp" để kích chia sẻ ở lượt tới.
+- Ưu tiên hook chạm nỗi đau "hư/hỏng tài sản đắt tiền" (MacBook 40 triệu, laptop 17 inch) — nhóm balo bảo vệ laptop cho Score cao nhất (5).
+- Nhấn con số cụ thể + giá trị món đồ ("40 triệu", "17 inch", "sạc 4 thiết bị") để tăng Reactions, tránh nói chung chung.
+- Hook về "gọn dây sạc / một cục sạc nhiều thiết bị" hiệu quả (Score 5) khi kèm hình ảnh khổ sở "cả rổ dây".
+- Hook giá đỡ điện thoại "rớt khi vào ổ gà/vô cua" hiệu quả khi thêm tình huống nguy hiểm cụ thể (Score 5), tránh câu mơ hồ "trượt tứ tung".
+- Vẽ hình ảnh vật lý sống động ("bóp méo", "đập thình thịch", "đánh vật") thắng câu than chung chung ("chán thôi", "nhét không đủ" — chỉ Score 3).
+- Tránh hook cảm xúc trừu tượng, xa sản phẩm (mất hộ chiếu, mất ví/vali) — Score thấp (3) vì không rõ giải pháp.
+- Công thức mạnh: [Món đồ đắt/đông thiết bị] + [tình huống hỏng/khổ cụ thể] + emoji 😤😰 — luôn gắn hậu quả nhìn thấy được.
+- Toàn bộ Shares=0: cần thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, con số sốc, giải pháp lạ) chứ đừng chỉ nêu vấn đề.
