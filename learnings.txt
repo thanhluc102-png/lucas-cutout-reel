@@ -1,8 +1,15 @@
-- Ưu tiên hook chạm nỗi đau "hư/hỏng tài sản đắt tiền" (MacBook 40 triệu, laptop 17 inch) — nhóm balo bảo vệ laptop cho Score cao nhất (5).
-- Nhấn con số cụ thể + giá trị món đồ ("40 triệu", "17 inch", "sạc 4 thiết bị") để tăng Reactions, tránh nói chung chung.
-- Hook về "gọn dây sạc / một cục sạc nhiều thiết bị" hiệu quả (Score 5) khi kèm hình ảnh khổ sở "cả rổ dây".
-- Hook giá đỡ điện thoại "rớt khi vào ổ gà/vô cua" hiệu quả khi thêm tình huống nguy hiểm cụ thể (Score 5), tránh câu mơ hồ "trượt tứ tung".
-- Vẽ hình ảnh vật lý sống động ("bóp méo", "đập thình thịch", "đánh vật") thắng câu than chung chung ("chán thôi", "nhét không đủ" — chỉ Score 3).
-- Tránh hook cảm xúc trừu tượng, xa sản phẩm (mất hộ chiếu, mất ví/vali) — Score thấp (3) vì không rõ giải pháp.
-- Công thức mạnh: [Món đồ đắt/đông thiết bị] + [tình huống hỏng/khổ cụ thể] + emoji 😤😰 — luôn gắn hậu quả nhìn thấy được.
-- Toàn bộ Shares=0: cần thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, con số sốc, giải pháp lạ) chứ đừng chỉ nêu vấn đề.
+- **Nhận diện nhóm sản phẩm**: Hook thuộc 4 nhóm — sạc/củ sạc (⚡), giá đỡ điện thoại xe máy/ô tô (kẹp, cua, ổ gà), balo/vali laptop (🎒🧳), phụ kiện chống mất đồ (ví, hộ chiếu, vali).
+
+- **Score cao nhất (5) thuộc về**: hook có con số/vật giá trị cụ thể ("MacBook 40 triệu", "cả rổ dây", "laptop 17 inch") và tình huống nguy hiểm thân thuộc ("rớt khi vào ổ gà"). → Ưu tiên chi tiết cụ thể + định lượng.
+
+- **Sản phẩm cho tương tác nhỉnh hơn**: giá đỡ điện thoại xe máy và balo/vali laptop → nên đẩy mạnh hai nhóm này; nhóm sạc/ổ cắm và chống mất đồ thường chỉ đạt Score 3.
+
+- **Hook mở bằng câu hỏi "nỗi đau + hậu quả"** ("...mà không biết bơm ở đâu?", "...ướt sạch") giữ Score ổn định 4-5; hook chung chung, cảm thán suông ("Cắm dây sạc mãi rồi cũng chán") rơi xuống Score 3 → tránh.
+
+- **Cảm xúc mạnh cần đo bằng vật cụ thể**: "tim đập thình thịch vì ném balo laptop" (Score 4) thắng "mất hộ chiếu là ác mộng" (Score 3) → gắn nỗi sợ vào vật/tiền, đừng nói cảm xúc trừu tượng.
+
+- **Emoji 😤 (bực/khó chịu) và 🎒 phối tình huống cụ thể** cho kết quả tốt hơn 😩😰 (bi kịch mơ hồ) → chọn emoji khó chịu-thực tế thay vì bi thương.
+
+- **Toàn bộ Shares = 0**: chưa hook nào tạo động lực chia sẻ → thử thêm yếu tố "tag/gửi cho người cần", mẹo hữu ích, hoặc tình huống ai cũng dính để kích share.
+
+- **Công thức nên nhân bản**: [Vật giá trị/số cụ thể] + [tình huống nguy hiểm-quen thuộc] + [câu hỏi] + [emoji khó chịu]; tránh câu cảm thán trống, nỗi đau chung chung, sản phẩm sạc/ổ cắm nói kiểu "chán, phiền".
