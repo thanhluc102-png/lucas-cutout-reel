@@ -1,15 +1,7 @@
-- **Nêu con số/tài sản cụ thể có giá trị cao** ("MacBook 40 triệu", "laptop 17 inch") → Score cao nhất (5). Luôn gắn nỗi đau vào một vật đắt tiền cụ thể.
-
-- **Ưu tiên chủ đề phụ kiện sạc gọn gàng** ("cả rổ dây", "một ổ cắm cho cả bàn") → tương tác tốt (5). Đánh vào sự bừa bộn/phiền toái hằng ngày.
-
-- **Hook giữ điện thoại khi lái xe hiệu quả khi có chi tiết va chạm mạnh** ("ổ gà", "vào cua rớt khỏi tẩu") → Score 4-5; tránh biến thể lặp lại quá nhiều làm loãng.
-
-- **Dùng cảm xúc lo sợ mất mát cụ thể** ("nơm nớp lo laptop", "ném balo tim đập thình thịch") tốt hơn nỗi sợ trừu tượng ("mất hộ chiếu là ác mộng" chỉ Score 3).
-
-- **Tránh hook chung chung, mơ hồ, không có vật/số cụ thể** ("Cắm dây sạc mãi rồi cũng chán", "Mất ví mất vali") → Score thấp nhất (3).
-
-- **Tránh hook du lịch/công tác kiểu "nhét đồ không đủ"** khi không có chi tiết gây đau cụ thể → tương tác kém (3).
-
-- **Công thức mạnh: [Tình huống đau cụ thể] + [Tài sản/con số đắt tiền] + [emoji cảm xúc mạnh 😤😰]** → tối ưu Reactions.
-
-- **Chưa hook nào đạt Share (0/20)** → thử thêm yếu tố "gửi cho người cần", mẹo hữu ích hoặc giá trị chia sẻ để kích Share (trọng số cao nhất).
+- Score toàn sàn thấp (3–5), Shares=0 tuyệt đối, Comments luôn=1 → khác biệt chỉ nằm ở Reactions; đừng kỳ vọng viral, tối ưu để nhích Reactions.
+- Nhóm điểm cao nhất (Score=5) đều là hook chạm nỗi sợ mất tiền/mất đồ giá trị: "MacBook 40 triệu", "balo laptop tim đập thình thịch", "sạc cả rổ dây", "vali to đùng" → ưu tiên nỗi đau cụ thể + con số/vật giá trị.
+- Sản phẩm cho tương tác tốt: balo/túi chống sốc laptop, sạc đa cổng gọn dây, túi công tác tối giản → khai thác mạnh nhóm này.
+- Sản phẩm kém (Score=3): giá đỡ/kẹp điện thoại xe máy, chống mất ví/hộ chiếu, bàn phím cơ, ổ cắm, sạc dây thường → hook mòn, tránh hoặc viết lại mới.
+- Hook mạnh = tình huống rủi ro sống động + tài sản đắt tiền + emoji cảm xúc (😰😬); hook yếu = câu than chung chung, mô tả tính năng khô ("bàn phím cơ mỏng nhẹ", "cắm dây sạc mãi cũng chán").
+- Tránh lặp motif "vào cua điện thoại trượt" (3 lần đều Score 3–4) và "đi công tác nhét đồ" bị bão hòa → cần góc mới, chi tiết mới.
+- Công thức nên dùng: [Tình huống đau cụ thể] + [thiệt hại bằng tiền/đồ quý] + [emoji lo lắng] + câu hỏi xoáy; tránh mở bằng mô tả sản phẩm.
