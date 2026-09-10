@@ -1,15 +1,8 @@
-- Score chênh lệch rất thấp (3-5), tất cả chỉ đạt 1 comment và 0 share → mẫu dữ liệu yếu, khác biệt chủ yếu do Reactions (0-2), nên đọc kết quả với sự thận trọng, không kết luận quá chắc.
-
-- Hook cao điểm (Score=5) gắn với: **balo/túi chống sốc laptop đắt tiền** ("tim đập thình thịch", "MacBook 40 triệu"), **sạc đa năng gọn dây** ("cả rổ dây"), **túi công tác gọn nhẹ** ("kéo vali to đùng làm gì") → nhấn tài sản giá trị cao + nỗi sợ mất mát/rườm rà.
-
-- Công thức thắng: **câu hỏi tu từ + con số/chi tiết cụ thể** (40 triệu, 17 inch, 3 ngày) + **cảm xúc mạnh** (tim đập, ác mộng) → cụ thể hóa nỗi đau tăng tương tác.
-
-- Emoji hiệu quả: 😰 🎒 ⚡ (lo lắng + sản phẩm rõ ràng); tránh lạm dụng 😮‍💨 (mệt mỏi mơ hồ) vì gắn nhiều hook điểm thấp.
-
-- Hook kém (Score=3): mô tả **chung chung, thiếu con số, cảm xúc nhạt** ("cắm dây sạc mãi cũng chán", "sạc cả tiếng mới đầy", "bàn phím cơ mỏng nhẹ") → thiếu tình huống kịch tính, người xem không thấy mình trong đó.
-
-- Chủ đề dễ chìm: **bàn phím, ổ cắm, sạc chung chung** → nêu tính năng khô khan; cần chuyển sang tình huống bực bội cụ thể mới có sức hút.
-
-- Nên dùng **bối cảnh có rủi ro/xấu hổ** (mất hộ chiếu sân bay, laptop bị bóp méo, điện thoại văng lúc vào cua) hơn là **bối cảnh tiện lợi đơn thuần** (sạc nhanh, ít dây).
-
-- Định hướng viết tiếp: mở bằng câu hỏi giật, chèn 1 con số/vật giá trị, kết bằng nỗi sợ cụ thể + đúng emoji; ưu tiên sản phẩm túi/balo bảo vệ đồ đắt tiền và giải pháp gọn gàng đa năng.
+- Hook đặt câu hỏi về "nỗi đau cụ thể + con số/giá trị" (MacBook 40 triệu, laptop 17 inch, sạc cả tiếng) cho tương tác cao nhất — luôn nêu chi tiết định lượng.
+- Sản phẩm sạc/pin (sạc nhanh, sạc đa năng, ổ cắm) đạt score cao nhất (Score=8, 5); ưu tiên khai thác nhóm phụ kiện sạc.
+- Balo/túi công tác gắn "nỗi sợ hư đồ đắt tiền" (tim đập thình thịch, bóp méo laptop) hiệu quả hơn than "nhét đồ không đủ" chung chung.
+- Emoji cảm xúc mạnh (😰😤) + tình huống rủi ro cụ thể tăng reaction; tránh emoji trung tính (💻💻) vốn cho score thấp.
+- Tránh hook lặp mòn "đi công tác nhét đồ như đánh vật" và "điện thoại trượt khi vào cua" — đã bão hòa, tương tác đáy (Score=3).
+- Kết hook bằng câu hỏi khơi phản hồi (comment luôn ≥1) nhưng cần thêm yếu tố "wow/bất ngờ" để đẩy reaction và share.
+- Chưa reel nào có share: thêm CTA "tag người cần", "gửi cho hội hay quên" để kích share — đòn bẩy score nặng nhất.
+- Ưu tiên nêu bật lợi ích tiết kiệm/gọn (một ổ cắm, một sạc cho nhiều thiết bị) vì nhóm này đều đạt Score 5.
