@@ -1,7 +1,15 @@
-- Score toàn sàn thấp (3–5), Shares=0 tuyệt đối, Comments luôn=1 → khác biệt chỉ nằm ở Reactions; đừng kỳ vọng viral, tối ưu để nhích Reactions.
-- Nhóm điểm cao nhất (Score=5) đều là hook chạm nỗi sợ mất tiền/mất đồ giá trị: "MacBook 40 triệu", "balo laptop tim đập thình thịch", "sạc cả rổ dây", "vali to đùng" → ưu tiên nỗi đau cụ thể + con số/vật giá trị.
-- Sản phẩm cho tương tác tốt: balo/túi chống sốc laptop, sạc đa cổng gọn dây, túi công tác tối giản → khai thác mạnh nhóm này.
-- Sản phẩm kém (Score=3): giá đỡ/kẹp điện thoại xe máy, chống mất ví/hộ chiếu, bàn phím cơ, ổ cắm, sạc dây thường → hook mòn, tránh hoặc viết lại mới.
-- Hook mạnh = tình huống rủi ro sống động + tài sản đắt tiền + emoji cảm xúc (😰😬); hook yếu = câu than chung chung, mô tả tính năng khô ("bàn phím cơ mỏng nhẹ", "cắm dây sạc mãi cũng chán").
-- Tránh lặp motif "vào cua điện thoại trượt" (3 lần đều Score 3–4) và "đi công tác nhét đồ" bị bão hòa → cần góc mới, chi tiết mới.
-- Công thức nên dùng: [Tình huống đau cụ thể] + [thiệt hại bằng tiền/đồ quý] + [emoji lo lắng] + câu hỏi xoáy; tránh mở bằng mô tả sản phẩm.
+- Score chênh lệch rất thấp (3-5), tất cả chỉ đạt 1 comment và 0 share → mẫu dữ liệu yếu, khác biệt chủ yếu do Reactions (0-2), nên đọc kết quả với sự thận trọng, không kết luận quá chắc.
+
+- Hook cao điểm (Score=5) gắn với: **balo/túi chống sốc laptop đắt tiền** ("tim đập thình thịch", "MacBook 40 triệu"), **sạc đa năng gọn dây** ("cả rổ dây"), **túi công tác gọn nhẹ** ("kéo vali to đùng làm gì") → nhấn tài sản giá trị cao + nỗi sợ mất mát/rườm rà.
+
+- Công thức thắng: **câu hỏi tu từ + con số/chi tiết cụ thể** (40 triệu, 17 inch, 3 ngày) + **cảm xúc mạnh** (tim đập, ác mộng) → cụ thể hóa nỗi đau tăng tương tác.
+
+- Emoji hiệu quả: 😰 🎒 ⚡ (lo lắng + sản phẩm rõ ràng); tránh lạm dụng 😮‍💨 (mệt mỏi mơ hồ) vì gắn nhiều hook điểm thấp.
+
+- Hook kém (Score=3): mô tả **chung chung, thiếu con số, cảm xúc nhạt** ("cắm dây sạc mãi cũng chán", "sạc cả tiếng mới đầy", "bàn phím cơ mỏng nhẹ") → thiếu tình huống kịch tính, người xem không thấy mình trong đó.
+
+- Chủ đề dễ chìm: **bàn phím, ổ cắm, sạc chung chung** → nêu tính năng khô khan; cần chuyển sang tình huống bực bội cụ thể mới có sức hút.
+
+- Nên dùng **bối cảnh có rủi ro/xấu hổ** (mất hộ chiếu sân bay, laptop bị bóp méo, điện thoại văng lúc vào cua) hơn là **bối cảnh tiện lợi đơn thuần** (sạc nhanh, ít dây).
+
+- Định hướng viết tiếp: mở bằng câu hỏi giật, chèn 1 con số/vật giá trị, kết bằng nỗi sợ cụ thể + đúng emoji; ưu tiên sản phẩm túi/balo bảo vệ đồ đắt tiền và giải pháp gọn gàng đa năng.
