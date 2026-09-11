@@ -1,8 +1,7 @@
-- Hook đặt câu hỏi về "nỗi đau cụ thể + con số/giá trị" (MacBook 40 triệu, laptop 17 inch, sạc cả tiếng) cho tương tác cao nhất — luôn nêu chi tiết định lượng.
-- Sản phẩm sạc/pin (sạc nhanh, sạc đa năng, ổ cắm) đạt score cao nhất (Score=8, 5); ưu tiên khai thác nhóm phụ kiện sạc.
-- Balo/túi công tác gắn "nỗi sợ hư đồ đắt tiền" (tim đập thình thịch, bóp méo laptop) hiệu quả hơn than "nhét đồ không đủ" chung chung.
-- Emoji cảm xúc mạnh (😰😤) + tình huống rủi ro cụ thể tăng reaction; tránh emoji trung tính (💻💻) vốn cho score thấp.
-- Tránh hook lặp mòn "đi công tác nhét đồ như đánh vật" và "điện thoại trượt khi vào cua" — đã bão hòa, tương tác đáy (Score=3).
-- Kết hook bằng câu hỏi khơi phản hồi (comment luôn ≥1) nhưng cần thêm yếu tố "wow/bất ngờ" để đẩy reaction và share.
-- Chưa reel nào có share: thêm CTA "tag người cần", "gửi cho hội hay quên" để kích share — đòn bẩy score nặng nhất.
-- Ưu tiên nêu bật lợi ích tiết kiệm/gọn (một ổ cắm, một sạc cho nhiều thiết bị) vì nhóm này đều đạt Score 5.
+- Hook mạnh nhất là câu hỏi chạm nỗi đau cụ thể + con số/giá trị lớn ("MacBook 40 triệu", "laptop 17 inch", "sạc cả tiếng") — dễ tạo comment và reaction.
+- Chủ đề sạc nhanh/pin gây tương tác cao nhất (Score 8): tập trung nỗi đau chờ đợi, dây nhợ lằng nhằng, mang nhiều cục sạc.
+- Balo/túi công tác cho tương tác khá tốt khi thêm cảm xúc lo lắng ("tim đập thình thịch", "nơm nớp lo laptop") — nên nhân hoá cảm giác sợ mất/hỏng đồ.
+- Dùng emoji cảm xúc mạnh (😰😤⚡🔋) hiệu quả hơn emoji trung tính (🎒 chung chung) — chọn emoji khớp nỗi đau.
+- Tránh hook mô tả tính năng khô khan ("Bàn phím cơ mỏng nhẹ", "Một ổ cắm cho cả bàn") — Score thấp vì thiếu nỗi đau và cảm xúc.
+- Tránh lặp mô-típ trùng ("đi công tác nhét đồ", "điện thoại trượt khi vào cua") quá nhiều lần — biến thể càng về sau càng giảm tương tác.
+- Công thức thắng: [Nỗi đau cụ thể + chi tiết đắt/con số] + [dấu hỏi] + [emoji cảm xúc] để kích comment.
