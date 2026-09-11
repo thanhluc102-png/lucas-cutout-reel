@@ -1,8 +1,15 @@
-- **Nêu con số cụ thể trong hook** (Sạc cả tiếng? Laptop 17 inch, công tác 3 ngày) → chi tiết hóa nỗi đau, score cao nhất (8).
-- **Ưu tiên nhóm sản phẩm sạc nhanh & củ sạc đa cổng**: "Sạc cả tiếng mới đầy?" (8), "cả rổ dây" (5) — chủ đề sạc/pin dễ gây đồng cảm, tương tác top.
-- **Nhấn nỗi lo mất mát tài sản có giá trị** (laptop, hộ chiếu, vali) kèu cảm xúc mạnh: "tim đập thình thịch" (5), "vào cua điện thoại trượt" (5).
-- **Kết hook bằng câu hỏi + emoji cảm xúc** (😤😰) khơi trúng bực bội/lo lắng → giữ tương tác đều 4-5.
-- **Tránh hook mô tả tính năng khô khan** ("Bàn phím cơ mỏng nhẹ", "Một ổ cắm cả bàn") → chỉ đạt 3, kém hấp dẫn.
-- **Tránh lặp motif "đi công tác nhét đồ" quá nhiều** — dùng lại nhiều lần khiến score tụt về 3-4, cần đổi góc mới.
-- **Dùng động từ mạnh, hình ảnh cụ thể** ("ném balo", "trượt tứ tung", "bóp méo") thay vì than chung chung ("mãi rồi cũng chán").
-- **Cắm thẳng nỗi đau vào giây đầu**, càng cụ thể + con số + cảm xúc thì reaction & comment càng tăng.
+- **Nhóm sản phẩm SẠC cho tương tác cao nhất** (Score 8 và các mức 5): hook về sạc nhanh, sạc gọn nhiều thiết bị, ổ cắm — luôn dẫn đầu, ưu tiên chủ đề này.
+
+- **Hook có con số cụ thể + nỗi đau tức thì** ("Sạc cả tiếng mới đầy?", "cắm thêm cục sạc rời?") kéo được cả Reactions lẫn Comments; luôn nhét số liệu/tình huống rõ ràng.
+
+- **Hook giá đỡ/kẹp điện thoại xe máy** (chống trượt khi vào cua) ổn định mức khá; giữ lại nhưng làm mới câu chữ, tránh lặp y hệt ("trượt tứ tung", "vào cua" bị dùng lại nhiều lần).
+
+- **Hook balo/công tác nhét đồ chung chung** ("nhét đồ như đánh vật", "nhét đồ không đủ") cho Score thấp nhất (3): tránh mô-típ này hoặc thay bằng góc bảo vệ laptop cụ thể ("bóp méo laptop 17 inch" nhỉnh hơn).
+
+- **Hook nỗi sợ mất mát** (mất ví, mất hộ chiếu, mất vali) tương tác kém (3): né kiểu hù dọa chung, thay bằng giải pháp rõ ràng gắn sản phẩm.
+
+- **Mở đầu bằng câu hỏi tu từ + emoji cảm xúc mạnh** (😮‍💨😰😤) là công thức chuẩn của mọi hook điểm cao; duy trì cấu trúc "Câu hỏi nhức nhối? + emoji".
+
+- **Tránh hook mô tả tính năng khô khan** ("Bàn phím cơ mà mỏng nhẹ", "Cáp sạc đứt gãy") vì thiếu cảm xúc, chỉ đạt 3-4; luôn chuyển tính năng thành nỗi đau đời thường.
+
+- **Đa dạng hóa câu chữ**: các hook trùng ý bị lặp lại (công tác 3 ngày, vào cua) không tạo thêm tương tác — mỗi reel cần góc tiếp cận mới, tránh nhàm.
