@@ -1,15 +1,15 @@
-- **Nhóm sản phẩm SẠC cho tương tác cao nhất** (Score 8 và các mức 5): hook về sạc nhanh, sạc gọn nhiều thiết bị, ổ cắm — luôn dẫn đầu, ưu tiên chủ đề này.
+- **Hook số cụ thể + hứa hẹn tốc độ thắng lớn nhất**: "Sạc cả tiếng mới đầy?" (Score=8) — nêu nỗi đau đo lường được (thời gian, kích thước, số lượng) rồi ngầm hứa giải pháp nhanh gọn.
 
-- **Hook có con số cụ thể + nỗi đau tức thì** ("Sạc cả tiếng mới đầy?", "cắm thêm cục sạc rời?") kéo được cả Reactions lẫn Comments; luôn nhét số liệu/tình huống rõ ràng.
+- **Sạc/pin và sản phẩm điện tử tiện ích hút tương tác cao hơn**: cụm sạc nhanh, ổ cắm, pin dự phòng thường đạt Score 5-8; đây là nhóm nên đẩy mạnh.
 
-- **Hook giá đỡ/kẹp điện thoại xe máy** (chống trượt khi vào cua) ổn định mức khá; giữ lại nhưng làm mới câu chữ, tránh lặp y hệt ("trượt tứ tung", "vào cua" bị dùng lại nhiều lần).
+- **Ưu tiên câu hỏi tu từ ngắn đánh trúng cảnh khó chịu hằng ngày**: "phải mang cả rổ dây?", "kéo cả vali to đùng làm gì?" (Score=5) — càng cụ thể vật/tình huống, phản hồi càng mạnh.
 
-- **Hook balo/công tác nhét đồ chung chung** ("nhét đồ như đánh vật", "nhét đồ không đủ") cho Score thấp nhất (3): tránh mô-típ này hoặc thay bằng góc bảo vệ laptop cụ thể ("bóp méo laptop 17 inch" nhỉnh hơn).
+- **Hook nặng cảm xúc sợ hãi/mất mát cho tương tác kém**: "Mất hộ chiếu ở sân bay là ác mộng", "Mất ví mất vali" (Score=3) — tránh dọa dẫm chung chung, thiếu hình ảnh sản phẩm.
 
-- **Hook nỗi sợ mất mát** (mất ví, mất hộ chiếu, mất vali) tương tác kém (3): né kiểu hù dọa chung, thay bằng giải pháp rõ ràng gắn sản phẩm.
+- **Tránh lặp mô-típ "đi công tác nhét đồ" quá nhiều**: đã bão hòa, đa số chỉ Score 3-4; nếu dùng phải thêm chi tiết mới lạ hoặc con số.
 
-- **Mở đầu bằng câu hỏi tu từ + emoji cảm xúc mạnh** (😮‍💨😰😤) là công thức chuẩn của mọi hook điểm cao; duy trì cấu trúc "Câu hỏi nhức nhối? + emoji".
+- **Câu mô tả tính năng suông không có nỗi đau thì yếu**: "Bàn phím cơ mà mỏng nhẹ", "Mac Mini ổ cứng chật" (Score=3) — luôn mở bằng vấn đề trước, tính năng sau.
 
-- **Tránh hook mô tả tính năng khô khan** ("Bàn phím cơ mà mỏng nhẹ", "Cáp sạc đứt gãy") vì thiếu cảm xúc, chỉ đạt 3-4; luôn chuyển tính năng thành nỗi đau đời thường.
+- **Dùng emoji biểu cảm mạnh (⚡🔋🔌) hợp nhóm điện tử**; emoji mệt mỏi (😩😰😮‍💨) đi kèm hook cảm xúc thường kéo điểm xuống.
 
-- **Đa dạng hóa câu chữ**: các hook trùng ý bị lặp lại (công tác 3 ngày, vào cua) không tạo thêm tương tác — mỗi reel cần góc tiếp cận mới, tránh nhàm.
+- **Công thức thắng**: [Nỗi đau cụ thể + số/đơn vị đo] + [câu hỏi tu từ] + [emoji đúng ngành hàng điện tử] → nhắm sản phẩm sạc/pin/phụ kiện tiện dụng.
