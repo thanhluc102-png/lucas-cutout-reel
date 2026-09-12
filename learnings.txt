@@ -1,8 +1,8 @@
-- Hook về **tốc độ sạc / pin** ("Sạc cả tiếng mới đầy?", "Sạc mang cả rổ dây?") cho tương tác cao nhất (Score 5-8) — ưu tiên nỗi đau sạc chậm, dây rối, sạc cồng kềnh.
-- Hook về **balo/vali gọn nhẹ khi công tác** ("kéo cả vali to đùng làm gì?", "công tác 2 ngày") đạt Score 4-5 — nhấn sự dư thừa, cồng kềnh không cần thiết.
-- Hook về **bảo vệ laptop** ("tim đập thình thịch khi ném balo", "bóp méo laptop 17 inch") đạt Score 4-5 — khơi gợi nỗi sợ hỏng đồ giá trị cao.
-- Công thức mạnh: **câu hỏi tu từ + con số/chi tiết cụ thể** (17 inch, 2 ngày, cả tiếng) + emoji cảm xúc mệt mỏi 😤😮‍💨😰.
-- Hook mở đầu bằng **"phải/vẫn/mà"** tạo cảm giác phi lý, bức bối ("mà phải mang cả rổ dây?", "vẫn cắm thêm cục sạc rời?") kéo tương tác tốt.
-- Nên tránh hook **kể tính năng khô khan** ("Bàn phím cơ mà mỏng nhẹ", "Cầm điện thoại xem phim mỏi tay") — chỉ đạt Score 3, thiếu nỗi đau gay gắt.
-- Tránh hook về **mất đồ mơ hồ / an ninh chung chung** ("Mất hộ chiếu", "Mất ví mất vali") — Score 3, nỗi đau xa vời, ít người thấy mình trong đó.
-- Chưa hook nào tạo được **Share** — cần thêm yếu tố bất ngờ, giải pháp "wow" hoặc tình huống ai cũng muốn cảnh báo bạn bè để đẩy Share.
+- Ưu tiên hook chạm "nỗi đau tốc độ/hiệu suất" (sạc chậm, cầm mỏi tay): Score cao nhất 8, thắng rõ rệt.
+- Sản phẩm sạc nhanh / phụ kiện tiện dụng hằng ngày (giá đỡ, hub, sạc) cho tương tác tốt hơn balo/vali.
+- Dùng câu hỏi tu từ + con số cụ thể ("Sạc cả tiếng", "17 inch", "2 ngày") tăng phản ứng.
+- Mở đầu bằng tình huống bực bội quen thuộc + emoji cảm xúc (😤😰😮‍💨) hiệu quả ổn định (Score 4-5).
+- Hook về balo/vali chung chung, lặp lại motif "nhét đồ như đánh vật" bị bão hòa, Score thấp (3) — cần đổi góc.
+- Tránh hook thiên về mô tả tính năng khô khan ("Bàn phím cơ mỏng nhẹ") thiếu nỗi đau → Score 3.
+- Nhấn tình huống nguy cơ/mất mát cụ thể (tim đập thình thịch, ổ gà rung lắc) kéo Reactions lên 2.
+- Chưa hook nào tạo Share; cần thêm yếu tố "mẹo hữu ích/đáng chia sẻ" để tối ưu Score theo trọng số Share×5.
