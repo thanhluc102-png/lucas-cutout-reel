@@ -1,15 +1,8 @@
-- **Hook số cụ thể + hứa hẹn tốc độ thắng lớn nhất**: "Sạc cả tiếng mới đầy?" (Score=8) — nêu nỗi đau đo lường được (thời gian, kích thước, số lượng) rồi ngầm hứa giải pháp nhanh gọn.
-
-- **Sạc/pin và sản phẩm điện tử tiện ích hút tương tác cao hơn**: cụm sạc nhanh, ổ cắm, pin dự phòng thường đạt Score 5-8; đây là nhóm nên đẩy mạnh.
-
-- **Ưu tiên câu hỏi tu từ ngắn đánh trúng cảnh khó chịu hằng ngày**: "phải mang cả rổ dây?", "kéo cả vali to đùng làm gì?" (Score=5) — càng cụ thể vật/tình huống, phản hồi càng mạnh.
-
-- **Hook nặng cảm xúc sợ hãi/mất mát cho tương tác kém**: "Mất hộ chiếu ở sân bay là ác mộng", "Mất ví mất vali" (Score=3) — tránh dọa dẫm chung chung, thiếu hình ảnh sản phẩm.
-
-- **Tránh lặp mô-típ "đi công tác nhét đồ" quá nhiều**: đã bão hòa, đa số chỉ Score 3-4; nếu dùng phải thêm chi tiết mới lạ hoặc con số.
-
-- **Câu mô tả tính năng suông không có nỗi đau thì yếu**: "Bàn phím cơ mà mỏng nhẹ", "Mac Mini ổ cứng chật" (Score=3) — luôn mở bằng vấn đề trước, tính năng sau.
-
-- **Dùng emoji biểu cảm mạnh (⚡🔋🔌) hợp nhóm điện tử**; emoji mệt mỏi (😩😰😮‍💨) đi kèm hook cảm xúc thường kéo điểm xuống.
-
-- **Công thức thắng**: [Nỗi đau cụ thể + số/đơn vị đo] + [câu hỏi tu từ] + [emoji đúng ngành hàng điện tử] → nhắm sản phẩm sạc/pin/phụ kiện tiện dụng.
+- Hook về **tốc độ sạc / pin** ("Sạc cả tiếng mới đầy?", "Sạc mang cả rổ dây?") cho tương tác cao nhất (Score 5-8) — ưu tiên nỗi đau sạc chậm, dây rối, sạc cồng kềnh.
+- Hook về **balo/vali gọn nhẹ khi công tác** ("kéo cả vali to đùng làm gì?", "công tác 2 ngày") đạt Score 4-5 — nhấn sự dư thừa, cồng kềnh không cần thiết.
+- Hook về **bảo vệ laptop** ("tim đập thình thịch khi ném balo", "bóp méo laptop 17 inch") đạt Score 4-5 — khơi gợi nỗi sợ hỏng đồ giá trị cao.
+- Công thức mạnh: **câu hỏi tu từ + con số/chi tiết cụ thể** (17 inch, 2 ngày, cả tiếng) + emoji cảm xúc mệt mỏi 😤😮‍💨😰.
+- Hook mở đầu bằng **"phải/vẫn/mà"** tạo cảm giác phi lý, bức bối ("mà phải mang cả rổ dây?", "vẫn cắm thêm cục sạc rời?") kéo tương tác tốt.
+- Nên tránh hook **kể tính năng khô khan** ("Bàn phím cơ mà mỏng nhẹ", "Cầm điện thoại xem phim mỏi tay") — chỉ đạt Score 3, thiếu nỗi đau gay gắt.
+- Tránh hook về **mất đồ mơ hồ / an ninh chung chung** ("Mất hộ chiếu", "Mất ví mất vali") — Score 3, nỗi đau xa vời, ít người thấy mình trong đó.
+- Chưa hook nào tạo được **Share** — cần thêm yếu tố bất ngờ, giải pháp "wow" hoặc tình huống ai cũng muốn cảnh báo bạn bè để đẩy Share.
