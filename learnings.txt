@@ -1,8 +1,8 @@
-- Hook nêu "nỗi đau tốc độ/hiệu năng" cụ thể, có con số (sạc cả tiếng, ổ cứng chật) cho Score cao nhất — ưu tiên sạc nhanh, hub/cáp, sạc dự phòng.
-- Dùng câu hỏi trực diện chạm đúng bực bội hằng ngày ("Sạc cả tiếng mới đầy?", "Cầm điện thoại mỏi tay cả buổi?") kéo Reactions tốt hơn hook kể chuyện.
-- Chèn số cụ thể (laptop 16-17 inch, công tác 2-3 ngày, ba dây sạc) tăng độ liên quan và tương tác.
-- Nhóm phụ kiện gọn nhẹ/tối ưu (sạc nhanh, giá đỡ, hub Mac Mini, balo ôm laptop) hiệu quả hơn nhóm chống thất lạc.
-- Emoji cảm xúc bực bội/ngán (😮‍💨 😰 😤) hợp, đặt cuối hook.
-- Tránh hook nỗi đau xa lạ, hiếm gặp (mất hộ chiếu, mất ví-vali) — Score thấp nhất, ít ai thấy mình trong đó.
-- Tránh hook chỉ mô tả tính năng phẳng, thiếu nỗi đau ("Bàn phím cơ mỏng nhẹ") — không tạo đồng cảm.
-- Chưa có hook nào đạt Share; thêm yếu tố "gửi cho người hay quên/hay đi công tác" để kích chia sẻ.
+- Ưu tiên sản phẩm sạc/pin/công nghệ tiện ích (sạc nhanh, ổ cắm, hub) — nhóm "sạc cả tiếng mới đầy" đạt Score cao nhất (8); nỗi đau về pin/thời gian sạc gây tương tác mạnh nhất.
+- Hook nêu nỗi đau cụ thể + con số/chi tiết (17 inch, 16 inch, 3 ngày, cả tiếng) tạo sự đồng cảm và kéo Reactions cao hơn hook chung chung.
+- Dùng câu hỏi tu từ đánh trúng bực bội thường ngày ("rung lắc mỗi khi qua ổ gà?", "mỏi tay cả buổi?") — dạng nghi vấn cho tương tác ổn định hơn câu khẳng định.
+- Nhấn cảm xúc tiêu cực mạnh (lo sợ hỏng đồ, "tim đập thình thịch", "run") kích Reactions tốt: nhóm balo bảo vệ laptop + xem phim mỏi tay đều đạt Score 5.
+- Tránh hook mô tả tính năng khô khan ("bàn phím cơ mỏng nhẹ") hoặc nỗi đau mơ hồ ("dây rối tung", "cắm ra sau máy") — chỉ đạt Score 3, không gợi hành động.
+- Hạn chế lặp lại motif "đi công tác nhét đồ như đánh vật" — bị dùng nhiều lần, tương tác trung bình (4) và giảm dần do nhàm.
+- Chèn emoji cảm xúc (😰😩😮‍💨) hợp nỗi đau thay vì emoji vật phẩm trung tính (💻🎒🔌) để tăng độ chạm.
+- Chưa có hook nào đạt Share; cần thêm yếu tố "mẹo hữu ích/đáng chia sẻ" (giải pháp bất ngờ, tiết kiệm rõ rệt) để đẩy chỉ số Share nặng ký nhất.
