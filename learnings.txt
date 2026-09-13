@@ -1,8 +1,8 @@
-- **Ưu tiên hook chạm "nỗi đau tốc độ/hiệu năng"** (sạc chậm, ổ cứng chật): Score cao nhất 8 và 5, kích comment mạnh nhất.
-- **Chọn sản phẩm nhóm sạc nhanh, hub/cổng kết nối, pin dự phòng, giá đỡ điện thoại** — nhóm cho Score 5-8, đáng đẩy mạnh.
-- **Dùng câu hỏi tu từ về hành động lặp lại gây khó chịu** ("Sạc cả tiếng?", "Cầm mỏi tay cả buổi?"): dễ tạo phản hồi vì người xem tự nhận ra mình.
-- **Thêm con số cụ thể** (laptop 16-17 inch, công tác 2-3 ngày, Mac Mini): tăng độ liên quan, các hook có số đạt Score 5.
-- **Tránh hook về nỗi sợ mất mát/an ninh** (mất hộ chiếu, mất ví, tim đập thình thịch): chỉ Score 3, quá tiêu cực, không thúc đẩy tương tác.
-- **Tránh hook mô tả đặc tính sản phẩm khô khan** ("Bàn phím cơ mà mỏng nhẹ"): thiếu nỗi đau, Score 3 thấp nhất.
-- **Hạn chế lặp mô-típ balo/vali nhét đồ** — đã bão hòa, phần lớn chỉ Score 3-4.
-- **Mọi hook phải nhắm bật comment (Score comment nặng), chèn 1 emoji cuối câu** đúng cảm xúc bực bội/mệt mỏi (😮‍💨😤😰).
+- Hook nêu "nỗi đau tốc độ/hiệu năng" cụ thể, có con số (sạc cả tiếng, ổ cứng chật) cho Score cao nhất — ưu tiên sạc nhanh, hub/cáp, sạc dự phòng.
+- Dùng câu hỏi trực diện chạm đúng bực bội hằng ngày ("Sạc cả tiếng mới đầy?", "Cầm điện thoại mỏi tay cả buổi?") kéo Reactions tốt hơn hook kể chuyện.
+- Chèn số cụ thể (laptop 16-17 inch, công tác 2-3 ngày, ba dây sạc) tăng độ liên quan và tương tác.
+- Nhóm phụ kiện gọn nhẹ/tối ưu (sạc nhanh, giá đỡ, hub Mac Mini, balo ôm laptop) hiệu quả hơn nhóm chống thất lạc.
+- Emoji cảm xúc bực bội/ngán (😮‍💨 😰 😤) hợp, đặt cuối hook.
+- Tránh hook nỗi đau xa lạ, hiếm gặp (mất hộ chiếu, mất ví-vali) — Score thấp nhất, ít ai thấy mình trong đó.
+- Tránh hook chỉ mô tả tính năng phẳng, thiếu nỗi đau ("Bàn phím cơ mỏng nhẹ") — không tạo đồng cảm.
+- Chưa có hook nào đạt Share; thêm yếu tố "gửi cho người hay quên/hay đi công tác" để kích chia sẻ.
