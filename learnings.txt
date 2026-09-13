@@ -1,8 +1,8 @@
-- Ưu tiên hook chạm "nỗi đau tốc độ/hiệu suất" (sạc chậm, cầm mỏi tay): Score cao nhất 8, thắng rõ rệt.
-- Sản phẩm sạc nhanh / phụ kiện tiện dụng hằng ngày (giá đỡ, hub, sạc) cho tương tác tốt hơn balo/vali.
-- Dùng câu hỏi tu từ + con số cụ thể ("Sạc cả tiếng", "17 inch", "2 ngày") tăng phản ứng.
-- Mở đầu bằng tình huống bực bội quen thuộc + emoji cảm xúc (😤😰😮‍💨) hiệu quả ổn định (Score 4-5).
-- Hook về balo/vali chung chung, lặp lại motif "nhét đồ như đánh vật" bị bão hòa, Score thấp (3) — cần đổi góc.
-- Tránh hook thiên về mô tả tính năng khô khan ("Bàn phím cơ mỏng nhẹ") thiếu nỗi đau → Score 3.
-- Nhấn tình huống nguy cơ/mất mát cụ thể (tim đập thình thịch, ổ gà rung lắc) kéo Reactions lên 2.
-- Chưa hook nào tạo Share; cần thêm yếu tố "mẹo hữu ích/đáng chia sẻ" để tối ưu Score theo trọng số Share×5.
+- **Ưu tiên hook chạm "nỗi đau tốc độ/hiệu năng"** (sạc chậm, ổ cứng chật): Score cao nhất 8 và 5, kích comment mạnh nhất.
+- **Chọn sản phẩm nhóm sạc nhanh, hub/cổng kết nối, pin dự phòng, giá đỡ điện thoại** — nhóm cho Score 5-8, đáng đẩy mạnh.
+- **Dùng câu hỏi tu từ về hành động lặp lại gây khó chịu** ("Sạc cả tiếng?", "Cầm mỏi tay cả buổi?"): dễ tạo phản hồi vì người xem tự nhận ra mình.
+- **Thêm con số cụ thể** (laptop 16-17 inch, công tác 2-3 ngày, Mac Mini): tăng độ liên quan, các hook có số đạt Score 5.
+- **Tránh hook về nỗi sợ mất mát/an ninh** (mất hộ chiếu, mất ví, tim đập thình thịch): chỉ Score 3, quá tiêu cực, không thúc đẩy tương tác.
+- **Tránh hook mô tả đặc tính sản phẩm khô khan** ("Bàn phím cơ mà mỏng nhẹ"): thiếu nỗi đau, Score 3 thấp nhất.
+- **Hạn chế lặp mô-típ balo/vali nhét đồ** — đã bão hòa, phần lớn chỉ Score 3-4.
+- **Mọi hook phải nhắm bật comment (Score comment nặng), chèn 1 emoji cuối câu** đúng cảm xúc bực bội/mệt mỏi (😮‍💨😤😰).
