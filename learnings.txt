@@ -1,8 +1,8 @@
-- Ưu tiên sản phẩm sạc/pin/công nghệ tiện ích (sạc nhanh, ổ cắm, hub) — nhóm "sạc cả tiếng mới đầy" đạt Score cao nhất (8); nỗi đau về pin/thời gian sạc gây tương tác mạnh nhất.
-- Hook nêu nỗi đau cụ thể + con số/chi tiết (17 inch, 16 inch, 3 ngày, cả tiếng) tạo sự đồng cảm và kéo Reactions cao hơn hook chung chung.
-- Dùng câu hỏi tu từ đánh trúng bực bội thường ngày ("rung lắc mỗi khi qua ổ gà?", "mỏi tay cả buổi?") — dạng nghi vấn cho tương tác ổn định hơn câu khẳng định.
-- Nhấn cảm xúc tiêu cực mạnh (lo sợ hỏng đồ, "tim đập thình thịch", "run") kích Reactions tốt: nhóm balo bảo vệ laptop + xem phim mỏi tay đều đạt Score 5.
-- Tránh hook mô tả tính năng khô khan ("bàn phím cơ mỏng nhẹ") hoặc nỗi đau mơ hồ ("dây rối tung", "cắm ra sau máy") — chỉ đạt Score 3, không gợi hành động.
-- Hạn chế lặp lại motif "đi công tác nhét đồ như đánh vật" — bị dùng nhiều lần, tương tác trung bình (4) và giảm dần do nhàm.
-- Chèn emoji cảm xúc (😰😩😮‍💨) hợp nỗi đau thay vì emoji vật phẩm trung tính (💻🎒🔌) để tăng độ chạm.
-- Chưa có hook nào đạt Share; cần thêm yếu tố "mẹo hữu ích/đáng chia sẻ" (giải pháp bất ngờ, tiết kiệm rõ rệt) để đẩy chỉ số Share nặng ký nhất.
+- Hook nói về **pin/sạc chậm** (VD: "Sạc cả tiếng mới đầy?") cho tương tác cao nhất — ưu tiên nhóm sản phẩm sạc nhanh, hub sạc đa cổng.
+- Hook chạm **nỗi lo tài chính/hư hỏng** (tim đập thình thịch, laptop tràn trề không đệm, ổ cứng chật) đạt Score 5 — dùng cảm xúc sợ mất mát, hỏng thiết bị.
+- Hook nêu **con số cụ thể** (laptop 17 inch, công tác 2-3 ngày, 3 dây sạc) hiệu quả hơn hook chung chung.
+- Mở đầu bằng **câu hỏi tu từ đánh trúng pain-point** + emoji cảm xúc (😰😮‍💨😩) giúp kéo reaction/comment.
+- Tránh hook chỉ **mô tả tính năng phẳng** (VD: "Bàn phím cơ mỏng nhẹ") — không tạo cảm xúc, Score thấp (3).
+- Tránh **lặp lại motif "nhét đồ như đánh vật", "dây sạc rối tung"** đã nhàm, tương tác chỉ 3-4.
+- Không hook nào đạt Share — cần thêm **yếu tố hữu ích/gây bất ngờ đáng chia sẻ** (mẹo, so sánh sốc, tiết kiệm tiền) để nâng Score.
+- Kết hook bằng **dấu hỏi khiêu khích + đẩy 2 reaction** (phim mỏi tay, ổ cắm thiếu) là công thức an toàn cho Score ≥5.
