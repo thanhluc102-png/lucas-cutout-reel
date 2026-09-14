@@ -1,8 +1,8 @@
-- Hook nói về **pin/sạc chậm** (VD: "Sạc cả tiếng mới đầy?") cho tương tác cao nhất — ưu tiên nhóm sản phẩm sạc nhanh, hub sạc đa cổng.
-- Hook chạm **nỗi lo tài chính/hư hỏng** (tim đập thình thịch, laptop tràn trề không đệm, ổ cứng chật) đạt Score 5 — dùng cảm xúc sợ mất mát, hỏng thiết bị.
-- Hook nêu **con số cụ thể** (laptop 17 inch, công tác 2-3 ngày, 3 dây sạc) hiệu quả hơn hook chung chung.
-- Mở đầu bằng **câu hỏi tu từ đánh trúng pain-point** + emoji cảm xúc (😰😮‍💨😩) giúp kéo reaction/comment.
-- Tránh hook chỉ **mô tả tính năng phẳng** (VD: "Bàn phím cơ mỏng nhẹ") — không tạo cảm xúc, Score thấp (3).
-- Tránh **lặp lại motif "nhét đồ như đánh vật", "dây sạc rối tung"** đã nhàm, tương tác chỉ 3-4.
-- Không hook nào đạt Share — cần thêm **yếu tố hữu ích/gây bất ngờ đáng chia sẻ** (mẹo, so sánh sốc, tiết kiệm tiền) để nâng Score.
-- Kết hook bằng **dấu hỏi khiêu khích + đẩy 2 reaction** (phim mỏi tay, ổ cắm thiếu) là công thức an toàn cho Score ≥5.
+- Ưu tiên hook chạm "nỗi đau công nghệ cấp thiết": sạc chậm, thiếu cổng sạc, cắm nhiều thiết bị (Score cao nhất 8 rơi vào hook sạc chậm) → nhắm sản phẩm sạc nhanh/hub/ổ cắm đa cổng.
+- Dùng con số cụ thể tăng độ tin và độ đau ("sạc cả tiếng", "cắm được một máy", "3 món", "16 inch") thay vì mô tả chung chung.
+- Mở bằng câu hỏi phản chiếu thói quen sai của người dùng ("Vẫn xách theo…?", "Còn cắm thêm…?") kích comment/phản ứng tốt hơn câu than thở một chiều.
+- Kết hợp emoji khắc họa cảm xúc bực bội/mệt (😤🔋😮‍💨) đúng ngữ cảnh; tránh emoji chung chung yếu lực (🎒 lặp lại cho hook du lịch cho Score thấp).
+- Tránh hook "tiếc nuối muộn màng" hoặc quá ngách/khó đồng cảm (kê tay MacBook mòn, bàn phím cơ mỏng, Mac Mini) → Score chỉ 3, thị trường hẹp.
+- Hạn chế lặp lại motif "đi công tác nhét đồ như đánh vật" (đã xài 3 lần, Score 4-5 bão hòa) → đổi góc đau mới.
+- Nhắm nhóm sản phẩm sạc/pin/hub và balo-đệm-laptop (hook lo lắng hỏng máy) vì cho Reactions ≥2 ổn định; giảm phụ kiện lối sống nhỏ lẻ.
+- Toàn bộ mẫu Shares=0: thêm yếu tố "mẹo lạ/giải pháp bất ngờ" hoặc "ai cũng cần" để tạo động lực chia sẻ, không chỉ dừng ở nêu vấn đề.
