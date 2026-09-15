@@ -1,8 +1,8 @@
-- Hook nêu "nỗi đau tốc độ/hiệu năng" (sạc lâu, sạc được nhiều máy) cho điểm cao nhất (Score 8) — ưu tiên nhóm sạc nhanh, hub, pin.
-- Hook có con số cụ thể + hình ảnh so sánh ("vali to đùng", "laptop 16 inch", "3 dây sạc") tăng tương tác — luôn chèn số liệu thực tế.
-- Sản phẩm giải quyết vấn đề dùng hằng ngày (sạc, hub, giá đỡ xem phim) ăn điểm hơn phụ kiện dịp lẻ (túi công tác 2-3 ngày lặp lại chỉ Score 4-5).
-- Tránh lặp mô-típ "đi công tác nhét đồ như đánh vật" — đã dùng nhiều lần, tương tác trung bình thấp và bão hòa.
-- Hook mở bằng câu hỏi chạm đúng bực bội cá nhân ("mỏi tay cả buổi tối", "sạc cả tiếng") giữ được comment ổn định.
-- Emoji nên khớp cảm xúc đau (😤😮‍💨🔋) thay vì emoji vật phẩm trung tính (🎒🧳) — nhóm cảm xúc nhỉnh hơn.
-- Không hook nào đạt Share — cần thêm yếu tố "mẹo/đáng khoe/giá sốc" để kích chia sẻ, đòn bẩy điểm mạnh nhất.
-- Tránh hook mô tả tính năng suông ("bàn phím cơ mỏng nhẹ") thiếu nỗi đau — cho điểm thấp nhất (Score 3).
+- Hook nêu **nỗi đau tốc độ/hiệu năng** ("sạc cả tiếng mới đầy", "sạc chậm vì tẩu yếu") cho tương tác cao nhất — ưu tiên chủ đề sạc nhanh, pin, cáp.
+- Mở đầu bằng **câu hỏi tu từ chạm đúng bực bội hằng ngày** ("...cho nặng túi?", "...rối tung?") kéo comment ổn định — luôn kết bằng dấu hỏi.
+- Hook có **con số/nghịch lý cụ thể** ("2 ngày mà kéo vali to đùng", "mỏng nhẹ như phím laptop") tăng reactions — chèn số liệu hoặc so sánh gây tò mò.
+- Chủ đề **balo/túi đựng laptop** cho tương tác trung bình khá — giữ nhưng nhấn tình huống rủi ro (mưa, va đập) để bật cảm xúc.
+- Tránh hook **quá ngách/kỹ thuật cao** (Mac Mini ổ cứng, kê tay MacBook xỉn màu) — kén người xem, chỉ ra 1 comment lịch sự, hiệu quả thấp.
+- Tránh hook **liệt kê nhàm** ("còn xách sạc rời với dây rối") lặp motif cũ — Score thấp vì thiếu bất ngờ, cần biến tấu góc nhìn.
+- Dùng **emoji cảm xúc mệt mỏi/bực** (😤😮‍💨🔋) hợp tông pain-point, tăng đồng cảm — 1 emoji cuối câu là đủ.
+- Chưa hook nào đạt Share — **thêm yếu tố "mẹo hay đáng khoe" hoặc lợi ích nhóm** (tiết kiệm, gọn gàng cho cả nhà/team) để kích chia sẻ.
