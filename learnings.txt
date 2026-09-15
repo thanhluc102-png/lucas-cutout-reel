@@ -1,7 +1,8 @@
-- Ưu tiên hook về **sạc/pin/năng lượng** ("Sạc cả tiếng mới đầy?", Score=8 cao nhất) — chạm nỗi đau hằng ngày, gấp gáp về thời gian.
-- Mở bằng **câu hỏi tu từ về nỗi đau cụ thể** + emoji cảm xúc (😰😤😮‍💨) cho tương tác ổn định (Score 4-5).
-- Hook có **con số/định lượng** ("3 ngày", "16 inch", "cả tiếng", "3 món") tạo hình ảnh rõ, dễ đạt Reactions cao.
-- Tránh hook mô tả **tính năng khô khan** ("Bàn phím cơ mỏng nhẹ", Score=3) — thiếu nỗi đau nên tương tác thấp nhất.
-- Tránh hook **quá chung chung/lặp mô típ balo-laptop-mưa** (nhiều bài Score chỉ 3) — thị trường bão hòa, phản ứng nhạt.
-- Chèn **chi tiết đời thực gây đồng cảm** ("tim đập thình thịch", "nhét đồ như đánh vật") giúp kéo Reactions, không chỉ Comments.
-- Không hook nào đạt Share — cần thêm **yếu tố "khoe/mẹo hay muốn lưu"** (tip tiết kiệm, giải pháp bất ngờ) để đẩy chỉ số Share nặng ký.
+- Hook nêu "nỗi đau tốc độ/hiệu năng" (sạc lâu, sạc được nhiều máy) cho điểm cao nhất (Score 8) — ưu tiên nhóm sạc nhanh, hub, pin.
+- Hook có con số cụ thể + hình ảnh so sánh ("vali to đùng", "laptop 16 inch", "3 dây sạc") tăng tương tác — luôn chèn số liệu thực tế.
+- Sản phẩm giải quyết vấn đề dùng hằng ngày (sạc, hub, giá đỡ xem phim) ăn điểm hơn phụ kiện dịp lẻ (túi công tác 2-3 ngày lặp lại chỉ Score 4-5).
+- Tránh lặp mô-típ "đi công tác nhét đồ như đánh vật" — đã dùng nhiều lần, tương tác trung bình thấp và bão hòa.
+- Hook mở bằng câu hỏi chạm đúng bực bội cá nhân ("mỏi tay cả buổi tối", "sạc cả tiếng") giữ được comment ổn định.
+- Emoji nên khớp cảm xúc đau (😤😮‍💨🔋) thay vì emoji vật phẩm trung tính (🎒🧳) — nhóm cảm xúc nhỉnh hơn.
+- Không hook nào đạt Share — cần thêm yếu tố "mẹo/đáng khoe/giá sốc" để kích chia sẻ, đòn bẩy điểm mạnh nhất.
+- Tránh hook mô tả tính năng suông ("bàn phím cơ mỏng nhẹ") thiếu nỗi đau — cho điểm thấp nhất (Score 3).
