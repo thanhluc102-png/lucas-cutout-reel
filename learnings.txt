@@ -1,8 +1,8 @@
-- Hook nêu **nỗi đau tốc độ/hiệu năng** ("sạc cả tiếng mới đầy", "sạc chậm vì tẩu yếu") cho tương tác cao nhất — ưu tiên chủ đề sạc nhanh, pin, cáp.
-- Mở đầu bằng **câu hỏi tu từ chạm đúng bực bội hằng ngày** ("...cho nặng túi?", "...rối tung?") kéo comment ổn định — luôn kết bằng dấu hỏi.
-- Hook có **con số/nghịch lý cụ thể** ("2 ngày mà kéo vali to đùng", "mỏng nhẹ như phím laptop") tăng reactions — chèn số liệu hoặc so sánh gây tò mò.
-- Chủ đề **balo/túi đựng laptop** cho tương tác trung bình khá — giữ nhưng nhấn tình huống rủi ro (mưa, va đập) để bật cảm xúc.
-- Tránh hook **quá ngách/kỹ thuật cao** (Mac Mini ổ cứng, kê tay MacBook xỉn màu) — kén người xem, chỉ ra 1 comment lịch sự, hiệu quả thấp.
-- Tránh hook **liệt kê nhàm** ("còn xách sạc rời với dây rối") lặp motif cũ — Score thấp vì thiếu bất ngờ, cần biến tấu góc nhìn.
-- Dùng **emoji cảm xúc mệt mỏi/bực** (😤😮‍💨🔋) hợp tông pain-point, tăng đồng cảm — 1 emoji cuối câu là đủ.
-- Chưa hook nào đạt Share — **thêm yếu tố "mẹo hay đáng khoe" hoặc lợi ích nhóm** (tiết kiệm, gọn gàng cho cả nhà/team) để kích chia sẻ.
+- Ưu tiên hook nhắm nỗi đau công năng cấp thiết (sạc chậm, pin yếu, mỏi tay) — nhóm này cho Score cao nhất (5–8); tránh hook chung chung về balo/túi (nhiều cái chỉ đạt 3).
+- Hook mạnh nhất: "Sạc cả tiếng mới đầy điện thoại?" (Score=8) — công thức "thời gian lãng phí + thiết bị thiết yếu hằng ngày" nên nhân rộng.
+- Nêu con số cụ thể (2 ngày, 16 inch, cả tiếng, 3 món) tăng tương tác so với mô tả mơ hồ.
+- Sản phẩm sạc/pin/phụ kiện điện thoại kéo tương tác tốt hơn balo/túi/kê tay; giảm tần suất reel balo vì bão hòa và điểm thấp.
+- Mở đầu bằng câu hỏi tu từ chạm trực tiếp cảnh khó chịu quen thuộc ("mỗi tối", "cả ngày", "đi làm") — tạo đồng cảm, kích comment.
+- Dùng emoji cảm xúc bực bội/mệt mỏi (😤😮‍💨😩) đúng ngữ cảnh nỗi đau, không lạm dụng emoji trung tính.
+- Tránh hook quá ngách/kỹ thuật (Mac Mini, bàn phím cơ mỏng) vì tệp nhỏ, tương tác trung bình–thấp.
+- Không hook nào đạt Share — cần thêm yếu tố "mẹo hữu ích / đáng lưu lại / gửi cho người thân" để đẩy chỉ số nặng nhất.
