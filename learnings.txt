@@ -1,8 +1,8 @@
-- Ưu tiên hook về **sạc/pin/năng lượng** ("sạc cả tiếng mới đầy?", "sạc được một máy?") — nhóm này đạt score cao nhất (5-8), chạm nỗi đau dùng hằng ngày.
-- Mở đầu bằng **câu hỏi tu từ chạm nỗi đau cụ thể**, kết bằng dấu "?" và 1 emoji đúng ngữ cảnh (🔋📱☀️) — công thức cho tương tác ổn định.
-- Nêu **tình huống bực bội quen thuộc** (mỏi tay xem phim, ổ cứng chật, cắm sau máy) tạo tò mò, kéo comment tốt hơn hook chỉ khoe tính năng.
-- Tránh hook kiểu **so sánh khô/khoe thông số** ("mỏng nhẹ như phím laptop", "ôm laptop 16 inch") — score thấp nhất (3), thiếu cảm xúc.
-- Cẩn trọng nhóm **balo/túi**: lặp lại quá nhiều, tương tác chỉ mức 3-5, nên giảm tần suất hoặc đổi góc tiếp cận.
-- Chèn **con số/chi tiết đắt** ("3 dây rối tung", "vài tháng lại đứt gãy") giúp hook sinh động, nhỉnh hơn hook chung chung.
-- Nhắm sản phẩm gắn **thiết bị Apple hot** (MacBook, Mac Mini, iPhone Air) để tăng độ liên quan, nhưng phải xoáy vào nỗi đau chứ không chỉ nêu tên máy.
-- Toàn bộ mẫu **gần như không có Share** → thêm yếu tố "mẹo hay/đáng chia sẻ" hoặc chốt giá trị bất ngờ để kích Share, đòn bẩy score mạnh nhất.
+- Ưu tiên hook về **sạc/pin/năng lượng** (Score 8, 5): nhấn nỗi đau "sạc lâu", "cắm được nhiều máy" — cho tương tác cao nhất.
+- Dùng con số + tình huống cụ thể ("16 inch", "cả tiếng", "3 món", "Mac Mini") để tăng độ đồng cảm và phản ứng.
+- Hook mở đầu bằng **câu hỏi tu từ đánh trúng nỗi bực dọc thường ngày** ("Sạc cả tiếng mới đầy?") kéo reaction tốt hơn kiểu than chung chung.
+- Emoji 🔋🔌 (điện) hiệu quả hơn 😮‍💨 (thở dài) — nhóm "thở dài" gần như luôn Score 3-4, đều đều mà kém bật.
+- Tránh hook **balo/túi chống sốc** dạng chê bai mơ hồ ("mỏng manh", "lỏng lẻo", "bỏ đi"): lặp nhiều, tương tác thấp (Score 3-4), dễ nhàm.
+- Tránh chủ đề **quá ngách/kén người** (kê tay MacBook, ốp iPhone Air, chống lóa màn hình): Score thấp vì tệp nhỏ.
+- Không share nào đạt được — chèn yếu tố "gửi cho đứa hay quên sạc", "tag đứa balo nặng" để kích share (đòn bẩy điểm mạnh nhất).
+- Giữ hook ngắn 1 dòng, 1 nỗi đau duy nhất + 1 emoji; càng cụ thể sản phẩm giải quyết được thì reaction càng nhỉnh.
