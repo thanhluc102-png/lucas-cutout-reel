@@ -1,8 +1,8 @@
-- Ưu tiên hook nhắm nỗi đau công năng cấp thiết (sạc chậm, pin yếu, mỏi tay) — nhóm này cho Score cao nhất (5–8); tránh hook chung chung về balo/túi (nhiều cái chỉ đạt 3).
-- Hook mạnh nhất: "Sạc cả tiếng mới đầy điện thoại?" (Score=8) — công thức "thời gian lãng phí + thiết bị thiết yếu hằng ngày" nên nhân rộng.
-- Nêu con số cụ thể (2 ngày, 16 inch, cả tiếng, 3 món) tăng tương tác so với mô tả mơ hồ.
-- Sản phẩm sạc/pin/phụ kiện điện thoại kéo tương tác tốt hơn balo/túi/kê tay; giảm tần suất reel balo vì bão hòa và điểm thấp.
-- Mở đầu bằng câu hỏi tu từ chạm trực tiếp cảnh khó chịu quen thuộc ("mỗi tối", "cả ngày", "đi làm") — tạo đồng cảm, kích comment.
-- Dùng emoji cảm xúc bực bội/mệt mỏi (😤😮‍💨😩) đúng ngữ cảnh nỗi đau, không lạm dụng emoji trung tính.
-- Tránh hook quá ngách/kỹ thuật (Mac Mini, bàn phím cơ mỏng) vì tệp nhỏ, tương tác trung bình–thấp.
-- Không hook nào đạt Share — cần thêm yếu tố "mẹo hữu ích / đáng lưu lại / gửi cho người thân" để đẩy chỉ số nặng nhất.
+- Hook có con số/tương phản cụ thể ("sạc cả tiếng mới đầy", "3 dây cho 3 món") cho Score cao nhất — ưu tiên dùng số liệu gây bức xúc.
+- Chủ đề sạc/pin/hub gom nhiều thiết bị là nhóm tương tác tốt nhất — khai thác pain point "dây rối, sạc yếu, nhét nhiều cục".
+- Hook đánh vào nỗi sợ mất mát/hối tiếc ("mòn nhẵn mới tiếc", "đi mưa run") kéo reaction tốt hơn hook mô tả tính năng đơn thuần.
+- Mở đầu bằng câu hỏi tu từ chạm đúng cảnh khổ hằng ngày > câu khẳng định/chê bai ("bỏ đi", "mỏng nhẹ như laptop") vốn Score thấp.
+- Tránh hook thiên về thông số kỹ thuật khô khan hoặc niche hẹp (iPhone Air, kê tay xỉn màu) — tương tác kém.
+- Emoji cảm xúc mệt mỏi/bực (😤😩🔋) hiệu quả hơn emoji trung tính (💻) — chọn icon khớp nỗi đau.
+- Không hook nào đạt Share — cần thêm yếu tố "đáng khoe/đáng gửi bạn": mẹo tiết kiệm, giá sốc, hoặc kết quả bất ngờ để tăng Shares (trọng số cao nhất).
+- Giữ hook ngắn 1 dòng, 1 nỗi đau duy nhất, kết bằng dấu hỏi để mời tương tác.
