@@ -1,8 +1,8 @@
-- Hook có con số/tương phản cụ thể ("sạc cả tiếng mới đầy", "3 dây cho 3 món") cho Score cao nhất — ưu tiên dùng số liệu gây bức xúc.
-- Chủ đề sạc/pin/hub gom nhiều thiết bị là nhóm tương tác tốt nhất — khai thác pain point "dây rối, sạc yếu, nhét nhiều cục".
-- Hook đánh vào nỗi sợ mất mát/hối tiếc ("mòn nhẵn mới tiếc", "đi mưa run") kéo reaction tốt hơn hook mô tả tính năng đơn thuần.
-- Mở đầu bằng câu hỏi tu từ chạm đúng cảnh khổ hằng ngày > câu khẳng định/chê bai ("bỏ đi", "mỏng nhẹ như laptop") vốn Score thấp.
-- Tránh hook thiên về thông số kỹ thuật khô khan hoặc niche hẹp (iPhone Air, kê tay xỉn màu) — tương tác kém.
-- Emoji cảm xúc mệt mỏi/bực (😤😩🔋) hiệu quả hơn emoji trung tính (💻) — chọn icon khớp nỗi đau.
-- Không hook nào đạt Share — cần thêm yếu tố "đáng khoe/đáng gửi bạn": mẹo tiết kiệm, giá sốc, hoặc kết quả bất ngờ để tăng Shares (trọng số cao nhất).
-- Giữ hook ngắn 1 dòng, 1 nỗi đau duy nhất, kết bằng dấu hỏi để mời tương tác.
+- Ưu tiên hook về **sạc/pin/năng lượng** ("sạc cả tiếng mới đầy?", "sạc được một máy?") — nhóm này đạt score cao nhất (5-8), chạm nỗi đau dùng hằng ngày.
+- Mở đầu bằng **câu hỏi tu từ chạm nỗi đau cụ thể**, kết bằng dấu "?" và 1 emoji đúng ngữ cảnh (🔋📱☀️) — công thức cho tương tác ổn định.
+- Nêu **tình huống bực bội quen thuộc** (mỏi tay xem phim, ổ cứng chật, cắm sau máy) tạo tò mò, kéo comment tốt hơn hook chỉ khoe tính năng.
+- Tránh hook kiểu **so sánh khô/khoe thông số** ("mỏng nhẹ như phím laptop", "ôm laptop 16 inch") — score thấp nhất (3), thiếu cảm xúc.
+- Cẩn trọng nhóm **balo/túi**: lặp lại quá nhiều, tương tác chỉ mức 3-5, nên giảm tần suất hoặc đổi góc tiếp cận.
+- Chèn **con số/chi tiết đắt** ("3 dây rối tung", "vài tháng lại đứt gãy") giúp hook sinh động, nhỉnh hơn hook chung chung.
+- Nhắm sản phẩm gắn **thiết bị Apple hot** (MacBook, Mac Mini, iPhone Air) để tăng độ liên quan, nhưng phải xoáy vào nỗi đau chứ không chỉ nêu tên máy.
+- Toàn bộ mẫu **gần như không có Share** → thêm yếu tố "mẹo hay/đáng chia sẻ" hoặc chốt giá trị bất ngờ để kích Share, đòn bẩy score mạnh nhất.
