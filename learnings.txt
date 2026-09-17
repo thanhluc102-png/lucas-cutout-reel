@@ -1,8 +1,8 @@
-- Ưu tiên hook về **sạc/pin/năng lượng** (Score 8, 5): nhấn nỗi đau "sạc lâu", "cắm được nhiều máy" — cho tương tác cao nhất.
-- Dùng con số + tình huống cụ thể ("16 inch", "cả tiếng", "3 món", "Mac Mini") để tăng độ đồng cảm và phản ứng.
-- Hook mở đầu bằng **câu hỏi tu từ đánh trúng nỗi bực dọc thường ngày** ("Sạc cả tiếng mới đầy?") kéo reaction tốt hơn kiểu than chung chung.
-- Emoji 🔋🔌 (điện) hiệu quả hơn 😮‍💨 (thở dài) — nhóm "thở dài" gần như luôn Score 3-4, đều đều mà kém bật.
-- Tránh hook **balo/túi chống sốc** dạng chê bai mơ hồ ("mỏng manh", "lỏng lẻo", "bỏ đi"): lặp nhiều, tương tác thấp (Score 3-4), dễ nhàm.
-- Tránh chủ đề **quá ngách/kén người** (kê tay MacBook, ốp iPhone Air, chống lóa màn hình): Score thấp vì tệp nhỏ.
-- Không share nào đạt được — chèn yếu tố "gửi cho đứa hay quên sạc", "tag đứa balo nặng" để kích share (đòn bẩy điểm mạnh nhất).
-- Giữ hook ngắn 1 dòng, 1 nỗi đau duy nhất + 1 emoji; càng cụ thể sản phẩm giải quyết được thì reaction càng nhỉnh.
+- Hook nêu **vấn đề cụ thể + cảm giác đau thực tế** (ổ cứng chật phải với ra sau máy, kê tay mòn nhẵn một bên, mỏi tay xem phim) cho score cao nhất (5) — ưu tiên chi tiết đời thường, hình ảnh rõ.
+- Sản phẩm mạnh nhất: **hub/dock cho Mac Mini, giá đỡ điện thoại, tấm đệm/lót laptop trong balo** — nhóm giải quyết bất tiện hằng ngày kéo Reactions lên 2.
+- Chèn **tên thiết bị cụ thể** (Mac Mini, MacBook, iPhone Air, laptop 16 inch) tăng độ liên quan và tương tác.
+- Hook nhắm **nỗi sợ mất mát/hư hỏng chung chung** (balo gặp mưa, va đập, sạc pin lâu) cho score thấp (3) — tránh mô tả mơ hồ, thiếu hình ảnh.
+- Chủ đề **sạc/cáp/dây rối** đang bão hòa, tương tác đều thấp (3-4) — hạn chế lặp lại hoặc phải đổi góc mới lạ.
+- Toàn bộ Shares=0: hook hiện **chưa tạo giá trị để chia sẻ** — thêm mẹo hữu ích, con số gây sốc, hoặc yếu tố "ai cũng dính" để kích share.
+- Giữ hook **1 câu, kết bằng dấu hỏi + 1 emoji** đúng ngữ cảnh; emoji cảm xúc (😩😮‍💨) hợp hook "đau", tránh nhồi nhiều emoji.
+- Ưu tiên **câu hỏi xoáy thẳng thói quen sai của người dùng** ("còn xài...?", "vẫn...?") hơn câu khẳng định về sản phẩm.
