@@ -1,15 +1,8 @@
-- Hook nêu "nỗi đau cụ thể + hình ảnh vật lý rõ ràng" (ổ cứng chật phải với ra sau máy, kê tay mòn một bên, laptop tràn trề không đệm) cho Score cao nhất (5) — luôn tả tình huống thật, dễ hình dung.
-
-- Sản phẩm hub/dock, giá đỡ điện thoại, đệm/lót laptop (giải pháp nâng cấp trải nghiệm hằng ngày) hút reaction tốt hơn phụ kiện phòng thủ trừu tượng.
-
-- Ưu tiên hook gợi "sự tiếc nuối/hối hận đã lỡ" (mòn nhẵn mới tiếc) hoặc "mỏi mệt lặp lại mỗi ngày/mỗi tối" — chạm cảm xúc mạnh hơn.
-
-- Tránh hook về sạc/cáp/pin dự phòng chung chung (xách cục sạc, dây rối, tẩu yếu) — lặp nhiều, Score thấp (3), quá quen thuộc nên bị lướt.
-
-- Tránh hook chê ốp/balo kiểu "ố vàng, mỏng manh, dày cui" chỉ nêu khuyết điểm mà thiếu cảnh cụ thể — đa số chỉ đạt Score 3.
-
-- Dùng emoji đúng ngữ cảnh sản phẩm (😩😮‍💨 cho tiếc nuối) thay vì emoji chung 🔌🔋 vốn gắn với nhóm hook kém.
-
-- Câu hỏi tu từ ngắn, nhắm 1 nỗi đau/1 khoảnh khắc duy nhất; tránh nhồi 2 vấn đề (dày + sạc chập chờn) làm loãng.
-
-- Không có hook nào tạo được Share — cần thêm yếu tố "đáng khoe/đáng lưu" (mẹo hay, con số bất ngờ, before-after) để đẩy Score qua ngưỡng.
+- Hook nêu vấn đề cụ thể + con số/tình huống rõ (laptop 16 inch, Mac Mini ổ cứng chật, sạc 3 món) cho tương tác cao nhất → luôn chèn chi tiết định lượng.
+- Nhóm sản phẩm phụ kiện laptop/Mac (túi chống sốc, hub, kê tay, balo có đệm) đạt Score 5 nhiều nhất → ưu tiên chủ đề bảo vệ/nâng cấp thiết bị đắt tiền.
+- Hook chạm nỗi đau "tiếc nuối, hư hỏng, mất tiền" (mòn nhẵn mới tiếc, đứt gãy, va đập) kéo reaction tốt hơn hook chỉ than phiền nhẹ.
+- Emoji 😮‍💨 😩 😤 (bực/ngán) kết hợp vấn đề nặng cho điểm cao hơn 🔌 🎒 🌧️ đơn thuần mô tả.
+- Hook mở đầu bằng câu hỏi gợi cảnh sinh hoạt thật (xem phim mỏi tay, sạc cả tiếng) dễ gợi phản hồi hơn hook chung chung.
+- Tránh hook mô tả sự cố mơ hồ, không con số ("balo mỏng manh", "ốp ố vàng", "màn hình chói") → toàn Score 3, kém nhất.
+- Tất cả video Shares=0, Comments≈1: nội dung chưa đủ giá trị chia sẻ → thêm mẹo/lợi ích bất ngờ hoặc CTA kêu gọi tag bạn bè để đẩy Share.
+- Giữ hook 1 câu, 1 nỗi đau, cuối câu 1 emoji cảm xúc; càng cụ thể càng thắng.
