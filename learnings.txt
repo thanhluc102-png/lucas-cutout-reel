@@ -1,8 +1,15 @@
-- Hook nêu **vấn đề cụ thể + cảm giác đau thực tế** (ổ cứng chật phải với ra sau máy, kê tay mòn nhẵn một bên, mỏi tay xem phim) cho score cao nhất (5) — ưu tiên chi tiết đời thường, hình ảnh rõ.
-- Sản phẩm mạnh nhất: **hub/dock cho Mac Mini, giá đỡ điện thoại, tấm đệm/lót laptop trong balo** — nhóm giải quyết bất tiện hằng ngày kéo Reactions lên 2.
-- Chèn **tên thiết bị cụ thể** (Mac Mini, MacBook, iPhone Air, laptop 16 inch) tăng độ liên quan và tương tác.
-- Hook nhắm **nỗi sợ mất mát/hư hỏng chung chung** (balo gặp mưa, va đập, sạc pin lâu) cho score thấp (3) — tránh mô tả mơ hồ, thiếu hình ảnh.
-- Chủ đề **sạc/cáp/dây rối** đang bão hòa, tương tác đều thấp (3-4) — hạn chế lặp lại hoặc phải đổi góc mới lạ.
-- Toàn bộ Shares=0: hook hiện **chưa tạo giá trị để chia sẻ** — thêm mẹo hữu ích, con số gây sốc, hoặc yếu tố "ai cũng dính" để kích share.
-- Giữ hook **1 câu, kết bằng dấu hỏi + 1 emoji** đúng ngữ cảnh; emoji cảm xúc (😩😮‍💨) hợp hook "đau", tránh nhồi nhiều emoji.
-- Ưu tiên **câu hỏi xoáy thẳng thói quen sai của người dùng** ("còn xài...?", "vẫn...?") hơn câu khẳng định về sản phẩm.
+- Hook nêu "nỗi đau cụ thể + hình ảnh vật lý rõ ràng" (ổ cứng chật phải với ra sau máy, kê tay mòn một bên, laptop tràn trề không đệm) cho Score cao nhất (5) — luôn tả tình huống thật, dễ hình dung.
+
+- Sản phẩm hub/dock, giá đỡ điện thoại, đệm/lót laptop (giải pháp nâng cấp trải nghiệm hằng ngày) hút reaction tốt hơn phụ kiện phòng thủ trừu tượng.
+
+- Ưu tiên hook gợi "sự tiếc nuối/hối hận đã lỡ" (mòn nhẵn mới tiếc) hoặc "mỏi mệt lặp lại mỗi ngày/mỗi tối" — chạm cảm xúc mạnh hơn.
+
+- Tránh hook về sạc/cáp/pin dự phòng chung chung (xách cục sạc, dây rối, tẩu yếu) — lặp nhiều, Score thấp (3), quá quen thuộc nên bị lướt.
+
+- Tránh hook chê ốp/balo kiểu "ố vàng, mỏng manh, dày cui" chỉ nêu khuyết điểm mà thiếu cảnh cụ thể — đa số chỉ đạt Score 3.
+
+- Dùng emoji đúng ngữ cảnh sản phẩm (😩😮‍💨 cho tiếc nuối) thay vì emoji chung 🔌🔋 vốn gắn với nhóm hook kém.
+
+- Câu hỏi tu từ ngắn, nhắm 1 nỗi đau/1 khoảnh khắc duy nhất; tránh nhồi 2 vấn đề (dày + sạc chập chờn) làm loãng.
+
+- Không có hook nào tạo được Share — cần thêm yếu tố "đáng khoe/đáng lưu" (mẹo hay, con số bất ngờ, before-after) để đẩy Score qua ngưỡng.
