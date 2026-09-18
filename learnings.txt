@@ -1,8 +1,8 @@
-- Hook nhóm phụ kiện (hub/sạc/dock, kê tay, ốp) và dùng emoji 😮‍💨 cho Score nhỉnh hơn (4–5); ưu tiên nêu nỗi đau cụ thể "cắm gì cũng phải với ra sau máy", "ổ cứng chật".
-- Hook có con số/model cụ thể (laptop 16 inch, Mac Mini, iPhone Air, 3 dây sạc) giữ tương tác ổn định 4–5, nên bám sát chi tiết thật.
-- Hook balo/laptop chung chung ("mỏng manh", "ướt sũng", "va đập") gần như đều rớt về Score=3, nên tránh lặp mô-típ balo-mưa quá nhiều.
-- Toàn bộ Shares=0 và Comments đều =1: chưa có hook nào tạo lý do chia sẻ/bình luận → cần thêm câu hỏi mở, mời tag bạn bè, hoặc chốt bằng CTA tương tác.
-- Tránh hook mô tả vấn đề nhưng không gợi giải pháp/tò mò ("ố vàng che màu máy", "xỉn màu ám mồ hôi") vì chỉ đạt Score=3.
-- Viết hook ngắn, 1 nỗi đau + 1 emoji cảm xúc mạnh (😮‍💨😤🔌), đặt câu hỏi khơi trúng tình huống hằng ngày để nhích Reactions lên 1–2.
-- Đa dạng sản phẩm thay vì dồn vào balo; nhóm sạc/dock/kê tay/ốp mỏng cho dư địa tương tác tốt hơn.
-- Thử nghiệm hook có yếu tố "tiếc nuối/hậu quả" ("mòn nhẵn một bên rồi mới tiếc") vì tạo cảm xúc và giữ Score=4.
+- Hook có "con số cụ thể + tình huống hằng ngày" (VD: laptop 16 inch, sạc 3 món, cắm 1 máy) cho Score cao hơn (4-5); hook chung chung mơ hồ chỉ đạt 3.
+- Nhóm chủ đề mạnh nhất: balo/túi đựng laptop (chống sốc, chống nước) và phụ kiện Mac (kê tay, hub ổ cứng) — nhắm dân văn phòng/dev, dễ ra Reactions.
+- Hook chạm "nỗi đau về sức khỏe/thẩm mỹ lâu dài" (mỏi tay xem phim, kê tay mòn nhẵn, đệm laptop) kéo Reactions lên 2 — ưu tiên khai thác.
+- Tránh hook lặp mô-típ "ố vàng / dày cui / sạc chậm" cho ốp lưng & củ sạc: bị bão hòa, hầu hết chỉ Score=3.
+- Mở đầu bằng câu hỏi phản chiếu thói quen sai của người dùng ("Còn xách...?", "Đi cả ngày mà chỉ...?") hiệu quả hơn câu khẳng định chê sản phẩm cũ.
+- Emoji nên khớp ngữ cảnh cảm xúc (😮‍💨 mệt mỏi, 🔋 pin, 🎒 balo); 1 emoji/hook là đủ, đặt cuối câu.
+- Ưu tiên hook đánh vào "mất mát/hối tiếc đã xảy ra" (mòn nhẵn rồi mới tiếc, trầy xước mỗi lần mưa) hơn hook chỉ nêu bất tiện nhẹ.
+- Chưa hook nào tạo Share/Comment sâu — thử thêm yếu tố "giá trị chia sẻ được" (mẹo, so sánh, tiết kiệm tiền) để kích Shares.
