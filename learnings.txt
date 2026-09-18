@@ -1,8 +1,8 @@
-- Hook nêu vấn đề cụ thể + con số/tình huống rõ (laptop 16 inch, Mac Mini ổ cứng chật, sạc 3 món) cho tương tác cao nhất → luôn chèn chi tiết định lượng.
-- Nhóm sản phẩm phụ kiện laptop/Mac (túi chống sốc, hub, kê tay, balo có đệm) đạt Score 5 nhiều nhất → ưu tiên chủ đề bảo vệ/nâng cấp thiết bị đắt tiền.
-- Hook chạm nỗi đau "tiếc nuối, hư hỏng, mất tiền" (mòn nhẵn mới tiếc, đứt gãy, va đập) kéo reaction tốt hơn hook chỉ than phiền nhẹ.
-- Emoji 😮‍💨 😩 😤 (bực/ngán) kết hợp vấn đề nặng cho điểm cao hơn 🔌 🎒 🌧️ đơn thuần mô tả.
-- Hook mở đầu bằng câu hỏi gợi cảnh sinh hoạt thật (xem phim mỏi tay, sạc cả tiếng) dễ gợi phản hồi hơn hook chung chung.
-- Tránh hook mô tả sự cố mơ hồ, không con số ("balo mỏng manh", "ốp ố vàng", "màn hình chói") → toàn Score 3, kém nhất.
-- Tất cả video Shares=0, Comments≈1: nội dung chưa đủ giá trị chia sẻ → thêm mẹo/lợi ích bất ngờ hoặc CTA kêu gọi tag bạn bè để đẩy Share.
-- Giữ hook 1 câu, 1 nỗi đau, cuối câu 1 emoji cảm xúc; càng cụ thể càng thắng.
+- Hook nhóm phụ kiện (hub/sạc/dock, kê tay, ốp) và dùng emoji 😮‍💨 cho Score nhỉnh hơn (4–5); ưu tiên nêu nỗi đau cụ thể "cắm gì cũng phải với ra sau máy", "ổ cứng chật".
+- Hook có con số/model cụ thể (laptop 16 inch, Mac Mini, iPhone Air, 3 dây sạc) giữ tương tác ổn định 4–5, nên bám sát chi tiết thật.
+- Hook balo/laptop chung chung ("mỏng manh", "ướt sũng", "va đập") gần như đều rớt về Score=3, nên tránh lặp mô-típ balo-mưa quá nhiều.
+- Toàn bộ Shares=0 và Comments đều =1: chưa có hook nào tạo lý do chia sẻ/bình luận → cần thêm câu hỏi mở, mời tag bạn bè, hoặc chốt bằng CTA tương tác.
+- Tránh hook mô tả vấn đề nhưng không gợi giải pháp/tò mò ("ố vàng che màu máy", "xỉn màu ám mồ hôi") vì chỉ đạt Score=3.
+- Viết hook ngắn, 1 nỗi đau + 1 emoji cảm xúc mạnh (😮‍💨😤🔌), đặt câu hỏi khơi trúng tình huống hằng ngày để nhích Reactions lên 1–2.
+- Đa dạng sản phẩm thay vì dồn vào balo; nhóm sạc/dock/kê tay/ốp mỏng cho dư địa tương tác tốt hơn.
+- Thử nghiệm hook có yếu tố "tiếc nuối/hậu quả" ("mòn nhẵn một bên rồi mới tiếc") vì tạo cảm xúc và giữ Score=4.
