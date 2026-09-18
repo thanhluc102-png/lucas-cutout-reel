@@ -1,8 +1,8 @@
-- Hook có "con số cụ thể + tình huống hằng ngày" (VD: laptop 16 inch, sạc 3 món, cắm 1 máy) cho Score cao hơn (4-5); hook chung chung mơ hồ chỉ đạt 3.
-- Nhóm chủ đề mạnh nhất: balo/túi đựng laptop (chống sốc, chống nước) và phụ kiện Mac (kê tay, hub ổ cứng) — nhắm dân văn phòng/dev, dễ ra Reactions.
-- Hook chạm "nỗi đau về sức khỏe/thẩm mỹ lâu dài" (mỏi tay xem phim, kê tay mòn nhẵn, đệm laptop) kéo Reactions lên 2 — ưu tiên khai thác.
-- Tránh hook lặp mô-típ "ố vàng / dày cui / sạc chậm" cho ốp lưng & củ sạc: bị bão hòa, hầu hết chỉ Score=3.
-- Mở đầu bằng câu hỏi phản chiếu thói quen sai của người dùng ("Còn xách...?", "Đi cả ngày mà chỉ...?") hiệu quả hơn câu khẳng định chê sản phẩm cũ.
-- Emoji nên khớp ngữ cảnh cảm xúc (😮‍💨 mệt mỏi, 🔋 pin, 🎒 balo); 1 emoji/hook là đủ, đặt cuối câu.
-- Ưu tiên hook đánh vào "mất mát/hối tiếc đã xảy ra" (mòn nhẵn rồi mới tiếc, trầy xước mỗi lần mưa) hơn hook chỉ nêu bất tiện nhẹ.
-- Chưa hook nào tạo Share/Comment sâu — thử thêm yếu tố "giá trị chia sẻ được" (mẹo, so sánh, tiết kiệm tiền) để kích Shares.
+- Hook có yếu tố hình ảnh cụ thể + con số (laptop 16 inch, iPhone Air mỏng, sạc 3 món) cho Score cao hơn hook chung chung.
+- Nhóm điểm cao nhất (Score 5): nỗi đau vật lý dễ hình dung + có reaction cảm xúc — "mỏi tay xem phim", "laptop tràn trề không đệm". Ưu tiên khai thác cảm giác khó chịu thân thể.
+- Sản phẩm phụ kiện bảo vệ/tiện ích (giá đỡ, túi chống sốc, sạc đa cổng, kê tay) kéo reaction tốt hơn nhóm ốp lưng.
+- Nhóm kém nhất (Score 3, 0 reaction): ốp lưng ố vàng/dày cui và balo mưa lặp lại quá nhiều — motif trùng lặp gây chai, nên giảm tần suất.
+- Tránh mở bằng tên sản phẩm khô khan ("Cục sạc 20W...", "Ốp trong..."); mở bằng cảnh khổ của người dùng cho tương tác nhỉnh hơn.
+- Emoji nên khớp ngữ cảnh (📱🔋☀️🎒) thay vì lạm dụng 😤😮‍💨 lặp lại — dấu hiệu bài chai reaction.
+- Câu hỏi tu từ "còn... không?" hiệu quả khi gắn tình huống đời thường quen thuộc (đi làm, xem phim tối, đi cả ngày).
+- Shares=0 toàn bộ: thêm yếu tố "đáng khoe/mẹo hay" hoặc lợi ích chia sẻ được để kích share — đòn bẩy Score lớn nhất còn bỏ ngỏ.
