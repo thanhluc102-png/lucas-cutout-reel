@@ -1,8 +1,7 @@
-- Hook về **balo/túi đựng laptop** cho điểm cao nhất (Score 4-5), đặc biệt khi chèn cảm giác "trầy xước, va đập, không đệm" → ưu tiên khai thác nỗi đau bảo vệ tài sản đắt tiền.
-- Hook chứa **số cụ thể** (16 inch, 15.6 inch, 20W, iPhone 17) tạo độ tin cậy và nhắm đúng nhóm dùng → luôn cài thông số/tên máy vào câu.
-- Hook đánh vào **nỗi tiếc nuối lâu dài** ("kê tay mòn nhẵn một bên rồi mới tiếc", "để laptop tràn trề") kéo Reactions cao hơn hook chung chung.
-- Kết hook bằng **câu hỏi tu từ chạm đúng cảnh khổ hằng ngày** ("chỉ để sạc 3 món?", "chỉ cắm sạc được một máy?") nhỉnh hơn câu khẳng định.
-- Hook về **ốp lưng "dày cui/ố vàng"** bị lặp mô-típ quá nhiều, điểm thấp đều (Score 3) → giảm tần suất, đổi góc tiếp cận mới.
-- Hook về **sạc/dây rối/pin dự phòng** kém nổi (Score 3) → cần thêm chi tiết cụ thể hoặc tình huống bức xúc thật để nâng.
-- **Không có Share nào** trên toàn bộ mẫu → thử thêm yếu tố "mẹo hữu ích/giá trị chia sẻ được" thay vì chỉ nêu nỗi đau, để kích Share (trọng số cao nhất).
-- Tránh hook chỉ mô tả vấn đề mơ hồ ("balo mỏng manh", "màn hình thành gương") không gắn thiết bị/số liệu cụ thể → nhóm này điểm thấp nhất.
+- Hook nêu **nỗi đau cụ thể + hình ảnh trực quan** (laptop tràn, balo 2 túi, kê tay mòn một bên) cho score cao nhất (5); ưu tiên tình huống người đọc tự thấy mình trong đó.
+- Sản phẩm **túi/balo laptop** và **phụ kiện đa năng** (sạc gộp nhiều món) tương tác tốt hơn; đẩy mạnh nhóm này.
+- Thêm **con số cụ thể** (laptop 15.6 inch, sạc 20W, 3 món, 5 phút) tăng độ tin và độ chạm, nên dùng thường xuyên.
+- Nhóm **ốp lưng iPhone** (dày cui, ố vàng, vân tay) tương tác thấp nhất (đa số score=3), viết chung chung dễ chìm — cần góc lạ hoặc giảm tần suất.
+- Tránh hook **chỉ than phiền mơ hồ** không có hình ảnh (ố vàng, chói lóa, vân tay) vì không tạo phản ứng.
+- Mở đầu bằng **câu hỏi + emoji đúng ngữ cảnh** (🔌🎒🔋) giữ được, nhưng đừng lặp mô-típ "dày cui" quá nhiều lần.
+- Nhấn **hậu quả tiếc nuối/mất mát** ("mòn nhẵn rồi mới tiếc", "trước sau gì cũng trầy") thay vì chỉ mô tả lỗi — kích cảm xúc mạnh hơn.
