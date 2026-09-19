@@ -1,7 +1,8 @@
-- Hook nêu **nỗi đau cụ thể + hình ảnh trực quan** (laptop tràn, balo 2 túi, kê tay mòn một bên) cho score cao nhất (5); ưu tiên tình huống người đọc tự thấy mình trong đó.
-- Sản phẩm **túi/balo laptop** và **phụ kiện đa năng** (sạc gộp nhiều món) tương tác tốt hơn; đẩy mạnh nhóm này.
-- Thêm **con số cụ thể** (laptop 15.6 inch, sạc 20W, 3 món, 5 phút) tăng độ tin và độ chạm, nên dùng thường xuyên.
-- Nhóm **ốp lưng iPhone** (dày cui, ố vàng, vân tay) tương tác thấp nhất (đa số score=3), viết chung chung dễ chìm — cần góc lạ hoặc giảm tần suất.
-- Tránh hook **chỉ than phiền mơ hồ** không có hình ảnh (ố vàng, chói lóa, vân tay) vì không tạo phản ứng.
-- Mở đầu bằng **câu hỏi + emoji đúng ngữ cảnh** (🔌🎒🔋) giữ được, nhưng đừng lặp mô-típ "dày cui" quá nhiều lần.
-- Nhấn **hậu quả tiếc nuối/mất mát** ("mòn nhẵn rồi mới tiếc", "trước sau gì cũng trầy") thay vì chỉ mô tả lỗi — kích cảm xúc mạnh hơn.
+- Ưu tiên hook chạm nỗi đau vật lý cụ thể, hằng ngày (dây rối mỗi tối, laptop không đệm, xách 2 túi) — nhóm Score cao nhất (4-5).
+- Sản phẩm mạnh nhất: túi/balo laptop và phụ kiện sạc; viết theo tình huống thực tế người dùng gặp liền.
+- Dùng con số/chi tiết đắt (3 dây, 3 món, 15.6 inch, chỉ sạc 1 máy) để tăng độ liên tưởng và reaction.
+- Mở bằng câu hỏi "đúng người đúng cảnh" khiến người đọc gật đầu ngay, kèm 1 emoji cảm xúc (😩🔌🎒).
+- Tránh lạm dụng công thức "Ốp dày cui..." lặp lại — nhóm này toàn Score 3, đã bão hòa và nhàm.
+- Tránh hook chung chung về thẩm mỹ (ố vàng, vân tay, xỉn màu) — chạm nỗi đau nhẹ nên tương tác thấp.
+- Nhấn hậu quả tiếc nuối/mất mát (mòn nhẵn mới tiếc, trước sau gì cũng trầy) mạnh hơn nhấn khó chịu nhẹ.
+- Chưa có share nào — thử thêm yếu tố "gửi ngay cho đứa hay làm rơi máy" để kích chia sẻ.
