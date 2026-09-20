@@ -1,8 +1,8 @@
-- **Hook thắng nhất**: mô tả nỗi đau cụ thể + hình ảnh vật lý sống động (laptop "tràn trề" không đệm, "trần trề mà chẳng có gì đệm") → cao điểm nhất (Score 5). Ưu tiên tả cảnh trầy/va đập/hư hỏng cụ thể.
-- **Sản phẩm mạnh**: túi/balo laptop và phụ kiện chống va đập luôn đạt Score 4-5. Đẩy mạnh nhóm này.
-- **Nhóm khá ổn định (Score 4)**: sạc đa cổng ("chỉ cắm sạc một máy"), kê tay MacBook, ốp mỏng iPhone Air/da sạc không dây → dùng nỗi đau đời thường, dễ đồng cảm.
-- **Công thức câu hỏi tu từ + emoji cảm xúc** (😩😮‍💨😤) hoạt động tốt, giữ 1 câu hỏi chạm thẳng nỗi bực.
-- **Nên tránh**: hook tả nỗi đau kỹ thuật khô khan (tẩu yếu, sạc 20W cả tiếng, cả nhà 6 thiết bị) → toàn Score 3, ít reaction.
-- **Tránh lặp motif "ốp dày cui"**: bị bão hòa, hầu hết chỉ Score 3-4, đổi góc mới lạ nếu viết ốp.
-- **Chèn con số/hình ảnh cực đoan** ("laptop 15.6 inch quăng vô balo", "trầy trước sau gì") giúp cụ thể hơn chung chung.
-- **Viết ngắn, 1 câu, kết bằng dấu hỏi + emoji**; đặt nỗi đau ở vế đầu, hậu quả ở vế sau để tăng reaction.
+- **Hook có "con số cụ thể + tình huống đau" (2 máy, cả ngày, 6 thiết bị, 15.6 inch) cho Score cao nhất (4); ưu tiên nhồi số liệu vào câu hỏi.**
+- **Chủ đề thắng: sạc/pin, kê tay MacBook, balo laptop — luôn có Reaction; đây là nhóm sản phẩm nên khai thác nhiều.**
+- **Chủ đề đuối: ốp lưng iPhone (ố vàng, dày cui, vân tay) — lặp lại nhiều nhưng Score thấp (3), Reaction=0; nên giảm tần suất hoặc đổi góc.**
+- **Tránh lặp mô-típ "ốp dày cui..." — đã dùng quá nhiều lần, gây nhàm, không kéo được Reaction.**
+- **Hook chạm nỗi sợ mất tiền/hỏng đồ đắt ("laptop trầy xước", "MacBook mòn nhẵn rồi mới tiếc") tạo cảm xúc mạnh hơn nỗi bực thẩm mỹ ("ố vàng", "dính vân tay").**
+- **Ưu tiên câu hỏi tu từ + emoji đúng ngữ cảnh (🔋🎒☀️🌧️); mỗi hook chỉ 1 nỗi đau, giữ dưới 18 chữ.**
+- **Toàn bộ Shares=0: chưa hook nào đủ "đáng chia sẻ"; thử thêm yếu tố mẹo hữu ích / gây bất ngờ / đồng cảm nhóm để kích share.**
+- **Không có hook nào bứt phá — cần A/B test mở đầu bằng lợi ích/giải pháp thay vì chỉ nêu vấn đề, để phá trần Score đang kẹt ở 3–4.**
