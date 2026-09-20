@@ -1,8 +1,8 @@
-- Ưu tiên hook chạm nỗi đau vật lý cụ thể, hằng ngày (dây rối mỗi tối, laptop không đệm, xách 2 túi) — nhóm Score cao nhất (4-5).
-- Sản phẩm mạnh nhất: túi/balo laptop và phụ kiện sạc; viết theo tình huống thực tế người dùng gặp liền.
-- Dùng con số/chi tiết đắt (3 dây, 3 món, 15.6 inch, chỉ sạc 1 máy) để tăng độ liên tưởng và reaction.
-- Mở bằng câu hỏi "đúng người đúng cảnh" khiến người đọc gật đầu ngay, kèm 1 emoji cảm xúc (😩🔌🎒).
-- Tránh lạm dụng công thức "Ốp dày cui..." lặp lại — nhóm này toàn Score 3, đã bão hòa và nhàm.
-- Tránh hook chung chung về thẩm mỹ (ố vàng, vân tay, xỉn màu) — chạm nỗi đau nhẹ nên tương tác thấp.
-- Nhấn hậu quả tiếc nuối/mất mát (mòn nhẵn mới tiếc, trước sau gì cũng trầy) mạnh hơn nhấn khó chịu nhẹ.
-- Chưa có share nào — thử thêm yếu tố "gửi ngay cho đứa hay làm rơi máy" để kích chia sẻ.
+- **Hook thắng nhất**: mô tả nỗi đau cụ thể + hình ảnh vật lý sống động (laptop "tràn trề" không đệm, "trần trề mà chẳng có gì đệm") → cao điểm nhất (Score 5). Ưu tiên tả cảnh trầy/va đập/hư hỏng cụ thể.
+- **Sản phẩm mạnh**: túi/balo laptop và phụ kiện chống va đập luôn đạt Score 4-5. Đẩy mạnh nhóm này.
+- **Nhóm khá ổn định (Score 4)**: sạc đa cổng ("chỉ cắm sạc một máy"), kê tay MacBook, ốp mỏng iPhone Air/da sạc không dây → dùng nỗi đau đời thường, dễ đồng cảm.
+- **Công thức câu hỏi tu từ + emoji cảm xúc** (😩😮‍💨😤) hoạt động tốt, giữ 1 câu hỏi chạm thẳng nỗi bực.
+- **Nên tránh**: hook tả nỗi đau kỹ thuật khô khan (tẩu yếu, sạc 20W cả tiếng, cả nhà 6 thiết bị) → toàn Score 3, ít reaction.
+- **Tránh lặp motif "ốp dày cui"**: bị bão hòa, hầu hết chỉ Score 3-4, đổi góc mới lạ nếu viết ốp.
+- **Chèn con số/hình ảnh cực đoan** ("laptop 15.6 inch quăng vô balo", "trầy trước sau gì") giúp cụ thể hơn chung chung.
+- **Viết ngắn, 1 câu, kết bằng dấu hỏi + emoji**; đặt nỗi đau ở vế đầu, hậu quả ở vế sau để tăng reaction.
