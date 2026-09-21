@@ -1,8 +1,8 @@
-- Dữ liệu tương tác quá thấp và đồng đều (Score 3-4), khác biệt không đủ ý nghĩa thống kê → mọi kết luận chỉ mang tính tham khảo, không nên tối ưu theo số lẻ.
-- Hook nhỉnh hơn (Score 4) đều nhắm nỗi đau CỤ THỂ + có con số/tình huống hằng ngày: "xách 2 túi", "xách 3 cục sạc", "sạc không dây chập chờn", "iPhone Air mỏng" → ưu tiên chi tiết hóa vấn đề.
-- Hook kém dùng công thức chung chung lặp lại "Ốp dày cui..." bị bão hòa (viết đi viết lại nhiều lần, đều Score 3) → tránh mô-típ trùng lặp, mỗi reel một góc đau riêng.
-- Toàn bộ Shares=0 → chưa hook nào tạo giá trị "đáng chia sẻ"; cần thêm mẹo/insight bất ngờ hoặc yếu tố "gửi cho người cần" thay vì chỉ nêu vấn đề.
-- Comments đều =1 (nghi là seeding), Reactions mới là tín hiệu thật → tập trung kích Reactions bằng hook chạm cảm xúc mạnh hoặc hài hước hơn.
-- Nên viết hook gợi hình ảnh so sánh ("xách 2 túi", "nhét đồ như đấu vật") vì tạo được phản ứng nhẹ; đẩy mạnh lối ví von này.
-- Thêm CTA/câu hỏi mở cuối hook để mời tương tác thật, đồng thời chèn lợi ích giải pháp ngay thay vì chỉ đặt câu hỏi nỗi đau.
-- Cần A/B test với mẫu lớn hơn trước khi chốt công thức; hiện chưa đủ căn cứ khẳng định sản phẩm nào thắng.
+- Dữ liệu tương tác quá thấp (Score 3-4) và Shares=0 toàn bộ → khác biệt không đủ ý nghĩa thống kê, nhưng nhóm điểm nhỉnh hơn (Score=4) đều là hook chạm nỗi đau vật lý cụ thể: nặng tay, xách nhiều túi, sạc chậm.
+- Ưu tiên hook nói về sự bất tiện hằng ngày lặp đi lặp lại (xách 2 túi, xài 3 cục sạc, ốp nặng mất dáng) hơn hook về hư hỏng giả định tương lai (rơi nứt, trầy xước).
+- Nêu số lượng cụ thể để tăng độ đồng cảm ("2 túi", "3 cục sạc", "6 thiết bị", "20W") — con số cho thấy nhỉnh điểm hơn.
+- Tránh lạm dụng cụm "ốp dày cui" và emoji 😤/😮‍💨 lặp lại — đã dùng quá nhiều lần, gây nhàm và không tạo được Reaction/Share.
+- Hook nên gợi giải pháp hoặc cảm giác nhẹ nhõm, không chỉ dừng ở than phiền — mọi hook hiện tại đều là câu hỏi tiêu cực nên chỉ đẻ ra 1 comment máy móc.
+- Đa dạng cảm xúc: thêm hook tò mò, bất ngờ hoặc hài hước thay vì chỉ nỗi đau, để kích Reaction (đang gần như bằng 0).
+- Chèn yếu tố dễ chia sẻ (mẹo hay, so sánh trước/sau, "tag đứa bạn hay làm rơi máy") để phá vỡ Shares=0.
+- Sản phẩm phụ kiện laptop/balo và sạc đa cổng có tín hiệu nhỉnh hơn phụ kiện iPhone (ốp/cường lực) — nên test sâu nhóm laptop/sạc trước.
