@@ -1,8 +1,8 @@
-- Toàn bộ video Shares=0 và Score cực thấp (3–4): tương tác chưa đủ khác biệt để kết luận mạnh, nhưng vài tín hiệu vẫn rõ.
-- Hook đạt Score=4 (cao nhất) đều gắn với **balo laptop** ("gặp mưa", "xách 2 túi") và **ốp lưng mỏng** ("iPhone Air mỏng nặng nề", "ốp da dày sạc chập chờn") — ưu tiên khai thác 2 nhóm sản phẩm này.
-- Công thức thắng: nêu **nỗi đau cụ thể + hậu quả kép** (vừa xấu vừa bất tiện), ví dụ "dày cui + sạc chập chờn", "mưa + xách 2 túi".
-- Gắn **tên máy cụ thể** (iPhone Air, MacBook) tạo Reaction tốt hơn hook chung chung.
-- Hook chỉ nêu 1 nỗi đau đơn giản (sạc yếu, ố vàng, chói nắng) chỉ đạt Score=3 — tránh mô tả một chiều, hãy thêm lớp hậu quả thứ hai.
-- Tránh lặp mô-típ "ốp dày cui" quá nhiều (đã dùng 4–5 lần, đa số chỉ Score=3) — gây bão hòa, giảm chú ý.
-- Không hook nào tạo được Share: thử thêm **yếu tố dễ chia sẻ** (mẹo, cảnh báo "đừng mua nếu...", so sánh trực quan) để đẩy chỉ số nặng nhất.
-- Emoji 😤/😮‍💨 (bực bội) chưa vượt trội; test emoji gợi tò mò hoặc bất ngờ để kích Reaction.
+- Dữ liệu tương tác quá thấp và đồng đều (Score 3-4), khác biệt không đủ ý nghĩa thống kê → mọi kết luận chỉ mang tính tham khảo, không nên tối ưu theo số lẻ.
+- Hook nhỉnh hơn (Score 4) đều nhắm nỗi đau CỤ THỂ + có con số/tình huống hằng ngày: "xách 2 túi", "xách 3 cục sạc", "sạc không dây chập chờn", "iPhone Air mỏng" → ưu tiên chi tiết hóa vấn đề.
+- Hook kém dùng công thức chung chung lặp lại "Ốp dày cui..." bị bão hòa (viết đi viết lại nhiều lần, đều Score 3) → tránh mô-típ trùng lặp, mỗi reel một góc đau riêng.
+- Toàn bộ Shares=0 → chưa hook nào tạo giá trị "đáng chia sẻ"; cần thêm mẹo/insight bất ngờ hoặc yếu tố "gửi cho người cần" thay vì chỉ nêu vấn đề.
+- Comments đều =1 (nghi là seeding), Reactions mới là tín hiệu thật → tập trung kích Reactions bằng hook chạm cảm xúc mạnh hoặc hài hước hơn.
+- Nên viết hook gợi hình ảnh so sánh ("xách 2 túi", "nhét đồ như đấu vật") vì tạo được phản ứng nhẹ; đẩy mạnh lối ví von này.
+- Thêm CTA/câu hỏi mở cuối hook để mời tương tác thật, đồng thời chèn lợi ích giải pháp ngay thay vì chỉ đặt câu hỏi nỗi đau.
+- Cần A/B test với mẫu lớn hơn trước khi chốt công thức; hiện chưa đủ căn cứ khẳng định sản phẩm nào thắng.
