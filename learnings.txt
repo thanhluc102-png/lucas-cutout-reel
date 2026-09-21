@@ -1,8 +1,8 @@
-- Toàn bộ score dao động 3–4, chênh lệch rất nhỏ, không hook nào tạo Share (Shares=0) → dữ liệu chưa đủ mạnh để kết luận tuyệt đối, ưu tiên tăng Share.
-- Hook điểm cao nhất (Score=4) đều gắn tình huống cá nhân cụ thể + hậu quả thấy ngay: "mòn nhẵn một bên rồi mới tiếc", "xách 2 túi vì laptop không vừa", "ốp dày làm máy nặng nề" → viết theo cảnh đời thật, có nỗi đau tiếc nuối.
-- Sản phẩm cho tương tác nhỉnh hơn: kê tay MacBook, balo laptop, ốp iPhone mỏng/sạc không dây → khai thác sâu nhóm này.
-- Nhóm kém (Score=3) thường là câu hỏi chung chung, lặp motif "dày cui", "ố vàng", "sạc cả tiếng" quá nhiều lần → tránh trùng lặp mô-típ, mỗi hook một góc đau mới.
-- Công thức nên dùng: [Hành động quen thuộc] + [hậu quả bực bội/tiếc nuối cụ thể] + 1 emoji cảm xúc (😩😤😬) → chạm đúng người đang gặp cảnh đó.
-- Thêm yếu tố "mới tiếc / rồi mới biết / trước sau gì cũng" tạo cảm giác hối tiếc, kéo tương tác tốt hơn câu hỏi suông.
-- Nên chèn chi tiết định lượng gợi chia sẻ (kích thước, số thiết bị, thời gian) nhưng gắn vào nỗi đau, tránh chỉ nêu thông số khô khan như "20W", "15.6 inch".
-- Thử nghiệm hook kích Share: thêm mẹo/giải pháp bất ngờ hoặc câu "gửi ngay cho đứa hay quên" để phá mức Shares=0 hiện tại.
+- Toàn bộ video Shares=0 và Score cực thấp (3–4): tương tác chưa đủ khác biệt để kết luận mạnh, nhưng vài tín hiệu vẫn rõ.
+- Hook đạt Score=4 (cao nhất) đều gắn với **balo laptop** ("gặp mưa", "xách 2 túi") và **ốp lưng mỏng** ("iPhone Air mỏng nặng nề", "ốp da dày sạc chập chờn") — ưu tiên khai thác 2 nhóm sản phẩm này.
+- Công thức thắng: nêu **nỗi đau cụ thể + hậu quả kép** (vừa xấu vừa bất tiện), ví dụ "dày cui + sạc chập chờn", "mưa + xách 2 túi".
+- Gắn **tên máy cụ thể** (iPhone Air, MacBook) tạo Reaction tốt hơn hook chung chung.
+- Hook chỉ nêu 1 nỗi đau đơn giản (sạc yếu, ố vàng, chói nắng) chỉ đạt Score=3 — tránh mô tả một chiều, hãy thêm lớp hậu quả thứ hai.
+- Tránh lặp mô-típ "ốp dày cui" quá nhiều (đã dùng 4–5 lần, đa số chỉ Score=3) — gây bão hòa, giảm chú ý.
+- Không hook nào tạo được Share: thử thêm **yếu tố dễ chia sẻ** (mẹo, cảnh báo "đừng mua nếu...", so sánh trực quan) để đẩy chỉ số nặng nhất.
+- Emoji 😤/😮‍💨 (bực bội) chưa vượt trội; test emoji gợi tò mò hoặc bất ngờ để kích Reaction.
