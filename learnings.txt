@@ -1,8 +1,8 @@
-- Dữ liệu tương tác quá thấp (Score 3-4) và Shares=0 toàn bộ → khác biệt không đủ ý nghĩa thống kê, nhưng nhóm điểm nhỉnh hơn (Score=4) đều là hook chạm nỗi đau vật lý cụ thể: nặng tay, xách nhiều túi, sạc chậm.
-- Ưu tiên hook nói về sự bất tiện hằng ngày lặp đi lặp lại (xách 2 túi, xài 3 cục sạc, ốp nặng mất dáng) hơn hook về hư hỏng giả định tương lai (rơi nứt, trầy xước).
-- Nêu số lượng cụ thể để tăng độ đồng cảm ("2 túi", "3 cục sạc", "6 thiết bị", "20W") — con số cho thấy nhỉnh điểm hơn.
-- Tránh lạm dụng cụm "ốp dày cui" và emoji 😤/😮‍💨 lặp lại — đã dùng quá nhiều lần, gây nhàm và không tạo được Reaction/Share.
-- Hook nên gợi giải pháp hoặc cảm giác nhẹ nhõm, không chỉ dừng ở than phiền — mọi hook hiện tại đều là câu hỏi tiêu cực nên chỉ đẻ ra 1 comment máy móc.
-- Đa dạng cảm xúc: thêm hook tò mò, bất ngờ hoặc hài hước thay vì chỉ nỗi đau, để kích Reaction (đang gần như bằng 0).
-- Chèn yếu tố dễ chia sẻ (mẹo hay, so sánh trước/sau, "tag đứa bạn hay làm rơi máy") để phá vỡ Shares=0.
-- Sản phẩm phụ kiện laptop/balo và sạc đa cổng có tín hiệu nhỉnh hơn phụ kiện iPhone (ốp/cường lực) — nên test sâu nhóm laptop/sạc trước.
+- Hook thắng (Score 4) đều có **1 Reaction**: chèn chi tiết "đau" rất cụ thể, hình ảnh hoá tình huống (xách 2 túi, xách 3 cục sạc, ốp da + sạc chập chờn) → ưu tiên nỗi đau chạm trực tiếp thói quen hàng ngày.
+- Sản phẩm nhỉnh hơn: **túi/balo laptop** và **củ sạc/sạc đa cổng** — gắn với cảnh "đi làm", "cả nhà chờ sạc" dễ tạo đồng cảm hơn.
+- Công thức hiệu quả: **"Vẫn khổ dù đã có [giải pháp cũ]?"** (ốp dày cui mà vẫn xước, xách 3 cục sạc chỉ vì 1 củ) — nghịch lý gây tò mò.
+- Nên đặt **2 nỗi đau chồng nhau trong 1 hook** (nặng tay + sạc chập chờn) thay vì 1 nỗi đau đơn lẻ.
+- Tránh lạm dụng mô-típ **"ốp ố vàng / ố màu"** — lặp nhiều lần, toàn Score 3, đã bão hoà.
+- Tránh hook chung chung, mô tả sản phẩm thay vì tình huống người dùng ("ốp bóng dính vân tay") — tương tác thấp.
+- Giữ **câu hỏi + 1 emoji cảm xúc** ở cuối, độ dài 1 dòng; ưu tiên đại từ "bạn" để cá nhân hoá.
+- Nhắm cảnh "trời mưa / va đập / đi làm" cho balo, "cả nhà / nhiều thiết bị" cho sạc — đây là ngữ cảnh cho phản ứng tốt nhất.
