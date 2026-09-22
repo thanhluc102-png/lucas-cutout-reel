@@ -1,8 +1,8 @@
-- Hook thắng (Score 4) đều có **1 Reaction**: chèn chi tiết "đau" rất cụ thể, hình ảnh hoá tình huống (xách 2 túi, xách 3 cục sạc, ốp da + sạc chập chờn) → ưu tiên nỗi đau chạm trực tiếp thói quen hàng ngày.
-- Sản phẩm nhỉnh hơn: **túi/balo laptop** và **củ sạc/sạc đa cổng** — gắn với cảnh "đi làm", "cả nhà chờ sạc" dễ tạo đồng cảm hơn.
-- Công thức hiệu quả: **"Vẫn khổ dù đã có [giải pháp cũ]?"** (ốp dày cui mà vẫn xước, xách 3 cục sạc chỉ vì 1 củ) — nghịch lý gây tò mò.
-- Nên đặt **2 nỗi đau chồng nhau trong 1 hook** (nặng tay + sạc chập chờn) thay vì 1 nỗi đau đơn lẻ.
-- Tránh lạm dụng mô-típ **"ốp ố vàng / ố màu"** — lặp nhiều lần, toàn Score 3, đã bão hoà.
-- Tránh hook chung chung, mô tả sản phẩm thay vì tình huống người dùng ("ốp bóng dính vân tay") — tương tác thấp.
-- Giữ **câu hỏi + 1 emoji cảm xúc** ở cuối, độ dài 1 dòng; ưu tiên đại từ "bạn" để cá nhân hoá.
-- Nhắm cảnh "trời mưa / va đập / đi làm" cho balo, "cả nhà / nhiều thiết bị" cho sạc — đây là ngữ cảnh cho phản ứng tốt nhất.
+- Score dao động rất hẹp (3–4), gần như mọi hook đều chỉ đạt 1 comment; khác biệt duy nhất là có thêm 1 reaction. Dữ liệu quá đồng đều nên chỉ rút xu hướng nhẹ, không tuyệt đối hóa.
+- Hook cho Score=4 đều xoáy vào ốp lưng/sạc với nỗi đau "dày cui, nặng tay, chậm, phải xách nhiều củ" — ưu tiên nỗi đau vật lý cụ thể, hằng ngày, ai cũng từng gặp.
+- Công thức thắng nhẹ: nêu nghịch lý "bỏ tiền mua đồ xịn nhưng vẫn khổ" (ốp da dày mà sạc chập chờn; xách 3 củ vì 1 củ không đủ) — tạo bức xúc dễ đồng cảm.
+- Chèn 1 emoji cảm xúc bực bội (😤😮‍💨) cuối hook; nhóm này gom hết các Score=4, nên giữ tông "khó chịu, mệt mỏi".
+- Hook dạng cảnh báo trừu tượng/xa vời (xước ống kính "mờ cả đời", người lạ đọc tin nhắn, laptop chạm đáy balo) chỉ đạt Score=3 — tránh nỗi đau giả định hiếm gặp, khó hình dung.
+- Ưu tiên sản phẩm: ốp lưng iPhone và sạc đa cổng cho tương tác nhỉnh hơn; balo và cường lực đang đều đều, cần thử góc mới.
+- Viết ngắn 1 câu, kết bằng dấu hỏi để kích comment (mọi hook Score cao đều là câu hỏi) — giữ format "Vấn đề cụ thể + ? + emoji".
+- Cần đẩy mạnh yếu tố kích SHARE (đang toàn 0): thử hook có giá trị chia sẻ như mẹo/deal/so sánh, vì Share nặng điểm nhất mà chưa hook nào chạm tới.
