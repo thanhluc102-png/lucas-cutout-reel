@@ -1,8 +1,8 @@
-- Score dao động rất hẹp (3–4), gần như mọi hook đều chỉ đạt 1 comment; khác biệt duy nhất là có thêm 1 reaction. Dữ liệu quá đồng đều nên chỉ rút xu hướng nhẹ, không tuyệt đối hóa.
-- Hook cho Score=4 đều xoáy vào ốp lưng/sạc với nỗi đau "dày cui, nặng tay, chậm, phải xách nhiều củ" — ưu tiên nỗi đau vật lý cụ thể, hằng ngày, ai cũng từng gặp.
-- Công thức thắng nhẹ: nêu nghịch lý "bỏ tiền mua đồ xịn nhưng vẫn khổ" (ốp da dày mà sạc chập chờn; xách 3 củ vì 1 củ không đủ) — tạo bức xúc dễ đồng cảm.
-- Chèn 1 emoji cảm xúc bực bội (😤😮‍💨) cuối hook; nhóm này gom hết các Score=4, nên giữ tông "khó chịu, mệt mỏi".
-- Hook dạng cảnh báo trừu tượng/xa vời (xước ống kính "mờ cả đời", người lạ đọc tin nhắn, laptop chạm đáy balo) chỉ đạt Score=3 — tránh nỗi đau giả định hiếm gặp, khó hình dung.
-- Ưu tiên sản phẩm: ốp lưng iPhone và sạc đa cổng cho tương tác nhỉnh hơn; balo và cường lực đang đều đều, cần thử góc mới.
-- Viết ngắn 1 câu, kết bằng dấu hỏi để kích comment (mọi hook Score cao đều là câu hỏi) — giữ format "Vấn đề cụ thể + ? + emoji".
-- Cần đẩy mạnh yếu tố kích SHARE (đang toàn 0): thử hook có giá trị chia sẻ như mẹo/deal/so sánh, vì Share nặng điểm nhất mà chưa hook nào chạm tới.
+- Dữ liệu quá đồng đều (hầu hết Score=3, chỉ 2 hook đạt Score=4), khác biệt gần như không đáng kể → chưa đủ để kết luận mạnh, cần tăng share/comment thật sự.
+- Hook nhỉnh hơn (Score=4): "Ốp da dày cui, sạc không dây chập chờn" và "Xách 3 cục sạc đi làm chỉ vì 1 củ" — đều nêu nỗi đau CỤ THỂ + tình huống hằng ngày dễ đồng cảm.
+- Ưu tiên công thức: nêu 1 nỗi đau rõ ràng + hệ quả bực bội, đặt dạng câu hỏi "đá đúng chỗ ngứa" (kết bằng "?" + emoji 😤/😬).
+- Nhấn chi tiết đắt giá gây tiếc/xót của: "sạc chập chờn", "3 cục sạc", "trầy cả đời máy" — cụ thể hóa tổn thất hơn là nói chung chung.
+- Nên xoáy vào sản phẩm sạc & ốp lưng (nhóm tạo phản ứng nhích cao hơn), gắn tên máy cụ thể (iPhone 17, laptop 15.6) để tăng liên quan.
+- Tránh hook chung chung lặp mô-típ "balo + trầy/mưa" vì đã bão hòa, tương tác đì đẹt và trùng lặp nhiều.
+- Tránh viết dài lê thê, mỗi hook 1 nỗi đau duy nhất, dưới 15 từ, mở bằng tình huống người đọc TỰ THẤY MÌNH trong đó.
+- Thêm yếu tố kích share: gợi "ai cũng dính", "mách người thân", tình huống nơi công cộng (tàu điện, đi làm) để đẩy Comments/Shares vượt mốc 1.
