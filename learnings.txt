@@ -1,8 +1,8 @@
-- Dữ liệu quá đồng đều (hầu hết Score=3, chỉ 2 hook đạt Score=4), khác biệt gần như không đáng kể → chưa đủ để kết luận mạnh, cần tăng share/comment thật sự.
-- Hook nhỉnh hơn (Score=4): "Ốp da dày cui, sạc không dây chập chờn" và "Xách 3 cục sạc đi làm chỉ vì 1 củ" — đều nêu nỗi đau CỤ THỂ + tình huống hằng ngày dễ đồng cảm.
-- Ưu tiên công thức: nêu 1 nỗi đau rõ ràng + hệ quả bực bội, đặt dạng câu hỏi "đá đúng chỗ ngứa" (kết bằng "?" + emoji 😤/😬).
-- Nhấn chi tiết đắt giá gây tiếc/xót của: "sạc chập chờn", "3 cục sạc", "trầy cả đời máy" — cụ thể hóa tổn thất hơn là nói chung chung.
-- Nên xoáy vào sản phẩm sạc & ốp lưng (nhóm tạo phản ứng nhích cao hơn), gắn tên máy cụ thể (iPhone 17, laptop 15.6) để tăng liên quan.
-- Tránh hook chung chung lặp mô-típ "balo + trầy/mưa" vì đã bão hòa, tương tác đì đẹt và trùng lặp nhiều.
-- Tránh viết dài lê thê, mỗi hook 1 nỗi đau duy nhất, dưới 15 từ, mở bằng tình huống người đọc TỰ THẤY MÌNH trong đó.
-- Thêm yếu tố kích share: gợi "ai cũng dính", "mách người thân", tình huống nơi công cộng (tàu điện, đi làm) để đẩy Comments/Shares vượt mốc 1.
+- Hook cao nhất (Score 4-5): balo chống sốc laptop, sạc đa cổng "1 củ nhiều thiết bị", phụ kiện quyền riêng tư — ưu tiên 3 nhóm này.
+- Công thức thắng: nêu nỗi đau cụ thể + hình ảnh sinh động ("xước máy", "tim đập chân run", "người bên cạnh đọc tin nhắn") → dễ kéo reaction.
+- Chốt số cụ thể tăng lực: "4 thiết bị 1 củ", "15.6 inch", "20W cả tiếng" giúp hook đáng tin hơn hook chung chung.
+- Emoji nên dùng: 😬 😮‍💨 🔌 🎒 — hợp tông lo lắng/bực bội, đúng nhóm interaction tốt.
+- Nên tránh: hook về ố vàng/vân tay/ống kính ốp lưng — lặp nhiều, chỉ đạt Score 3, bão hòa.
+- Tránh mở đầu bằng danh từ sản phẩm khô khan; luôn mở bằng tình huống "bạn" đang gặp rắc rối.
+- Toàn bộ data gần như 0 share: thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, con số sốc, tình huống ai cũng dính) để phá trần Score.
+- Giữ hook 1 câu, kết bằng dấu hỏi hoặc emoji cảm xúc để kích comment — comment là nguồn điểm ổn định nhất.
