@@ -1,8 +1,8 @@
-- Hook thắng nhất (Score=5): nỗi đau cụ thể + hành động thô "cứ ném laptop vào là xước máy" — dùng động từ mạnh, tình huống đời thường, tránh nói chung chung.
-- Nhóm phụ kiện balo/túi laptop và sạc đa cổng cho tương tác nhỉnh hơn — ưu tiên xoay quanh chủ đề bảo vệ đồ đắt tiền và tiện lợi gộp nhiều thiết bị.
-- Hook chạm quyền riêng tư/xấu hổ nơi công cộng ("người bên cạnh đọc hết tin nhắn") kéo Reaction cao — khai thác thêm cảm giác bị lộ, bị nhìn.
-- Chủ đề ốp lưng (ố vàng, dày cui, vân tay) bị bão hòa, lặp nhiều mà chỉ Score=3 — giảm tần suất hoặc đổi góc lạ, tránh mô-típ "dày cui/ố vàng".
-- Công thức mạnh: [tình huống quen thuộc] + [hậu quả tệ cụ thể] + [emoji cảm xúc bực/lo] — giữ 1 câu, kết bằng dấu hỏi hoặc emoji 😤😬.
-- Emoji cảm xúc tiêu cực (😤😬😮‍💨🌧️) hợp tông "nỗi đau"; tránh emoji trung tính làm loãng.
-- Cả bộ gần như 0 Share — cần thêm yếu tố đáng chia sẻ: mẹo bất ngờ, con số sốc, hoặc lời khẳng định "ai cũng nên biết".
-- Tránh hook trừu tượng/thiếu hình ảnh; luôn gắn vật thể + thiệt hại thấy được (trầy, nứt, mờ ảnh, ố vàng) để người xem tự soi vào mình.
+- Dữ liệu quá đồng đều (đa số Score=3, chỉ 1 comment mồi), nên khác biệt rất nhỏ — cần đọc như tín hiệu yếu, không tuyệt đối.
+- Hook cho tương tác nhỉnh hơn (Score 4-5): nói về nỗi đau balo làm xước laptop, sạc cồng kềnh phải xách nhiều củ, riêng tư bị lộ tin nhắn nơi công cộng → chọn tình huống cụ thể, dễ tự nhận ra mình.
+- Top 1 (Score=5): "Balo cứ ném laptop vào là xước máy?" — hành động đời thường + hậu quả tức thì + ngắn gọn → ưu tiên công thức này.
+- Chủ đề balo bảo vệ laptop và sạc đa thiết bị là hai mảng có phản hồi tốt nhất, nên khai thác nhiều biến thể.
+- Hook về ốp lưng (ố vàng, dày cui, vân tay) đều dính đáy Score=3 → đang bão hòa, mòn, nên giảm tần suất hoặc đổi góc mới lạ.
+- Nên dùng câu hỏi tu từ ngắn + tình huống hằng ngày ("đi làm", "trên tàu điện", "trời mưa") thay vì mô tả chung chung về sản phẩm.
+- Tránh hook lặp lại mô-típ "😤 + tính từ tiêu cực" (dày cui, ố vàng, bóng loáng) vì nhóm này không tạo được reaction vượt mức nền.
+- Giữ độ dài 1 câu, 1 nỗi đau, 1 emoji cuối; ưu tiên nỗi đau gây "sợ mất mát" (hư máy, lộ riêng tư) hơn nỗi đau thẩm mỹ (xấu, mất dáng).
