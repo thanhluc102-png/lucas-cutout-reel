@@ -1,8 +1,8 @@
-- Hook cao nhất (Score 4-5): balo chống sốc laptop, sạc đa cổng "1 củ nhiều thiết bị", phụ kiện quyền riêng tư — ưu tiên 3 nhóm này.
-- Công thức thắng: nêu nỗi đau cụ thể + hình ảnh sinh động ("xước máy", "tim đập chân run", "người bên cạnh đọc tin nhắn") → dễ kéo reaction.
-- Chốt số cụ thể tăng lực: "4 thiết bị 1 củ", "15.6 inch", "20W cả tiếng" giúp hook đáng tin hơn hook chung chung.
-- Emoji nên dùng: 😬 😮‍💨 🔌 🎒 — hợp tông lo lắng/bực bội, đúng nhóm interaction tốt.
-- Nên tránh: hook về ố vàng/vân tay/ống kính ốp lưng — lặp nhiều, chỉ đạt Score 3, bão hòa.
-- Tránh mở đầu bằng danh từ sản phẩm khô khan; luôn mở bằng tình huống "bạn" đang gặp rắc rối.
-- Toàn bộ data gần như 0 share: thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, con số sốc, tình huống ai cũng dính) để phá trần Score.
-- Giữ hook 1 câu, kết bằng dấu hỏi hoặc emoji cảm xúc để kích comment — comment là nguồn điểm ổn định nhất.
+- Hook thắng nhất (Score=5): nỗi đau cụ thể + hành động thô "cứ ném laptop vào là xước máy" — dùng động từ mạnh, tình huống đời thường, tránh nói chung chung.
+- Nhóm phụ kiện balo/túi laptop và sạc đa cổng cho tương tác nhỉnh hơn — ưu tiên xoay quanh chủ đề bảo vệ đồ đắt tiền và tiện lợi gộp nhiều thiết bị.
+- Hook chạm quyền riêng tư/xấu hổ nơi công cộng ("người bên cạnh đọc hết tin nhắn") kéo Reaction cao — khai thác thêm cảm giác bị lộ, bị nhìn.
+- Chủ đề ốp lưng (ố vàng, dày cui, vân tay) bị bão hòa, lặp nhiều mà chỉ Score=3 — giảm tần suất hoặc đổi góc lạ, tránh mô-típ "dày cui/ố vàng".
+- Công thức mạnh: [tình huống quen thuộc] + [hậu quả tệ cụ thể] + [emoji cảm xúc bực/lo] — giữ 1 câu, kết bằng dấu hỏi hoặc emoji 😤😬.
+- Emoji cảm xúc tiêu cực (😤😬😮‍💨🌧️) hợp tông "nỗi đau"; tránh emoji trung tính làm loãng.
+- Cả bộ gần như 0 Share — cần thêm yếu tố đáng chia sẻ: mẹo bất ngờ, con số sốc, hoặc lời khẳng định "ai cũng nên biết".
+- Tránh hook trừu tượng/thiếu hình ảnh; luôn gắn vật thể + thiệt hại thấy được (trầy, nứt, mờ ảnh, ố vàng) để người xem tự soi vào mình.
