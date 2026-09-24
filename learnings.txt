@@ -1,8 +1,8 @@
-- Hook mô tả nỗi đau cụ thể + hình ảnh sống động ("ướt nhẹp", "tim đập chân run", "đấu vật") kéo tương tác cao nhất; tránh hook trừu tượng, chung chung.
-- Chủ đề balo laptop (chống sốc, chống mưa, chống xước) cho điểm cao nhất — ưu tiên khai thác mạnh.
-- Nỗi đau về quyền riêng tư ("người bên cạnh đọc tin nhắn") và tiện lợi ("xách 3 cục sạc") tạo phản ứng tốt — nên dùng thêm.
-- Câu hỏi trực diện chạm đúng tình huống thực tế người dùng gặp hàng ngày hiệu quả hơn khẳng định tính năng.
-- Emoji cảm xúc bức bối (😤😬😮‍💨) hợp với hook nỗi đau; giữ 1 emoji cuối câu, đừng lạm dụng.
-- Hook về ốp lưng bị bão hòa (nhiều bài, điểm thấp đều Score=3) — giảm tần suất, đổi góc tiếp cận mới.
-- Hook chỉ nêu tính năng khô khan ("Rơi 6 mét vẫn lành máy", "Sạc 4 thiết bị 1 củ") kém tương tác — cần thêm ngữ cảnh đau/hậu quả.
-- Toàn bộ Share=0: chưa có yếu tố đáng chia sẻ — thử thêm mẹo hữu ích, con số gây sốc hoặc tình huống "ai cũng dính" để kích share.
+- **Cảnh báo hư hỏng vật lý cụ thể (xước máy, nứt màn, trầy laptop) cho tương tác cao nhất** — top score đều là ốp/balo bảo vệ thiết bị đắt tiền; ưu tiên kiểu này.
+- **Chèn yếu tố riêng tư/cảm giác bị xâm phạm** ("người bên cạnh đọc hết tin nhắn") kéo thêm reaction — dùng cho phụ kiện chống nhìn trộm.
+- **Dùng câu hỏi tu từ + hình ảnh hậu quả tức thì** ("ném laptop vào là xước máy?") mạnh hơn nêu thông số kỹ thuật khô khan.
+- **Hook chỉ nêu tính năng/con số đơn thuần** (sạc nhanh 20W, sạc 4 thiết bị, rơi 6 mét) đều đì đẹt Score=3 — tránh viết kiểu liệt kê thông số.
+- **Emoji nên chọn sắc thái bực bội/lo lắng** (😤😬😮‍💨) gắn với nỗi đau, thay vì emoji trung tính (🔌🎒📸) vốn cho điểm thấp.
+- **Nhấn "tiền mất tật mang" — đồ đắt bị đe dọa** ("laptop đang tự đặt cược", "trời mưa tim đập chân run") tạo cảm xúc, khơi comment tốt hơn.
+- **Tránh chủ đề sạc/củ sạc lặp lại** — nhóm này chiếm nhiều nhưng gần như toàn Score=3, thị trường đã bão hòa/ít cảm xúc.
+- **Công thức thắng: [Thiết bị giá trị] + [tình huống hỏng cụ thể] + [emoji lo lắng] + [câu hỏi khịa].**
