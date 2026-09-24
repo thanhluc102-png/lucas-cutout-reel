@@ -1,8 +1,8 @@
-- Dữ liệu quá đồng đều (đa số Score=3, chênh lệch 1-3 điểm), chưa đủ mạnh để kết luận chắc chắn; xem đây là gợi ý xu hướng, không phải chân lý.
-- Hook cho tương tác cao nhất là loại vẽ ra cảnh "vô lý/vô nghĩa" gợi phản ứng tức thì: "đồ ướt nhẹp thì đeo làm gì?" (Score=6) — dùng câu hỏi phản biện thẳng vào sự vô dụng của sản phẩm cũ.
-- Hook chạm nỗi sợ mất mát tài sản cụ thể (laptop bị xước khi ném vào balo, Score=5) tốt hơn hook nói chung chung về tính năng.
-- Hook đánh vào riêng tư/xấu hổ xã hội ("người bên cạnh đọc hết tin nhắn", Score=4) và bất tiện lặp đi lặp lại ("xách 3 cục sạc", Score=4) nhỉnh hơn mặt bằng chung.
-- Ngách balo laptop chống nước/chống sốc đang là chủ đề mạnh nhất — nên khai thác sâu, xoáy vào tình huống trời mưa và va đập.
-- Nên tránh hook về củ sạc/ốp lưng viết kiểu liệt kê tính năng khô ("sạc 4 thiết bị 1 củ", "ốp ố vàng") — toàn Score=3, thiếu kịch tính cảm xúc.
-- Công thức thắng: nêu tình huống cụ thể + đặt câu hỏi phản biện "làm gì / để làm gì" + emoji cảm xúc mạnh (😬😮‍💨), tránh emoji trung tính (🔌).
-- Tất cả share=0, reaction gần như 0 → nội dung mới dừng ở mức gợi bình luận; cần thêm CTA khuyến khích chia sẻ/tag bạn để nâng Score qua trọng số Share*5.
+- Hook mô tả nỗi đau cụ thể + hình ảnh sống động ("ướt nhẹp", "tim đập chân run", "đấu vật") kéo tương tác cao nhất; tránh hook trừu tượng, chung chung.
+- Chủ đề balo laptop (chống sốc, chống mưa, chống xước) cho điểm cao nhất — ưu tiên khai thác mạnh.
+- Nỗi đau về quyền riêng tư ("người bên cạnh đọc tin nhắn") và tiện lợi ("xách 3 cục sạc") tạo phản ứng tốt — nên dùng thêm.
+- Câu hỏi trực diện chạm đúng tình huống thực tế người dùng gặp hàng ngày hiệu quả hơn khẳng định tính năng.
+- Emoji cảm xúc bức bối (😤😬😮‍💨) hợp với hook nỗi đau; giữ 1 emoji cuối câu, đừng lạm dụng.
+- Hook về ốp lưng bị bão hòa (nhiều bài, điểm thấp đều Score=3) — giảm tần suất, đổi góc tiếp cận mới.
+- Hook chỉ nêu tính năng khô khan ("Rơi 6 mét vẫn lành máy", "Sạc 4 thiết bị 1 củ") kém tương tác — cần thêm ngữ cảnh đau/hậu quả.
+- Toàn bộ Share=0: chưa có yếu tố đáng chia sẻ — thử thêm mẹo hữu ích, con số gây sốc hoặc tình huống "ai cũng dính" để kích share.
