@@ -1,8 +1,8 @@
-- Dữ liệu quá đồng đều (đa số Score=3, chỉ 1 comment mồi), nên khác biệt rất nhỏ — cần đọc như tín hiệu yếu, không tuyệt đối.
-- Hook cho tương tác nhỉnh hơn (Score 4-5): nói về nỗi đau balo làm xước laptop, sạc cồng kềnh phải xách nhiều củ, riêng tư bị lộ tin nhắn nơi công cộng → chọn tình huống cụ thể, dễ tự nhận ra mình.
-- Top 1 (Score=5): "Balo cứ ném laptop vào là xước máy?" — hành động đời thường + hậu quả tức thì + ngắn gọn → ưu tiên công thức này.
-- Chủ đề balo bảo vệ laptop và sạc đa thiết bị là hai mảng có phản hồi tốt nhất, nên khai thác nhiều biến thể.
-- Hook về ốp lưng (ố vàng, dày cui, vân tay) đều dính đáy Score=3 → đang bão hòa, mòn, nên giảm tần suất hoặc đổi góc mới lạ.
-- Nên dùng câu hỏi tu từ ngắn + tình huống hằng ngày ("đi làm", "trên tàu điện", "trời mưa") thay vì mô tả chung chung về sản phẩm.
-- Tránh hook lặp lại mô-típ "😤 + tính từ tiêu cực" (dày cui, ố vàng, bóng loáng) vì nhóm này không tạo được reaction vượt mức nền.
-- Giữ độ dài 1 câu, 1 nỗi đau, 1 emoji cuối; ưu tiên nỗi đau gây "sợ mất mát" (hư máy, lộ riêng tư) hơn nỗi đau thẩm mỹ (xấu, mất dáng).
+- Dữ liệu quá đồng đều (đa số Score=3, chênh lệch 1-3 điểm), chưa đủ mạnh để kết luận chắc chắn; xem đây là gợi ý xu hướng, không phải chân lý.
+- Hook cho tương tác cao nhất là loại vẽ ra cảnh "vô lý/vô nghĩa" gợi phản ứng tức thì: "đồ ướt nhẹp thì đeo làm gì?" (Score=6) — dùng câu hỏi phản biện thẳng vào sự vô dụng của sản phẩm cũ.
+- Hook chạm nỗi sợ mất mát tài sản cụ thể (laptop bị xước khi ném vào balo, Score=5) tốt hơn hook nói chung chung về tính năng.
+- Hook đánh vào riêng tư/xấu hổ xã hội ("người bên cạnh đọc hết tin nhắn", Score=4) và bất tiện lặp đi lặp lại ("xách 3 cục sạc", Score=4) nhỉnh hơn mặt bằng chung.
+- Ngách balo laptop chống nước/chống sốc đang là chủ đề mạnh nhất — nên khai thác sâu, xoáy vào tình huống trời mưa và va đập.
+- Nên tránh hook về củ sạc/ốp lưng viết kiểu liệt kê tính năng khô ("sạc 4 thiết bị 1 củ", "ốp ố vàng") — toàn Score=3, thiếu kịch tính cảm xúc.
+- Công thức thắng: nêu tình huống cụ thể + đặt câu hỏi phản biện "làm gì / để làm gì" + emoji cảm xúc mạnh (😬😮‍💨), tránh emoji trung tính (🔌).
+- Tất cả share=0, reaction gần như 0 → nội dung mới dừng ở mức gợi bình luận; cần thêm CTA khuyến khích chia sẻ/tag bạn để nâng Score qua trọng số Share*5.
