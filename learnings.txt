@@ -1,8 +1,8 @@
-- Hook nhóm **balo/túi laptop nhấn mạnh nguy cơ vật lý cụ thể** ("ném laptop vào là xước máy", "chạm đáy va đập") cho tương tác cao nhất (Score 5) — ưu tiên khai thác nỗi sợ hỏng thiết bị đắt tiền.
-- Hook chạm **quyền riêng tư/bị nhìn trộm** ("người bên cạnh đọc hết tin nhắn") kéo Reaction tốt (Score 4) — dùng tình huống xã hội gần gũi, ai cũng từng gặp.
-- Hook **sạc/hub gộp nhiều thiết bị về 1 củ** ("xách 3 cục sạc", "1 củ đủ") nhỉnh hơn mức nền (Score 4) — nêu con số thiết bị + sự phiền toái hằng ngày.
-- Hook **ốp lưng chung chung** (ố vàng, vân tay, nặng dáng, chống rơi "cho có") đều kịch trần Score 3 — bão hòa, tránh lặp lại kiểu này.
-- Hook **quá trừu tượng/thiếu hình ảnh đau** ("rơi 6 mét vẫn lành", "lốp non giữa đường") tương tác kém — cần thêm hậu quả cụ thể, dễ hình dung.
-- Công thức thắng: **[vật/tình huống quen] + [hậu quả mất tiền/mất riêng tư cụ thể] + emoji lo lắng 😬😮‍💨** — càng "đánh vào ví" càng nhiều Reaction.
-- Ưu tiên viết cho **sản phẩm bảo vệ tài sản giá trị (laptop, máy ảnh) và tiện ích gộp nhiều-thành-một**; giảm tần suất hook ốp lưng.
-- Toàn bộ mẫu đều **Share=0** → thêm yếu tố đáng chia sẻ (mẹo, con số sốc, "tag đứa hay làm rơi máy") để phá trần Score.
+- Ưu tiên hook về **balo/ốp chống va đập bảo vệ laptop-điện thoại**: top score (5đ "ném laptop vào là xước máy") — chạm nỗi sợ hỏng đồ đắt tiền.
+- Dùng công thức **"hành động sai → hậu quả mất mát"** cụ thể (xước máy, nứt màn, ướt đồ): tạo lo lắng, kéo tương tác cao nhất.
+- Hook **quyền riêng tư "người bên cạnh đọc tin nhắn"** đạt 4đ: khai thác nỗi sợ bị dòm ngó nơi công cộng, nên tiếp tục.
+- Hook **gộp nhiều thiết bị vào 1 củ sạc** ("3 cục sạc", "4 thiết bị 1 củ") đạt 3-4đ: tốt vừa, nhấn con số + sự phiền toái hằng ngày.
+- **Thêm con số cụ thể** (6 thiết bị, 40L, rơi 6 mét, 5 phút) và emoji cảm xúc 😬😮‍💨: giữ được, nhưng chưa đủ mạnh nếu thiếu yếu tố mất mát.
+- **Tránh hook chỉ khoe tính năng/tiện lợi** ("nhét cả laptop vẫn gọn", "rơi 6 mét vẫn lành"): toàn 3đ, thiếu nỗi đau, tương tác thấp nhất.
+- **Tránh hook về ố vàng/vân tay ốp lưng**: nỗi đau quá nhẹ, không ai chia sẻ (đều 3đ).
+- Công thức nên nhồi: **[Tình huống quen thuộc] + [con số] + [hậu quả tốn tiền/mất mặt] + emoji lo lắng**, ưu tiên chủ đề bảo vệ đồ đắt tiền & riêng tư.
