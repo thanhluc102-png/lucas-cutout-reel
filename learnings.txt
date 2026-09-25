@@ -1,8 +1,8 @@
-- Ưu tiên hook về **bảo vệ laptop trong balo** ("ném laptop vào là xước máy") — cho tương tác cao nhất (Score 5), vì chạm nỗi sợ hư máy đắt tiền.
-- Hook **riêng tư/bị nhìn trộm màn hình** ("đọc hết tin nhắn trên tàu điện") hiệu quả tốt (Score 4) — khai thác cảm giác khó chịu đời thường.
-- Hook **sạc gọn nhiều thiết bị** dạng cụ thể ("xách 3 cục sạc đi làm") nhỉnh hơn (Score 4) so với hỏi chung chung ("sạc 4 thiết bị 1 củ" — chỉ Score 3).
-- Công thức thắng: **con số cụ thể + hình ảnh khổ sở rõ ràng + emoji bực bội (😤😬😮‍💨)**, đặt câu hỏi xoáy thẳng nỗi đau.
-- Nên tránh hook **khoe tính năng khô khan** ("Rơi 6 mét vẫn lành máy?", "Rơi phát là nứt màn") — toàn Score 3, thiếu bối cảnh đời thực.
-- Nên tránh hook **lạc chủ đề phụ kiện công nghệ** ("Lốp non giữa đường") — không đúng tệp, tương tác đáy.
-- Chủ đề **ốp lưng** (ố vàng, vân tay, dày nặng) đang bão hòa Score 3 — cần góc lạ hơn hoặc giảm tần suất.
-- Chốt: viết hook = **1 tình huống cụ thể người dùng tự nhận ra mình + hậu quả tốn tiền/mất mặt**, tránh câu tuyên bố tính năng chung chung.
+- Hook nhóm **balo/túi laptop nhấn mạnh nguy cơ vật lý cụ thể** ("ném laptop vào là xước máy", "chạm đáy va đập") cho tương tác cao nhất (Score 5) — ưu tiên khai thác nỗi sợ hỏng thiết bị đắt tiền.
+- Hook chạm **quyền riêng tư/bị nhìn trộm** ("người bên cạnh đọc hết tin nhắn") kéo Reaction tốt (Score 4) — dùng tình huống xã hội gần gũi, ai cũng từng gặp.
+- Hook **sạc/hub gộp nhiều thiết bị về 1 củ** ("xách 3 cục sạc", "1 củ đủ") nhỉnh hơn mức nền (Score 4) — nêu con số thiết bị + sự phiền toái hằng ngày.
+- Hook **ốp lưng chung chung** (ố vàng, vân tay, nặng dáng, chống rơi "cho có") đều kịch trần Score 3 — bão hòa, tránh lặp lại kiểu này.
+- Hook **quá trừu tượng/thiếu hình ảnh đau** ("rơi 6 mét vẫn lành", "lốp non giữa đường") tương tác kém — cần thêm hậu quả cụ thể, dễ hình dung.
+- Công thức thắng: **[vật/tình huống quen] + [hậu quả mất tiền/mất riêng tư cụ thể] + emoji lo lắng 😬😮‍💨** — càng "đánh vào ví" càng nhiều Reaction.
+- Ưu tiên viết cho **sản phẩm bảo vệ tài sản giá trị (laptop, máy ảnh) và tiện ích gộp nhiều-thành-một**; giảm tần suất hook ốp lưng.
+- Toàn bộ mẫu đều **Share=0** → thêm yếu tố đáng chia sẻ (mẹo, con số sốc, "tag đứa hay làm rơi máy") để phá trần Score.
