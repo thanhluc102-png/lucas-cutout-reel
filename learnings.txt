@@ -1,8 +1,8 @@
-- **Cảnh báo hư hỏng vật lý cụ thể (xước máy, nứt màn, trầy laptop) cho tương tác cao nhất** — top score đều là ốp/balo bảo vệ thiết bị đắt tiền; ưu tiên kiểu này.
-- **Chèn yếu tố riêng tư/cảm giác bị xâm phạm** ("người bên cạnh đọc hết tin nhắn") kéo thêm reaction — dùng cho phụ kiện chống nhìn trộm.
-- **Dùng câu hỏi tu từ + hình ảnh hậu quả tức thì** ("ném laptop vào là xước máy?") mạnh hơn nêu thông số kỹ thuật khô khan.
-- **Hook chỉ nêu tính năng/con số đơn thuần** (sạc nhanh 20W, sạc 4 thiết bị, rơi 6 mét) đều đì đẹt Score=3 — tránh viết kiểu liệt kê thông số.
-- **Emoji nên chọn sắc thái bực bội/lo lắng** (😤😬😮‍💨) gắn với nỗi đau, thay vì emoji trung tính (🔌🎒📸) vốn cho điểm thấp.
-- **Nhấn "tiền mất tật mang" — đồ đắt bị đe dọa** ("laptop đang tự đặt cược", "trời mưa tim đập chân run") tạo cảm xúc, khơi comment tốt hơn.
-- **Tránh chủ đề sạc/củ sạc lặp lại** — nhóm này chiếm nhiều nhưng gần như toàn Score=3, thị trường đã bão hòa/ít cảm xúc.
-- **Công thức thắng: [Thiết bị giá trị] + [tình huống hỏng cụ thể] + [emoji lo lắng] + [câu hỏi khịa].**
+- Ưu tiên hook về **bảo vệ laptop trong balo** ("ném laptop vào là xước máy") — cho tương tác cao nhất (Score 5), vì chạm nỗi sợ hư máy đắt tiền.
+- Hook **riêng tư/bị nhìn trộm màn hình** ("đọc hết tin nhắn trên tàu điện") hiệu quả tốt (Score 4) — khai thác cảm giác khó chịu đời thường.
+- Hook **sạc gọn nhiều thiết bị** dạng cụ thể ("xách 3 cục sạc đi làm") nhỉnh hơn (Score 4) so với hỏi chung chung ("sạc 4 thiết bị 1 củ" — chỉ Score 3).
+- Công thức thắng: **con số cụ thể + hình ảnh khổ sở rõ ràng + emoji bực bội (😤😬😮‍💨)**, đặt câu hỏi xoáy thẳng nỗi đau.
+- Nên tránh hook **khoe tính năng khô khan** ("Rơi 6 mét vẫn lành máy?", "Rơi phát là nứt màn") — toàn Score 3, thiếu bối cảnh đời thực.
+- Nên tránh hook **lạc chủ đề phụ kiện công nghệ** ("Lốp non giữa đường") — không đúng tệp, tương tác đáy.
+- Chủ đề **ốp lưng** (ố vàng, vân tay, dày nặng) đang bão hòa Score 3 — cần góc lạ hơn hoặc giảm tần suất.
+- Chốt: viết hook = **1 tình huống cụ thể người dùng tự nhận ra mình + hậu quả tốn tiền/mất mặt**, tránh câu tuyên bố tính năng chung chung.
