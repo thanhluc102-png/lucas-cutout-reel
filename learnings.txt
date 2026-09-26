@@ -1,8 +1,8 @@
-- Hook "va chạm vật lý cụ thể" (ném laptop xước máy, rơi 6m) đạt điểm cao nhất — ưu tiên mô tả rủi ro sờ thấy được, có hình ảnh mạnh.
-- Sản phẩm balo/túi laptop và củ sạc đa cổng cho tương tác nhỉnh hơn — tập trung nhóm này, gắn với nỗi đau "hỏng đồ đắt tiền".
-- Hook chạm quyền riêng tư ("người bên cạnh đọc tin nhắn") kéo được reaction — khai thác thêm góc bảo mật/xấu hổ nơi công cộng.
-- Dùng con số cụ thể (6 thiết bị, 40L, rơi 6m, 4 thiết bị 1 củ) tăng chú ý hơn hook chung chung.
-- Công thức thắng: [tình huống đời thường] + [hậu quả tốn kém/mất mặt] + emoji cảm xúc (😬😮) — câu hỏi tu từ hiệu quả vừa phải.
-- Tránh hook trừu tượng, than vãn nhẹ (cáp rối, sạc tuột, ố vàng) — chỉ đạt điểm sàn, thiếu kịch tính.
-- Toàn bộ Share=0, Comment gần như bão hòa 1 → chèn CTA kích bình luận/chia sẻ ("tag đứa hay làm rơi máy") để phá trần điểm.
-- Nỗi đau "mất tiền/hỏng thiết bị đắt" mạnh hơn nỗi đau "bất tiện" — luôn quy về thiệt hại tài chính cụ thể.
+- Hook nêu **hậu quả cụ thể/thiệt hại tài sản** ("ném laptop vào là xước máy", "rơi phát nứt màn") cho score cao nhất — ưu tiên nỗi đau vật lý rõ ràng.
+- Sản phẩm **balo/túi chống sốc** và **sạc đa cổng (GaN)** hút tương tác tốt nhất — tập trung khai thác nhóm này.
+- Chèn **con số gây sốc** ("rơi 6 mét", "40L", "sạc 4 thiết bị 1 củ") tăng sức nặng, nhưng phải gắn với lợi ích thực tế mới ăn.
+- Hook chạm **quyền riêng tư/xấu hổ nơi công cộng** ("người bên cạnh đọc hết tin nhắn") kéo reaction — dùng cho phụ kiện chống nhìn trộm.
+- Mở bằng **câu hỏi phản ánh cảnh khổ hằng ngày** + emoji cảm xúc (😤😮‍💨) hiệu quả hơn câu khẳng định khô khan.
+- Tránh hook **quá chung chung/mơ hồ** ("ố vàng", "lốp non", "đấu vật") — thiếu hình ảnh thiệt hại nên score thấp.
+- Không lạm dụng cùng một góc "gọn gàng/tiện lợi" đơn thuần — phải đẩy lên mức **mất mát nếu không mua** để tạo động lực chia sẻ.
+- Tất cả share = 0: cần thêm **yếu tố bất ngờ/khó tin** ("mỏng dính mà đỡ rơi 4 mét") để kích người xem muốn khoe/lan truyền.
