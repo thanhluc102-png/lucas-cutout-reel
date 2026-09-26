@@ -1,8 +1,8 @@
-- Hook nêu **hậu quả cụ thể/thiệt hại tài sản** ("ném laptop vào là xước máy", "rơi phát nứt màn") cho score cao nhất — ưu tiên nỗi đau vật lý rõ ràng.
-- Sản phẩm **balo/túi chống sốc** và **sạc đa cổng (GaN)** hút tương tác tốt nhất — tập trung khai thác nhóm này.
-- Chèn **con số gây sốc** ("rơi 6 mét", "40L", "sạc 4 thiết bị 1 củ") tăng sức nặng, nhưng phải gắn với lợi ích thực tế mới ăn.
-- Hook chạm **quyền riêng tư/xấu hổ nơi công cộng** ("người bên cạnh đọc hết tin nhắn") kéo reaction — dùng cho phụ kiện chống nhìn trộm.
-- Mở bằng **câu hỏi phản ánh cảnh khổ hằng ngày** + emoji cảm xúc (😤😮‍💨) hiệu quả hơn câu khẳng định khô khan.
-- Tránh hook **quá chung chung/mơ hồ** ("ố vàng", "lốp non", "đấu vật") — thiếu hình ảnh thiệt hại nên score thấp.
-- Không lạm dụng cùng một góc "gọn gàng/tiện lợi" đơn thuần — phải đẩy lên mức **mất mát nếu không mua** để tạo động lực chia sẻ.
-- Tất cả share = 0: cần thêm **yếu tố bất ngờ/khó tin** ("mỏng dính mà đỡ rơi 4 mét") để kích người xem muốn khoe/lan truyền.
+- Hook chạm nỗi lo mất/hỏng đồ giá trị (laptop bị xước, va đập) cho score cao nhất — ưu tiên kiểu này.
+- Dùng con số cụ thể gây sốc ("rơi 4-6 mét vẫn lành", "sạc 4 thiết bị 1 củ") tăng chú ý hơn hook chung chung.
+- Nêu tình huống xấu hổ/riêng tư (người lạ đọc lén tin nhắn) hiệu quả — khai thác cảm giác bị xâm phạm.
+- Ốp lưng và balo laptop là nhóm sản phẩm dễ tương tác nhất; đẩy mạnh hai nhóm này.
+- Tránh hook ố vàng, lốp non, camera xước — quá chung hoặc kén người, score thấp nhất.
+- Toàn bộ share = 0: thêm yếu tố đáng chia sẻ (mẹo hữu ích, cảnh báo bạn bè cần biết) để kéo score.
+- Mở đầu bằng câu hỏi phản chiếu đúng nỗi đau + emoji cảm xúc (😤😬😮‍💨) giữ hiệu quả — duy trì công thức này.
+- Tương phản "rẻ/mỏng mà vẫn bảo vệ tốt" tạo tò mò tốt hơn chỉ mô tả vấn đề đơn thuần.
