@@ -1,8 +1,8 @@
-- Ưu tiên hook về **balo/ốp chống va đập bảo vệ laptop-điện thoại**: top score (5đ "ném laptop vào là xước máy") — chạm nỗi sợ hỏng đồ đắt tiền.
-- Dùng công thức **"hành động sai → hậu quả mất mát"** cụ thể (xước máy, nứt màn, ướt đồ): tạo lo lắng, kéo tương tác cao nhất.
-- Hook **quyền riêng tư "người bên cạnh đọc tin nhắn"** đạt 4đ: khai thác nỗi sợ bị dòm ngó nơi công cộng, nên tiếp tục.
-- Hook **gộp nhiều thiết bị vào 1 củ sạc** ("3 cục sạc", "4 thiết bị 1 củ") đạt 3-4đ: tốt vừa, nhấn con số + sự phiền toái hằng ngày.
-- **Thêm con số cụ thể** (6 thiết bị, 40L, rơi 6 mét, 5 phút) và emoji cảm xúc 😬😮‍💨: giữ được, nhưng chưa đủ mạnh nếu thiếu yếu tố mất mát.
-- **Tránh hook chỉ khoe tính năng/tiện lợi** ("nhét cả laptop vẫn gọn", "rơi 6 mét vẫn lành"): toàn 3đ, thiếu nỗi đau, tương tác thấp nhất.
-- **Tránh hook về ố vàng/vân tay ốp lưng**: nỗi đau quá nhẹ, không ai chia sẻ (đều 3đ).
-- Công thức nên nhồi: **[Tình huống quen thuộc] + [con số] + [hậu quả tốn tiền/mất mặt] + emoji lo lắng**, ưu tiên chủ đề bảo vệ đồ đắt tiền & riêng tư.
+- Hook "va chạm vật lý cụ thể" (ném laptop xước máy, rơi 6m) đạt điểm cao nhất — ưu tiên mô tả rủi ro sờ thấy được, có hình ảnh mạnh.
+- Sản phẩm balo/túi laptop và củ sạc đa cổng cho tương tác nhỉnh hơn — tập trung nhóm này, gắn với nỗi đau "hỏng đồ đắt tiền".
+- Hook chạm quyền riêng tư ("người bên cạnh đọc tin nhắn") kéo được reaction — khai thác thêm góc bảo mật/xấu hổ nơi công cộng.
+- Dùng con số cụ thể (6 thiết bị, 40L, rơi 6m, 4 thiết bị 1 củ) tăng chú ý hơn hook chung chung.
+- Công thức thắng: [tình huống đời thường] + [hậu quả tốn kém/mất mặt] + emoji cảm xúc (😬😮) — câu hỏi tu từ hiệu quả vừa phải.
+- Tránh hook trừu tượng, than vãn nhẹ (cáp rối, sạc tuột, ố vàng) — chỉ đạt điểm sàn, thiếu kịch tính.
+- Toàn bộ Share=0, Comment gần như bão hòa 1 → chèn CTA kích bình luận/chia sẻ ("tag đứa hay làm rơi máy") để phá trần điểm.
+- Nỗi đau "mất tiền/hỏng thiết bị đắt" mạnh hơn nỗi đau "bất tiện" — luôn quy về thiệt hại tài chính cụ thể.
