@@ -1,8 +1,8 @@
-- Hook chạm nỗi lo mất/hỏng đồ giá trị (laptop bị xước, va đập) cho score cao nhất — ưu tiên kiểu này.
-- Dùng con số cụ thể gây sốc ("rơi 4-6 mét vẫn lành", "sạc 4 thiết bị 1 củ") tăng chú ý hơn hook chung chung.
-- Nêu tình huống xấu hổ/riêng tư (người lạ đọc lén tin nhắn) hiệu quả — khai thác cảm giác bị xâm phạm.
-- Ốp lưng và balo laptop là nhóm sản phẩm dễ tương tác nhất; đẩy mạnh hai nhóm này.
-- Tránh hook ố vàng, lốp non, camera xước — quá chung hoặc kén người, score thấp nhất.
-- Toàn bộ share = 0: thêm yếu tố đáng chia sẻ (mẹo hữu ích, cảnh báo bạn bè cần biết) để kéo score.
-- Mở đầu bằng câu hỏi phản chiếu đúng nỗi đau + emoji cảm xúc (😤😬😮‍💨) giữ hiệu quả — duy trì công thức này.
-- Tương phản "rẻ/mỏng mà vẫn bảo vệ tốt" tạo tò mò tốt hơn chỉ mô tả vấn đề đơn thuần.
+- Hook đề cập **balo chống sốc/laptop** cho tương tác cao nhất (Score 5, có 2 reactions) — ưu tiên chủ đề bảo vệ laptop khi va đập.
+- Hook có **con số cụ thể + kết quả bất ngờ** ("rơi 4-6 mét vẫn lành", "40L nhét cả laptop") kéo reactions tốt hơn hook chung chung.
+- Hook chạm **nỗi sợ mất mát/hư hỏng đồ đắt tiền** (xước camera, nứt màn, ướt laptop) và **quyền riêng tư** ("người bên cạnh đọc tin nhắn") tạo tò mò, giữ tương tác ổn định.
+- Công thức mạnh: **Câu hỏi tu từ + nỗi đau đời thường + emoji cảm xúc** (😮‍💨 😬 😮) — dạng này chiếm hầu hết bài Score ≥4.
+- Nên **cá nhân hóa nỗi đau** ("tim đập chân run", "mệt óc", "đang tự đặt cược") thay vì mô tả tính năng khô khan.
+- Tránh hook **lặp lại mô típ sạc/củ sạc** — nhóm này bão hòa, đa số chỉ Score 3, tương tác kém nhất.
+- Tránh hook **thuần kể tính năng, không có xung đột cảm xúc** ("sạc 4 thiết bị 1 củ") — không kích được reaction.
+- Toàn bộ bài **Shares=0** → cần thêm yếu tố **đáng chia sẻ**: mẹo hữu ích, cảnh báo bảo vệ tài sản, hoặc "gửi cho người hay làm hỏng đồ".
