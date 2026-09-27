@@ -1,8 +1,8 @@
-- Hook nêu **con số cụ thể + tình huống rủi ro** (rơi 6m, 40L, sạc 4 thiết bị) ghi điểm tốt hơn hook chung chung.
-- Sản phẩm **balo laptop chống sốc/chống mưa** cho tương tác cao nhất (nhiều Score=4-5); ưu tiên khai thác nhóm này.
-- Hook dạng **câu hỏi "đau" đánh thẳng nỗi sợ hỏng đồ** ("ném laptop vào là xước máy?") kéo Reactions tốt nhất.
-- Emoji **😮‍💨 😬 😳 👀** hợp mood lo lắng, dùng 1 emoji cuối câu; tránh nhồi nhiều.
-- Tránh hook **lặp ý cũ** (nhiều biến thể "sạc nhiều thiết bị" đều Score=3 → bão hòa, đừng viết trùng).
-- Tránh hook **thiếu số liệu/mơ hồ** ("mệt thật", "cho có") — gây thờ ơ, Score thấp.
-- Nên chèn **con số gây sốc + kết quả bất ngờ** ("mỏng dính mà đỡ cú rơi 4m") để tạo tò mò.
-- Toàn bộ dữ liệu **Shares=0** → thêm CTA khơi gợi chia sẻ/tag bạn bè để nâng Score.
+- Hook chạm nỗi sợ riêng tư ("người bên cạnh đọc tin nhắn", "màn hình ai cũng đọc được") cho Score cao nhất (4) — ưu tiên khai thác góc bảo mật/privacy cá nhân.
+- Hook cụ thể hóa bằng con số/tình huống ("Rơi 6 mét", "Balo 40L nhét cả laptop, đồ du lịch") giữ tương tác tốt (4-5) — luôn nhét số liệu, dung tích, khoảng cách vào câu.
+- Hook về balo chống sốc/laptop có phản ứng khá (Score 5 khi thêm hình ảnh mạnh "ném laptop vào") — dùng động từ mạnh, hình ảnh va đập.
+- Hook chung chung, lặp lại ý cũ ("sạc dây rối", "cầm cục sạc riêng") chỉ đạt Score 3 — tránh viết mòn, phải đổi góc mỗi lần.
+- Tổng thể Reactions và Shares gần như bằng 0, Comments luôn =1 — nội dung chưa đủ mạnh để kích chia sẻ; cần thêm CTA hỏi trực tiếp hoặc chốt gây tranh luận để đẩy comment.
+- Ưu tiên viết dạng câu hỏi khơi đau ("...mà tim đập chân run?", "...đeo làm gì?") kết hợp emoji cảm xúc — dạng này giữ mức tương tác ổn định.
+- Tránh hook thuần liệt kê tính năng không có xung đột cảm xúc — phải mở bằng nỗi đau/rủi ro trước, giải pháp sau.
+- Sản phẩm bảo mật (kính chống nhìn trộm) và balo dung tích lớn là chủ đề tiềm năng nhất — tăng tần suất, giảm hook sạc đa cổng vì đã bão hòa.
