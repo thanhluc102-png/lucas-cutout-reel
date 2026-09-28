@@ -1,8 +1,8 @@
-- Hook chạm nỗi sợ riêng tư ("người bên cạnh đọc tin nhắn", "màn hình ai cũng đọc được") cho Score cao nhất (4) — ưu tiên khai thác góc bảo mật/privacy cá nhân.
-- Hook cụ thể hóa bằng con số/tình huống ("Rơi 6 mét", "Balo 40L nhét cả laptop, đồ du lịch") giữ tương tác tốt (4-5) — luôn nhét số liệu, dung tích, khoảng cách vào câu.
-- Hook về balo chống sốc/laptop có phản ứng khá (Score 5 khi thêm hình ảnh mạnh "ném laptop vào") — dùng động từ mạnh, hình ảnh va đập.
-- Hook chung chung, lặp lại ý cũ ("sạc dây rối", "cầm cục sạc riêng") chỉ đạt Score 3 — tránh viết mòn, phải đổi góc mỗi lần.
-- Tổng thể Reactions và Shares gần như bằng 0, Comments luôn =1 — nội dung chưa đủ mạnh để kích chia sẻ; cần thêm CTA hỏi trực tiếp hoặc chốt gây tranh luận để đẩy comment.
-- Ưu tiên viết dạng câu hỏi khơi đau ("...mà tim đập chân run?", "...đeo làm gì?") kết hợp emoji cảm xúc — dạng này giữ mức tương tác ổn định.
-- Tránh hook thuần liệt kê tính năng không có xung đột cảm xúc — phải mở bằng nỗi đau/rủi ro trước, giải pháp sau.
-- Sản phẩm bảo mật (kính chống nhìn trộm) và balo dung tích lớn là chủ đề tiềm năng nhất — tăng tần suất, giảm hook sạc đa cổng vì đã bão hòa.
+- Hook đề cập nguy cơ lộ thông tin/bảo mật khi ở nơi công cộng ("người bên cạnh đọc tin nhắn", "màn hình ai cũng đọc được") cho tương tác cao nhất (Score 4) — ưu tiên góc riêng tư/quyền riêng tư.
+- Hook chạm nỗi đau vật lý cụ thể với laptop ("ném laptop vào là xước máy", "không đệm là hại máy") kèm con số/hình ảnh rõ ràng cho điểm cao (Score 5) — ưu tiên balo/ốp có chi tiết bảo vệ đo lường được.
+- Hook có yếu tố "gọn/đa năng" gây tò mò ("40L nhét cả laptop lẫn đồ du lịch", "sạc rối cắm mãi không đủ pin") đạt Score 4 — dùng nghịch lý nhỏ-nhưng-nhiều.
+- Con số gây sốc ("rơi 6 mét vẫn lành", "đỡ cú rơi 4 mét") đơn thuần lại chỉ Score 3 — tránh chỉ khoe số, phải gắn với cảm xúc/tình huống người dùng gặp.
+- Hook mô tả phiền toái sạc chung chung ("3 sợi cáp bò lổm ngổm", "4 thiết bị 1 củ") đều Score 3 thấp — tránh chủ đề sạc/hub trừ khi thêm góc mới lạ.
+- Hook về balo chống mưa/hộ chiếu/túi công tác đều Score 3 — nỗi đau quá quen, cần thêm chi tiết bất ngờ hoặc góc cảm xúc mạnh hơn.
+- Công thức thắng: câu hỏi/tình huống + đối tượng cụ thể (laptop, người lạ) + cảm xúc rõ (xấu hổ, tiếc của) + emoji biểu cảm mắt/ngại (😳👀😬) thay vì emoji mệt mỏi chung chung (😮‍💨).
+- Reactions kéo Score lên nhiều hơn Comments đơn lẻ — viết hook dễ "gật đầu đồng cảm" để tăng thả tim, tránh hook chỉ khiến người ta hỏi giá.
