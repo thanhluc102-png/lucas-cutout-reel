@@ -1,10 +1,8 @@
-**Lưu ý phân tích:** Toàn bộ Score dao động 3–5, Shares luôn = 0, khác biệt cực nhỏ → kết luận chỉ mang tính tương đối, không đủ mạnh về mặt thống kê.
-
-- Hook nêu **tình huống bị lộ riêng tư** ("người bên cạnh đọc hết tin nhắn", "màn hình sáng trưng ai cũng đọc") cho tương tác nhỉnh nhất (Score 4) → ưu tiên góc "sợ bị nhìn trộm".
-- Hook nêu **rủi ro hư hại tài sản đắt tiền** ("ném laptop vào là xước máy", Score 5) hiệu quả → nhấn nỗi đau mất tiền cụ thể.
-- Hook có **con số/lợi ích gọn rõ** ("Balo 40L nhét cả laptop...", "cắm vào tuột ra mãi không đủ pin") đạt Score 4 → thêm số liệu định lượng.
-- Hook **hỏi tu từ chung chung, thiếu hình ảnh cụ thể** ("test rơi thật chưa?", "sạc thứ nào cũng phải cắm rút") chỉ Score 3 → tránh mơ hồ.
-- Emoji dùng 1 cái biểu cảm (😒👀😳😮) hợp hơn emoji vật thể (🔌🎒) → chọn emoji cảm xúc để kích phản ứng.
-- Không hook nào tạo được Share → thêm yếu tố "tag bạn bè / gửi cho ai cần" để đẩy Share lên.
-- Comment luôn = 1 (nghi là comment mồi) → chèn câu hỏi mở cuối hook để kích comment thật.
-- **Cần thêm dữ liệu:** mẫu quá nhỏ và đồng đều, nên A/B test thêm trước khi coi các quy tắc trên là chắc chắn.
+- Ưu tiên hook "quyền riêng tư" (người lạ đọc màn hình/tin nhắn) — nhóm điểm cao nhất (Score 4), khai thác nỗi sợ bị lộ thông tin nơi công cộng.
+- Dùng hook có con số/thử thách gây sốc kèm hoài nghi ("Rơi 6 mét vẫn lành máy?", "40L nhét cả laptop mà vẫn gọn") để kích comment và reaction.
+- Mở bằng câu hỏi tu từ chạm đúng nỗi đau cụ thể hằng ngày (dây sạc rối, lốp non, balo ướt) — luôn ra ít nhất 1 comment, giữ đều tương tác.
+- Chèn emoji cảm xúc mạnh (😳👀😮) hợp ngữ cảnh nỗi đau; tránh emoji trung tính (🎒🔌) đứng một mình vì nhóm này điểm thấp.
+- Tránh hook chê sản phẩm rẻ/mắng người dùng ("balo rẻ tự hại máy", "cho có") — chỉ đạt Score 3, không tạo reaction.
+- Tránh hook mô tả tính năng khô khan, thiếu kịch tính hoặc thiếu con số cụ thể — dễ chìm ở mức Score 3.
+- Công thức mạnh nhất: [Tình huống xấu hổ/rủi ro nơi công cộng] + [câu hỏi khoét sâu] + [emoji cảm xúc] → nhắm sản phẩm bảo mật/bảo vệ (kính chống nhìn trộm, ốp/balo chống sốc test thật).
+- Mọi hook đều ra comment nhưng gần như không có share — cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, tình huống ai cũng gặp) để nâng Score qua ngưỡng 4.
