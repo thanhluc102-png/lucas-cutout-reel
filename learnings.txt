@@ -1,15 +1,8 @@
-- **Ưu tiên hook nêu nỗi đau cụ thể + hậu quả tài chính/thiệt hại** (xước máy, nứt màn, mất ví/tài sản): nhóm balo laptop & chống sốc cho score cao nhất (4–5).
-
-- **Chèn con số gây sốc để tạo tò mò**: "rơi 6 mét", "40L", "chống rơi 4 mét" — kích comment/reaction tốt hơn hook chung chung.
-
-- **Khai thác cảm giác riêng tư/bị theo dõi** ("ai cũng đọc được tin nhắn"): dòng phụ kiện chống nhìn trộm đạt score 4, nên tiếp tục khai thác.
-
-- **Mở đầu bằng câu hỏi "cứa" đúng tình huống bực bội hằng ngày** (dây sạc rối, thiếu cổng, đồ ướt): giữ được tương tác nền ổn định (3–4).
-
-- **Tránh hook thuần than vãn nhẹ, không có số/hậu quả rõ** ("Mệt thật", "cho có"): chỉ chạm đáy score 3.
-
-- **Sản phẩm balo laptop chống sốc là chủ lực** — cho điểm cao nhất, nên tăng tần suất và đẩy mạnh yếu tố "bảo vệ tài sản đắt tiền".
-
-- **Kết hợp emoji cảm xúc mạnh (😮 😳 😰) đầu/cuối hook** để tăng phản ứng, hạn chế emoji trung tính (🔌 🎒 đơn lẻ).
-
-- **Viết ngắn, 1 câu, dạng "vấn đề → mất mát"** để tối ưu comment; tránh câu dài kể lể nhiều tính năng cùng lúc.
+- Score cực thấp toàn bộ (3-4), chênh lệch không đáng kể → dữ liệu chưa đủ mạnh để kết luận chắc, nhưng vẫn thấy xu hướng rõ.
+- Hook có con số cụ thể ("rơi 4m", "6 mét", "40L", "4 mét") + kết quả bất ngờ → nhỉnh hơn, nên ưu tiên số liệu gây sốc.
+- Hook chạm nỗi lo riêng tư ("người bên cạnh đọc tin nhắn", "màn hình sáng trưng ai cũng đọc") cho Score cao hơn nền → khai thác cảm giác bị nhòm ngó.
+- Mọi hook đều xoáy vào PAIN (mệt, hại máy, mất đồ, ướt) → giữ công thức "nỗi đau đời thực + emoji", đây là nền an toàn.
+- Kết hook bằng câu hỏi tu từ nhẹ hơn khẳng định phũ; câu hỏi + số gây tò mò comment tốt hơn.
+- Sản phẩm balo/ốp bị lặp mô-típ quá nhiều ("laptop không đệm", "rơi Xm") → tránh viết trùng, dễ chai tương tác.
+- Không hook nào đạt Share hay nhiều Reaction → cần thêm yếu tố "khoe/lợi ích chia sẻ được" (tiết kiệm, mẹo hay) để kích Share.
+- Tránh hook dài, than vãn chung chung không số liệu ("mệt thật", "đeo làm gì") → nhóm này chỉ chạm đáy Score 3.
