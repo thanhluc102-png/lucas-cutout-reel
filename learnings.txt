@@ -1,8 +1,15 @@
-- Ưu tiên hook "quyền riêng tư" (người lạ đọc màn hình/tin nhắn) — nhóm điểm cao nhất (Score 4), khai thác nỗi sợ bị lộ thông tin nơi công cộng.
-- Dùng hook có con số/thử thách gây sốc kèm hoài nghi ("Rơi 6 mét vẫn lành máy?", "40L nhét cả laptop mà vẫn gọn") để kích comment và reaction.
-- Mở bằng câu hỏi tu từ chạm đúng nỗi đau cụ thể hằng ngày (dây sạc rối, lốp non, balo ướt) — luôn ra ít nhất 1 comment, giữ đều tương tác.
-- Chèn emoji cảm xúc mạnh (😳👀😮) hợp ngữ cảnh nỗi đau; tránh emoji trung tính (🎒🔌) đứng một mình vì nhóm này điểm thấp.
-- Tránh hook chê sản phẩm rẻ/mắng người dùng ("balo rẻ tự hại máy", "cho có") — chỉ đạt Score 3, không tạo reaction.
-- Tránh hook mô tả tính năng khô khan, thiếu kịch tính hoặc thiếu con số cụ thể — dễ chìm ở mức Score 3.
-- Công thức mạnh nhất: [Tình huống xấu hổ/rủi ro nơi công cộng] + [câu hỏi khoét sâu] + [emoji cảm xúc] → nhắm sản phẩm bảo mật/bảo vệ (kính chống nhìn trộm, ốp/balo chống sốc test thật).
-- Mọi hook đều ra comment nhưng gần như không có share — cần thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, tình huống ai cũng gặp) để nâng Score qua ngưỡng 4.
+- **Ưu tiên hook nêu nỗi đau cụ thể + hậu quả tài chính/thiệt hại** (xước máy, nứt màn, mất ví/tài sản): nhóm balo laptop & chống sốc cho score cao nhất (4–5).
+
+- **Chèn con số gây sốc để tạo tò mò**: "rơi 6 mét", "40L", "chống rơi 4 mét" — kích comment/reaction tốt hơn hook chung chung.
+
+- **Khai thác cảm giác riêng tư/bị theo dõi** ("ai cũng đọc được tin nhắn"): dòng phụ kiện chống nhìn trộm đạt score 4, nên tiếp tục khai thác.
+
+- **Mở đầu bằng câu hỏi "cứa" đúng tình huống bực bội hằng ngày** (dây sạc rối, thiếu cổng, đồ ướt): giữ được tương tác nền ổn định (3–4).
+
+- **Tránh hook thuần than vãn nhẹ, không có số/hậu quả rõ** ("Mệt thật", "cho có"): chỉ chạm đáy score 3.
+
+- **Sản phẩm balo laptop chống sốc là chủ lực** — cho điểm cao nhất, nên tăng tần suất và đẩy mạnh yếu tố "bảo vệ tài sản đắt tiền".
+
+- **Kết hợp emoji cảm xúc mạnh (😮 😳 😰) đầu/cuối hook** để tăng phản ứng, hạn chế emoji trung tính (🔌 🎒 đơn lẻ).
+
+- **Viết ngắn, 1 câu, dạng "vấn đề → mất mát"** để tối ưu comment; tránh câu dài kể lể nhiều tính năng cùng lúc.
