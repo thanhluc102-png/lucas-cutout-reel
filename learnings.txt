@@ -1,8 +1,8 @@
-- Score cực thấp toàn bộ (3-4), chênh lệch không đáng kể → dữ liệu chưa đủ mạnh để kết luận chắc, nhưng vẫn thấy xu hướng rõ.
-- Hook có con số cụ thể ("rơi 4m", "6 mét", "40L", "4 mét") + kết quả bất ngờ → nhỉnh hơn, nên ưu tiên số liệu gây sốc.
-- Hook chạm nỗi lo riêng tư ("người bên cạnh đọc tin nhắn", "màn hình sáng trưng ai cũng đọc") cho Score cao hơn nền → khai thác cảm giác bị nhòm ngó.
-- Mọi hook đều xoáy vào PAIN (mệt, hại máy, mất đồ, ướt) → giữ công thức "nỗi đau đời thực + emoji", đây là nền an toàn.
-- Kết hook bằng câu hỏi tu từ nhẹ hơn khẳng định phũ; câu hỏi + số gây tò mò comment tốt hơn.
-- Sản phẩm balo/ốp bị lặp mô-típ quá nhiều ("laptop không đệm", "rơi Xm") → tránh viết trùng, dễ chai tương tác.
-- Không hook nào đạt Share hay nhiều Reaction → cần thêm yếu tố "khoe/lợi ích chia sẻ được" (tiết kiệm, mẹo hay) để kích Share.
-- Tránh hook dài, than vãn chung chung không số liệu ("mệt thật", "đeo làm gì") → nhóm này chỉ chạm đáy Score 3.
+- Điểm số gần như đồng đều (Score 3–4), toàn bộ chỉ đạt 1 comment, 0 share → chưa hook nào thật sự bùng nổ, cần thử nghiệm mạnh hơn.
+- Nhỉnh hơn (Score=4) là hook có con số cụ thể + lợi ích rõ (Ba lô 40L nhét cả laptop; Sạc dây rối không đủ pin; Màn hình sáng ai cũng đọc được) → ưu tiên con số + tình huống đời thường dễ hình dung.
+- Hook "nỗi sợ riêng tư" (người bên cạnh đọc tin nhắn/màn hình) cho tương tác tốt → khai thác nhóm cảm xúc xấu hổ, bị nhòm ngó.
+- Hook dạng câu hỏi thách thức "test rơi thật chưa?", "rơi 4m vẫn cứu máy?" quá lặp lại giữa các reel ốp lưng → giảm tần suất, tránh nhàm.
+- Nhóm ốp chống rơi bị bão hòa (nhiều hook, điểm thấp đều) → giãn bớt, đổi góc tiếp cận hoặc giảm số reel.
+- Nên gắn con số đo lường + hậu quả cụ thể ("mất 5 phút mỗi sáng", "40L", "rơi 6 mét") để tăng tính thuyết phục và gợi comment.
+- Tránh hook chung chung, cảm thán mơ hồ chỉ có emoji (😬😮‍💨) mà thiếu con số hay tình huống → đây là nhóm điểm thấp nhất.
+- Thêm CTA/câu hỏi mở cuối hook để kích comment và share (hiện 0 share) — ví dụ "Bạn từng dính chưa?", "Tag đứa hay làm rơi máy".
