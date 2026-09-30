@@ -1,8 +1,15 @@
-- Điểm số gần như đồng đều (Score 3–4), toàn bộ chỉ đạt 1 comment, 0 share → chưa hook nào thật sự bùng nổ, cần thử nghiệm mạnh hơn.
-- Nhỉnh hơn (Score=4) là hook có con số cụ thể + lợi ích rõ (Ba lô 40L nhét cả laptop; Sạc dây rối không đủ pin; Màn hình sáng ai cũng đọc được) → ưu tiên con số + tình huống đời thường dễ hình dung.
-- Hook "nỗi sợ riêng tư" (người bên cạnh đọc tin nhắn/màn hình) cho tương tác tốt → khai thác nhóm cảm xúc xấu hổ, bị nhòm ngó.
-- Hook dạng câu hỏi thách thức "test rơi thật chưa?", "rơi 4m vẫn cứu máy?" quá lặp lại giữa các reel ốp lưng → giảm tần suất, tránh nhàm.
-- Nhóm ốp chống rơi bị bão hòa (nhiều hook, điểm thấp đều) → giãn bớt, đổi góc tiếp cận hoặc giảm số reel.
-- Nên gắn con số đo lường + hậu quả cụ thể ("mất 5 phút mỗi sáng", "40L", "rơi 6 mét") để tăng tính thuyết phục và gợi comment.
-- Tránh hook chung chung, cảm thán mơ hồ chỉ có emoji (😬😮‍💨) mà thiếu con số hay tình huống → đây là nhóm điểm thấp nhất.
-- Thêm CTA/câu hỏi mở cuối hook để kích comment và share (hiện 0 share) — ví dụ "Bạn từng dính chưa?", "Tag đứa hay làm rơi máy".
+- Score toàn bộ dao động 3–4, gần như phẳng: chưa hook nào tạo Share hay bình luận thật, nên đây là baseline yếu, cần đột phá chứ không "tối ưu nhẹ".
+
+- Nhóm nhỉnh hơn (Score=4) đều nhờ +1 Reaction, rơi vào: balo dung lượng lớn/gọn gàng ("40L nhét cả laptop", "mất 5 phút mỗi sáng") và chống nhìn trộm màn hình ("ai cũng đọc được") — ưu tiên các ngách này.
+
+- Hook thắng có yếu tố **con số cụ thể + tình huống đời thường lặp lại hằng ngày** (5 phút mỗi sáng, 40L, ngồi cạnh người lạ); viết theo công thức "nỗi đau quen thuộc + số liệu" để đẩy tương tác.
+
+- Kém nhất: hook "rơi X mét vẫn lành máy / ốp chống sốc" bị lặp quá nhiều (5–6 biến thể) và luôn kẹt Score=3 — dừng spam mô-típ chống sốc, gây nhàm và bão hòa.
+
+- Tránh hook nghi vấn trừu tượng, thiếu hình ảnh cụ thể ("đã bao giờ test rơi thật chưa?") vì không khơi được phản ứng; thay bằng cảnh huống người đọc tự thấy mình trong đó.
+
+- Chưa hook nào tạo Share — muốn tăng Score phải nhắm cảm xúc "phải kể cho người khác": nỗi sợ mất mát (mất ví/hộ chiếu), mẹo tiết kiệm thời gian, hoặc bí mật riêng tư; khai thác mạnh hơn hướng bảo mật/quyền riêng tư.
+
+- Emoji nên giữ 1 cái đúng cảm xúc; các hook Score=4 dùng emoji tình huống (👀😳🎒) tự nhiên hơn emoji cường điệu (😮😳 lặp lại ở nhóm chống sốc).
+
+- Định hướng tiếp theo: viết hook 1 câu, mở bằng nỗi đau cá nhân + số liệu gây sốc, kết bằng câu hỏi khiến người đọc muốn tag bạn bè; ưu tiên sản phẩm balo tiện dụng và phụ kiện bảo mật, giảm tần suất ốp chống sốc.
