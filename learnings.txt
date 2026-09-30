@@ -1,8 +1,15 @@
-- Dữ liệu quá đồng đều (Score 3–4), không có mẫu nào bứt phá thật sự; mọi hook chỉ đạt 1 comment "mồi", 0 share — cần đọc kết quả với sự dè dặt, khác biệt 3 vs 4 gần như là nhiễu.
-- Nhóm nhỉnh hơn (Score=4) đều gắn với nỗi đau đời thường, cụ thể, dễ đồng cảm: balo lộn xộn mất thời gian tìm đồ, bàn/dây sạc bừa bộn, màn hình bị người lạ nhìn trộm — ưu tiên hook chạm "bực dọc hằng ngày" hơn là kỳ tích sản phẩm.
-- Hook kiểu "rơi X mét vẫn lành máy / ốp chống sốc" luôn kẹt ở Score=3: khẳng định phóng đại gây nghi ngờ, không khơi được cảm xúc — nên tránh hoặc chuyển thành câu hỏi thách thức thực tế.
-- Công thức thắng: mở bằng tình huống + hệ quả khó chịu dạng câu hỏi ("...mà vẫn thiếu cổng?", "...mất 5 phút mỗi sáng?"), kèm 1 emoji cảm xúc (😤😳👀) — cụ thể hóa con số/thời gian tăng độ tin.
-- Sản phẩm dễ tạo tương tác nhất: balo tổ chức/ngăn thông minh, hub-sạc gọn gàng, kính chống nhìn trộm; kém nhất: ốp lưng chống sốc (bão hòa, hook trùng lặp nhiều lần).
-- Tránh lặp lại cùng một góc "rơi Xm" cho nhiều video liên tiếp — sự trùng lặp làm loãng và không mẫu nào nổi bật; mỗi reel nên xoáy một nỗi đau khác nhau.
-- Chưa reel nào đạt share; muốn tăng share cần thêm yếu tố "đáng kể cho người khác" (mẹo hữu ích, tính hài, hoặc cảnh báo an toàn/riêng tư) thay vì chỉ khoe tính năng.
-- Giữ hook 1 câu, dưới ~15 từ, đúng 1 emoji cuối, ngôn ngữ đời thường xưng "bạn" — đây là format chung của mọi mẫu nhỉnh hơn.
+- Score dao động rất hẹp (3–4), toàn bộ tương tác đến từ Comments=1 và Reactions 0–1; Shares=0 tuyệt đối → chưa hook nào đủ mạnh để tạo chia sẻ, cần nâng chất lượng chứ đừng chỉ nhân bản mẫu cũ.
+
+- Nhóm cho Reactions=1 (Score=4) thường tả cảnh đau đầu đời thường, cụ thể + thời gian/số lượng: "mất 5 phút mỗi sáng", "4-5 củ sạc", "3 sợi cáp bò lổm ngổm" → dùng chi tiết định lượng gây đồng cảm hằng ngày.
+
+- Hook dạng câu hỏi tình huống ("Ngồi cạnh người lạ mà màn hình sáng trưng?", "Bàn lởm chởm 4-5 củ sạc thì gọn gàng nỗi gì?") nhỉnh hơn hook con số gây sốc đơn thuần → ưu tiên câu hỏi khơi nỗi đau cá nhân.
+
+- Kém nhất: hook "rơi X mét vẫn lành máy / ốp chống sốc" (rơi 6m, 4m) đều chỉ Score=3, lặp lại nhàm và thiếu tin cậy → hạn chế công thức "rơi + số mét", nếu dùng phải kèm bằng chứng test thật.
+
+- Sản phẩm balo/túi công tác nhiều biến thể nhưng đa số Score=3, chỉ bản nhấn "lãng phí thời gian" hoặc "40L nhét đủ mà gọn" đạt 4 → khai thác góc tiết kiệm thời gian & sự tiện lợi thay vì liệt kê dung tích chung chung.
+
+- Chủ đề quyền riêng tư (miếng dán chống nhìn trộm) có 1 biến thể đạt Score=4 → tiềm năng tốt, nên khai thác nỗi sợ bị đọc lén rõ ràng theo tình huống cụ thể.
+
+- Emoji cảm xúc mạnh (😳😬😤) đi kèm nỗi đau cụ thể cho tương tác nhỉnh hơn emoji trung tính (🎒🔌) → giữ 1 emoji cảm xúc đắt, tránh emoji sản phẩm khô khan.
+
+- Để bứt Score, cần thêm yếu tố kích chia sẻ: kêu gọi tag bạn, câu chuyện bất ngờ hoặc lợi ích đủ hữu ích để lưu/gửi — vì hiện tại 0 share là điểm nghẽn lớn nhất.
