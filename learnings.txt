@@ -1,15 +1,8 @@
-- **Cảnh báo trước:** Dữ liệu quá đồng đều (Score 3-5, Shares=0, Comments=1 gần như cố định) → tín hiệu yếu, mọi kết luận chỉ mang tính tương đối, cần test thêm.
-
-- **Hook thắng nhẹ (Score 4-5):** mô tả nỗi đau cụ thể + con số/thời gian ("mất 5 phút mỗi sáng", "4-5 củ sạc", "rơi 4 mét") → thêm số liệu để dễ hình dung.
-
-- **Sản phẩm balo + chi tiết tình huống** nhỉnh hơn (Score 4-5): nhắm cảnh "lục tìm đồ", "nhét laptop", "40L gọn" → ưu tiên khai thác pain point hằng ngày.
-
-- **Hook chạm nỗi sợ riêng tư** ("người bên cạnh đọc tin nhắn") giữ tương tác ổn → dùng góc "bị lộ/bị nhìn trộm" để kích tò mò.
-
-- **Nên tránh hook dạng câu hỏi tu từ chung chung** ("đã bao giờ test rơi thật chưa?", "gọn gàng nỗi gì?") → mơ hồ, Score thấp nhất (3).
-
-- **Tránh mô tả tính năng khô khan** ("bàn phím dày cộp", "ốp nhựa bám vân tay") → không gợi cảm xúc, tương tác bết.
-
-- **Công thức ưu tiên:** Nỗi đau cụ thể + con số gây sốc + emoji cảm xúc mạnh (😤😳😵) → nhóm này gom hầu hết Score cao.
-
-- **Mục tiêu nâng cấp:** chưa hook nào tạo Share/Comment thật → thêm CTA khơi gợi chia sẻ hoặc câu hỏi mời bình luận cụ thể ("bạn đang xài loại nào?") để phá trần Score.
+- Hook nêu **nỗi đau cụ thể + hậu quả thực tế** (mất 5 phút tìm đồ, hại laptop, lộ màn hình) cho tương tác cao nhất — ưu tiên kiểu này.
+- Dùng **con số gây sốc** (rơi 4m, ba lô 40L, mất 5 phút) để kích phản ứng; luôn kèm số liệu khi có thể.
+- Sản phẩm **balo/túi chống sốc** và **phụ kiện quyền riêng tư màn hình** kéo reactions tốt hơn, nên khai thác nhiều.
+- Mở bằng **câu hỏi xoáy thẳng tình huống bực bội** ("cắm vào tuột ra?", "ai cũng đọc được?") hiệu quả hơn câu khẳng định chung chung.
+- Tránh hook **mơ hồ, thiếu nỗi đau rõ** (kiểu "balo đi làm vẫn gọn", "bàn phím dày cộp") vì chỉ đạt score thấp.
+- Mỗi hook chỉ **1 vấn đề + 1 emoji cảm xúc** đúng ngữ cảnh (😳😤😵); đừng nhồi nhiều ý.
+- Toàn bộ data **share = 0** — thêm yếu tố **đáng chia sẻ** (mẹo hữu ích, cảnh báo thiệt hại tiền bạc) để đẩy score.
+- Giữ câu **ngắn, đời thường, chạm trực tiếp người đọc** ("bạn", "của bạn") thay vì mô tả tính năng khô khan.
