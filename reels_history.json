@@ -1769,10 +1769,10 @@
     "hook": "Balo lôi thôi làm bạn mất 5 phút mỗi sáng để tìm đồ 🎒",
     "publish_time": "2026-09-29T18:46:11.948Z",
     "performance": {
-      "reactions": 1,
+      "reactions": 2,
       "comments": 1,
       "shares": 0,
-      "score": 4
+      "score": 5
     }
   },
   {
@@ -1804,6 +1804,18 @@
     "product_name": "",
     "hook": "Đi công tác 2-3 ngày mà phải lôi 2 cái túi? 🎒",
     "publish_time": "2026-09-30T18:35:23.076Z",
+    "performance": {
+      "reactions": 0,
+      "comments": 1,
+      "shares": 0,
+      "score": 3
+    }
+  },
+  {
+    "post_id": "2522666118212251",
+    "product_name": "",
+    "hook": "Bàn phím cơ mà cứ dày cộp, gõ mỏi tay? ⌨️",
+    "publish_time": "2026-10-01T07:20:27.883Z",
     "performance": {
       "reactions": 0,
       "comments": 1,

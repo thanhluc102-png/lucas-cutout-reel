@@ -1,15 +1,8 @@
-- Score dao động rất hẹp (3–4), toàn bộ tương tác đến từ Comments=1 và Reactions 0–1; Shares=0 tuyệt đối → chưa hook nào đủ mạnh để tạo chia sẻ, cần nâng chất lượng chứ đừng chỉ nhân bản mẫu cũ.
-
-- Nhóm cho Reactions=1 (Score=4) thường tả cảnh đau đầu đời thường, cụ thể + thời gian/số lượng: "mất 5 phút mỗi sáng", "4-5 củ sạc", "3 sợi cáp bò lổm ngổm" → dùng chi tiết định lượng gây đồng cảm hằng ngày.
-
-- Hook dạng câu hỏi tình huống ("Ngồi cạnh người lạ mà màn hình sáng trưng?", "Bàn lởm chởm 4-5 củ sạc thì gọn gàng nỗi gì?") nhỉnh hơn hook con số gây sốc đơn thuần → ưu tiên câu hỏi khơi nỗi đau cá nhân.
-
-- Kém nhất: hook "rơi X mét vẫn lành máy / ốp chống sốc" (rơi 6m, 4m) đều chỉ Score=3, lặp lại nhàm và thiếu tin cậy → hạn chế công thức "rơi + số mét", nếu dùng phải kèm bằng chứng test thật.
-
-- Sản phẩm balo/túi công tác nhiều biến thể nhưng đa số Score=3, chỉ bản nhấn "lãng phí thời gian" hoặc "40L nhét đủ mà gọn" đạt 4 → khai thác góc tiết kiệm thời gian & sự tiện lợi thay vì liệt kê dung tích chung chung.
-
-- Chủ đề quyền riêng tư (miếng dán chống nhìn trộm) có 1 biến thể đạt Score=4 → tiềm năng tốt, nên khai thác nỗi sợ bị đọc lén rõ ràng theo tình huống cụ thể.
-
-- Emoji cảm xúc mạnh (😳😬😤) đi kèm nỗi đau cụ thể cho tương tác nhỉnh hơn emoji trung tính (🎒🔌) → giữ 1 emoji cảm xúc đắt, tránh emoji sản phẩm khô khan.
-
-- Để bứt Score, cần thêm yếu tố kích chia sẻ: kêu gọi tag bạn, câu chuyện bất ngờ hoặc lợi ích đủ hữu ích để lưu/gửi — vì hiện tại 0 share là điểm nghẽn lớn nhất.
+- Hook mô tả nỗi đau cụ thể, định lượng (“mất 5 phút mỗi sáng”, “rơi 4m”, “40L”) cho điểm cao nhất — luôn gắn con số.
+- Chủ đề balo/túi đựng laptop là nhóm mạnh nhất (Score 4-5), nên ưu tiên khai thác cùng góc “lục đồ – cấn góc – đựng được nhiều”.
+- Dùng cảnh tượng đời thường dễ hình dung (“dây bò lổm ngổm”, “4-5 củ sạc trên bàn”) thay vì câu hỏi trừu tượng.
+- Nên viết hook thể hiện LỢI ÍCH bất ngờ (“mỏng dính mà đỡ cú rơi”, “40L vẫn gọn”) kéo reaction tốt hơn hook thuần dọa nạt.
+- Tránh hook mơ hồ, cảnh báo chung chung (“ác mộng”, “tự đặt cược”, “test rơi thật chưa”) — chỉ đạt điểm sàn, không bật tương tác.
+- Tránh sản phẩm ngách ít đồng cảm (bàn phím cơ, kính chống nhìn trộm) — tương tác đáy, nên hạn chế hoặc đổi góc đau cụ thể hơn.
+- Luôn chèn 1 emoji hợp ngữ cảnh ở cuối; giữ câu ngắn, 1 nỗi đau duy nhất mỗi hook.
+- Chưa reel nào có Share — thêm yếu tố “đáng chia sẻ” (mẹo lạ, so sánh sốc, kết quả test thật) để phá trần Score.
