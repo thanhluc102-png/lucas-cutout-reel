@@ -1,8 +1,15 @@
-- Hook mô tả nỗi đau cụ thể, định lượng (“mất 5 phút mỗi sáng”, “rơi 4m”, “40L”) cho điểm cao nhất — luôn gắn con số.
-- Chủ đề balo/túi đựng laptop là nhóm mạnh nhất (Score 4-5), nên ưu tiên khai thác cùng góc “lục đồ – cấn góc – đựng được nhiều”.
-- Dùng cảnh tượng đời thường dễ hình dung (“dây bò lổm ngổm”, “4-5 củ sạc trên bàn”) thay vì câu hỏi trừu tượng.
-- Nên viết hook thể hiện LỢI ÍCH bất ngờ (“mỏng dính mà đỡ cú rơi”, “40L vẫn gọn”) kéo reaction tốt hơn hook thuần dọa nạt.
-- Tránh hook mơ hồ, cảnh báo chung chung (“ác mộng”, “tự đặt cược”, “test rơi thật chưa”) — chỉ đạt điểm sàn, không bật tương tác.
-- Tránh sản phẩm ngách ít đồng cảm (bàn phím cơ, kính chống nhìn trộm) — tương tác đáy, nên hạn chế hoặc đổi góc đau cụ thể hơn.
-- Luôn chèn 1 emoji hợp ngữ cảnh ở cuối; giữ câu ngắn, 1 nỗi đau duy nhất mỗi hook.
-- Chưa reel nào có Share — thêm yếu tố “đáng chia sẻ” (mẹo lạ, so sánh sốc, kết quả test thật) để phá trần Score.
+- **Cảnh báo trước:** Dữ liệu quá đồng đều (Score 3-5, Shares=0, Comments=1 gần như cố định) → tín hiệu yếu, mọi kết luận chỉ mang tính tương đối, cần test thêm.
+
+- **Hook thắng nhẹ (Score 4-5):** mô tả nỗi đau cụ thể + con số/thời gian ("mất 5 phút mỗi sáng", "4-5 củ sạc", "rơi 4 mét") → thêm số liệu để dễ hình dung.
+
+- **Sản phẩm balo + chi tiết tình huống** nhỉnh hơn (Score 4-5): nhắm cảnh "lục tìm đồ", "nhét laptop", "40L gọn" → ưu tiên khai thác pain point hằng ngày.
+
+- **Hook chạm nỗi sợ riêng tư** ("người bên cạnh đọc tin nhắn") giữ tương tác ổn → dùng góc "bị lộ/bị nhìn trộm" để kích tò mò.
+
+- **Nên tránh hook dạng câu hỏi tu từ chung chung** ("đã bao giờ test rơi thật chưa?", "gọn gàng nỗi gì?") → mơ hồ, Score thấp nhất (3).
+
+- **Tránh mô tả tính năng khô khan** ("bàn phím dày cộp", "ốp nhựa bám vân tay") → không gợi cảm xúc, tương tác bết.
+
+- **Công thức ưu tiên:** Nỗi đau cụ thể + con số gây sốc + emoji cảm xúc mạnh (😤😳😵) → nhóm này gom hầu hết Score cao.
+
+- **Mục tiêu nâng cấp:** chưa hook nào tạo Share/Comment thật → thêm CTA khơi gợi chia sẻ hoặc câu hỏi mời bình luận cụ thể ("bạn đang xài loại nào?") để phá trần Score.
