@@ -1,8 +1,8 @@
-- Hook nêu **nỗi đau cụ thể + hậu quả thực tế** (mất 5 phút tìm đồ, hại laptop, lộ màn hình) cho tương tác cao nhất — ưu tiên kiểu này.
-- Dùng **con số gây sốc** (rơi 4m, ba lô 40L, mất 5 phút) để kích phản ứng; luôn kèm số liệu khi có thể.
-- Sản phẩm **balo/túi chống sốc** và **phụ kiện quyền riêng tư màn hình** kéo reactions tốt hơn, nên khai thác nhiều.
-- Mở bằng **câu hỏi xoáy thẳng tình huống bực bội** ("cắm vào tuột ra?", "ai cũng đọc được?") hiệu quả hơn câu khẳng định chung chung.
-- Tránh hook **mơ hồ, thiếu nỗi đau rõ** (kiểu "balo đi làm vẫn gọn", "bàn phím dày cộp") vì chỉ đạt score thấp.
-- Mỗi hook chỉ **1 vấn đề + 1 emoji cảm xúc** đúng ngữ cảnh (😳😤😵); đừng nhồi nhiều ý.
-- Toàn bộ data **share = 0** — thêm yếu tố **đáng chia sẻ** (mẹo hữu ích, cảnh báo thiệt hại tiền bạc) để đẩy score.
-- Giữ câu **ngắn, đời thường, chạm trực tiếp người đọc** ("bạn", "của bạn") thay vì mô tả tính năng khô khan.
+- Hook mô tả vấn đề "lộn xộn/mất thời gian" thường ngày (balo bừa làm mất 5 phút mỗi sáng, bàn làm việc lởm chởm sạc) cho tương tác cao nhất — ưu tiên nỗi đau cụ thể, có con số.
+- Sản phẩm balo và sạc/hub đa cổng hút tương tác tốt nhất; khai thác tình huống thực tế (đi làm, công tác, bàn làm việc).
+- Thêm con số định lượng ("40L", "4-5 củ sạc", "mất 5 phút") làm hook mạnh hơn hẳn hook chung chung.
+- Hook chạm riêng tư/tâm lý (màn hình sáng người lạ đọc được) tạo phản ứng cảm xúc tốt — khai thác nỗi sợ bị lộ, bị mất đồ.
+- Tránh hook lặp mô-típ "rơi 4m mà ốp vẫn cứu máy" — bị nhàm, trùng lặp, tương tác đáy; mỗi ốp lưng chỉ nên 1 góc độ mới.
+- Hook dạng câu hỏi tu từ sáo rỗng ("test rơi thật chưa?") kém hiệu quả — thay bằng khẳng định gây sốc hoặc tình huống cụ thể.
+- Mở đầu bằng tình huống người dùng tự nhận ra mình ("bàn làm việc của bạn", "mỗi sáng") kéo tương tác hơn mô tả tính năng sản phẩm.
+- Dùng 1 emoji đúng ngữ cảnh ở cuối; tránh hook thuần tính năng kỹ thuật (bàn phím mỏng, ốp nhựa bóng) vì tương tác thấp nhất.
