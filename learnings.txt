@@ -1,8 +1,8 @@
-- Hook mô tả vấn đề "lộn xộn/mất thời gian" thường ngày (balo bừa làm mất 5 phút mỗi sáng, bàn làm việc lởm chởm sạc) cho tương tác cao nhất — ưu tiên nỗi đau cụ thể, có con số.
-- Sản phẩm balo và sạc/hub đa cổng hút tương tác tốt nhất; khai thác tình huống thực tế (đi làm, công tác, bàn làm việc).
-- Thêm con số định lượng ("40L", "4-5 củ sạc", "mất 5 phút") làm hook mạnh hơn hẳn hook chung chung.
-- Hook chạm riêng tư/tâm lý (màn hình sáng người lạ đọc được) tạo phản ứng cảm xúc tốt — khai thác nỗi sợ bị lộ, bị mất đồ.
-- Tránh hook lặp mô-típ "rơi 4m mà ốp vẫn cứu máy" — bị nhàm, trùng lặp, tương tác đáy; mỗi ốp lưng chỉ nên 1 góc độ mới.
-- Hook dạng câu hỏi tu từ sáo rỗng ("test rơi thật chưa?") kém hiệu quả — thay bằng khẳng định gây sốc hoặc tình huống cụ thể.
-- Mở đầu bằng tình huống người dùng tự nhận ra mình ("bàn làm việc của bạn", "mỗi sáng") kéo tương tác hơn mô tả tính năng sản phẩm.
-- Dùng 1 emoji đúng ngữ cảnh ở cuối; tránh hook thuần tính năng kỹ thuật (bàn phím mỏng, ốp nhựa bóng) vì tương tác thấp nhất.
+- Score cao nhất (4-5) đều là hook nêu **nỗi đau cụ thể, dễ hình dung hàng ngày**: "lôi thôi mất 5 phút tìm đồ", "4-5 củ sạc lởm chởm", "màn hình sáng trưng ai cũng đọc được" → ưu tiên tình huống đời thường, số liệu cụ thể.
+- Hook thắng có **chi tiết đo đếm được** (5 phút, 4-5 củ, người lạ ngồi cạnh) tạo cảm giác thật, chạm đúng cảnh hay gặp → luôn nhét 1 con số hoặc tình huống xã hội cụ thể.
+- Toàn bộ dữ liệu **Shares=0, Comments gần như luôn=1** → tương tác hiện cực thấp, khác biệt chủ yếu đến từ Reactions; cần hook gây "gật đầu đồng cảm" để kéo react.
+- Hook dạng **nghi vấn gây sốc nhưng trừu tượng/khó tin** ("Rơi 4m ốp vẫn cứu máy", "ốp mỏng đỡ rơi 4 mét") cho score thấp (3) → tránh claim phóng đại khó tin, dễ bị nghi ngờ nên ít react.
+- Sản phẩm **ốp lưng và phụ kiện sạc bị lặp quá nhiều** với wording na ná → trùng ý gây nhàm, nên đa dạng góc tiếp cận thay vì lặp "chống sốc/rơi 4m".
+- Hook **chạm cảm xúc sợ mất mát** ("mất ví mất tài sản", "quên hộ chiếu ác mộng") chỉ đạt 3 → nỗi sợ chung chung kém hiệu quả hơn nỗi bực mình vặt vãnh hàng ngày.
+- Công thức nên dùng: **[Tình huống quen thuộc] + [con số/hậu quả cụ thể] + [câu hỏi khiến người đọc tự nhận ra mình]** để tối đa Reactions.
+- Tránh: claim quá đà, nỗi đau mơ hồ, wording trùng lặp giữa các reel cùng dòng sản phẩm.
