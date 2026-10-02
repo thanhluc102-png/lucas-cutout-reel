@@ -1,8 +1,8 @@
-- Score cao nhất (4-5) đều là hook nêu **nỗi đau cụ thể, dễ hình dung hàng ngày**: "lôi thôi mất 5 phút tìm đồ", "4-5 củ sạc lởm chởm", "màn hình sáng trưng ai cũng đọc được" → ưu tiên tình huống đời thường, số liệu cụ thể.
-- Hook thắng có **chi tiết đo đếm được** (5 phút, 4-5 củ, người lạ ngồi cạnh) tạo cảm giác thật, chạm đúng cảnh hay gặp → luôn nhét 1 con số hoặc tình huống xã hội cụ thể.
-- Toàn bộ dữ liệu **Shares=0, Comments gần như luôn=1** → tương tác hiện cực thấp, khác biệt chủ yếu đến từ Reactions; cần hook gây "gật đầu đồng cảm" để kéo react.
-- Hook dạng **nghi vấn gây sốc nhưng trừu tượng/khó tin** ("Rơi 4m ốp vẫn cứu máy", "ốp mỏng đỡ rơi 4 mét") cho score thấp (3) → tránh claim phóng đại khó tin, dễ bị nghi ngờ nên ít react.
-- Sản phẩm **ốp lưng và phụ kiện sạc bị lặp quá nhiều** với wording na ná → trùng ý gây nhàm, nên đa dạng góc tiếp cận thay vì lặp "chống sốc/rơi 4m".
-- Hook **chạm cảm xúc sợ mất mát** ("mất ví mất tài sản", "quên hộ chiếu ác mộng") chỉ đạt 3 → nỗi sợ chung chung kém hiệu quả hơn nỗi bực mình vặt vãnh hàng ngày.
-- Công thức nên dùng: **[Tình huống quen thuộc] + [con số/hậu quả cụ thể] + [câu hỏi khiến người đọc tự nhận ra mình]** để tối đa Reactions.
-- Tránh: claim quá đà, nỗi đau mơ hồ, wording trùng lặp giữa các reel cùng dòng sản phẩm.
+- Ưu tiên hook "nỗi đau đời thường cụ thể" (balo lộn xộn tốn 5 phút tìm đồ, bàn bừa bộn 4-5 củ sạc) — cho điểm cao nhất (Score 4-5).
+- Dùng con số/thời gian định lượng ("mất 5 phút mỗi sáng", "4-5 củ sạc") để tăng đồng cảm và tương tác.
+- Hook chạm tình huống xấu hổ/riêng tư nơi công cộng (màn hình lộ, người lạ đọc được) kéo thêm Reactions.
+- Sản phẩm balo tổ chức/gọn gàng và phụ kiện sạc đa cổng cho tỷ lệ tương tác tốt nhất — nên khai thác nhiều.
+- Tránh hook hỏi nghi vấn chung chung, sáo ("chống sốc đã test chưa?", "rơi 4m vẫn cứu máy?") — chỉ đạt Score 3, lặp ý nhàm.
+- Tránh lặp motif "rơi 4 mét", "ốp chống sốc", "đi công tác 2 túi" quá nhiều — khán giả đã bão hòa, tương tác đáy.
+- Mở bằng cảnh đau cụ thể + hệ quả cảm xúc ("lòng đau như cắt", "ác mộng") nhưng phải gắn tình huống thật, tránh kịch tính rỗng.
+- Toàn bộ chưa có Share nào — thêm yếu tố "mẹo đáng lưu/gửi cho bạn bè" vào cuối hook để kích Share (đòn bẩy điểm mạnh nhất).
