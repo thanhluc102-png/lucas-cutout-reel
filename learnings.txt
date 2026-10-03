@@ -1,8 +1,8 @@
-- Ưu tiên hook "nỗi đau đời thường cụ thể" (balo lộn xộn tốn 5 phút tìm đồ, bàn bừa bộn 4-5 củ sạc) — cho điểm cao nhất (Score 4-5).
-- Dùng con số/thời gian định lượng ("mất 5 phút mỗi sáng", "4-5 củ sạc") để tăng đồng cảm và tương tác.
-- Hook chạm tình huống xấu hổ/riêng tư nơi công cộng (màn hình lộ, người lạ đọc được) kéo thêm Reactions.
-- Sản phẩm balo tổ chức/gọn gàng và phụ kiện sạc đa cổng cho tỷ lệ tương tác tốt nhất — nên khai thác nhiều.
-- Tránh hook hỏi nghi vấn chung chung, sáo ("chống sốc đã test chưa?", "rơi 4m vẫn cứu máy?") — chỉ đạt Score 3, lặp ý nhàm.
-- Tránh lặp motif "rơi 4 mét", "ốp chống sốc", "đi công tác 2 túi" quá nhiều — khán giả đã bão hòa, tương tác đáy.
-- Mở bằng cảnh đau cụ thể + hệ quả cảm xúc ("lòng đau như cắt", "ác mộng") nhưng phải gắn tình huống thật, tránh kịch tính rỗng.
-- Toàn bộ chưa có Share nào — thêm yếu tố "mẹo đáng lưu/gửi cho bạn bè" vào cuối hook để kích Share (đòn bẩy điểm mạnh nhất).
+- Tập trung chủ đề **balo/túi** — nhóm cho tương tác cao nhất (Score 5, 4): hook nói về nỗi đau "mất thời gian tìm đồ", "laptop trầy xước".
+- Ưu tiên hook chạm **nỗi đau cụ thể, hậu quả rõ ràng** (mất 5 phút mỗi sáng, laptop cấn trầy, màn hình ai cũng đọc được) thay vì câu hỏi chung chung.
+- Dùng **con số/kịch bản đời thường** (5 phút, 2 túi, 4-5 củ sạc, rơi 4m) giúp tăng reaction.
+- Hook gợi **cảm giác xấu hổ/riêng tư** ("ngồi cạnh người lạ màn hình sáng trưng") kéo reaction tốt hơn trung bình.
+- Tránh hook dạng **câu hỏi kỹ thuật khô** ("thiếu cổng?", "test rơi chưa?", "bàn phím dày cộp?") — chỉ đạt sàn Score 3.
+- Tránh nhóm **sạc/cáp/ốp/dán màn** — tương tác thấp đều, nên hạ tần suất hoặc đổi góc tiếp cận cảm xúc.
+- Mở hook bằng **tình huống thiệt hại tiền bạc/tài sản** ("mất ví là mất tài sản", "tự hại máy") để tăng độ giật.
+- Luôn kết thúc bằng **dấu hỏi/emoji cảm xúc mạnh** (😳😤😵) nhưng gắn với tổn thất thật, không hỏi suông.
