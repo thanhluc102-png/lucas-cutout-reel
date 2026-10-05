@@ -1,8 +1,8 @@
-- Hook nêu nỗi đau cụ thể, hình ảnh hóa ("mất 5 phút mỗi sáng tìm đồ", "laptop cấn trầy xước lòng đau như cắt") cho điểm cao nhất → ưu tiên tình huống đời thường, có hậu quả rõ.
-- Chủ đề balo/túi và ốp lưng chống sốc cho tương tác ổn định nhất → tập trung khai thác hai dòng này.
-- Mở bằng câu hỏi "khịa" thẳng vào thói quen bất tiện (ngồi cạnh người lạ màn hình sáng, bàn lởm chởm 4-5 củ sạc) giữ người đọc tốt hơn hook chung chung.
-- Thêm emoji cảm xúc (😳😤😵) đúng ngữ cảnh giúp tăng nhẹ reactions, nhưng không thay được nội dung mạnh.
-- Tránh hook mơ hồ/khoe tính năng khô khan ("Balo cứ là balo sao phải chọn kỹ", "Mac Mini thiếu cổng") → điểm thấp vì thiếu nỗi đau đồng cảm.
-- Tránh hook kỹ thuật kén người ("Rơi 4m mà ốp vẫn cứu được máy", "bàn phím cơ dày cộp") → ít chạm cảm xúc số đông.
-- Toàn bộ video gần như 0 share → cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, con số sốc, hoặc tình huống ai cũng gặp để kích share.
-- Công thức nên theo: [Nỗi đau cụ thể + hậu quả cảm xúc] → đặt dạng câu hỏi, càng đời thường càng tốt.
+- Hook nêu PAIN cụ thể, chạm nỗi đau vật lý hằng ngày cho điểm cao nhất (balo tìm đồ mất 5 phút, laptop cấn trầy, bàn bừa 4-5 củ sạc) → ưu tiên tình huống bực bội lặp lại mỗi ngày.
+- Sản phẩm balo/túi và phụ kiện bàn làm việc (sạc, tổ chức dây) kéo tương tác tốt nhất; đẩy mạnh nhóm này.
+- Mở bằng câu hỏi "khịa" trực diện vào thói quen xấu của người dùng (Balo lôi thôi...? Bàn lởm chởm...?) hiệu quả hơn hook kịch tính/sợ hãi chung chung.
+- Tránh hook hù dọa trừu tượng (quên hộ chiếu, mất ví, rơi 4m) — gây sốc nhưng không ai thấy mình trong đó, tương tác đáy.
+- Tránh hook mang tính "giáo huấn/triết lý" (trả tiền để nhìn xấu hơn, laptop đáng được bảo vệ tử tế) — nghe quảng cáo, kém chạm.
+- Hook nhóm ốp lưng/cường lực/bàn phím đang yếu đều — nếu viết phải gắn con số + tình huống thật, bỏ kiểu "test rơi thật chưa?".
+- Chèn chi tiết định lượng đời thường (5 phút mỗi sáng, 16 inch, 2-3 ngày công tác, 4-5 củ sạc) để tăng độ thật và đồng cảm.
+- Giữ 1 câu, 1 nỗi đau, 1 emoji đúng ngữ cảnh; đừng nhồi 2 ý vào một hook.
