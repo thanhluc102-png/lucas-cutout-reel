@@ -1,8 +1,8 @@
-- Hook cho score cao nhất đều nói về **nỗi đau cụ thể, hằng ngày, có con số** (Score 5: "mất 5 phút mỗi sáng tìm đồ"; Score 4: "lởm chởm 4-5 củ sạc", "laptop cấn balo trầy xước", "màn hình sáng trưng ai cũng đọc được") → ưu tiên tình huống đời thường + con số/hình ảnh thiệt hại rõ.
-- Hook khơi gợi **mất mát/xấu hổ gắn tiền bạc & cảm xúc** ("trả tiền để nhìn xấu hơn", "lòng đau như cắt", "ngồi cạnh người lạ") kéo tương tác tốt hơn hook kỹ thuật khô khan.
-- Sản phẩm **balo/túi/tổ chức đồ** và **phụ kiện sạc gọn gàng** cho tương tác nhỉnh nhất → nên đẩy mạnh nhóm này.
-- Hook dạng **câu hỏi "test rơi thật chưa?", "rơi 4m vẫn cứu?"** chỉ đạt score đáy (3) → tránh hook thách đố/kiểm chứng chung chung, thiếu nỗi đau cá nhân.
-- Hook **quá chuyên môn/ngách hẹp** ("Mac Mini thiếu cổng", "bàn phím cơ dày cộp", "dán kính nhạy kém") tương tác thấp → hạn chế, hoặc gắn thêm cảm xúc/tình huống gần gũi hơn.
-- Công thức thắng: **[Tình huống quen] + [con số/thiệt hại cụ thể] + [cảm xúc tiếc nuối/xấu hổ]** → viết theo mẫu này.
-- Toàn bộ mẫu **0 share, comment chỉ 1** → thêm CTA kích share/bình luận (hỏi "bạn bị chưa?", "tag đứa hay quên đồ") để phá trần tương tác.
-- Tránh hook **trung tính, chỉ liệt kê tính năng** không chạm nỗi đau; luôn mở đầu bằng vấn đề người xem đang chịu đựng.
+- Hook nêu nỗi đau cụ thể, hình ảnh hóa ("mất 5 phút mỗi sáng tìm đồ", "laptop cấn trầy xước lòng đau như cắt") cho điểm cao nhất → ưu tiên tình huống đời thường, có hậu quả rõ.
+- Chủ đề balo/túi và ốp lưng chống sốc cho tương tác ổn định nhất → tập trung khai thác hai dòng này.
+- Mở bằng câu hỏi "khịa" thẳng vào thói quen bất tiện (ngồi cạnh người lạ màn hình sáng, bàn lởm chởm 4-5 củ sạc) giữ người đọc tốt hơn hook chung chung.
+- Thêm emoji cảm xúc (😳😤😵) đúng ngữ cảnh giúp tăng nhẹ reactions, nhưng không thay được nội dung mạnh.
+- Tránh hook mơ hồ/khoe tính năng khô khan ("Balo cứ là balo sao phải chọn kỹ", "Mac Mini thiếu cổng") → điểm thấp vì thiếu nỗi đau đồng cảm.
+- Tránh hook kỹ thuật kén người ("Rơi 4m mà ốp vẫn cứu được máy", "bàn phím cơ dày cộp") → ít chạm cảm xúc số đông.
+- Toàn bộ video gần như 0 share → cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, con số sốc, hoặc tình huống ai cũng gặp để kích share.
+- Công thức nên theo: [Nỗi đau cụ thể + hậu quả cảm xúc] → đặt dạng câu hỏi, càng đời thường càng tốt.
