@@ -1,8 +1,8 @@
-- Hook mạnh nhất là mô tả cảnh "đau" cụ thể về laptop/balo ("lắc lư mỗi lần di chuyển", "cấn balo trầy xước") — chạm nỗi sợ hỏng tài sản đắt tiền, cho Score cao nhất (7, 4).
-- Ưu tiên nhóm sản phẩm balo + phụ kiện laptop: đây là chủ đề duy nhất kéo được Reactions thật, còn sạc/cáp/ốp/dán màn chỉ lẹt đẹt ở Comments=1.
-- Thêm con số/chi tiết cụ thể ("mất 5 phút mỗi sáng", "laptop 16 inch", "công suất yếu") giúp hook đáng tin và nhích tương tác hơn hook chung chung.
-- Dùng công thức "cảnh khó chịu hằng ngày + câu hỏi tu từ + emoji bực/sốc (😤😳😵)" — đây là khung cho hầu hết hook Score ≥4.
-- Tránh hook kiểu tuyên bố lửng hoặc phản biện trừu tượng ("trả tiền để nhìn xấu hơn", "balo cứ là balo sao phải chọn kỹ") — nghe thông minh nhưng tương tác đáy.
-- Tránh chủ đề sạc/cáp/pin dự phòng làm hook chính: lặp lại nhiều lần nhưng không video nào vượt Score 4, gây loãng.
-- Chưa reel nào có Share — cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, so sánh trước/sau, hoặc kết quả bất ngờ có thật ("Rơi 4m mà máy vẫn sống").
-- Viết ngắn, đưa nỗi đau lên ngay 6-8 chữ đầu, nhắm đối tượng dân văn phòng/đi làm/công tác mang laptop.
+- Hook nêu nỗi đau cụ thể, định lượng được ("mất 5 phút mỗi sáng", "lắc lư mỗi lần di chuyển") cho điểm cao nhất — luôn gắn con số/tình huống thật.
+- Sản phẩm balo laptop là chủ lực tương tác tốt nhất; ưu tiên khai thác góc bảo vệ laptop khỏi trầy, cấn, lắc.
+- Mở hook bằng câu hỏi tu từ hoặc tình huống bực bội ("rối tung?", "trầy xước?") tạo Reactions tốt hơn hook chỉ nêu sự thật phẳng.
+- Thêm cảm xúc mạnh + emoji phù hợp ("lòng đau như cắt 😤", "😳") giúp tăng tương tác so với hook trung tính.
+- Tránh hook trừu tượng/hiển nhiên kiểu "Balo cứ là balo, sao phải chọn kỹ?" — mơ hồ, không chạm pain point, điểm thấp.
+- Tránh hook về sạc/cáp/dán cường lực viết chung chung — nhóm này tương tác kém, cần góc độc đáo hoặc bỏ.
+- Không có share nào đạt được: nên thêm yếu tố "đáng chia sẻ" như mẹo hữu ích, so sánh gây sốc, hoặc giá trị bất ngờ.
+- Công thức thắng: [Nỗi đau định lượng] + [Tình huống đời thực] + [Cảm xúc + emoji] → ưu tiên sản phẩm balo/ốp chống sốc.
