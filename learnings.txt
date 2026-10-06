@@ -1,15 +1,8 @@
-- **Dữ liệu còn yếu để kết luận mạnh:** Toàn bộ 20 hook đều Share=0, Comments≈1 (do seeding), nên khác biệt chỉ nằm ở Reactions 0–2 → tín hiệu nhỏ, cần đọc theo xu hướng chứ không tuyệt đối.
-
-- **Hook thắng nhẹ (Score 4–5): chạm nỗi đau cụ thể + có con số/thời gian/tình huống đời thường.** Ví dụ "mất 5 phút mỗi sáng", "lởm chởm 4-5 củ sạc", "laptop cấn balo trầy xước", "sạc công suất yếu mang theo làm gì" → dùng chi tiết định lượng và cảm xúc tiếc nuối.
-
-- **Ưu tiên nhóm sản phẩm đang nhỉnh hơn:** balo đựng laptop (nỗi đau tìm đồ/trầy máy), sạc & quản lý dây/củ sạc, ốp chống sốc gắn với tình huống trầy xước — đây là các hook kéo được Reactions>0.
-
-- **Tránh hook kiểu câu hỏi khoe tính năng "ảo diệu":** "Rơi 4m mà ốp vẫn cứu máy?", "Balo đi làm xách công tác vẫn gọn?" → nghe như quảng cáo, 0 reaction. Thay bằng nỗi đau người dùng tự thấy mình trong đó.
-
-- **Tránh hook chủ đề dán màn hình/cường lực:** 4–5 biến thể đều Score=3, 0 reaction → nỗi đau này ít gây đồng cảm hoặc đã bão hòa, hạ ưu tiên.
-
-- **Công thức viết nên theo:** [Tình huống đời thường cụ thể] + [hậu quả/mất mát có con số] + [emoji cảm xúc bực/tiếc] — ngắn, nói trúng cái người xem đang chịu đựng hằng ngày.
-
-- **Ưu tiên câu khẳng định nỗi đau hơn câu hỏi tu từ:** các hook mô tả thẳng vấn đề ("làm bạn mất 5 phút", "trầy xước lòng đau như cắt") nhỉnh hơn câu hỏi chung chung.
-
-- **Việc cần làm tiếp:** chủ động kêu gọi Share/Comment trong hook (vd "tag đứa hay làm trầy máy") vì Share=0 toàn bộ đang kéo tụt Score — đây mới là đòn bẩy điểm lớn nhất.
+- Hook mạnh nhất là mô tả cảnh "đau" cụ thể về laptop/balo ("lắc lư mỗi lần di chuyển", "cấn balo trầy xước") — chạm nỗi sợ hỏng tài sản đắt tiền, cho Score cao nhất (7, 4).
+- Ưu tiên nhóm sản phẩm balo + phụ kiện laptop: đây là chủ đề duy nhất kéo được Reactions thật, còn sạc/cáp/ốp/dán màn chỉ lẹt đẹt ở Comments=1.
+- Thêm con số/chi tiết cụ thể ("mất 5 phút mỗi sáng", "laptop 16 inch", "công suất yếu") giúp hook đáng tin và nhích tương tác hơn hook chung chung.
+- Dùng công thức "cảnh khó chịu hằng ngày + câu hỏi tu từ + emoji bực/sốc (😤😳😵)" — đây là khung cho hầu hết hook Score ≥4.
+- Tránh hook kiểu tuyên bố lửng hoặc phản biện trừu tượng ("trả tiền để nhìn xấu hơn", "balo cứ là balo sao phải chọn kỹ") — nghe thông minh nhưng tương tác đáy.
+- Tránh chủ đề sạc/cáp/pin dự phòng làm hook chính: lặp lại nhiều lần nhưng không video nào vượt Score 4, gây loãng.
+- Chưa reel nào có Share — cần thêm yếu tố "đáng chia sẻ": mẹo hữu ích, so sánh trước/sau, hoặc kết quả bất ngờ có thật ("Rơi 4m mà máy vẫn sống").
+- Viết ngắn, đưa nỗi đau lên ngay 6-8 chữ đầu, nhắm đối tượng dân văn phòng/đi làm/công tác mang laptop.
