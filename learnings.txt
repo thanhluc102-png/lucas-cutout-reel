@@ -1,8 +1,15 @@
-- Hook nêu "nỗi đau cụ thể, đời thường" (tìm đồ mất 5 phút mỗi sáng, laptop cấn trầy, bàn bừa 4-5 củ sạc) cho Score cao nhất — ưu tiên mô tả tình huống bực bội quen thuộc.
-- Nhóm sản phẩm Balo và phụ kiện sắp xếp/gọn gàng kéo tương tác tốt hơn nhóm ốp lưng và dán màn hình.
-- Tránh hook kiểu "con số gây sốc đơn thuần" (rơi 4m, rơi thật chưa) — nghe quảng cáo, Score thấp.
-- Tránh hook về dán cường lực/miếng dán — toàn bộ đều Score=3, chủ đề kém hút.
-- Dùng công thức "hành động quen + hậu quả bực mình" (gõ mỏi tay, trễ mỗi sáng) thay vì câu hỏi trừu tượng khoe tính năng.
-- Chèn cảm xúc đồng cảm mạnh ("lòng đau như cắt") giúp nhích Reactions, nên thêm 1 chi tiết cảm xúc cá nhân.
-- Shares luôn =0: thêm yếu tố "mẹo hữu ích/đáng tag bạn bè" để kích chia sẻ — đòn bẩy điểm lớn nhất đang bỏ trống.
-- Giữ hook ngắn 1 câu, emoji cuối, nhắm đúng tệp dân văn phòng/hay di chuyển vì họ phản hồi nhiều nhất.
+- **Dữ liệu còn yếu để kết luận mạnh:** Toàn bộ 20 hook đều Share=0, Comments≈1 (do seeding), nên khác biệt chỉ nằm ở Reactions 0–2 → tín hiệu nhỏ, cần đọc theo xu hướng chứ không tuyệt đối.
+
+- **Hook thắng nhẹ (Score 4–5): chạm nỗi đau cụ thể + có con số/thời gian/tình huống đời thường.** Ví dụ "mất 5 phút mỗi sáng", "lởm chởm 4-5 củ sạc", "laptop cấn balo trầy xước", "sạc công suất yếu mang theo làm gì" → dùng chi tiết định lượng và cảm xúc tiếc nuối.
+
+- **Ưu tiên nhóm sản phẩm đang nhỉnh hơn:** balo đựng laptop (nỗi đau tìm đồ/trầy máy), sạc & quản lý dây/củ sạc, ốp chống sốc gắn với tình huống trầy xước — đây là các hook kéo được Reactions>0.
+
+- **Tránh hook kiểu câu hỏi khoe tính năng "ảo diệu":** "Rơi 4m mà ốp vẫn cứu máy?", "Balo đi làm xách công tác vẫn gọn?" → nghe như quảng cáo, 0 reaction. Thay bằng nỗi đau người dùng tự thấy mình trong đó.
+
+- **Tránh hook chủ đề dán màn hình/cường lực:** 4–5 biến thể đều Score=3, 0 reaction → nỗi đau này ít gây đồng cảm hoặc đã bão hòa, hạ ưu tiên.
+
+- **Công thức viết nên theo:** [Tình huống đời thường cụ thể] + [hậu quả/mất mát có con số] + [emoji cảm xúc bực/tiếc] — ngắn, nói trúng cái người xem đang chịu đựng hằng ngày.
+
+- **Ưu tiên câu khẳng định nỗi đau hơn câu hỏi tu từ:** các hook mô tả thẳng vấn đề ("làm bạn mất 5 phút", "trầy xước lòng đau như cắt") nhỉnh hơn câu hỏi chung chung.
+
+- **Việc cần làm tiếp:** chủ động kêu gọi Share/Comment trong hook (vd "tag đứa hay làm trầy máy") vì Share=0 toàn bộ đang kéo tụt Score — đây mới là đòn bẩy điểm lớn nhất.
