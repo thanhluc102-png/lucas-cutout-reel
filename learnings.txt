@@ -1,15 +1,8 @@
-- Tất cả hook đều đạt tối thiểu 1 comment nhưng 0 share: nội dung gây tò mò đủ để bình luận, chưa đủ giá trị/cảm xúc để chia sẻ — cần thêm yếu tố "đáng khoe/đáng lưu".
-
-- Hook điểm cao nhất (Score=7: "Balo mỏng manh làm laptop lắc lư") kết hợp **nỗi đau cụ thể + tài sản giá trị (laptop)** → nhân đôi comment. Ưu tiên công thức: nỗi sợ hỏng đồ đắt tiền.
-
-- Sản phẩm **balo bảo vệ laptop** cho tương tác ổn định cao nhất (Score 4-7); nhấn chi tiết "trầy xước, lắc lư, 16 inch, cấn" đánh trúng tâm lý xót của.
-
-- Hook chạm **cảm xúc mạnh + hình ảnh đau lòng** ("lòng đau như cắt", "trả tiền để nhìn xấu hơn") kéo thêm reaction so với hook mô tả khô khan.
-
-- Hook có **con số cụ thể** ("5 phút mỗi sáng", "4-5 củ sạc", "16 inch", "công suất") nhỉnh hơn hook chung chung → luôn chèn số liệu/định lượng.
-
-- Tránh hook kiểu **câu hỏi hiển nhiên, nhẹ đô** ("Balo cứ là balo sao phải chọn?", "Xách balo nhìn như sinh viên?") → chỉ đạt sàn Score=3, thiếu nỗi đau sắc bén.
-
-- Sản phẩm **dán màn hình/cường lực** đồng loạt Score=3, nỗi đau "mờ, vân tay" bị lặp nhàm → cần góc mới hoặc giảm tần suất.
-
-- Công thức đề xuất: **[Nỗi đau cụ thể + món đồ giá trị] + [con số] + [cảm xúc xót/bực] + gợi ý giải pháp bất ng�� ("Có đấy", "Dẹp đi")** để tối đa comment và kích share.
+- Hook thắng nhất (Score 7): nêu **nỗi đau cụ thể + hình ảnh động** ("laptop lắc lư mỗi lần di chuyển") — ưu tiên mô tả hậu quả sống động, không chung chung.
+- Nhóm balo bảo vệ laptop cho tương tác tốt nhất (Score 7, 4) → đẩy mạnh chủ đề này, nhấn vào cảm xúc "xót của" (trầy xước, lắc lư).
+- Hook có yếu tố cảm xúc mạnh/hài ("lòng đau như cắt", "Dẹp đi", "Có đấy 🐰") kéo thêm reaction so với hook hỏi suông.
+- Thêm **gợi mở giải pháp ngay trong hook** ("mà vẫn bảo vệ 360°? Có đấy") giúp nhích reaction, tốt hơn chỉ hỏi vấn đề.
+- Tránh hook thuần than vãn chung chung về sạc/cáp/dán cường lực — nhóm này đa số chỉ Score 3, bão hòa và nhàm.
+- Tránh so sánh địa vị mơ hồ ("nhìn như sinh viên") — không chạm đau rõ, tương tác thấp.
+- Công thức nên dùng: **[Tình huống đời thường] + [hậu quả cụ thể, động từ mạnh] + [emoji cảm xúc] + [nhá giải pháp]**.
+- Chèn chi tiết định lượng/cụ thể ("16 inch", "4-5 củ sạc", "360°") để tăng độ tin, nhưng phải đi kèm nỗi đau rõ mới ăn.
