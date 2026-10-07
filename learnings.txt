@@ -1,8 +1,15 @@
-- Hook nêu nỗi đau cụ thể, định lượng được ("mất 5 phút mỗi sáng", "lắc lư mỗi lần di chuyển") cho điểm cao nhất — luôn gắn con số/tình huống thật.
-- Sản phẩm balo laptop là chủ lực tương tác tốt nhất; ưu tiên khai thác góc bảo vệ laptop khỏi trầy, cấn, lắc.
-- Mở hook bằng câu hỏi tu từ hoặc tình huống bực bội ("rối tung?", "trầy xước?") tạo Reactions tốt hơn hook chỉ nêu sự thật phẳng.
-- Thêm cảm xúc mạnh + emoji phù hợp ("lòng đau như cắt 😤", "😳") giúp tăng tương tác so với hook trung tính.
-- Tránh hook trừu tượng/hiển nhiên kiểu "Balo cứ là balo, sao phải chọn kỹ?" — mơ hồ, không chạm pain point, điểm thấp.
-- Tránh hook về sạc/cáp/dán cường lực viết chung chung — nhóm này tương tác kém, cần góc độc đáo hoặc bỏ.
-- Không có share nào đạt được: nên thêm yếu tố "đáng chia sẻ" như mẹo hữu ích, so sánh gây sốc, hoặc giá trị bất ngờ.
-- Công thức thắng: [Nỗi đau định lượng] + [Tình huống đời thực] + [Cảm xúc + emoji] → ưu tiên sản phẩm balo/ốp chống sốc.
+- **Hook thắng cao nhất là "mô tả nỗi đau cụ thể + hình ảnh hóa chuyển động/tình huống"**: "Balo mỏng manh làm laptop lắc lư mỗi lần di chuyển?" (Score 7) — tả đúng khoảnh khắc bực mình quen thuộc.
+
+- **Ưu tiên nhóm sản phẩm balo và túi laptop**: gần như mọi hook balo đều đạt Score ≥4-7, là chủ đề dễ kéo tương tác nhất; nên viết nhiều reel cho nhóm này.
+
+- **Mở bằng câu hỏi "nhói lòng" + emoji cảm xúc (😤😮‍💨)** cho kết quả ổn định hơn câu khẳng định hoặc câu hỏi trừu tượng.
+
+- **Chèn con số/chi tiết đời thực** ("mất 5 phút mỗi sáng", "laptop 16 inch", "sạc dự phòng yếu công suất") giúp nâng tương tác; hook mơ hồ không số liệu thường chỉ đạt Score 3.
+
+- **Tránh hook sáo rỗng, tự hỏi vu vơ** kiểu "Balo cứ là balo, sao phải chọn kỹ?" hoặc "Rơi 4m mà ốp vẫn cứu được máy?" — gây tò mò nhưng không chạm nỗi đau nên tương tác đáy (Score 3).
+
+- **Kém nhất là nhóm sạc/cáp/củ sạc viết chung chung** ("Mang 2 cục mà vẫn thiếu?", "3 cục sạc cho 4 thiết bị?") — đều Score 3, cần gắn nỗi đau sắc hơn hoặc lợi ích rõ hơn.
+
+- **Thêm vế "giải pháp bất ngờ" sau nỗi đau** ("Ốp dễ thương mà vẫn bảo vệ 360°? Có đấy 🐰") giúp nhỉnh hơn hook chỉ than vãn.
+
+- **Toàn bộ reel đều 0 share**: cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, so sánh gây sốc, giá hời) để phá trần Score, vì share nặng điểm nhất.
