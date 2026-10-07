@@ -1,15 +1,15 @@
-- **Hook thắng cao nhất là "mô tả nỗi đau cụ thể + hình ảnh hóa chuyển động/tình huống"**: "Balo mỏng manh làm laptop lắc lư mỗi lần di chuyển?" (Score 7) — tả đúng khoảnh khắc bực mình quen thuộc.
+- Tất cả hook đều đạt tối thiểu 1 comment nhưng 0 share: nội dung gây tò mò đủ để bình luận, chưa đủ giá trị/cảm xúc để chia sẻ — cần thêm yếu tố "đáng khoe/đáng lưu".
 
-- **Ưu tiên nhóm sản phẩm balo và túi laptop**: gần như mọi hook balo đều đạt Score ≥4-7, là chủ đề dễ kéo tương tác nhất; nên viết nhiều reel cho nhóm này.
+- Hook điểm cao nhất (Score=7: "Balo mỏng manh làm laptop lắc lư") kết hợp **nỗi đau cụ thể + tài sản giá trị (laptop)** → nhân đôi comment. Ưu tiên công thức: nỗi sợ hỏng đồ đắt tiền.
 
-- **Mở bằng câu hỏi "nhói lòng" + emoji cảm xúc (😤😮‍💨)** cho kết quả ổn định hơn câu khẳng định hoặc câu hỏi trừu tượng.
+- Sản phẩm **balo bảo vệ laptop** cho tương tác ổn định cao nhất (Score 4-7); nhấn chi tiết "trầy xước, lắc lư, 16 inch, cấn" đánh trúng tâm lý xót của.
 
-- **Chèn con số/chi tiết đời thực** ("mất 5 phút mỗi sáng", "laptop 16 inch", "sạc dự phòng yếu công suất") giúp nâng tương tác; hook mơ hồ không số liệu thường chỉ đạt Score 3.
+- Hook chạm **cảm xúc mạnh + hình ảnh đau lòng** ("lòng đau như cắt", "trả tiền để nhìn xấu hơn") kéo thêm reaction so với hook mô tả khô khan.
 
-- **Tránh hook sáo rỗng, tự hỏi vu vơ** kiểu "Balo cứ là balo, sao phải chọn kỹ?" hoặc "Rơi 4m mà ốp vẫn cứu được máy?" — gây tò mò nhưng không chạm nỗi đau nên tương tác đáy (Score 3).
+- Hook có **con số cụ thể** ("5 phút mỗi sáng", "4-5 củ sạc", "16 inch", "công suất") nhỉnh hơn hook chung chung → luôn chèn số liệu/định lượng.
 
-- **Kém nhất là nhóm sạc/cáp/củ sạc viết chung chung** ("Mang 2 cục mà vẫn thiếu?", "3 cục sạc cho 4 thiết bị?") — đều Score 3, cần gắn nỗi đau sắc hơn hoặc lợi ích rõ hơn.
+- Tránh hook kiểu **câu hỏi hiển nhiên, nhẹ đô** ("Balo cứ là balo sao phải chọn?", "Xách balo nhìn như sinh viên?") → chỉ đạt sàn Score=3, thiếu nỗi đau sắc bén.
 
-- **Thêm vế "giải pháp bất ngờ" sau nỗi đau** ("Ốp dễ thương mà vẫn bảo vệ 360°? Có đấy 🐰") giúp nhỉnh hơn hook chỉ than vãn.
+- Sản phẩm **dán màn hình/cường lực** đồng loạt Score=3, nỗi đau "mờ, vân tay" bị lặp nhàm → cần góc mới hoặc giảm tần suất.
 
-- **Toàn bộ reel đều 0 share**: cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, so sánh gây sốc, giá hời) để phá trần Score, vì share nặng điểm nhất.
+- Công thức đề xuất: **[Nỗi đau cụ thể + món đồ giá trị] + [con số] + [cảm xúc xót/bực] + gợi ý giải pháp bất ng�� ("Có đấy", "Dẹp đi")** để tối đa comment và kích share.
