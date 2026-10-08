@@ -1,8 +1,8 @@
-- Hook mạnh nhất: mô tả nỗi đau cụ thể kèm con số/tình huống thật (VD "balo 5 triệu mà laptop sát đáy", "laptop 16 inch", "3 cục sạc cho 4 thiết bị") — score cao nhất rơi vào nhóm balo + laptop bảo vệ.
-- Sản phẩm balo/túi chống sốc laptop cho tương tác tốt nhất (nhiều hook đạt score 4-7), nên ưu tiên khai thác.
-- Công thức ăn khách: "vấn đề quen thuộc + đặt câu hỏi + chạm cảm xúc tiếc tiền/xấu hổ" (VD "nhìn như sinh viên", "lòng đau như cắt").
-- Nên thêm icon cảm xúc tiêu cực (😤😮‍💨) để khơi đồng cảm, kết hợp gợi mở giải pháp ("Có đấy 🐰").
-- Hook quá chung chung, hiển nhiên ("Balo cứ là balo, sao phải chọn kỹ?", "Đi công tác mà lôi 2 túi?") cho score thấp nhất — nên tránh câu mở mơ hồ.
-- Nhóm hook dán cường lực/màn hình đều đều ở mức score 3, bão hòa và nhàm — cần góc lạ hơn hoặc giảm tần suất.
-- Tỷ lệ Shares = 0 toàn bộ: hook hiện chỉ gây tò mò, chưa tạo giá trị "đáng chia sẻ" — nên thêm yếu tố mẹo hữu ích/so sánh gây sốc để kích share.
-- Viết ngắn, cụ thể, có số liệu và tình huống đời thực; tránh câu hỏi tu từ sáo rỗng.
+- Hook thắng: nêu nỗi đau cụ thể + con số/chi tiết thật (laptop lắc lư, balo 5 triệu, laptop 16 inch) → Score cao nhất (7); luôn vẽ ra tình huống người đọc đang gặp.
+- Sản phẩm mạnh nhất: balo laptop và sạc dự phòng — nhắm dân đi làm/đi công tác, dễ chạm pain point tiền bạc + bảo vệ đồ đắt tiền.
+- Luôn dùng câu hỏi "đay nghiến" gợi bực bội (dày cui? mờ? xước? yếu?) kèm emoji cảm xúc 😤😮‍💨 để kéo comment.
+- Thêm yếu tố "mất tiền oan/sĩ diện" (trả tiền nhìn xấu hơn, nhìn như sinh viên, balo 5 triệu vẫn xước) → tăng đồng cảm, tăng reaction.
+- Tránh hook chung chung, hiển nhiên ("Balo cứ là balo, sao phải chọn kỹ?", "Ốp ngả vàng") — mô tả vấn đề nhàm, không tạo cú twist, Score đáy (3).
+- Nên chèn giải pháp bất ngờ ngay trong hook ("Có đấy 🐰", "vẫn bảo vệ 360°?") để gợi tò mò thay vì chỉ than phiền.
+- Ưu tiên pain point "to tiền + tần suất cao" (bảo vệ laptop, thiếu pin khi cần) hơn pain point nhỏ lẻ (vân tay, ố vàng) vốn ít kéo tương tác.
+- Giữ hook 1 dòng, 1 nỗi đau sắc, cuối bằng dấu hỏi hoặc "Dẹp đi/Có đấy" để kích phản hồi.
