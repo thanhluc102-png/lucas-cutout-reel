@@ -1,8 +1,8 @@
-- Hook thắng nhất (Score 7): nêu **nỗi đau cụ thể + hình ảnh động** ("laptop lắc lư mỗi lần di chuyển") — ưu tiên mô tả hậu quả sống động, không chung chung.
-- Nhóm balo bảo vệ laptop cho tương tác tốt nhất (Score 7, 4) → đẩy mạnh chủ đề này, nhấn vào cảm xúc "xót của" (trầy xước, lắc lư).
-- Hook có yếu tố cảm xúc mạnh/hài ("lòng đau như cắt", "Dẹp đi", "Có đấy 🐰") kéo thêm reaction so với hook hỏi suông.
-- Thêm **gợi mở giải pháp ngay trong hook** ("mà vẫn bảo vệ 360°? Có đấy") giúp nhích reaction, tốt hơn chỉ hỏi vấn đề.
-- Tránh hook thuần than vãn chung chung về sạc/cáp/dán cường lực — nhóm này đa số chỉ Score 3, bão hòa và nhàm.
-- Tránh so sánh địa vị mơ hồ ("nhìn như sinh viên") — không chạm đau rõ, tương tác thấp.
-- Công thức nên dùng: **[Tình huống đời thường] + [hậu quả cụ thể, động từ mạnh] + [emoji cảm xúc] + [nhá giải pháp]**.
-- Chèn chi tiết định lượng/cụ thể ("16 inch", "4-5 củ sạc", "360°") để tăng độ tin, nhưng phải đi kèm nỗi đau rõ mới ăn.
+- Hook "chạm nỗi đau cụ thể + có mức giá gây sốc" (vd: "Balo 5 triệu mà laptop vẫn nằm sát đáy", "Balo mỏng manh làm laptop lắc lư") cho tương tác cao nhất — ưu tiên kiểu này.
+- Sản phẩm balo laptop và sạc dự phòng kéo tương tác tốt nhất; đẩy mạnh 2 nhóm này.
+- Nêu con số/định lượng cụ thể ("16 inch", "công suất yếu", "còn bao nhiêu pin") giúp tăng điểm hơn hook chung chung.
+- Dùng câu hỏi khơi đúng tình huống bực mình thường ngày (va đập, trầy xước, đoán mò pin) thay vì mô tả đặc điểm sản phẩm.
+- Tránh hook mô tả lỗi kỹ thuật nhỏ lẻ (dán cường lực mờ, miếng dán dày, màn hình lóa) — tương tác thấp đều (Score=3).
+- Tránh hook quá trừu tượng/hiển nhiên ("Balo cứ là balo, sao phải chọn kỹ?", "Cáp tai nghe rối tung") — không tạo cảm xúc đủ mạnh.
+- Thêm phản đề bất ngờ hoặc lời khẳng định dứt khoát ("Dẹp đi", "Có đấy") để tăng cảm xúc và bình luận.
+- Mọi hook nên có emoji cảm xúc (😤🎒⚡) nhưng chốt bằng nỗi đau tài chính/thiệt hại để kích share.
