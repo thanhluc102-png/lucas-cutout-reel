@@ -1,8 +1,8 @@
-- Hook "chạm nỗi đau cụ thể + có mức giá gây sốc" (vd: "Balo 5 triệu mà laptop vẫn nằm sát đáy", "Balo mỏng manh làm laptop lắc lư") cho tương tác cao nhất — ưu tiên kiểu này.
-- Sản phẩm balo laptop và sạc dự phòng kéo tương tác tốt nhất; đẩy mạnh 2 nhóm này.
-- Nêu con số/định lượng cụ thể ("16 inch", "công suất yếu", "còn bao nhiêu pin") giúp tăng điểm hơn hook chung chung.
-- Dùng câu hỏi khơi đúng tình huống bực mình thường ngày (va đập, trầy xước, đoán mò pin) thay vì mô tả đặc điểm sản phẩm.
-- Tránh hook mô tả lỗi kỹ thuật nhỏ lẻ (dán cường lực mờ, miếng dán dày, màn hình lóa) — tương tác thấp đều (Score=3).
-- Tránh hook quá trừu tượng/hiển nhiên ("Balo cứ là balo, sao phải chọn kỹ?", "Cáp tai nghe rối tung") — không tạo cảm xúc đủ mạnh.
-- Thêm phản đề bất ngờ hoặc lời khẳng định dứt khoát ("Dẹp đi", "Có đấy") để tăng cảm xúc và bình luận.
-- Mọi hook nên có emoji cảm xúc (😤🎒⚡) nhưng chốt bằng nỗi đau tài chính/thiệt hại để kích share.
+- Hook mạnh nhất: mô tả nỗi đau cụ thể kèm con số/tình huống thật (VD "balo 5 triệu mà laptop sát đáy", "laptop 16 inch", "3 cục sạc cho 4 thiết bị") — score cao nhất rơi vào nhóm balo + laptop bảo vệ.
+- Sản phẩm balo/túi chống sốc laptop cho tương tác tốt nhất (nhiều hook đạt score 4-7), nên ưu tiên khai thác.
+- Công thức ăn khách: "vấn đề quen thuộc + đặt câu hỏi + chạm cảm xúc tiếc tiền/xấu hổ" (VD "nhìn như sinh viên", "lòng đau như cắt").
+- Nên thêm icon cảm xúc tiêu cực (😤😮‍💨) để khơi đồng cảm, kết hợp gợi mở giải pháp ("Có đấy 🐰").
+- Hook quá chung chung, hiển nhiên ("Balo cứ là balo, sao phải chọn kỹ?", "Đi công tác mà lôi 2 túi?") cho score thấp nhất — nên tránh câu mở mơ hồ.
+- Nhóm hook dán cường lực/màn hình đều đều ở mức score 3, bão hòa và nhàm — cần góc lạ hơn hoặc giảm tần suất.
+- Tỷ lệ Shares = 0 toàn bộ: hook hiện chỉ gây tò mò, chưa tạo giá trị "đáng chia sẻ" — nên thêm yếu tố mẹo hữu ích/so sánh gây sốc để kích share.
+- Viết ngắn, cụ thể, có số liệu và tình huống đời thực; tránh câu hỏi tu từ sáo rỗng.
