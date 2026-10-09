@@ -1,15 +1,8 @@
-- **Hook thắng nhất (Score 7):** "Balo mỏng manh làm laptop lắc lư mỗi lần di chuyển?" → chạm nỗi đau cụ thể + hình ảnh chuyển động dễ tưởng tượng, kéo được comment. Ưu tiên tả cảnh "laptop bị xô, lắc, va đập".
-
-- **Sản phẩm balo bảo vệ laptop** cho tương tác ổn định nhất (nhiều hook Score 4-7). Nhấn mạnh "bảo vệ laptop khỏi va đập/xước/ướt" → luôn an toàn.
-
-- **Công thức mạnh:** nêu nghịch lý "đồ xịn/đắt tiền mà vẫn tệ" (balo 5 triệu vẫn xước, dán cường lực mà màn mờ) → tạo bức xúc, dễ nhích Reaction.
-
-- **Thêm câu giải pháp sau hook đau** ("…đáng được bảo vệ tử tế", "Có đấy", "Dẹp đi") giúp giữ nhịp, nhưng chưa đủ bật share → cần CTA mạnh hơn.
-
-- **Dùng emoji cảm xúc tiêu cực** (😤😮‍💨) hợp để khơi nỗi đau, nhưng lạm dụng khiến các hook na ná nhau, chỉ đạt Score 3. Phải đổi góc đau mới.
-
-- **Kiểu nên tránh:** hook chung chung, mơ hồ ("Balo cứ là balo, sao phải chọn kỹ?", "Xách balo như sinh viên?") → Score 3, thiếu hình ảnh cụ thể và nỗi đau sắc.
-
-- **Điểm yếu toàn bộ:** gần như 0 Share, Reaction thấp. Thêm yếu tố "gây tranh luận / số liệu sốc / mẹo nhanh đáng lưu lại" để kích Share và Reaction, không chỉ dừng ở 1 comment lịch sự.
-
-- **Reel tiếp theo:** chọn 1 nỗi đau cụ thể + hình ảnh động + nghịch lý "đắt mà tệ" + CTA kêu lưu/chia sẻ, tránh hook trừu tượng và emoji lặp.
+- Hook mô tả nỗi đau cụ thể, chạm trúng trải nghiệm thật (laptop lắc lư, va đập trầy xước) cho tương tác cao nhất — ưu tiên kịch bản này.
+- Sản phẩm balo laptop là chủ lực: xuất hiện nhiều và gom điểm cao nhất; nên khai thác sâu, nhấn bảo vệ, chống sốc, chống nước.
+- Thêm chi tiết định lượng gây sốc (“balo 5 triệu mà vẫn xước”, “16 inch”) để tăng độ tin và kích bình luận.
+- Hook chạm cảm xúc/địa vị (“nhìn như sinh viên”, “lòng đau như cắt”) tạo đồng cảm, nên giữ.
+- Tránh hook sản phẩm phụ kiện nhỏ lặp mô-típ (dán cường lực, ốp, củ sạc) với than phiền chung chung — đều chỉ đạt Score=3, bão hòa.
+- Tránh câu quá kỹ thuật/khô (“củ 20W”, “Mac Mini thiếu cổng”) vì ít chạm cảm xúc, tương tác thấp.
+- Chưa reel nào có Share: thêm yếu tố đáng chia sẻ (mẹo hay, so sánh bất ngờ, giá trị hữu ích) để phá trần điểm.
+- Luôn kết hook bằng câu hỏi gợi mở hoặc lời khẳng định mạnh để kích bình luận — vì Comments đang là nguồn điểm chính.
