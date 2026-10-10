@@ -1,8 +1,8 @@
-- Hook mô tả nỗi đau cụ thể, chạm trúng trải nghiệm thật (laptop lắc lư, va đập trầy xước) cho tương tác cao nhất — ưu tiên kịch bản này.
-- Sản phẩm balo laptop là chủ lực: xuất hiện nhiều và gom điểm cao nhất; nên khai thác sâu, nhấn bảo vệ, chống sốc, chống nước.
-- Thêm chi tiết định lượng gây sốc (“balo 5 triệu mà vẫn xước”, “16 inch”) để tăng độ tin và kích bình luận.
-- Hook chạm cảm xúc/địa vị (“nhìn như sinh viên”, “lòng đau như cắt”) tạo đồng cảm, nên giữ.
-- Tránh hook sản phẩm phụ kiện nhỏ lặp mô-típ (dán cường lực, ốp, củ sạc) với than phiền chung chung — đều chỉ đạt Score=3, bão hòa.
-- Tránh câu quá kỹ thuật/khô (“củ 20W”, “Mac Mini thiếu cổng”) vì ít chạm cảm xúc, tương tác thấp.
-- Chưa reel nào có Share: thêm yếu tố đáng chia sẻ (mẹo hay, so sánh bất ngờ, giá trị hữu ích) để phá trần điểm.
-- Luôn kết hook bằng câu hỏi gợi mở hoặc lời khẳng định mạnh để kích bình luận — vì Comments đang là nguồn điểm chính.
+- Ưu tiên hook về **balo laptop**: chiếm top tương tác (Score 7 và nhiều Score 4), chạm nỗi đau "tài sản đắt tiền bị hư hại".
+- Công thức mạnh nhất: **"món đồ đắt + rủi ro cụ thể"** (laptop 16inch, máy 30 triệu, balo 5 triệu) → kích nỗi sợ mất mát rõ ràng.
+- Hook dạng **câu hỏi nhức nhối + emoji bực bội (😤😬😮‍💨)** luôn kéo ít nhất 1 comment; giữ mô-típ này.
+- Phụ kiện **sạc/pin dự phòng** tương tác khá (Score 4): nhấn công suất yếu, đoán mò pin, gom nhiều cục sạc.
+- Tránh hook về **miếng dán màn hình/cường lực**: toàn Score 3, nỗi đau quá nhỏ nhặt, ít ai quan tâm.
+- Tránh hook **ốp lưng** (ngả vàng, dày cui): tương tác thấp, cảm xúc nhạt.
+- Thêm **con số giá trị cụ thể** vào hook để tăng sức nặng (hiệu quả thấy rõ ở các hook tương tác cao).
+- Không hook nào đạt Share: cần thử **thêm yếu tố bất ngờ/giải pháp "có đấy"** hoặc kêu gọi chia sẻ để phá ngưỡng này.
