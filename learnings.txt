@@ -1,8 +1,8 @@
-- Ưu tiên hook về **balo laptop**: chiếm top tương tác (Score 7 và nhiều Score 4), chạm nỗi đau "tài sản đắt tiền bị hư hại".
-- Công thức mạnh nhất: **"món đồ đắt + rủi ro cụ thể"** (laptop 16inch, máy 30 triệu, balo 5 triệu) → kích nỗi sợ mất mát rõ ràng.
-- Hook dạng **câu hỏi nhức nhối + emoji bực bội (😤😬😮‍💨)** luôn kéo ít nhất 1 comment; giữ mô-típ này.
-- Phụ kiện **sạc/pin dự phòng** tương tác khá (Score 4): nhấn công suất yếu, đoán mò pin, gom nhiều cục sạc.
-- Tránh hook về **miếng dán màn hình/cường lực**: toàn Score 3, nỗi đau quá nhỏ nhặt, ít ai quan tâm.
-- Tránh hook **ốp lưng** (ngả vàng, dày cui): tương tác thấp, cảm xúc nhạt.
-- Thêm **con số giá trị cụ thể** vào hook để tăng sức nặng (hiệu quả thấy rõ ở các hook tương tác cao).
-- Không hook nào đạt Share: cần thử **thêm yếu tố bất ngờ/giải pháp "có đấy"** hoặc kêu gọi chia sẻ để phá ngưỡng này.
+- Hook thắng nhất (Score 7): nêu nỗi đau cụ thể + hình ảnh sinh động ("lắc lư mỗi lần di chuyển"), gợi cảnh rủi ro quen thuộc → ưu tiên tả chi tiết chuyển động/hậu quả thay vì nói chung chung.
+- Sản phẩm cho tương tác tốt nhất: balo laptop và sạc dự phòng (nhiều hook Score 4-7) → tập trung khai thác hai nhóm này.
+- Công thức ăn khách: "Món đồ quen + lỗi gây ức chế + emoji 😤/😮‍💨" (balo trầy máy, sạc yếu, mưa ướt laptop) → giữ cấu trúc câu hỏi tu từ chạm nỗi đau.
+- Nêu giá trị tài sản bị đe dọa ("laptop 30 triệu", "máy đẹp") tăng sức nặng → dùng số tiền/giá trị cụ thể để kích cảm giác tiếc của.
+- Hook kém (Score 3): dạng chung chung, trừu tượng, ít hình ảnh ("sao phải chọn kỹ?", "ám ảnh chưa?") → tránh câu mơ hồ, thiếu cảnh cụ thể.
+- Nhóm sản phẩm cường lực/ốp/miếng dán đều đuối (Score 3) → nếu viết phải thêm cảnh thực tế mạnh (lóa nắng, ngả vàng) kèm hậu quả thấy được.
+- Share = 0 toàn bộ → cần chèn yếu tố đáng chia sẻ: mẹo hữu ích, tip bất ngờ, hoặc "tag đứa bạn hay làm hỏng máy".
+- Mỗi hook nên: 1 nỗi đau cụ thể + 1 emoji cảm xúc + gợi ý giải pháp ẩn ("Có đấy", "Dẹp đi") để kéo comment hỏi sản phẩm.
