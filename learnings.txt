@@ -1,8 +1,8 @@
-- Hook thắng nhất (Score 7): nêu nỗi đau cụ thể + hình ảnh sinh động ("lắc lư mỗi lần di chuyển"), gợi cảnh rủi ro quen thuộc → ưu tiên tả chi tiết chuyển động/hậu quả thay vì nói chung chung.
-- Sản phẩm cho tương tác tốt nhất: balo laptop và sạc dự phòng (nhiều hook Score 4-7) → tập trung khai thác hai nhóm này.
-- Công thức ăn khách: "Món đồ quen + lỗi gây ức chế + emoji 😤/😮‍💨" (balo trầy máy, sạc yếu, mưa ướt laptop) → giữ cấu trúc câu hỏi tu từ chạm nỗi đau.
-- Nêu giá trị tài sản bị đe dọa ("laptop 30 triệu", "máy đẹp") tăng sức nặng → dùng số tiền/giá trị cụ thể để kích cảm giác tiếc của.
-- Hook kém (Score 3): dạng chung chung, trừu tượng, ít hình ảnh ("sao phải chọn kỹ?", "ám ảnh chưa?") → tránh câu mơ hồ, thiếu cảnh cụ thể.
-- Nhóm sản phẩm cường lực/ốp/miếng dán đều đuối (Score 3) → nếu viết phải thêm cảnh thực tế mạnh (lóa nắng, ngả vàng) kèm hậu quả thấy được.
-- Share = 0 toàn bộ → cần chèn yếu tố đáng chia sẻ: mẹo hữu ích, tip bất ngờ, hoặc "tag đứa bạn hay làm hỏng máy".
-- Mỗi hook nên: 1 nỗi đau cụ thể + 1 emoji cảm xúc + gợi ý giải pháp ẩn ("Có đấy", "Dẹp đi") để kéo comment hỏi sản phẩm.
+- Hook về **balo laptop** cho tương tác cao nhất (Score 4-7), đặc biệt khi gắn với nỗi sợ hỏng máy đắt tiền ("laptop 30 triệu", "balo 5 triệu vẫn xước") — luôn ưu tiên chủ đề này.
+- Công thức thắng: nêu **con số cụ thể** (16 inch, 30 triệu, 20W) + nỗi đau vật lý rõ ràng (lắc lư, ướt nhẹp, va đập) → tạo cảm giác rủi ro thật.
+- Hook chạm **nỗi sợ mất mát/thiệt hại tài sản** mạnh hơn hook chê sản phẩm cũ xấu (mờ, ố vàng) — ưu tiên "đánh cược", "bảo vệ", "va đập".
+- Sản phẩm **dán màn/ốp lưng** luôn èo uột (Score 3) dù đổi cách viết — hạn chế hoặc nâng cấp góc tiếp cận, đừng lặp mô-típ "mờ/ố vàng".
+- Hook **sạc/pin dự phòng** ở mức trung bình (Score 4) khi gợi nỗi lo cụ thể (phồng pin, đoán mò, yếu công suất) — dùng chi tiết gây ám ảnh.
+- Tránh hook chung chung kiểu "sao phải chọn kỹ?", "dẹp đi" nếu không kèm số liệu — dễ rơi về Score 3.
+- Thêm **câu hỏi + emoji cảm xúc** (😮‍💨😤) là chuẩn, nhưng cần kết hợp tình huống đời thực (đi làm, quán cà phê, gặp mưa) để tăng đồng cảm.
+- Chưa có reel nào đạt Share — thử thêm **yếu tố đáng chia sẻ**: mẹo hữu ích, so sánh gây sốc, hoặc tình huống "ai cũng từng gặp".
