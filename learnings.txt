@@ -1,8 +1,8 @@
-- Hook về **balo laptop** cho tương tác cao nhất (Score 4-7), đặc biệt khi gắn với nỗi sợ hỏng máy đắt tiền ("laptop 30 triệu", "balo 5 triệu vẫn xước") — luôn ưu tiên chủ đề này.
-- Công thức thắng: nêu **con số cụ thể** (16 inch, 30 triệu, 20W) + nỗi đau vật lý rõ ràng (lắc lư, ướt nhẹp, va đập) → tạo cảm giác rủi ro thật.
-- Hook chạm **nỗi sợ mất mát/thiệt hại tài sản** mạnh hơn hook chê sản phẩm cũ xấu (mờ, ố vàng) — ưu tiên "đánh cược", "bảo vệ", "va đập".
-- Sản phẩm **dán màn/ốp lưng** luôn èo uột (Score 3) dù đổi cách viết — hạn chế hoặc nâng cấp góc tiếp cận, đừng lặp mô-típ "mờ/ố vàng".
-- Hook **sạc/pin dự phòng** ở mức trung bình (Score 4) khi gợi nỗi lo cụ thể (phồng pin, đoán mò, yếu công suất) — dùng chi tiết gây ám ảnh.
-- Tránh hook chung chung kiểu "sao phải chọn kỹ?", "dẹp đi" nếu không kèm số liệu — dễ rơi về Score 3.
-- Thêm **câu hỏi + emoji cảm xúc** (😮‍💨😤) là chuẩn, nhưng cần kết hợp tình huống đời thực (đi làm, quán cà phê, gặp mưa) để tăng đồng cảm.
-- Chưa có reel nào đạt Share — thử thêm **yếu tố đáng chia sẻ**: mẹo hữu ích, so sánh gây sốc, hoặc tình huống "ai cũng từng gặp".
+- **Hook thắng nhất (Score 7): mô tả vấn đề cụ thể + cảm giác lo lắng** — "Balo mỏng manh làm laptop lắc lư mỗi lần di chuyển?" → tả nỗi đau sinh động, dễ gợi comment.
+- **Sản phẩm balo cho tương tác ổn định cao nhất** (nhiều Score 4-7); nên ưu tiên khai thác, gắn với laptop đắt tiền ("máy 30 triệu").
+- **Công thức mạnh: nêu tình huống thực tế + emoji cảm xúc (😤😮‍💨😬)** kích người xem tự nhận ra mình → tăng reaction/comment.
+- **Hook dạng câu hỏi tu từ về nỗi đau** ("Sạc yếu mang theo làm gì?", "Nắng gắt màn lóa trắng?") đều đạt Score 3-4, an toàn nhưng không bứt phá.
+- **Thêm con số/chi tiết cụ thể** ("16 inch", "20W", "5 triệu", "30 triệu") giúp hook thuyết phục và nổi hơn hook chung chung.
+- **Nên chèn giải pháp/tò mò** ("Dẹp đi 🔌", "Có đấy 🐰") để tạo lý do tương tác, thay vì chỉ than vãn.
+- **Tránh hook chung chung thiếu chi tiết** ("Ốp dày cui giấu màu máy", "Ốp ngả vàng") — toàn Score 3, nỗi đau nhẹ, khó share.
+- **Điểm yếu toàn bộ: Shares=0** — cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, sự thật bất ngờ, con số sốc) thay vì chỉ mô tả vấn đề.
