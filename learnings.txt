@@ -1,8 +1,8 @@
-- **Hook thắng nhất (Score 7): mô tả vấn đề cụ thể + cảm giác lo lắng** — "Balo mỏng manh làm laptop lắc lư mỗi lần di chuyển?" → tả nỗi đau sinh động, dễ gợi comment.
-- **Sản phẩm balo cho tương tác ổn định cao nhất** (nhiều Score 4-7); nên ưu tiên khai thác, gắn với laptop đắt tiền ("máy 30 triệu").
-- **Công thức mạnh: nêu tình huống thực tế + emoji cảm xúc (😤😮‍💨😬)** kích người xem tự nhận ra mình → tăng reaction/comment.
-- **Hook dạng câu hỏi tu từ về nỗi đau** ("Sạc yếu mang theo làm gì?", "Nắng gắt màn lóa trắng?") đều đạt Score 3-4, an toàn nhưng không bứt phá.
-- **Thêm con số/chi tiết cụ thể** ("16 inch", "20W", "5 triệu", "30 triệu") giúp hook thuyết phục và nổi hơn hook chung chung.
-- **Nên chèn giải pháp/tò mò** ("Dẹp đi 🔌", "Có đấy 🐰") để tạo lý do tương tác, thay vì chỉ than vãn.
-- **Tránh hook chung chung thiếu chi tiết** ("Ốp dày cui giấu màu máy", "Ốp ngả vàng") — toàn Score 3, nỗi đau nhẹ, khó share.
-- **Điểm yếu toàn bộ: Shares=0** — cần thêm yếu tố đáng chia sẻ (mẹo hữu ích, sự thật bất ngờ, con số sốc) thay vì chỉ mô tả vấn đề.
+- **Hook thắng đậm nhất:** câu hỏi "đau" cụ thể + chi tiết số/giá trị gây sợ mất mát (laptop 16 inch, máy 30 triệu, balo 5 triệu) → kéo comment và reaction cao nhất (Score 7).
+- **Sản phẩm mạnh nhất:** balo laptop — đa số hook điểm cao đều thuộc nhóm này, vì gắn với nỗi lo hỏng máy đắt tiền.
+- **Công thức vàng:** "Nỗi đau quen thuộc + hậu quả cụ thể?" + emoji cảm xúc (😤😮‍💨😬) → chạm đúng tâm lý, dễ tạo tranh luận.
+- **Nhóm khá ổn (Score 4):** sạc dự phòng & ốp lưng khi nêu lỗi rõ ràng (phồng pin, công suất yếu, ngả vàng) — vẫn kéo được 1 reaction.
+- **Nên tránh:** hook chung chung, mô tả vấn đề mờ nhạt không có con số/giá trị (miếng dán, chói màn hình, dây sạc rối) → chỉ đạt Score 3, kém nhất.
+- **Luôn chèn chi tiết định lượng** (inch, giá tiền, công suất, %) để tăng độ chạm và cảm giác "đáng tiếc nếu bỏ qua".
+- **Điểm yếu toàn bộ:** Shares = 0 ở mọi bài → cần thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, so sánh, tip tiết kiệm) thay vì chỉ nêu nỗi đau.
+- **Giữ câu ngắn, 1 câu hỏi + 1 câu chốt giải pháp**, kết bằng emoji cảm xúc tiêu cực để tối ưu reaction/comment.
