@@ -1,8 +1,8 @@
-- Hook "nỗi đau vật lý cụ thể" (pin phồng/dày cui nhét túi, màn bám vân tay) đạt Score cao nhất (5) — ưu tiên mô tả cảm giác khó chịu trực tiếp lên cơ thể/túi quần.
-- Nhóm sản phẩm sạc dự phòng & phụ kiện nhỏ gọn (ốp, miếng dán) cho tương tác nhỉnh hơn khi gắn nỗi đau đời thường, cụ thể, dễ hình dung.
-- Hook có con số gây sốc ("laptop 30 triệu", "balo 5 triệu vẫn xước", "3 cục sạc cho 4 thiết bị") kéo Reactions lên — chèn số liệu đối lập để tạo tiếc nuối/bất ngờ.
-- Dùng emoji cảm xúc mạnh 😤😮‍💨 + câu hỏi tu từ ngắn, đánh trúng khoảnh khắc bực mình quen thuộc.
-- Tránh hook chung chung, mô tả tính năng ("bảo vệ 360°", "ngả vàng") — Score thấp (3), thiếu kịch tính cá nhân.
-- Tránh mô tả balo kiểu liệt kê lý tính dài dòng; thắng khi đánh vào hình ảnh xấu hổ ("nhìn như sinh viên") hơn là thông số.
-- Toàn bộ Shares=0: cần thêm yếu tố "mẹo hữu ích/giải pháp đáng khoe" để người xem muốn chia sẻ, không chỉ dừng ở than phiền.
-- Công thức thắng: [Nỗi đau cơ thể/tiền bạc cụ thể] + [con số sốc] + [emoji bực] + [câu hỏi ngắn] → khơi phản ứng tức thì.
+- Lưu ý dữ liệu quá nhỏ (Score 3–7, Shares=0 toàn bộ), chênh lệch chỉ do 1–2 reaction — mọi kết luận chỉ mang tính tham khảo, cần test thêm.
+- Hook điểm cao nhất (5–7) thuộc nhóm "nỗi đau vật lý cụ thể, gây ám ảnh": pin phồng nhét túi quần, ốp bám vân tay, balo mỏng làm laptop lắc lư → ưu tiên tả cảm giác khó chịu trực quan.
+- Nêu con số/tình huống đắt tiền ("laptop 30 triệu", "balo 5 triệu mà vẫn xước") tạo cảm giác rủi ro cao → nên dùng để tăng chú ý.
+- Hook chỉ nêu vấn đề chung chung, nhẹ nhàng ("dây sạc rối", "màn chói lóa", "sạc cả tiếng chưa đầy") đều bệt ở Score 3 → tránh viết mơ hồ, không có hình ảnh mạnh.
+- Dùng emoji biểu cảm bức bối (😮‍💨😤😬) + câu hỏi tu từ đánh thẳng nỗi đau cho tương tác nhỉnh hơn emoji trung tính (🔌🔋🎒).
+- Nhóm sản phẩm Balo & Pin dự phòng nhỉnh hơn Ốp & Củ sạc; nhưng khác biệt mỏng → nên xoáy vào góc "mất mát/nguy cơ" thay vì chỉ "tiện lợi".
+- Công thức nên lặp: [tình huống đời thường] + [hậu quả đáng sợ cụ thể] + [câu hỏi/phủ định dứt khoát "Dẹp đi", "Có đấy"].
+- Mục tiêu then chốt: chưa hook nào tạo Share/Comment sâu — thử thêm hook gợi tranh luận, hỏi ý kiến, hoặc mẹo "mách nhau" để kích Comment & Share.
