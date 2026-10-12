@@ -1,8 +1,8 @@
-- Hook thắng đậm nhất (Score 7): nêu **vấn đề cụ thể + hình ảnh sống động** ("laptop lắc lư mỗi lần di chuyển") — ưu tiên mô tả tình huống chuyển động, chạm nỗi sợ thật.
-- Nhóm balo laptop + pin dự phòng cho tương tác tốt nhất; đẩy mạnh 2 sản phẩm này, thêm chi tiết "máy 30 triệu", "phồng pin", "nằm sát đáy".
-- Chèn **con số/giá trị tiền** ("laptop 30 triệu", "balo 5 triệu", "củ 20W") tạo tương phản, kích phản ứng mạnh hơn.
-- Hook điểm cao hay dùng cảm giác vật lý khó chịu: "dày cui nhét túi", "phồng pin trong túi", "ướt nhẹp" — ưu tiên nỗi đau chạm được, cầm được.
-- Tránh hook chung chung chỉ than phiền nhẹ ("ngả vàng", "bám vân tay", "chói lóa") — nhóm miếng dán/ốp toàn Score 3, cần gắn thêm hậu quả nặng hoặc con số.
-- Mở bằng **câu hỏi + emoji tức giận/ngao ngán** (😤😮‍💨) giữ ổn định; tránh emoji trung tính (🔌🎒) đứng một mình.
-- Chưa reel nào có Share — thử thêm yếu tố "mẹo/giải pháp đáng lưu lại" hoặc call-to-save để phá mốc Share=0.
-- Công thức nên lặp: [Vấn đề cụ thể] + [hình ảnh hậu quả sống động] + [con số/giá trị] + [emoji cảm xúc mạnh] + gợi mở giải pháp.
+- Hook "nỗi đau vật lý cụ thể" (pin phồng/dày cui nhét túi, màn bám vân tay) đạt Score cao nhất (5) — ưu tiên mô tả cảm giác khó chịu trực tiếp lên cơ thể/túi quần.
+- Nhóm sản phẩm sạc dự phòng & phụ kiện nhỏ gọn (ốp, miếng dán) cho tương tác nhỉnh hơn khi gắn nỗi đau đời thường, cụ thể, dễ hình dung.
+- Hook có con số gây sốc ("laptop 30 triệu", "balo 5 triệu vẫn xước", "3 cục sạc cho 4 thiết bị") kéo Reactions lên — chèn số liệu đối lập để tạo tiếc nuối/bất ngờ.
+- Dùng emoji cảm xúc mạnh 😤😮‍💨 + câu hỏi tu từ ngắn, đánh trúng khoảnh khắc bực mình quen thuộc.
+- Tránh hook chung chung, mô tả tính năng ("bảo vệ 360°", "ngả vàng") — Score thấp (3), thiếu kịch tính cá nhân.
+- Tránh mô tả balo kiểu liệt kê lý tính dài dòng; thắng khi đánh vào hình ảnh xấu hổ ("nhìn như sinh viên") hơn là thông số.
+- Toàn bộ Shares=0: cần thêm yếu tố "mẹo hữu ích/giải pháp đáng khoe" để người xem muốn chia sẻ, không chỉ dừng ở than phiền.
+- Công thức thắng: [Nỗi đau cơ thể/tiền bạc cụ thể] + [con số sốc] + [emoji bực] + [câu hỏi ngắn] → khơi phản ứng tức thì.
