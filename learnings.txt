@@ -1,8 +1,8 @@
-- **Hook thắng đậm nhất:** câu hỏi "đau" cụ thể + chi tiết số/giá trị gây sợ mất mát (laptop 16 inch, máy 30 triệu, balo 5 triệu) → kéo comment và reaction cao nhất (Score 7).
-- **Sản phẩm mạnh nhất:** balo laptop — đa số hook điểm cao đều thuộc nhóm này, vì gắn với nỗi lo hỏng máy đắt tiền.
-- **Công thức vàng:** "Nỗi đau quen thuộc + hậu quả cụ thể?" + emoji cảm xúc (😤😮‍💨😬) → chạm đúng tâm lý, dễ tạo tranh luận.
-- **Nhóm khá ổn (Score 4):** sạc dự phòng & ốp lưng khi nêu lỗi rõ ràng (phồng pin, công suất yếu, ngả vàng) — vẫn kéo được 1 reaction.
-- **Nên tránh:** hook chung chung, mô tả vấn đề mờ nhạt không có con số/giá trị (miếng dán, chói màn hình, dây sạc rối) → chỉ đạt Score 3, kém nhất.
-- **Luôn chèn chi tiết định lượng** (inch, giá tiền, công suất, %) để tăng độ chạm và cảm giác "đáng tiếc nếu bỏ qua".
-- **Điểm yếu toàn bộ:** Shares = 0 ở mọi bài → cần thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, so sánh, tip tiết kiệm) thay vì chỉ nêu nỗi đau.
-- **Giữ câu ngắn, 1 câu hỏi + 1 câu chốt giải pháp**, kết bằng emoji cảm xúc tiêu cực để tối ưu reaction/comment.
+- Hook thắng đậm nhất (Score 7): nêu **vấn đề cụ thể + hình ảnh sống động** ("laptop lắc lư mỗi lần di chuyển") — ưu tiên mô tả tình huống chuyển động, chạm nỗi sợ thật.
+- Nhóm balo laptop + pin dự phòng cho tương tác tốt nhất; đẩy mạnh 2 sản phẩm này, thêm chi tiết "máy 30 triệu", "phồng pin", "nằm sát đáy".
+- Chèn **con số/giá trị tiền** ("laptop 30 triệu", "balo 5 triệu", "củ 20W") tạo tương phản, kích phản ứng mạnh hơn.
+- Hook điểm cao hay dùng cảm giác vật lý khó chịu: "dày cui nhét túi", "phồng pin trong túi", "ướt nhẹp" — ưu tiên nỗi đau chạm được, cầm được.
+- Tránh hook chung chung chỉ than phiền nhẹ ("ngả vàng", "bám vân tay", "chói lóa") — nhóm miếng dán/ốp toàn Score 3, cần gắn thêm hậu quả nặng hoặc con số.
+- Mở bằng **câu hỏi + emoji tức giận/ngao ngán** (😤😮‍💨) giữ ổn định; tránh emoji trung tính (🔌🎒) đứng một mình.
+- Chưa reel nào có Share — thử thêm yếu tố "mẹo/giải pháp đáng lưu lại" hoặc call-to-save để phá mốc Share=0.
+- Công thức nên lặp: [Vấn đề cụ thể] + [hình ảnh hậu quả sống động] + [con số/giá trị] + [emoji cảm xúc mạnh] + gợi mở giải pháp.
