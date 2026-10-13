@@ -1,8 +1,15 @@
-- Dữ liệu quá nhỏ (Score chỉ 3–5, Shares=0 toàn bộ): mọi kết luận chỉ mang tính tham khảo, chưa có hook nào thực sự "viral".
-- Hook điểm cao nhất (Score=5) đều tấn công nỗi đau vật lý cụ thể + từ ngữ gợi cảm giác mạnh: "dày cui nhét túi quần là cả cực hình", "bám vân tay đầy máy nhìn phát ghét" → ưu tiên mô tả khó chịu đời thường, trực diện.
-- Sản phẩm pin dự phòng và ốp lưng cho tương tác nhỉnh hơn; balo nhiều hook nhất nhưng đa số chỉ Score=3 → tránh viết balo chung chung, cần góc lạ hơn.
-- Hook mở bằng câu hỏi "Có đấy", chung chung hoặc so sánh nhẹ ("nhìn như sinh viên") cho điểm thấp → tránh hook mơ hồ, thiếu nỗi đau rõ.
-- Công thức ăn điểm: [tình huống quen thuộc] + [hậu quả tệ] + [emoji bực/ngán 😤😮‍💨] — cụ thể, đời thường, chạm cảm xúc tiêu cực.
-- Emoji cảm xúc tiêu cực (😤 😮‍💨) hiệu quả hơn emoji trung tính/dễ thương (🐰 🔋 🎒); nên gắn emoji khớp đúng nỗi đau.
-- Reactions nhích lên khi đánh vào nỗi đau "mất mặt/xấu hổ" (phồng túi quần, vân tay bẩn) → khai thác yếu tố thể diện, thẩm mỹ cá nhân.
-- Vì Shares=0 toàn bộ, cần thử thêm hook tạo động lực chia sẻ: mẹo bất ngờ, con số cụ thể, hoặc "tag đứa bạn hay làm hỏng máy" để kéo Comments/Shares.
+- **Cảnh báo mất tiền/hỏng đồ giá trị cao cho tương tác tốt nhất**: hook nhắc "máy 30 triệu", "sửa cả cụm", "phồng pin ám ảnh" khơi nỗi sợ cụ thể → Score 4-5. Ưu tiên nhồi con số thiệt hại + hậu quả thật.
+
+- **Nỗi đau thể chất/khó chịu hằng ngày lên điểm cao**: "dày cui nhét túi quần là cực hình", "bám vân tay nhìn phát ghét" đạt Score 5. Mô tả cảm giác bực bội trực quan, càng đời thường càng dễ chạm.
+
+- **Nhóm sản phẩm pin dự phòng & ốp lưng kéo Reactions tốt nhất**: hầu hết hook Score 4-5 rơi vào 2 nhóm này. Nên tăng tần suất viết cho pin dự phòng (phồng, dày, đoán mò pin) và ốp (vân tay, ngả vàng, giấu màu máy).
+
+- **Tránh hook balo chung chung lặp mô-típ "nằm sát đáy / lỏng lẻo"**: các biến thể này đều chỉ Score 3, bị bão hòa vì viết đi viết lại cùng ý. Nếu giữ balo, phải đổi góc (chống nước, ngăn sạc gọn) chứ đừng lặp "va đập".
+
+- **Hook so sánh địa vị ("nhìn như sinh viên", "balo 5 triệu") hiệu quả yếu**: dễ gây tự ái, không tạo comment. Thay bằng nỗi sợ thiệt hại cụ thể thì ăn tương tác hơn.
+
+- **Câu ngắn + 1 emoji cảm xúc tiêu cực (😤😮‍💨) + kết bằng dấu hỏi** là công thức an toàn, nhưng cần ý tưởng mới lạ để vượt mốc Score 3.
+
+- **Comment gần như luôn = 1, đòn bẩy nằm ở Reactions**: muốn lên điểm phải viết hook khiến người đọc "gật gù đồng cảm" (đau đúng chỗ) chứ không chỉ tò mò.
+
+- **Chưa hook nào tạo được Share**: để bứt phá, thử hook mang tính "mẹo/giải pháp bất ngờ" hoặc "sự thật ít ai biết" đáng chia sẻ, thay vì chỉ nêu vấn đề.
