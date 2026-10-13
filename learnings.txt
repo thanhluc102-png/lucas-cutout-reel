@@ -1,8 +1,8 @@
-- Hook "nỗi đau thể chất cụ thể" (pin dày cui nhét túi quần cực hình, ốp bám vân tay) đạt Score cao nhất (5) — ưu tiên mô tả cảm giác khó chịu sờ thấy được.
-- Sản phẩm pin/sạc dự phòng và ốp lưng cho tương tác tốt nhất; đào sâu 2 nhóm này.
-- Dùng hình ảnh so sánh gây ám ảnh ("rối như tổ chim", "phồng pin", "ngả vàng") tăng reactions rõ rệt.
-- Hook nêu nghịch lý tiền bạc ("balo 5 triệu laptop vẫn sát đáy", "máy 30 triệu đánh cược") kéo được reactions — gắn giá trị đồ đắt vào rủi ro.
-- Emoji bực bội/mệt mỏi (😤😮‍💨) kèm nỗi đau cụ thể hiệu quả hơn emoji trung tính (🔌🎒🔋).
-- Tránh hook chung chung chỉ nêu tính năng ("ốp dễ thương bảo vệ 360°", "mang 3 cục sạc cho 4 thiết bị") — Score thấp, thiếu nỗi đau.
-- Tránh hook về màn hình chói/chống lóa và camera trầy — toàn Score 3, chủ đề ít chạm người xem.
-- Công thức mạnh: [vật đắt tiền/thói quen] + [nỗi đau vật lý cụ thể] + [emoji bực] + câu hỏi cụt.
+- Dữ liệu quá nhỏ (Score chỉ 3–5, Shares=0 toàn bộ): mọi kết luận chỉ mang tính tham khảo, chưa có hook nào thực sự "viral".
+- Hook điểm cao nhất (Score=5) đều tấn công nỗi đau vật lý cụ thể + từ ngữ gợi cảm giác mạnh: "dày cui nhét túi quần là cả cực hình", "bám vân tay đầy máy nhìn phát ghét" → ưu tiên mô tả khó chịu đời thường, trực diện.
+- Sản phẩm pin dự phòng và ốp lưng cho tương tác nhỉnh hơn; balo nhiều hook nhất nhưng đa số chỉ Score=3 → tránh viết balo chung chung, cần góc lạ hơn.
+- Hook mở bằng câu hỏi "Có đấy", chung chung hoặc so sánh nhẹ ("nhìn như sinh viên") cho điểm thấp → tránh hook mơ hồ, thiếu nỗi đau rõ.
+- Công thức ăn điểm: [tình huống quen thuộc] + [hậu quả tệ] + [emoji bực/ngán 😤😮‍💨] — cụ thể, đời thường, chạm cảm xúc tiêu cực.
+- Emoji cảm xúc tiêu cực (😤 😮‍💨) hiệu quả hơn emoji trung tính/dễ thương (🐰 🔋 🎒); nên gắn emoji khớp đúng nỗi đau.
+- Reactions nhích lên khi đánh vào nỗi đau "mất mặt/xấu hổ" (phồng túi quần, vân tay bẩn) → khai thác yếu tố thể diện, thẩm mỹ cá nhân.
+- Vì Shares=0 toàn bộ, cần thử thêm hook tạo động lực chia sẻ: mẹo bất ngờ, con số cụ thể, hoặc "tag đứa bạn hay làm hỏng máy" để kéo Comments/Shares.
