@@ -1,8 +1,8 @@
-- Lưu ý dữ liệu quá nhỏ (Score 3–7, Shares=0 toàn bộ), chênh lệch chỉ do 1–2 reaction — mọi kết luận chỉ mang tính tham khảo, cần test thêm.
-- Hook điểm cao nhất (5–7) thuộc nhóm "nỗi đau vật lý cụ thể, gây ám ảnh": pin phồng nhét túi quần, ốp bám vân tay, balo mỏng làm laptop lắc lư → ưu tiên tả cảm giác khó chịu trực quan.
-- Nêu con số/tình huống đắt tiền ("laptop 30 triệu", "balo 5 triệu mà vẫn xước") tạo cảm giác rủi ro cao → nên dùng để tăng chú ý.
-- Hook chỉ nêu vấn đề chung chung, nhẹ nhàng ("dây sạc rối", "màn chói lóa", "sạc cả tiếng chưa đầy") đều bệt ở Score 3 → tránh viết mơ hồ, không có hình ảnh mạnh.
-- Dùng emoji biểu cảm bức bối (😮‍💨😤😬) + câu hỏi tu từ đánh thẳng nỗi đau cho tương tác nhỉnh hơn emoji trung tính (🔌🔋🎒).
-- Nhóm sản phẩm Balo & Pin dự phòng nhỉnh hơn Ốp & Củ sạc; nhưng khác biệt mỏng → nên xoáy vào góc "mất mát/nguy cơ" thay vì chỉ "tiện lợi".
-- Công thức nên lặp: [tình huống đời thường] + [hậu quả đáng sợ cụ thể] + [câu hỏi/phủ định dứt khoát "Dẹp đi", "Có đấy"].
-- Mục tiêu then chốt: chưa hook nào tạo Share/Comment sâu — thử thêm hook gợi tranh luận, hỏi ý kiến, hoặc mẹo "mách nhau" để kích Comment & Share.
+- Hook "nỗi đau thể chất cụ thể" (pin dày cui nhét túi quần cực hình, ốp bám vân tay) đạt Score cao nhất (5) — ưu tiên mô tả cảm giác khó chịu sờ thấy được.
+- Sản phẩm pin/sạc dự phòng và ốp lưng cho tương tác tốt nhất; đào sâu 2 nhóm này.
+- Dùng hình ảnh so sánh gây ám ảnh ("rối như tổ chim", "phồng pin", "ngả vàng") tăng reactions rõ rệt.
+- Hook nêu nghịch lý tiền bạc ("balo 5 triệu laptop vẫn sát đáy", "máy 30 triệu đánh cược") kéo được reactions — gắn giá trị đồ đắt vào rủi ro.
+- Emoji bực bội/mệt mỏi (😤😮‍💨) kèm nỗi đau cụ thể hiệu quả hơn emoji trung tính (🔌🎒🔋).
+- Tránh hook chung chung chỉ nêu tính năng ("ốp dễ thương bảo vệ 360°", "mang 3 cục sạc cho 4 thiết bị") — Score thấp, thiếu nỗi đau.
+- Tránh hook về màn hình chói/chống lóa và camera trầy — toàn Score 3, chủ đề ít chạm người xem.
+- Công thức mạnh: [vật đắt tiền/thói quen] + [nỗi đau vật lý cụ thể] + [emoji bực] + câu hỏi cụt.
