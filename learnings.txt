@@ -1,15 +1,8 @@
-- **Cảnh báo mất tiền/hỏng đồ giá trị cao cho tương tác tốt nhất**: hook nhắc "máy 30 triệu", "sửa cả cụm", "phồng pin ám ảnh" khơi nỗi sợ cụ thể → Score 4-5. Ưu tiên nhồi con số thiệt hại + hậu quả thật.
-
-- **Nỗi đau thể chất/khó chịu hằng ngày lên điểm cao**: "dày cui nhét túi quần là cực hình", "bám vân tay nhìn phát ghét" đạt Score 5. Mô tả cảm giác bực bội trực quan, càng đời thường càng dễ chạm.
-
-- **Nhóm sản phẩm pin dự phòng & ốp lưng kéo Reactions tốt nhất**: hầu hết hook Score 4-5 rơi vào 2 nhóm này. Nên tăng tần suất viết cho pin dự phòng (phồng, dày, đoán mò pin) và ốp (vân tay, ngả vàng, giấu màu máy).
-
-- **Tránh hook balo chung chung lặp mô-típ "nằm sát đáy / lỏng lẻo"**: các biến thể này đều chỉ Score 3, bị bão hòa vì viết đi viết lại cùng ý. Nếu giữ balo, phải đổi góc (chống nước, ngăn sạc gọn) chứ đừng lặp "va đập".
-
-- **Hook so sánh địa vị ("nhìn như sinh viên", "balo 5 triệu") hiệu quả yếu**: dễ gây tự ái, không tạo comment. Thay bằng nỗi sợ thiệt hại cụ thể thì ăn tương tác hơn.
-
-- **Câu ngắn + 1 emoji cảm xúc tiêu cực (😤😮‍💨) + kết bằng dấu hỏi** là công thức an toàn, nhưng cần ý tưởng mới lạ để vượt mốc Score 3.
-
-- **Comment gần như luôn = 1, đòn bẩy nằm ở Reactions**: muốn lên điểm phải viết hook khiến người đọc "gật gù đồng cảm" (đau đúng chỗ) chứ không chỉ tò mò.
-
-- **Chưa hook nào tạo được Share**: để bứt phá, thử hook mang tính "mẹo/giải pháp bất ngờ" hoặc "sự thật ít ai biết" đáng chia sẻ, thay vì chỉ nêu vấn đề.
+- Nhóm điểm cao nhất (Score 5): hook về "dày cui" gây bất tiện vật lý (pin dày nhét túi, ốp bám vân tay) → đánh vào nỗi đau chạm trực tiếp mỗi ngày, cụ thể, dễ thấy ngay.
+- Phụ kiện nhỏ (pin dự phòng, ốp lưng) kéo tương tác tốt hơn balo; balo đa số chỉ Score 3-4 → ưu tiên viết hook cho sản phẩm nhỏ, giá thấp, ai cũng cần.
+- Hook mạnh dùng hình ảnh so sánh/cường điệu cụ thể ("rối như tổ chim", "nhét túi quần là cực hình", "bới tung cả balo") → gợi cảnh thật, dễ gật gù.
+- Mở bằng nỗi đau + emoji bực bội (😤😮‍💨) hiệu quả hơn emoji trung tính (🔋🔌🎒); nên chốt bằng cảm xúc khó chịu rõ ràng.
+- Tránh hook chung chung lặp mô-típ "X mà vẫn Y?" không có chi tiết đời thường (ố vàng, chói lóa, nằm sát đáy) → toàn Score 3, nhàm.
+- Tránh hook dọa bằng con số tiền ("máy 30 triệu", "balo 5 triệu") → không vượt Score 4, kém sức lan.
+- Không hook nào có Share: cần thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, tình huống hài, lời cảnh báo cho bạn bè) thay vì chỉ nêu nỗi đau.
+- Công thức nên theo: [sản phẩm nhỏ] + [nỗi đau vật lý cụ thể hằng ngày] + [so sánh cường điệu] + [emoji bực] → copy mô típ Score 5.
