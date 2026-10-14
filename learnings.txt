@@ -1,7 +1,8 @@
-- Hook cao điểm nhất (Score 5) đánh vào **nỗi ám ảnh thể chất cụ thể**: "pin phồng nhét túi quần cực hình", "ốp bám vân tay nhìn phát ghét" — mô tả cảm giác khó chịu hằng ngày, dễ gật đầu đồng cảm.
-- Sản phẩm **pin/sạc dự phòng mỏng** và **ốp chống vân tay/chống ố** cho tương tác tốt nhất; ưu tiên khai thác 2 nhóm này.
-- Dùng **chi tiết giá tiền gây sốc** ("laptop 30 triệu", "balo 5 triệu") để tăng reactions — tạo cảm giác mất mát cụ thể, hiệu quả hơn nói chung chung.
-- Tránh hook **lặp ý mòn**: "màn lóa nắng", "ốp ố vàng", "balo ướt" xuất hiện nhiều lần đều chỉ Score 3 — độc giả đã bão hòa, cần góc mới.
-- Hook kém nhất là kiểu **than phiền chung chung, không chạm giác quan** ("nhìn mỏi mắt", "lo sốt vó") — thiếu hình ảnh mạnh nên không ai thả tim.
-- Mọi hook đều **0 share, comment kịch trần 1**: nội dung chưa đủ "đáng lưu/đáng gửi"; cần thêm **mẹo/giá trị thực** hoặc **chốt bất ngờ** để kích share.
-- Giữ công thức **1 nỗi đau sắc + 1 emoji bực ( 😤😮‍💨 )**, nhưng thay bằng **tình huống kịch tính có nhân vật/thời điểm cụ thể** thay vì câu hỏi tu từ sáo mòn.
+- Tất cả hook đều 0 share và hầu hết chỉ 1 comment → dữ liệu còn yếu, chênh lệch nhỏ (Score 3–5), chỉ nên xem là tín hiệu tham khảo, không phải quy luật chắc.
+- Score cao nhất (5) rơi vào hook "nỗi đau thân thể/bất tiện hằng ngày": pin dự phòng dày cui nhét túi quần, ốp bám vân tay — ưu tiên khai thác phiền toái cụ thể, chạm trực tiếp vào cảm giác khó chịu.
+- Phụ kiện nhỏ gắn với cơ thể/thói quen (pin dự phòng, ốp chống vân tay) nhỉnh hơn balo và hook chung chung → tập trung vật dụng dùng mỗi ngày, dễ liên tưởng.
+- Hook mở bằng tình huống cụ thể + chi tiết hình ảnh ("nhét túi quần", "bám vân tay đầy máy") ăn hơn hook trừu tượng ("lỏng lẻo", "run theo") → viết chi tiết, thấy được, sờ được.
+- Tránh lặp motif đã nhàm: "balo laptop nằm sát đáy", "ốp ngả vàng/ố vàng", "pin phồng" bị trùng nhiều lần mà Score thấp (3) → đổi góc, đừng xào lại cùng nỗi đau.
+- Emoji 😮‍💨 bị dùng tràn lan và đi kèm Score thấp; thử đa dạng emoji gắn đúng ngữ cảnh (🔋🔌😵) nhưng đừng để emoji thay cho nội dung.
+- Thêm số/định lượng gây sốc ("máy 30 triệu", "20W cả tiếng chưa đầy") giữ được Score 4 → chèn con số cụ thể để tăng sức nặng.
+- Chưa có hook nào tạo comment >1 hay share → thử thêm câu hỏi chốt kêu gọi bình luận hoặc tình huống "tag đứa bạn hay gặp" để kéo comment/share lên.
