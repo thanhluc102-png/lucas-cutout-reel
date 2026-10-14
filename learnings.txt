@@ -1,8 +1,7 @@
-- Nhóm điểm cao nhất (Score 5): hook về "dày cui" gây bất tiện vật lý (pin dày nhét túi, ốp bám vân tay) → đánh vào nỗi đau chạm trực tiếp mỗi ngày, cụ thể, dễ thấy ngay.
-- Phụ kiện nhỏ (pin dự phòng, ốp lưng) kéo tương tác tốt hơn balo; balo đa số chỉ Score 3-4 → ưu tiên viết hook cho sản phẩm nhỏ, giá thấp, ai cũng cần.
-- Hook mạnh dùng hình ảnh so sánh/cường điệu cụ thể ("rối như tổ chim", "nhét túi quần là cực hình", "bới tung cả balo") → gợi cảnh thật, dễ gật gù.
-- Mở bằng nỗi đau + emoji bực bội (😤😮‍💨) hiệu quả hơn emoji trung tính (🔋🔌🎒); nên chốt bằng cảm xúc khó chịu rõ ràng.
-- Tránh hook chung chung lặp mô-típ "X mà vẫn Y?" không có chi tiết đời thường (ố vàng, chói lóa, nằm sát đáy) → toàn Score 3, nhàm.
-- Tránh hook dọa bằng con số tiền ("máy 30 triệu", "balo 5 triệu") → không vượt Score 4, kém sức lan.
-- Không hook nào có Share: cần thêm yếu tố "đáng chia sẻ" (mẹo bất ngờ, tình huống hài, lời cảnh báo cho bạn bè) thay vì chỉ nêu nỗi đau.
-- Công thức nên theo: [sản phẩm nhỏ] + [nỗi đau vật lý cụ thể hằng ngày] + [so sánh cường điệu] + [emoji bực] → copy mô típ Score 5.
+- Hook cao điểm nhất (Score 5) đánh vào **nỗi ám ảnh thể chất cụ thể**: "pin phồng nhét túi quần cực hình", "ốp bám vân tay nhìn phát ghét" — mô tả cảm giác khó chịu hằng ngày, dễ gật đầu đồng cảm.
+- Sản phẩm **pin/sạc dự phòng mỏng** và **ốp chống vân tay/chống ố** cho tương tác tốt nhất; ưu tiên khai thác 2 nhóm này.
+- Dùng **chi tiết giá tiền gây sốc** ("laptop 30 triệu", "balo 5 triệu") để tăng reactions — tạo cảm giác mất mát cụ thể, hiệu quả hơn nói chung chung.
+- Tránh hook **lặp ý mòn**: "màn lóa nắng", "ốp ố vàng", "balo ướt" xuất hiện nhiều lần đều chỉ Score 3 — độc giả đã bão hòa, cần góc mới.
+- Hook kém nhất là kiểu **than phiền chung chung, không chạm giác quan** ("nhìn mỏi mắt", "lo sốt vó") — thiếu hình ảnh mạnh nên không ai thả tim.
+- Mọi hook đều **0 share, comment kịch trần 1**: nội dung chưa đủ "đáng lưu/đáng gửi"; cần thêm **mẹo/giá trị thực** hoặc **chốt bất ngờ** để kích share.
+- Giữ công thức **1 nỗi đau sắc + 1 emoji bực ( 😤😮‍💨 )**, nhưng thay bằng **tình huống kịch tính có nhân vật/thời điểm cụ thể** thay vì câu hỏi tu từ sáo mòn.
