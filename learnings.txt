@@ -1,8 +1,9 @@
-- Dữ liệu còn yếu để kết luận chắc: Score dao động 3–5, không có Share nào, Comments gần như luôn =1 → khác biệt chủ yếu đến từ Reactions.
-- Hook điểm cao nhất (Score=5) đều đánh vào nỗi đau cực kỳ cụ thể, hữu hình: "pin dự phòng dày cui nhét túi quần", "ốp bám vân tay đầy máy" → ưu tiên pain-point sờ-thấy-được hằng ngày.
-- Chủ đề cho tương tác nhỉnh hơn: pin/sạc dự phòng cồng kềnh và ốp lưng bẩn/vân tay → khai thác mạnh nhóm này.
-- Tránh hook trừu tượng hoặc lặp lại mòn: "ố vàng/ngả vàng" lặp nhiều lần nhưng chỉ Score=3 → giảm tần suất, đổi góc tiếp cận.
-- Nhóm "balo + laptop + mưa/rơi" bị lặp quá nhiều và đều Score thấp (3) → đang bão hòa, cần nghỉ hoặc làm mới hoàn toàn góc kể.
-- Ưu tiên chi tiết đời thường + vật thể ("túi quần", "máy đầy vân tay") hơn là viễn cảnh chung chung ("đánh cược con máy 30 triệu" chỉ 4đ).
-- Giữ công thức mở bằng nỗi khó chịu cụ thể + emoji 😤/😮‍💨, nhưng xoay đa dạng sản phẩm để không nhàm.
-- Chưa có hook nào tạo Share/Comment thật → thử thêm CTA gợi tranh luận hoặc câu hỏi chọn-lựa để đẩy Comments/Shares lên.
+Lưu ý trước: dữ liệu này gần như không có khác biệt thật (toàn bộ Score 3-5, chênh nhau 1-2 reaction, 0 share, comment đều =1). Mọi "kết luận" dưới đây chỉ là xu hướng yếu, không đủ mẫu để chắc chắn.
+
+- Hook về **pin dự phòng dày/phồng** và **ốp bám vân tay** cho điểm cao nhất (Score 5) → ưu tiên nỗi đau vật lý cụ thể, sờ-thấy-được hàng ngày.
+- Gắn nỗi đau với **thiệt hại tiền bạc rõ ràng** ("laptop 30 triệu", "sửa cả cụm camera") giữ tương tác ổn → nên chèn con số/hậu quả đắt đỏ.
+- Hook mở bằng **câu hỏi + emoji bực bội** (😤 😮‍💨) hoạt động tốt hơn mô tả dài dòng → giữ ngắn, 1 câu, chạm đúng cơn khó chịu.
+- **Tránh lặp chủ đề quá nhiều**: nhóm "balo ướt/laptop" và "pin dự phòng dày" bị trùng ý nhiều lần, điểm tụt dần → mỗi nỗi đau chỉ khai thác 1-2 lần rồi đổi góc.
+- Hook thiên về **thẩm mỹ/khó chịu nhẹ** (ố vàng, nặng trịch, chói màn) cho điểm thấp (Score 3) → nỗi đau càng "nguy hiểm/mất tiền" càng mạnh hơn nỗi đau "khó chịu".
+- **Chưa có hook nào tạo được share** → cần thử thêm yếu tố "mẹo hữu ích/đáng lưu lại" thay vì chỉ nêu vấn đề, vì share mới là đòn bẩy Score.
+- Tăng mẫu thử trước khi tin kết luận: chênh lệch hiện tại nằm trong nhiễu, nên **A/B test lại các hook top** để xác nhận chứ đừng tối ưu vội theo bảng này.
