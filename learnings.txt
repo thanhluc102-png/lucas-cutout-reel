@@ -1,8 +1,8 @@
-- Hook chạm "nỗi đau vật lý cầm nắm hằng ngày" (pin/ốp dày cui cộm túi, bám vân tay) đạt Score cao nhất (5) — ưu tiên mô tả khó chịu người dùng *sờ thấy mỗi ngày*.
-- Công thức thắng: nêu vấn đề cụ thể + hậu quả tức thì + emoji bực bội (😤😮‍💨), câu ngắn dưới 12 từ.
-- Sản phẩm phụ kiện nhỏ gắn liền cơ thể (sạc dự phòng, ốp chống vân tay) hút tương tác hơn balo/laptop.
-- Hook nhấn "mất tiền lớn" (máy 30 triệu, sửa cả cụm camera) hiệu quả vừa phải (Score 4) — dùng khi bán sản phẩm bảo vệ giá trị cao.
-- Tránh hook chung chung lặp ý "ố vàng/ngả vàng", "dày cui nứt máy" — bị lờn, chỉ đạt Score 3.
-- Tránh nhóm balo chống nước/ngăn đệm: tương tác thấp đều (Score 3-4), nỗi đau không đủ gấp.
-- Toàn bộ hook mới chỉ đạt 1 comment, 0 share — cần thêm yếu tố kích share: mẹo bất ngờ, so sánh trước/sau, hoặc câu hỏi gây tranh luận.
-- Mở đầu bằng tình huống đời thường + chữ "bạn/túi quần/quán cà phê" để tăng đồng cảm, chốt bằng câu hỏi tu từ.
+- Dữ liệu còn yếu để kết luận chắc: Score dao động 3–5, không có Share nào, Comments gần như luôn =1 → khác biệt chủ yếu đến từ Reactions.
+- Hook điểm cao nhất (Score=5) đều đánh vào nỗi đau cực kỳ cụ thể, hữu hình: "pin dự phòng dày cui nhét túi quần", "ốp bám vân tay đầy máy" → ưu tiên pain-point sờ-thấy-được hằng ngày.
+- Chủ đề cho tương tác nhỉnh hơn: pin/sạc dự phòng cồng kềnh và ốp lưng bẩn/vân tay → khai thác mạnh nhóm này.
+- Tránh hook trừu tượng hoặc lặp lại mòn: "ố vàng/ngả vàng" lặp nhiều lần nhưng chỉ Score=3 → giảm tần suất, đổi góc tiếp cận.
+- Nhóm "balo + laptop + mưa/rơi" bị lặp quá nhiều và đều Score thấp (3) → đang bão hòa, cần nghỉ hoặc làm mới hoàn toàn góc kể.
+- Ưu tiên chi tiết đời thường + vật thể ("túi quần", "máy đầy vân tay") hơn là viễn cảnh chung chung ("đánh cược con máy 30 triệu" chỉ 4đ).
+- Giữ công thức mở bằng nỗi khó chịu cụ thể + emoji 😤/😮‍💨, nhưng xoay đa dạng sản phẩm để không nhàm.
+- Chưa có hook nào tạo Share/Comment thật → thử thêm CTA gợi tranh luận hoặc câu hỏi chọn-lựa để đẩy Comments/Shares lên.
