@@ -1,8 +1,8 @@
-- Tất cả hook đều 0 share và hầu hết chỉ 1 comment → dữ liệu còn yếu, chênh lệch nhỏ (Score 3–5), chỉ nên xem là tín hiệu tham khảo, không phải quy luật chắc.
-- Score cao nhất (5) rơi vào hook "nỗi đau thân thể/bất tiện hằng ngày": pin dự phòng dày cui nhét túi quần, ốp bám vân tay — ưu tiên khai thác phiền toái cụ thể, chạm trực tiếp vào cảm giác khó chịu.
-- Phụ kiện nhỏ gắn với cơ thể/thói quen (pin dự phòng, ốp chống vân tay) nhỉnh hơn balo và hook chung chung → tập trung vật dụng dùng mỗi ngày, dễ liên tưởng.
-- Hook mở bằng tình huống cụ thể + chi tiết hình ảnh ("nhét túi quần", "bám vân tay đầy máy") ăn hơn hook trừu tượng ("lỏng lẻo", "run theo") → viết chi tiết, thấy được, sờ được.
-- Tránh lặp motif đã nhàm: "balo laptop nằm sát đáy", "ốp ngả vàng/ố vàng", "pin phồng" bị trùng nhiều lần mà Score thấp (3) → đổi góc, đừng xào lại cùng nỗi đau.
-- Emoji 😮‍💨 bị dùng tràn lan và đi kèm Score thấp; thử đa dạng emoji gắn đúng ngữ cảnh (🔋🔌😵) nhưng đừng để emoji thay cho nội dung.
-- Thêm số/định lượng gây sốc ("máy 30 triệu", "20W cả tiếng chưa đầy") giữ được Score 4 → chèn con số cụ thể để tăng sức nặng.
-- Chưa có hook nào tạo comment >1 hay share → thử thêm câu hỏi chốt kêu gọi bình luận hoặc tình huống "tag đứa bạn hay gặp" để kéo comment/share lên.
+- Hook chạm "nỗi đau vật lý cầm nắm hằng ngày" (pin/ốp dày cui cộm túi, bám vân tay) đạt Score cao nhất (5) — ưu tiên mô tả khó chịu người dùng *sờ thấy mỗi ngày*.
+- Công thức thắng: nêu vấn đề cụ thể + hậu quả tức thì + emoji bực bội (😤😮‍💨), câu ngắn dưới 12 từ.
+- Sản phẩm phụ kiện nhỏ gắn liền cơ thể (sạc dự phòng, ốp chống vân tay) hút tương tác hơn balo/laptop.
+- Hook nhấn "mất tiền lớn" (máy 30 triệu, sửa cả cụm camera) hiệu quả vừa phải (Score 4) — dùng khi bán sản phẩm bảo vệ giá trị cao.
+- Tránh hook chung chung lặp ý "ố vàng/ngả vàng", "dày cui nứt máy" — bị lờn, chỉ đạt Score 3.
+- Tránh nhóm balo chống nước/ngăn đệm: tương tác thấp đều (Score 3-4), nỗi đau không đủ gấp.
+- Toàn bộ hook mới chỉ đạt 1 comment, 0 share — cần thêm yếu tố kích share: mẹo bất ngờ, so sánh trước/sau, hoặc câu hỏi gây tranh luận.
+- Mở đầu bằng tình huống đời thường + chữ "bạn/túi quần/quán cà phê" để tăng đồng cảm, chốt bằng câu hỏi tu từ.
