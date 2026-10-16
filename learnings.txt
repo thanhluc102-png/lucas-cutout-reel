@@ -1,15 +1,8 @@
-- **Hook thắng nhất (Score 5):** nhấn **nỗi khổ vật lý cụ thể, hằng ngày** — "dày cui nhét túi quần là cực hình", "bám vân tay nhìn phát ghét". Mô tả cảm giác bực + hình ảnh rõ → kéo reactions thật.
-
-- **Sản phẩm mạnh:** pin dự phòng (mỏng/gọn) và ốp lưng (chống bám vân tay, mỏng nhẹ) — cho điểm cao nhất khi gắn với sự khó chịu khi cầm/nhét hằng ngày.
-
-- **Công thức viết tốt:** "[Vật dụng] + [khuyết điểm cụ thể gây bực] + ?/!" kèm emoji bực (😤😮‍💨). Câu ngắn, đời thường, nói trúng trải nghiệm người dùng tự trải.
-
-- **Kiểu kém, nên tránh:** hook dọa chung chung kiểu "rơi laptop là lo", "balo ướt là laptop run" — lặp lại nhàm, chỉ được 3 điểm, không ai reaction.
-
-- **Tránh lặp motif:** mảng balo chống nước và "rơi iPhone là lo" bị viết đi viết lại nhiều lần → bão hòa, tương tác đáy. Giảm tần suất, đổi góc.
-
-- **Thêm con số/chi tiết đắt giá** làm hook nổi: "30 triệu", "20W sạc cả tiếng", "sửa cả cụm" — tạo sức nặng cụ thể, dễ gây chú ý hơn lời than mơ hồ.
-
-- **Ưu tiên nỗi đau "cầm trên tay mỗi ngày"** (nặng, dày, trầy, bám bẩn, ố vàng) hơn nỗi đau "lỡ xảy ra" (rơi, mưa) — cái đầu chạm đúng bực tức thường trực nên tương tác nhỉnh hơn.
-
-- **Chưa hook nào có Share:** thử thêm tình huống "ai cũng dính" hoặc mẹo đáng chia sẻ để kích share — yếu tố còn thiếu hoàn toàn.
+- Hook thắng: cường điệu nỗi đau cụ thể + con số/hậu quả tiền bạc ("con máy 30 triệu", "sửa cả cụm"), đạt Score 4-5.
+- Sản phẩm mạnh nhất: sạc/pin dự phòng (phồng, dày cui) và ốp (bám vân tay, ố vàng) — kéo được Reactions thật, không chỉ 1 comment mồi.
+- Dùng chi tiết thân thể/cảm giác vật lý ("nhét túi quần là cực hình", "phồng cả túi") gây đồng cảm mạnh hơn mô tả chung chung.
+- Tránh hook balo chống nước/chống mưa: lặp đi lặp lại, toàn Score 3, bão hòa và nhàm.
+- Tránh hook quá chung ("rơi iPhone đủ tím tái", "ốp đẹp rơi tim rớt") — thiếu chi tiết nên trôi, chỉ đạt Score 3.
+- Mỗi hook khai thác 1 nỗi đau sắc, mới lạ; không viết trùng mô-típ đã ra nhiều (laptop ướt, pin phồng lặp lại).
+- Giữ độ dài 1 câu, kết bằng câu hỏi hoặc emoji cảm xúc (😬😮‍💨😤) — các bản Score cao đều ngắn, giật.
+- Ưu tiên gắn giá trị cụ thể (giá tiền, chi phí sửa, mức hỏng) để tăng sức nặng và reaction.
