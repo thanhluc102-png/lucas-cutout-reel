@@ -1,8 +1,15 @@
-- Hook mạnh nhất: nói trúng "nỗi đau vật lý" cụ thể, gợi hình ảnh khó chịu hàng ngày (pin phồng dày cui, ốp bám vân tay) — đạt Score 5, nhiều Reactions nhất.
-- Ưu tiên sản phẩm nhỏ gọn giải quyết phiền toái túi/quần áo (sạc dự phòng mỏng, ốp chống vân tay) hơn sản phẩm lớn (balo laptop) vì balo gần như chỉ đạt Score 3.
-- Dùng từ tượng hình đời thường: "dày cui", "nhét túi quần", "bới tung" — cho tương tác cao hơn hook trừu tượng/cảnh báo chung chung.
-- Tránh hook kiểu "đe dọa tài chính" dài dòng (máy 30 triệu, sửa cả cụm) — chỉ đạt Score 3-4, không bật Reactions.
-- Tránh lặp motif balo-dính-mưa / laptop-rơi-đáy: bị bão hòa, toàn Score 3, người xem lướt qua.
-- Câu ngắn, 1 nỗi đau duy nhất, kết bằng dấu hỏi + emoji cảm xúc (😤 😮‍💨) hiệu quả hơn emoji vật thể (🎒 🔌 🔋).
-- Chưa có hook nào tạo Share — cần thử thêm yếu tố "ai cũng dính" hoặc mẹo đáng chia sẻ để nâng Score.
-- Công thức ưu tiên: [vật dụng quen] + [trạng thái bực mình tượng hình] + [dấu hỏi] + [emoji mặt].
+- **Hook thắng nhất (Score 5):** nhấn **nỗi khổ vật lý cụ thể, hằng ngày** — "dày cui nhét túi quần là cực hình", "bám vân tay nhìn phát ghét". Mô tả cảm giác bực + hình ảnh rõ → kéo reactions thật.
+
+- **Sản phẩm mạnh:** pin dự phòng (mỏng/gọn) và ốp lưng (chống bám vân tay, mỏng nhẹ) — cho điểm cao nhất khi gắn với sự khó chịu khi cầm/nhét hằng ngày.
+
+- **Công thức viết tốt:** "[Vật dụng] + [khuyết điểm cụ thể gây bực] + ?/!" kèm emoji bực (😤😮‍💨). Câu ngắn, đời thường, nói trúng trải nghiệm người dùng tự trải.
+
+- **Kiểu kém, nên tránh:** hook dọa chung chung kiểu "rơi laptop là lo", "balo ướt là laptop run" — lặp lại nhàm, chỉ được 3 điểm, không ai reaction.
+
+- **Tránh lặp motif:** mảng balo chống nước và "rơi iPhone là lo" bị viết đi viết lại nhiều lần → bão hòa, tương tác đáy. Giảm tần suất, đổi góc.
+
+- **Thêm con số/chi tiết đắt giá** làm hook nổi: "30 triệu", "20W sạc cả tiếng", "sửa cả cụm" — tạo sức nặng cụ thể, dễ gây chú ý hơn lời than mơ hồ.
+
+- **Ưu tiên nỗi đau "cầm trên tay mỗi ngày"** (nặng, dày, trầy, bám bẩn, ố vàng) hơn nỗi đau "lỡ xảy ra" (rơi, mưa) — cái đầu chạm đúng bực tức thường trực nên tương tác nhỉnh hơn.
+
+- **Chưa hook nào có Share:** thử thêm tình huống "ai cũng dính" hoặc mẹo đáng chia sẻ để kích share — yếu tố còn thiếu hoàn toàn.
