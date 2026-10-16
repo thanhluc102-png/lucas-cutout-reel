@@ -1,9 +1,8 @@
-Lưu ý trước: dữ liệu này gần như không có khác biệt thật (toàn bộ Score 3-5, chênh nhau 1-2 reaction, 0 share, comment đều =1). Mọi "kết luận" dưới đây chỉ là xu hướng yếu, không đủ mẫu để chắc chắn.
-
-- Hook về **pin dự phòng dày/phồng** và **ốp bám vân tay** cho điểm cao nhất (Score 5) → ưu tiên nỗi đau vật lý cụ thể, sờ-thấy-được hàng ngày.
-- Gắn nỗi đau với **thiệt hại tiền bạc rõ ràng** ("laptop 30 triệu", "sửa cả cụm camera") giữ tương tác ổn → nên chèn con số/hậu quả đắt đỏ.
-- Hook mở bằng **câu hỏi + emoji bực bội** (😤 😮‍💨) hoạt động tốt hơn mô tả dài dòng → giữ ngắn, 1 câu, chạm đúng cơn khó chịu.
-- **Tránh lặp chủ đề quá nhiều**: nhóm "balo ướt/laptop" và "pin dự phòng dày" bị trùng ý nhiều lần, điểm tụt dần → mỗi nỗi đau chỉ khai thác 1-2 lần rồi đổi góc.
-- Hook thiên về **thẩm mỹ/khó chịu nhẹ** (ố vàng, nặng trịch, chói màn) cho điểm thấp (Score 3) → nỗi đau càng "nguy hiểm/mất tiền" càng mạnh hơn nỗi đau "khó chịu".
-- **Chưa có hook nào tạo được share** → cần thử thêm yếu tố "mẹo hữu ích/đáng lưu lại" thay vì chỉ nêu vấn đề, vì share mới là đòn bẩy Score.
-- Tăng mẫu thử trước khi tin kết luận: chênh lệch hiện tại nằm trong nhiễu, nên **A/B test lại các hook top** để xác nhận chứ đừng tối ưu vội theo bảng này.
+- Hook mạnh nhất: nói trúng "nỗi đau vật lý" cụ thể, gợi hình ảnh khó chịu hàng ngày (pin phồng dày cui, ốp bám vân tay) — đạt Score 5, nhiều Reactions nhất.
+- Ưu tiên sản phẩm nhỏ gọn giải quyết phiền toái túi/quần áo (sạc dự phòng mỏng, ốp chống vân tay) hơn sản phẩm lớn (balo laptop) vì balo gần như chỉ đạt Score 3.
+- Dùng từ tượng hình đời thường: "dày cui", "nhét túi quần", "bới tung" — cho tương tác cao hơn hook trừu tượng/cảnh báo chung chung.
+- Tránh hook kiểu "đe dọa tài chính" dài dòng (máy 30 triệu, sửa cả cụm) — chỉ đạt Score 3-4, không bật Reactions.
+- Tránh lặp motif balo-dính-mưa / laptop-rơi-đáy: bị bão hòa, toàn Score 3, người xem lướt qua.
+- Câu ngắn, 1 nỗi đau duy nhất, kết bằng dấu hỏi + emoji cảm xúc (😤 😮‍💨) hiệu quả hơn emoji vật thể (🎒 🔌 🔋).
+- Chưa có hook nào tạo Share — cần thử thêm yếu tố "ai cũng dính" hoặc mẹo đáng chia sẻ để nâng Score.
+- Công thức ưu tiên: [vật dụng quen] + [trạng thái bực mình tượng hình] + [dấu hỏi] + [emoji mặt].
