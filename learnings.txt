@@ -1,8 +1,15 @@
-- Hook đặt câu hỏi/tình huống khẩn cấp cụ thể ("Lốp non giữa đường mà không có bơm?") cho tương tác cao nhất — tạo kịch bản đời thực gây hoảng.
-- Thêm con số/đối tượng cụ thể ("1 tẩu cho 4 thiết bị", "iPhone 17") và cảm giác thể chất ("phồng túi quần", "bám vân tay", "nặng trịch") giúp điểm nhỉnh hơn.
-- Chủ đề pin dự phòng phồng/cồng kềnh và ốp bẩn/vân tay nhỉnh hơn mặt bằng — ưu tiên nỗi đau sờ thấy hàng ngày.
-- Mở bằng nỗi sợ riêng tư/mất mát ("người bên cạnh đọc hết tin nhắn", "rơi iPhone tím tái") khơi cảm xúc mạnh, nên khai thác thêm.
-- Tránh hook balo chống nước lặp đi lặp lại cùng mô-típ "mưa/ướt laptop" — bị bão hòa, tương tác đáy.
-- Tránh biến thể gần trùng ("pin dày cui phồng túi" lặp 3 lần) — mỗi reel cần góc đau mới, không xào lại.
-- Giữ hook 1 câu ngắn, kết bằng dấu hỏi + 1 emoji cảm xúc (😮‍💨😤) — đúng công thức nhóm điểm cao.
-- Chèn yếu tố bất ngờ/nghịch lý ("ốp dày cui mà rơi vẫn nứt", "ốp xịn vẫn ố vàng") để phá kỳ vọng, kích comment.
+- **Hook hiệu quả nhất: nhấn mạnh nỗi đau thể lý/cảm giác khó chịu cụ thể** (pin phồng cả túi quần, ốp bám vân tay nhìn phát ghét) — các hook này đạt Score cao nhất (5).
+
+- **Sản phẩm có tương tác tốt hơn: pin dự phòng mỏng, ốp chống vân tay, bơm lốp mini, sạc/tẩu chia điện** — phụ kiện nhỏ gọn giải quyết bất tiện hằng ngày.
+
+- **Dùng chi tiết hình ảnh hóa cụ thể** ("dày cui nhét túi quần là cực hình", "bới tung cả balo mới thấy sạc") thay vì nỗi lo chung chung → tăng reaction.
+
+- **Tránh lạm dụng hook "balo + laptop ướt mưa"**: lặp lại quá nhiều (6+ lần), tất cả chỉ Score=3, gây bão hòa và nhàm.
+
+- **Tránh hook kết thúc bằng câu hỏi lo sợ mơ hồ** ("rơi phát là lo", "tim rớt theo máy") — đều Score=3, cảm xúc nhạt, không chạm.
+
+- **Ưu tiên công thức: cảm giác bực/khó chịu RÕ RÀNG + emoji đồng cảm (😤 😵 😮‍💨)** — kết hợp này tạo reaction thật, không chỉ comment lịch sự.
+
+- **Giảm hook dọa "hỏng máy/tốn tiền sửa"** (trầy camera, nứt máy, ố vàng) — toàn Score=3, người xem thờ ơ.
+
+- **Thử nghiệm hook tò mò/bất ngờ về tính năng** ("một tẩu chia 4 thiết bị", "người bên cạnh đọc hết tin nhắn") để đa dạng, nhưng cần làm sắc hơn vì hiện vẫn chỉ Score=3.
