@@ -1,15 +1,8 @@
-- **Hook hiệu quả nhất: nhấn mạnh nỗi đau thể lý/cảm giác khó chịu cụ thể** (pin phồng cả túi quần, ốp bám vân tay nhìn phát ghét) — các hook này đạt Score cao nhất (5).
-
-- **Sản phẩm có tương tác tốt hơn: pin dự phòng mỏng, ốp chống vân tay, bơm lốp mini, sạc/tẩu chia điện** — phụ kiện nhỏ gọn giải quyết bất tiện hằng ngày.
-
-- **Dùng chi tiết hình ảnh hóa cụ thể** ("dày cui nhét túi quần là cực hình", "bới tung cả balo mới thấy sạc") thay vì nỗi lo chung chung → tăng reaction.
-
-- **Tránh lạm dụng hook "balo + laptop ướt mưa"**: lặp lại quá nhiều (6+ lần), tất cả chỉ Score=3, gây bão hòa và nhàm.
-
-- **Tránh hook kết thúc bằng câu hỏi lo sợ mơ hồ** ("rơi phát là lo", "tim rớt theo máy") — đều Score=3, cảm xúc nhạt, không chạm.
-
-- **Ưu tiên công thức: cảm giác bực/khó chịu RÕ RÀNG + emoji đồng cảm (😤 😵 😮‍💨)** — kết hợp này tạo reaction thật, không chỉ comment lịch sự.
-
-- **Giảm hook dọa "hỏng máy/tốn tiền sửa"** (trầy camera, nứt máy, ố vàng) — toàn Score=3, người xem thờ ơ.
-
-- **Thử nghiệm hook tò mò/bất ngờ về tính năng** ("một tẩu chia 4 thiết bị", "người bên cạnh đọc hết tin nhắn") để đa dạng, nhưng cần làm sắc hơn vì hiện vẫn chỉ Score=3.
+- Hook nêu "nỗi đau cụ thể + hậu quả thân thể/cảm xúc" (dày cui nhét túi quần là cực hình, trầy một vết sửa cả cụm) cho Score cao nhất 4-5 → ưu tiên.
+- Sản phẩm pin dự phòng, ốp lưng, bơm/phụ kiện xe cho tương tác nhỉnh hơn (Score 4-5) → khai thác nhiều hơn.
+- Dùng cảm xúc mạnh thành câu khẳng định ("là cả cực hình", "lo sốt vó") thắng câu hỏi chung chung ("phồng cả túi quần?" chỉ Score 3).
+- Thêm chi tiết đời thường + con số thực tế (4 thiết bị, 7 triệu, trầy 1 vết) tạo hình ảnh rõ, tăng chú ý.
+- Tránh hook balo chống nước lặp đi lặp lại (ướt laptop) — bão hòa, toàn Score 3, nhàm.
+- Tránh hook mơ hồ dạng hỏi suông kết thúc bằng "?" không có hậu quả cụ thể → tương tác thấp nhất.
+- Giữ hook ngắn 1 dòng, 1 emoji cuối, nhấn vào khoảnh khắc "mất mát/đau ví/đau tim" người đọc tự thấy mình trong đó.
+- Mở bằng tình huống bất ngờ/xâm phạm riêng tư (người bên cạnh đọc tin nhắn) để thử nghiệm biến thể gây tò mò mới.
