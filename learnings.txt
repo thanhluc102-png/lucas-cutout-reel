@@ -1,8 +1,8 @@
-- Hook nêu "nỗi đau cụ thể + hậu quả thân thể/cảm xúc" (dày cui nhét túi quần là cực hình, trầy một vết sửa cả cụm) cho Score cao nhất 4-5 → ưu tiên.
-- Sản phẩm pin dự phòng, ốp lưng, bơm/phụ kiện xe cho tương tác nhỉnh hơn (Score 4-5) → khai thác nhiều hơn.
-- Dùng cảm xúc mạnh thành câu khẳng định ("là cả cực hình", "lo sốt vó") thắng câu hỏi chung chung ("phồng cả túi quần?" chỉ Score 3).
-- Thêm chi tiết đời thường + con số thực tế (4 thiết bị, 7 triệu, trầy 1 vết) tạo hình ảnh rõ, tăng chú ý.
-- Tránh hook balo chống nước lặp đi lặp lại (ướt laptop) — bão hòa, toàn Score 3, nhàm.
-- Tránh hook mơ hồ dạng hỏi suông kết thúc bằng "?" không có hậu quả cụ thể → tương tác thấp nhất.
-- Giữ hook ngắn 1 dòng, 1 emoji cuối, nhấn vào khoảnh khắc "mất mát/đau ví/đau tim" người đọc tự thấy mình trong đó.
-- Mở bằng tình huống bất ngờ/xâm phạm riêng tư (người bên cạnh đọc tin nhắn) để thử nghiệm biến thể gây tò mò mới.
+- Hook mở bằng tình huống đau cụ thể, có hành động (nhét túi, bới balo, rơi máy) cho score cao nhất (4-5); tránh hook chung chung mơ hồ.
+- Chủ đề pin dự phòng mỏng/gọn và ốp chống bám vân tay đạt tương tác tốt nhất (Score=5) — ưu tiên khai thác.
+- Dùng icon cảm xúc mệt mỏi 😮‍💨 😤 hiệu quả hơn icon đồ vật đơn thuần (🔋 🎒 🔌 💧) vốn kéo Reactions về 0.
+- Viết hook dạng khẳng định nỗi đau (“dày cui nhét túi là cực hình”) ăn hơn dạng câu hỏi (“dày cui phồng túi?”) — câu hỏi dễ về Score=3.
+- Thêm chi tiết đời thường gây đồng cảm (trầy ống kính sửa cả cụm, bị đọc trộm tin nhắn, móc túi balo 7 triệu) giúp nhích Reactions.
+- Nhấn hậu quả/mất mát cảm xúc (“tim rớt theo máy”, “tím tái cả tuần”) tạo kết nối, nên lồng vào cuối hook.
+- Tránh lặp mô-típ “balo mưa/ướt laptop” quá nhiều — đã bão hòa, toàn Score=3, cần đổi góc.
+- Không hook nào đạt Share/Comment cao; cần thêm CTA kích chia sẻ hoặc câu hỏi chốt để đẩy Comments/Shares.
