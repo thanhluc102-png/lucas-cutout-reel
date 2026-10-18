@@ -1,15 +1,8 @@
-- **Cảnh báo quan trọng về dữ liệu:** Toàn bộ mẫu có Score 3-5, chênh lệch cực nhỏ (chỉ do 1-2 reactions lẻ), chưa đủ mạnh để kết luận chắc chắn — mọi đúc kết dưới đây chỉ là xu hướng yếu, cần A/B test thêm.
-
-- **Hook cho tương tác nhỉnh nhất (Score 4-5):** nêu tình huống khẩn/bối rối cụ thể có thể hình dung ngay — "bới tung balo mới thấy sạc", "lốp non giữa đường", "balo 7 triệu vẫn lo móc túi", "ốp bám vân tay nhìn phát ghét".
-
-- **Công thức thắng:** nỗi đau vật lý tức thời + chi tiết đời thường quen thuộc (vân tay, bới balo, kẹt giữa đường) → dễ gật gù, bỏ reaction.
-
-- **Kiểu nên tránh:** hook "rơi máy tim rớt", "ốp rơi nứt máy", "balo mưa ướt laptop" bị lặp lại quá nhiều lần với biến thể gần giống nhau → tất cả chỉ Score 3, gây nhàm, loãng.
-
-- **Đa dạng hóa sản phẩm:** ốp lưng và balo chống nước bị khai thác trùng lặp dày đặc; nên tăng tỉ lệ hook cho sạc/tẩu chia điện, bơm lốp, phụ kiện chống nhìn trộm — nhóm này mới lạ hơn.
-
-- **Dùng emoji gợi cảm xúc mạnh/hài** (😤 phát ghét) thay vì 😮‍💨 thở dài lặp lại — biến thể "phát ghét/nhìn ghét" có vẻ nhỉnh hơn giọng than vãn.
-
-- **Giữ hook dưới 12 chữ, 1 nỗi đau duy nhất,** kết bằng dấu hỏi hoặc chi tiết đắt; tránh mô tả chung chung "va nhẹ là lo".
-
-- **Cần làm để có kết luận thật:** thu thập thêm data đến khi có mẫu Score >15 và có Shares>0, vì hiện chưa reel nào tạo được share — đó mới là chỉ số cần tối ưu.
+- Dữ liệu quá đồng đều (Score 3–4, Shares=0 toàn bộ): chưa đủ mạnh để kết luận chắc, nhưng ưu tiên hook chạm nỗi đau cụ thể + có hình ảnh "mất mát".
+- Hook cho Score cao nhất (=4) đều là tình huống khẩn cấp/sự cố đời thực: "bới tung balo mới thấy sạc", "lốp non giữa đường không có bơm", "balo 7 triệu vẫn lo bị móc túi" → viết cảnh kẹt cụ thể, có thiệt hại.
+- Chèn con số/giá trị gây tiếc ("balo 7 triệu", "sửa cả cụm", "iPhone 17") làm tăng chú ý → nên gắn số cụ thể vào hook.
+- Tránh hook chung chung lặp mô-típ "Ốp rơi là nứt/tim rớt", "balo mưa ướt laptop" nhắc đi nhắc lại → bị bão hòa, chỉ đạt Score 3.
+- Giảm lạm dụng emoji 😮‍💨 (xuất hiện quá nhiều, nhàm) → đổi emoji khớp ngữ cảnh để nổi bật.
+- Chưa có reel nào tạo Share/Comment thật → thêm CTA tương tác trực tiếp cuối hook (hỏi "bạn từng chưa?", "gắn thẻ đứa hay quên sạc").
+- Ưu tiên sản phẩm có tình huống kịch tính rõ (bơm xe, định vị chống móc, túi tìm đồ nhanh) hơn nhóm ốp lưng/balo chống nước đã quá nhiều bài trùng ý.
+- Mỗi hook nên là 1 khoảnh khắc "ngay lúc gặp rắc rối" + hậu quả cụ thể, tránh câu hỏi mô tả khuyết điểm sản phẩm một cách mờ nhạt.
