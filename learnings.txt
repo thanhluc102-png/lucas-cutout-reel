@@ -1,8 +1,8 @@
-- Dữ liệu quá đồng đều (Score 3-4, không có share), khác biệt rất nhỏ nên chỉ rút xu hướng tương đối, không tuyệt đối hóa.
-- Hook điểm cao hơn (Score 4) thường có yếu tố "mất mát/an toàn tài sản" cụ thể: lốp non giữa đường, bị móc túi, rơi máy tim rớt, bàn làm việc rối tung — ưu tiên nỗi đau chạm tiền bạc & sự cố bất ngờ.
-- Sản phẩm cho tương tác nhỉnh hơn: củ sạc đa cổng (bàn làm việc rối/chằng chịt), balo chống trộm/chống sốc, ốp/bảo vệ máy khi rơi, bơm lốp mini — đẩy mạnh nhóm này.
-- Nên giữ công thức "nỗi đau cụ thể + hậu quả cảm xúc" trong 1 câu ngắn, kết câu hỏi (?) để kích comment — toàn bộ data đều có ít nhất 1 comment nhờ dạng hỏi.
-- Dùng emoji cảm xúc lo lắng/bực (😤😰👀) hiệu quả hơn emoji mô tả vật thể (🔋🎒💧) vốn chỉ đạt Score 3.
-- Tránh lặp mòn mô-típ "balo + mưa + ướt laptop" và "ốp dày cui" — bị dùng quá nhiều, toàn rơi mức Score 3, dấu hiệu bão hòa.
-- Thêm yếu tố riêng tư/bị theo dõi (đọc trộm màn hình, tin nhắn) có tiềm năng nhưng hiện chỉ Score 3 — thử nâng bằng tình huống xấu hổ cụ thể hơn.
-- Cần thử nghiệm hook kích SHARE (chưa video nào có share): dạng mẹo hữu ích/cảnh báo đáng lan truyền thay vì chỉ nêu nỗi đau.
+- Dữ liệu quá đồng đều (Score 3-4), tất cả chỉ 1 comment, không share → chưa có hook nào thật sự bùng nổ, cần thử nghiệm mạnh hơn.
+- Hook nhỉnh hơn (Score=4) đều chạm nỗi đau cụ thể + hậu quả thực tế: "rơi máy tim rớt theo", "lốp non giữa đường", "balo 7 triệu vẫn bị móc túi", "bàn 4-5 cục sạc chằng chịt".
+- Ưu tiên công thức: tình huống đời thường + hậu quả đáng sợ/khó chịu ngay lập tức, càng cụ thể số liệu càng tốt (7 triệu, 4 thiết bị, 5 cục sạc).
+- Nhóm sản phẩm cho tương tác tốt nhất: ốp chống sốc, balo chống trộm/chống nước, tẩu-sạc đa cổng gọn gàng.
+- Tránh hook chung chung lặp mô-típ "balo gặp mưa ướt laptop" (lặp 4 lần, Score đều thấp) → bão hòa, giảm tương tác.
+- Dùng emoji cảm xúc mạnh (😰😤👀) thay emoji trung tính (🎒💧) để kích phản ứng.
+- Viết dạng câu hỏi xoáy thẳng vào sợ hãi/tiếc tiền ("rơi 1 lần đủ tím tái cả tuần") hiệu quả hơn mô tả tính năng.
+- Thêm yếu tố "bị người khác nhìn/đọc trộm" khơi gợi riêng tư nhưng cần tăng kịch tính để đẩy từ Score 3 lên cao hơn.
