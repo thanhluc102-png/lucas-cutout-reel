@@ -1,8 +1,8 @@
-- Dữ liệu quá đồng đều (Score 3–4, Shares=0 toàn bộ): chưa đủ mạnh để kết luận chắc, nhưng ưu tiên hook chạm nỗi đau cụ thể + có hình ảnh "mất mát".
-- Hook cho Score cao nhất (=4) đều là tình huống khẩn cấp/sự cố đời thực: "bới tung balo mới thấy sạc", "lốp non giữa đường không có bơm", "balo 7 triệu vẫn lo bị móc túi" → viết cảnh kẹt cụ thể, có thiệt hại.
-- Chèn con số/giá trị gây tiếc ("balo 7 triệu", "sửa cả cụm", "iPhone 17") làm tăng chú ý → nên gắn số cụ thể vào hook.
-- Tránh hook chung chung lặp mô-típ "Ốp rơi là nứt/tim rớt", "balo mưa ướt laptop" nhắc đi nhắc lại → bị bão hòa, chỉ đạt Score 3.
-- Giảm lạm dụng emoji 😮‍💨 (xuất hiện quá nhiều, nhàm) → đổi emoji khớp ngữ cảnh để nổi bật.
-- Chưa có reel nào tạo Share/Comment thật → thêm CTA tương tác trực tiếp cuối hook (hỏi "bạn từng chưa?", "gắn thẻ đứa hay quên sạc").
-- Ưu tiên sản phẩm có tình huống kịch tính rõ (bơm xe, định vị chống móc, túi tìm đồ nhanh) hơn nhóm ốp lưng/balo chống nước đã quá nhiều bài trùng ý.
-- Mỗi hook nên là 1 khoảnh khắc "ngay lúc gặp rắc rối" + hậu quả cụ thể, tránh câu hỏi mô tả khuyết điểm sản phẩm một cách mờ nhạt.
+- Dữ liệu quá đồng đều (Score 3-4, không có share), khác biệt rất nhỏ nên chỉ rút xu hướng tương đối, không tuyệt đối hóa.
+- Hook điểm cao hơn (Score 4) thường có yếu tố "mất mát/an toàn tài sản" cụ thể: lốp non giữa đường, bị móc túi, rơi máy tim rớt, bàn làm việc rối tung — ưu tiên nỗi đau chạm tiền bạc & sự cố bất ngờ.
+- Sản phẩm cho tương tác nhỉnh hơn: củ sạc đa cổng (bàn làm việc rối/chằng chịt), balo chống trộm/chống sốc, ốp/bảo vệ máy khi rơi, bơm lốp mini — đẩy mạnh nhóm này.
+- Nên giữ công thức "nỗi đau cụ thể + hậu quả cảm xúc" trong 1 câu ngắn, kết câu hỏi (?) để kích comment — toàn bộ data đều có ít nhất 1 comment nhờ dạng hỏi.
+- Dùng emoji cảm xúc lo lắng/bực (😤😰👀) hiệu quả hơn emoji mô tả vật thể (🔋🎒💧) vốn chỉ đạt Score 3.
+- Tránh lặp mòn mô-típ "balo + mưa + ướt laptop" và "ốp dày cui" — bị dùng quá nhiều, toàn rơi mức Score 3, dấu hiệu bão hòa.
+- Thêm yếu tố riêng tư/bị theo dõi (đọc trộm màn hình, tin nhắn) có tiềm năng nhưng hiện chỉ Score 3 — thử nâng bằng tình huống xấu hổ cụ thể hơn.
+- Cần thử nghiệm hook kích SHARE (chưa video nào có share): dạng mẹo hữu ích/cảnh báo đáng lan truyền thay vì chỉ nêu nỗi đau.
