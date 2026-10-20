@@ -1,8 +1,8 @@
-- Dữ liệu còn rất yếu (Score 3–4), khác biệt nhỏ nên chỉ nên xem là tín hiệu tham khảo, không phải quy luật chắc chắn.
-- Hook cho điểm nhỉnh hơn (Score=4) đều nêu **tình huống nguy cơ cụ thể, dễ hình dung**: lốp non giữa đường, bị móc túi khi du lịch, bàn rối 4–5 cục sạc, rơi máy tim rớt — ưu tiên kiểu này.
-- Công thức hiệu quả: **nỗi đau cụ thể + hậu quả tức thì + emoji cảm xúc (😰😮‍💨🔌)**; càng vẽ được khoảnh khắc "đúng lúc cần thì hỏng" càng tốt.
-- Sản phẩm nhỉnh hơn: **phụ kiện giải quyết sự cố khẩn cấp hoặc gọn gàng hóa** (bơm xe mini, sạc đa cổng, balo chống trộm, ốp chống sốc) — tập trung khai thác nhóm này.
-- Nên tránh hook **chung chung lặp lại mô-típ "balo ướt laptop"** (xuất hiện quá nhiều, đều Score=3) và các nỗi đau trừu tượng/xa (mất hộ chiếu, đọc trộm màn hình) — kém kéo tương tác.
-- Thêm **con số/định lượng gây sốc** (7 triệu vẫn lo, 4 thiết bị 1 tẩu, 5 cục sạc) giúp tăng reaction — nên lồng số liệu vào hook.
-- Không có share nào trong toàn bộ dữ liệu → cần thêm **yếu tố đáng chia sẻ**: mẹo hữu ích, tình huống "ai cũng từng gặp", hoặc kết quả bất ngờ để kích share.
-- Đa dạng hóa nỗi đau thay vì lặp 1 sản phẩm; mỗi hook nên gắn **một cảnh đời thực khác nhau** để tránh bão hòa và test được nhiều góc.
+- Mọi hook đều có đúng 1 comment (Score sàn = 3); chênh lệch duy nhất đến từ Reactions, nên ưu tiên hook khơi được cảm xúc "thả tim/phẫn nộ".
+- Score cao nhất (4) rơi vào: bơm lốp khẩn cấp, chống trộm/móc túi, gom nhiều cục sạc về một mối, chống sốc laptop trong balo, nỗi sợ rơi máy — tập trung khai thác các chủ đề này.
+- Công thức thắng: "Vấn đề đau + con số/tình huống cụ thể + emoji cảm xúc" (ví dụ "Balo 7 triệu mà vẫn lo móc túi?", "Bàn làm việc 5 cục sạc chằng chịt?").
+- Dùng số cụ thể (4 thiết bị, 5 cục sạc, 7 triệu, rơi 4 mét) tăng độ tin và tương tác hơn mô tả chung chung.
+- Hook dạng câu hỏi "nỗi lo quen thuộc" + emoji 🔌🎒😰 hiệu quả hơn hook kể lể hoặc cảnh báo trừu tượng.
+- Nên tránh lặp mô-típ "ốp dày cui/ố vàng" và "balo đi mưa ướt laptop" — bị dùng quá nhiều, tương tác chạm đáy (Score=3).
+- Tránh hook mơ hồ, thiếu tình huống chạm trực tiếp ("Rơi 4 mét vẫn lành lặn?", "Mất hộ chiếu...") — chưa đủ lực kéo Reaction.
+- Mỗi hook nên chèn 1 chi tiết "giật mình/riêng tư" (đọc trộm màn hình, tím tái cả tuần) để kích comment, nhưng cần thêm yếu tố số liệu để kéo thêm Reaction.
