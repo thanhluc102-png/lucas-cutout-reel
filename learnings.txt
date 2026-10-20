@@ -1,8 +1,7 @@
-- Mọi hook đều có đúng 1 comment (Score sàn = 3); chênh lệch duy nhất đến từ Reactions, nên ưu tiên hook khơi được cảm xúc "thả tim/phẫn nộ".
-- Score cao nhất (4) rơi vào: bơm lốp khẩn cấp, chống trộm/móc túi, gom nhiều cục sạc về một mối, chống sốc laptop trong balo, nỗi sợ rơi máy — tập trung khai thác các chủ đề này.
-- Công thức thắng: "Vấn đề đau + con số/tình huống cụ thể + emoji cảm xúc" (ví dụ "Balo 7 triệu mà vẫn lo móc túi?", "Bàn làm việc 5 cục sạc chằng chịt?").
-- Dùng số cụ thể (4 thiết bị, 5 cục sạc, 7 triệu, rơi 4 mét) tăng độ tin và tương tác hơn mô tả chung chung.
-- Hook dạng câu hỏi "nỗi lo quen thuộc" + emoji 🔌🎒😰 hiệu quả hơn hook kể lể hoặc cảnh báo trừu tượng.
-- Nên tránh lặp mô-típ "ốp dày cui/ố vàng" và "balo đi mưa ướt laptop" — bị dùng quá nhiều, tương tác chạm đáy (Score=3).
-- Tránh hook mơ hồ, thiếu tình huống chạm trực tiếp ("Rơi 4 mét vẫn lành lặn?", "Mất hộ chiếu...") — chưa đủ lực kéo Reaction.
-- Mỗi hook nên chèn 1 chi tiết "giật mình/riêng tư" (đọc trộm màn hình, tím tái cả tuần) để kích comment, nhưng cần thêm yếu tố số liệu để kéo thêm Reaction.
+- Mọi hook đều có 1 comment nhưng gần như 0 share và 0–1 reaction: tương tác tổng thể rất thấp, cần nâng mạnh về chất lượng, đừng lặp công thức cũ.
+- Hook cho điểm cao hơn (Score=4) đều là dạng nêu "nỗi đau cụ thể + con số/tình huống đời thực": lốp non giữa đường, balo 7 triệu vẫn bị móc túi, bàn 4–5 cục sạc chằng chịt → ưu tiên kiểu này.
+- Thêm con số cụ thể (4 thiết bị, 5 cục sạc, 7 triệu, 4 mét) giúp hook nhỉnh hơn hook chung chung → luôn chèn số liệu gây tò mò.
+- Nhóm sạc/tẩu chia điện và balo chống trộm/chống nước tạo reaction tốt hơn nhóm ốp lưng → đẩy mạnh phụ kiện "giải quyết sự bừa bộn/an toàn".
+- Hook ốp lưng lặp mô-típ "rơi máy, tim rớt, ố vàng, dày nặng" đang bão hòa, chỉ đạt Score=3 → tránh viết trùng, cần góc mới.
+- Tránh hook mơ hồ thiên cảm xúc suông ("đọc trộm màn hình", "mất hộ chiếu") vì không bật được reaction/share.
+- Mỗi hook nên kết bằng câu hỏi khơi phản hồi để giữ lượng comment, nhưng kèm yếu tố bất ngờ/thách thức ("bạn tin không?") để kích share.
