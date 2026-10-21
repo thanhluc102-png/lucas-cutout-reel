@@ -1,8 +1,8 @@
-- Mọi hook đều có 1 comment nhưng gần như 0 share → toàn bộ nội dung chưa đủ "đáng chia sẻ"; mục tiêu tiếp theo là tăng Reactions + Shares, không chỉ comment.
-- Hook điểm cao nhất (Score=4) đều có cấu trúc "tình huống đau + con số/kịch tính cụ thể": "Rơi 4 mét vẫn lành lặn", "Balo 7 triệu vẫn lo móc túi", "Lốp non giữa đường mà không có bơm" → ưu tiên thêm số liệu, giá tiền, khoảng cách, số lượng thiết bị.
-- Hook về nỗi sợ cụ thể gây đồng cảm mạnh (rơi máy/tim rớt, bàn sạc chằng chịt, lốp non) kéo được Reaction → dùng nỗi đau đời thường, dễ hình dung, có hình ảnh vật lý rõ ràng.
-- Hook chung chung, lặp motif cũ ("Balo đi mưa ướt laptop" lặp 4 lần, "ốp dày cui") chỉ đạt Score=3 → tránh viết trùng ý, tránh mô tả vấn đề mơ hồ không có chi tiết gây sốc.
-- Emoji 😮‍💨 bị lạm dụng và gắn với nhiều hook điểm thấp → đổi sang emoji khớp bối cảnh (😰 lo sợ, 👀 soi mói, 🔌 thiết bị) để tăng cảm xúc.
-- Sản phẩm sạc đa cổng và phụ kiện xe (bơm lốp) cho tương tác nhỉnh hơn → khai thác thêm sản phẩm "giải quyết rắc rối số đông" có yếu tố tiện ích rõ ràng.
-- Công thức viết nên theo: [Tình huống đau cụ thể] + [con số/chi tiết gây sốc] + [câu hỏi khiến người đọc thấy chính mình] → ví dụ "Rơi 4 mét vẫn lành lặn, bạn tin không?".
-- Thêm yếu tố kích share: chèn thông tin hữu ích/bất ngờ đáng khoe (kết quả test, mẹo, so sánh giá) thay vì chỉ nêu nỗi sợ, vì nỗi sợ hiện chỉ sinh comment chứ không sinh share.
+- Dùng hook "nỗi đau cụ thể + hậu quả tức thì" (rơi máy, ướt laptop, lốp non) cho tương tác nhỉnh hơn hook chê sản phẩm cũ (ốp dày, mất dáng).
+- Thêm con số/tình huống sốc gây tò mò ("Rơi 4 mét vẫn lành", "Lốp non giữa đường", "Balo 7 triệu vẫn bị móc túi") để kéo Reactions lên.
+- Ưu tiên sản phẩm bảo vệ tài sản giá trị: ốp chống sốc, balo chống nước/chống trộm, bơm lốp, sạc đa cổng — nhóm này ăn điểm đều.
+- Tránh hook chỉ than phiền chung chung, bị động ("Ốp dày làm máy nặng", "mất dáng mỏng") vì Reactions = 0, hiệu quả thấp nhất.
+- Viết dạng câu hỏi khơi đúng nỗi lo người dùng + 1 emoji cảm xúc (😰😮‍💨), tránh nhồi nhiều emoji.
+- Lồng chi tiết đời thường có thể hình dung (xe buýt đọc trộm, công tác 3 ngày, mưa ướt laptop) để tăng khả năng tương tác.
+- Nhấn mạnh con số/lợi ích định lượng (1 tẩu chia 4 thiết bị, rơi 4m lành lặn) thay vì tính từ cảm tính chung.
+- Giữ hook ngắn 1 câu, dồn vào 1 nỗi đau duy nhất; đừng gộp nhiều vấn đề làm loãng thông điệp.
