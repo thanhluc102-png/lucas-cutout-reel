@@ -1,8 +1,8 @@
-- Dùng hook "nỗi đau cụ thể + hậu quả tức thì" (rơi máy, ướt laptop, lốp non) cho tương tác nhỉnh hơn hook chê sản phẩm cũ (ốp dày, mất dáng).
-- Thêm con số/tình huống sốc gây tò mò ("Rơi 4 mét vẫn lành", "Lốp non giữa đường", "Balo 7 triệu vẫn bị móc túi") để kéo Reactions lên.
-- Ưu tiên sản phẩm bảo vệ tài sản giá trị: ốp chống sốc, balo chống nước/chống trộm, bơm lốp, sạc đa cổng — nhóm này ăn điểm đều.
-- Tránh hook chỉ than phiền chung chung, bị động ("Ốp dày làm máy nặng", "mất dáng mỏng") vì Reactions = 0, hiệu quả thấp nhất.
-- Viết dạng câu hỏi khơi đúng nỗi lo người dùng + 1 emoji cảm xúc (😰😮‍💨), tránh nhồi nhiều emoji.
-- Lồng chi tiết đời thường có thể hình dung (xe buýt đọc trộm, công tác 3 ngày, mưa ướt laptop) để tăng khả năng tương tác.
-- Nhấn mạnh con số/lợi ích định lượng (1 tẩu chia 4 thiết bị, rơi 4m lành lặn) thay vì tính từ cảm tính chung.
-- Giữ hook ngắn 1 câu, dồn vào 1 nỗi đau duy nhất; đừng gộp nhiều vấn đề làm loãng thông điệp.
+- Dữ liệu cảnh báo: toàn bộ Score 3-4, Shares=0, Comments=1 (có thể do seeding), chênh lệch không đủ lớn để kết luận chắc chắn — đọc dưới đây như xu hướng yếu, không phải chân lý.
+- Hook nhỉnh hơn (Score=4) khi nêu **con số cụ thể + hậu quả hình ảnh**: "Rơi 4 mét vẫn lành lặn", "Lốp non giữa đường mà không có bơm", "Balo 7 triệu vẫn lo móc túi" → ưu tiên số liệu và tình huống đau cụ thể.
+- Nhóm sản phẩm gợi tương tác tốt hơn: **ốp chống sốc, balo chống va/chống trộm laptop, sạc đa cổng/tẩu chia điện, bơm lốp** — xoay quanh nỗi sợ mất mát tài sản hữu hình.
+- Công thức ăn tiền: **nỗi đau cụ thể + emoji cảm xúc (😮‍💨😰) + ngụ ý giải pháp**, kết bằng câu hỏi hoặc "khỏi lo".
+- Nên tránh: hook chung chung lặp mô-típ "Balo đi mưa ướt laptop" (bị lặp 3 lần, đều Score=3) — trùng ý gây chai, mất hiệu quả.
+- Nên tránh: hook thiên về riêng tư/trừu tượng ("đọc trộm màn hình", "mất hộ chiếu") — đều Score=3, nỗi đau mơ hồ khó kích share.
+- Tránh chê sản phẩm kiểu phủ định ("ốp dày làm mất dáng") — Score=3, kém hơn hook khơi nỗi sợ trực tiếp.
+- Hành động tiếp theo: test hook có **số liệu sốc + lời hứa kết quả**, đẩy mạnh CTA tạo comment/share vì đây là điểm yếu lớn nhất (Shares luôn =0).
