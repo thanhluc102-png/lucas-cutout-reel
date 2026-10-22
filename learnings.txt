@@ -1,8 +1,8 @@
-- Dữ liệu tương tác quá thấp và đồng đều (Score 3–4), chênh lệch chỉ 1 reaction — chưa đủ để kết luận mạnh, cần đọc như xu hướng gợi ý, không phải quy luật.
-- Hook điểm cao hơn (Score 4) thường gắn nỗi sợ tổn thất vật chất tức thì: rơi máy, xước laptop, lốp non, móc túi — cảm xúc "đau" cụ thể, dễ hình dung.
-- Sản phẩm nhỉnh hơn: balo chống sốc/chống trộm, ốp/case chống rơi, bơm lốp, hub sạc gọn bàn — đồ giải quyết sự cố "mất mát" rõ ràng.
-- Hook dùng con số cụ thể ("Rơi 4 mét vẫn lành", "7 triệu vẫn lo móc túi", "4 thiết bị 1 tẩu") tạo tò mò và nhỉnh điểm hơn hook chung chung.
-- Nên tránh hook về quyền riêng tư/nhìn trộm màn hình và mất ví/hộ chiếu — đều ở mức thấp (Score 3), nỗi đau trừu tượng, ít tính khẩn cấp.
-- Mô-típ "Balo đi mưa ướt laptop" bị lặp nhiều lần nhưng luôn điểm thấp — tránh lặp góc cũ, đổi sang nỗi đau va đập/trộm cắp.
-- Công thức viết nên dùng: [sự cố đau cụ thể] + [con số/chi tiết sốc] + [emoji cảm xúc mạnh 😰😮‍💨], đặt ngay câu đầu.
-- Cảnh báo: 0 share toàn bộ mẫu — nội dung chưa đủ "đáng chia sẻ"; thử thêm yếu tố bất ngờ/hữu ích để ai đó muốn gửi cho bạn bè.
+- Hook nêu nỗi đau cụ thể + hậu quả vật lý tức thì (rơi máy, lốp non, laptop va đập) cho Score cao nhất (4); ưu tiên kiểu này.
+- Luôn chèn con số/tình huống gây sốc ("Rơi 4 mét vẫn lành", "4 thiết bị cùng lúc", "7 triệu vẫn bị móc túi") để tăng cảm xúc.
+- Sản phẩm bảo vệ đồ (ốp chống sốc, balo chống va/laptop, tẩu-sạc đa cổng) tương tác nhỉnh hơn nhóm riêng tư/chống nhìn trộm.
+- Dùng emoji cảm xúc mạnh (😰😮‍💨) đặt cuối câu để khơi lo lắng, hiệu quả hơn emoji đồ vật (🔌🎒).
+- Tránh hook chống nhìn trộm/đọc trộm màn hình và mất giấy tờ — luôn rớt về Score thấp (3).
+- Viết dạng câu hỏi tu từ chạm trực tiếp trải nghiệm thường ngày, ngắn gọn 1 dòng, không lan man.
+- Tổng tương tác toàn bộ vẫn rất thấp (0 share, comment ~1): cần CTA kích share/bình luận và hook mới lạ hơn thay vì lặp mô-típ "rơi/ướt/rối".
+- Hạn chế lặp cùng nỗi đau (balo laptop, bàn sạc chằng chịt) nhiều lần vì gây bão hòa, không tạo đột phá tương tác.
