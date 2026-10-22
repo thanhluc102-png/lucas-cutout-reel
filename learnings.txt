@@ -1,8 +1,15 @@
-- Hook nêu nỗi đau cụ thể + hậu quả vật lý tức thì (rơi máy, lốp non, laptop va đập) cho Score cao nhất (4); ưu tiên kiểu này.
-- Luôn chèn con số/tình huống gây sốc ("Rơi 4 mét vẫn lành", "4 thiết bị cùng lúc", "7 triệu vẫn bị móc túi") để tăng cảm xúc.
-- Sản phẩm bảo vệ đồ (ốp chống sốc, balo chống va/laptop, tẩu-sạc đa cổng) tương tác nhỉnh hơn nhóm riêng tư/chống nhìn trộm.
-- Dùng emoji cảm xúc mạnh (😰😮‍💨) đặt cuối câu để khơi lo lắng, hiệu quả hơn emoji đồ vật (🔌🎒).
-- Tránh hook chống nhìn trộm/đọc trộm màn hình và mất giấy tờ — luôn rớt về Score thấp (3).
-- Viết dạng câu hỏi tu từ chạm trực tiếp trải nghiệm thường ngày, ngắn gọn 1 dòng, không lan man.
-- Tổng tương tác toàn bộ vẫn rất thấp (0 share, comment ~1): cần CTA kích share/bình luận và hook mới lạ hơn thay vì lặp mô-típ "rơi/ướt/rối".
-- Hạn chế lặp cùng nỗi đau (balo laptop, bàn sạc chằng chịt) nhiều lần vì gây bão hòa, không tạo đột phá tương tác.
+- Mọi hook chỉ đạt Score 3–4, chênh lệch duy nhất đến từ 1 reaction: dữ liệu quá nghèo, không hook nào tạo được comment >1 hay share >0.
+
+- Hook thắng nhẹ (Score 4) nghiêng về nỗi sợ "hư hỏng vật lý tức thì": rơi máy, lốp non, laptop va đập, rơi 4 mét vẫn lành — nỗi đau cụ thể, hình dung được ngay.
+
+- Hook kém (Score 3) thường trừu tượng hoặc lặp lại: mất ví/hộ chiếu, cáp rối, đi công tác 2 túi, lộ màn hình — cảnh báo mơ hồ, khó thấy "đau" ngay lập tức.
+
+- Ưu tiên công thức: "tình huống rơi/va/hỏng + cảm xúc tiếc nuối" (tim rớt, tím tái, tim rụng) → nhóm này đạt điểm cao ổn định hơn.
+
+- Tránh lặp motif đã nhàm: "balo + laptop ướt/va", "bàn 4-5 cục sạc", "đọc trộm màn hình" bị dùng nhiều lần mà vẫn Score thấp — giảm tần suất, đổi góc mới.
+
+- Chèn con số gây sốc tạo tò mò ("rơi 4 mét vẫn lành", "balo 7 triệu vẫn bị móc") giúp kéo reaction tốt hơn hook chung chung.
+
+- Toàn bộ chưa có share nào: cần thêm yếu tố "đáng khoe/đáng tag bạn" (mẹo bất ngờ, demo chứng minh, giá hời) để kích share — hiện đang thiếu hoàn toàn.
+
+- Giữ emoji 1 cái/cuối hook và câu hỏi gợi nỗi đau vẫn ổn, nhưng cần CTA hoặc cú twist ở cuối để nâng comment vượt mốc 1.
