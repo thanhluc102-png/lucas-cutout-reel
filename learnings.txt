@@ -1,8 +1,8 @@
-- Hook kể tình huống **đau cụ thể + có con số** (balo 7 triệu, rơi 4 mét, 3 ngày, 4-5 cục sạc) đạt Score cao nhất (4); ưu tiên công thức "sự cố quen thuộc + số liệu gây sốc".
-- Thêm **1 reaction ngầm** đến từ hook chạm nỗi lo tài sản/thiết bị (laptop va xước, rơi máy, móc túi khi du lịch) — nhóm bảo vệ đồ đạc hiệu quả hơn nhóm tiện lợi.
-- Hook dạng **câu hỏi "...mà vẫn lo...?"** kéo tương tác tốt hơn câu kể trần thuật hay cảnh báo.
-- Tránh hook **mơ hồ, chung chung, kết luận sẵn** (Mưa khỏi lo, Mở là thấy hết, Đóng gói như vali) — Score thấp (3), không tạo tò mò.
-- Tránh hook **quá niche/thẩm mỹ nhỏ lẻ** (ốp dày mất dáng, ốp bóng vân tay, đọc trộm màn hình) — chạm ít người, Score thấp.
-- Gắn **emoji đúng ngữ cảnh sản phẩm** (🎒 balo, 🔌 sạc, 😰 nỗi sợ mất mát) giúp hook rõ nghĩa; đừng lạm dụng emoji trừu tượng (😶‍🌫️).
-- Toàn bộ dữ liệu **Shares=0, Comments≈1** → đừng kỳ vọng share tự nhiên; viết CTA mời **bình luận/hỏi giá** để đẩy Comments (hệ số 3).
-- Công thức an toàn: **[Số liệu/tình huống cụ thể] + [nỗi lo mất-hỏng-rối] + [câu hỏi mở] + [emoji sản phẩm]**.
+- Hook nêu **con số tiền cụ thể** ("Balo 7 triệu", "Rơi 4 mét") cho score cao nhất (4) — luôn chèn số/giá/thông số gây tò mò.
+- Hook mô tả **nỗi đau mất mát + cảm xúc mạnh** ("tim rớt theo", "ác mộng thật sự", "rơi một phát") kéo reaction tốt hơn hook liệt kê khô khan.
+- Hook **"nhiều cục sạc/túi lộn xộn"** (bàn rối, 4-5 cục sạc) đạt score 4 khi có số đếm cụ thể; cùng chủ đề nhưng chung chung ("mang 3 cục sạc") chỉ được 3 — luôn gắn số đo đếm được.
+- Sản phẩm **balo chống sốc/chống trộm laptop** và **sạc đa cổng gọn gàng** là 2 nhóm mạnh nhất, ưu tiên khai thác.
+- Hook **ốp lưng** ("ốp dày mất dáng", "ốp bóng vân tay") đều score thấp (3) — nhóm yếu, hạn chế hoặc đổi góc tiếp cận đau hơn.
+- Tránh hook chỉ **nêu tính năng/giải pháp phẳng** ("Chuyện đó khỏi lo", "mở là thấy hết") vì thiếu kịch tính, score thấp.
+- Công thức thắng: **[Con số cụ thể] + [tình huống đời thường] + [hậu quả cảm xúc mạnh] + emoji lo lắng** (😰😮‍💨🎒🔌).
+- Không hook nào đạt share — cần thêm yếu tố **bất ngờ đáng khoe/mẹo hữu ích** ("Rơi 4 mét vẫn lành lặn, tin không?") để kích share, đẩy mạnh dạng "thử thách/khó tin".
