@@ -1,8 +1,7 @@
-- Hook mở đầu bằng câu hỏi "pain point" cụ thể (lốp non, rơi máy, 4 cục sạc, móc túi) cho Score cao nhất (4) — luôn mở bằng câu hỏi chạm nỗi đau trực tiếp.
-- Thêm con số/chi tiết cụ thể ("Balo 7 triệu", "Rơi 4 mét", "4 cục sạc") tăng tương tác; tránh hook chung chung mơ hồ.
-- Hook gợi cảm giác nguy cơ/mất mát tức thì (rơi vỡ, lủng túi, hỏng đồ) hiệu quả hơn hook cảnh báo bị động ("đọc trộm màn hình", "mất hộ chiếu") chỉ đạt Score 3.
-- Dùng emoji cảm xúc căng thẳng 😰😮‍💨😤 đặt cuối hook để khơi phản ứng; 1 emoji là đủ.
-- Tránh hook kể lể/khẳng định nhẹ nhàng ("Chuyện đó khỏi lo", "bạn tin không?") — kéo tương tác xuống.
-- Ưu tiên sản phẩm giải quyết rủi ro vật lý tức thì (ốp chống sốc, ngăn laptop chống va, bơm mini); nhóm "tiện lợi gọn gàng" (gộp sạc, 1 túi thay 2) cho tương tác thấp hơn.
-- Giữ hook 1 câu ngắn, kết bằng dấu "?" để kích comment — comment là nguồn Score ổn định nhất.
-- Nhạn chế lặp cùng một mô-típ "balo laptop" nhiều lần; đa dạng ngữ cảnh pain point để tránh bão hòa tương tác.
+- Dải Score cực hẹp (3–4), khác biệt chỉ nằm ở 1 Reaction; không hook nào tạo được Comment thật hay Share → toàn bộ tương tác là mức sàn, chưa có "hit" thực sự.
+- Hook ghi điểm cao hơn (Score=4): nhấn mạnh **nỗi sợ mất mát/hư hỏng vật lý tức thì** — rơi máy, lốp non, laptop va đập, bị móc túi, rối dây sạc — gắn với hành động cụ thể dễ hình dung.
+- Hook kém hơn (Score=3): thiên về **thẩm mỹ/khó chịu nhẹ** (ốp dày mất dáng, vân tay, trơn tay) hoặc nỗi lo trừu tượng, xa (mất hộ chiếu, đọc trộm màn hình) → ít chạm, nên hạn chế.
+- Sản phẩm an toàn nhất: **túi/balo chống sốc, ốp chống rơi, sạc GaN gọn gọn, bơm mini** — nhóm "giải cứu sự cố" cho điểm ổn định; nhóm "làm đẹp/riêng tư" cho điểm thấp.
+- Công thức hook thắng: **Tình huống hỏng hóc cụ thể + con số/hậu quả + emoji 😮‍💨😰** ("Rơi 4 mét vẫn lành lặn", "lốp non giữa đường") — số liệu gây tò mò kéo Reaction.
+- Nên tránh: hook mở đầu bằng vấn đề mơ hồ, không có vật/số cụ thể (đọc trộm, mất giấy tờ) vì không bật được cảm xúc tức thời.
+- Vì chưa có Share/Comment thật, hook tiếp theo cần thêm **yếu tố bất ngờ hoặc kêu gọi phản hồi** (hỏi "bạn tin không?", "ai từng dính?") để ép tương tác vượt mức sàn.
