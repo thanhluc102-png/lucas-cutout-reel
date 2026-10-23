@@ -1,7 +1,8 @@
-- Dải Score cực hẹp (3–4), khác biệt chỉ nằm ở 1 Reaction; không hook nào tạo được Comment thật hay Share → toàn bộ tương tác là mức sàn, chưa có "hit" thực sự.
-- Hook ghi điểm cao hơn (Score=4): nhấn mạnh **nỗi sợ mất mát/hư hỏng vật lý tức thì** — rơi máy, lốp non, laptop va đập, bị móc túi, rối dây sạc — gắn với hành động cụ thể dễ hình dung.
-- Hook kém hơn (Score=3): thiên về **thẩm mỹ/khó chịu nhẹ** (ốp dày mất dáng, vân tay, trơn tay) hoặc nỗi lo trừu tượng, xa (mất hộ chiếu, đọc trộm màn hình) → ít chạm, nên hạn chế.
-- Sản phẩm an toàn nhất: **túi/balo chống sốc, ốp chống rơi, sạc GaN gọn gọn, bơm mini** — nhóm "giải cứu sự cố" cho điểm ổn định; nhóm "làm đẹp/riêng tư" cho điểm thấp.
-- Công thức hook thắng: **Tình huống hỏng hóc cụ thể + con số/hậu quả + emoji 😮‍💨😰** ("Rơi 4 mét vẫn lành lặn", "lốp non giữa đường") — số liệu gây tò mò kéo Reaction.
-- Nên tránh: hook mở đầu bằng vấn đề mơ hồ, không có vật/số cụ thể (đọc trộm, mất giấy tờ) vì không bật được cảm xúc tức thời.
-- Vì chưa có Share/Comment thật, hook tiếp theo cần thêm **yếu tố bất ngờ hoặc kêu gọi phản hồi** (hỏi "bạn tin không?", "ai từng dính?") để ép tương tác vượt mức sàn.
+- Hook kể tình huống **đau cụ thể + có con số** (balo 7 triệu, rơi 4 mét, 3 ngày, 4-5 cục sạc) đạt Score cao nhất (4); ưu tiên công thức "sự cố quen thuộc + số liệu gây sốc".
+- Thêm **1 reaction ngầm** đến từ hook chạm nỗi lo tài sản/thiết bị (laptop va xước, rơi máy, móc túi khi du lịch) — nhóm bảo vệ đồ đạc hiệu quả hơn nhóm tiện lợi.
+- Hook dạng **câu hỏi "...mà vẫn lo...?"** kéo tương tác tốt hơn câu kể trần thuật hay cảnh báo.
+- Tránh hook **mơ hồ, chung chung, kết luận sẵn** (Mưa khỏi lo, Mở là thấy hết, Đóng gói như vali) — Score thấp (3), không tạo tò mò.
+- Tránh hook **quá niche/thẩm mỹ nhỏ lẻ** (ốp dày mất dáng, ốp bóng vân tay, đọc trộm màn hình) — chạm ít người, Score thấp.
+- Gắn **emoji đúng ngữ cảnh sản phẩm** (🎒 balo, 🔌 sạc, 😰 nỗi sợ mất mát) giúp hook rõ nghĩa; đừng lạm dụng emoji trừu tượng (😶‍🌫️).
+- Toàn bộ dữ liệu **Shares=0, Comments≈1** → đừng kỳ vọng share tự nhiên; viết CTA mời **bình luận/hỏi giá** để đẩy Comments (hệ số 3).
+- Công thức an toàn: **[Số liệu/tình huống cụ thể] + [nỗi lo mất-hỏng-rối] + [câu hỏi mở] + [emoji sản phẩm]**.
