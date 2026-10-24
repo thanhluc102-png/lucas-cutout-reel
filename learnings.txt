@@ -1,8 +1,8 @@
-- Hook nêu **con số tiền cụ thể** ("Balo 7 triệu", "Rơi 4 mét") cho score cao nhất (4) — luôn chèn số/giá/thông số gây tò mò.
-- Hook mô tả **nỗi đau mất mát + cảm xúc mạnh** ("tim rớt theo", "ác mộng thật sự", "rơi một phát") kéo reaction tốt hơn hook liệt kê khô khan.
-- Hook **"nhiều cục sạc/túi lộn xộn"** (bàn rối, 4-5 cục sạc) đạt score 4 khi có số đếm cụ thể; cùng chủ đề nhưng chung chung ("mang 3 cục sạc") chỉ được 3 — luôn gắn số đo đếm được.
-- Sản phẩm **balo chống sốc/chống trộm laptop** và **sạc đa cổng gọn gàng** là 2 nhóm mạnh nhất, ưu tiên khai thác.
-- Hook **ốp lưng** ("ốp dày mất dáng", "ốp bóng vân tay") đều score thấp (3) — nhóm yếu, hạn chế hoặc đổi góc tiếp cận đau hơn.
-- Tránh hook chỉ **nêu tính năng/giải pháp phẳng** ("Chuyện đó khỏi lo", "mở là thấy hết") vì thiếu kịch tính, score thấp.
-- Công thức thắng: **[Con số cụ thể] + [tình huống đời thường] + [hậu quả cảm xúc mạnh] + emoji lo lắng** (😰😮‍💨🎒🔌).
-- Không hook nào đạt share — cần thêm yếu tố **bất ngờ đáng khoe/mẹo hữu ích** ("Rơi 4 mét vẫn lành lặn, tin không?") để kích share, đẩy mạnh dạng "thử thách/khó tin".
+- Hook mở bằng **câu hỏi về nỗi đau cụ thể** (sạc rối, rơi máy, laptop va đập) cho Score cao nhất (4) — ưu tiên dạng này.
+- Nhóm sản phẩm thắng: **sạc đa cổng/GaN, ốp chống sốc, túi/balo chống va đập** — gắn với tình huống "mất tiền/hỏng máy" dễ ra reaction.
+- Thêm **con số gây sốc** ("Rơi 4 mét vẫn lành", "5 cục sạc chằng chịt") giúp tăng tương tác rõ rệt.
+- Dùng emoji đúng ngữ cảnh nỗi đau: 🔌 😰 🎒 😮‍💨 — tránh lạm dụng 😤 (nhóm này Score thấp hơn).
+- Hook kiểu **cảnh báo riêng tư/mơ hồ** ("đọc trộm màn hình", "đọc tin nhắn") tương tác kém (Score 3) — hạn chế.
+- Hook than phiền chung chung, thiên về thẩm mỹ ("ốp mất dáng", "dính vân tay") kém hiệu quả — tránh.
+- Công thức nên theo: **[Tình huống đời thường] + [hậu quả mất mát/nguy cơ] + [câu hỏi chốt "?"]**.
+- Nhấn mạnh **rủi ro mất mát tài sản/thiết bị** thay vì bất tiện nhẹ — khơi cảm xúc mạnh hơn, kéo reaction + comment.
