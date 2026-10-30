@@ -1,8 +1,13 @@
-- Hook mở bằng **câu hỏi về nỗi đau cụ thể** (sạc rối, rơi máy, laptop va đập) cho Score cao nhất (4) — ưu tiên dạng này.
-- Nhóm sản phẩm thắng: **sạc đa cổng/GaN, ốp chống sốc, túi/balo chống va đập** — gắn với tình huống "mất tiền/hỏng máy" dễ ra reaction.
-- Thêm **con số gây sốc** ("Rơi 4 mét vẫn lành", "5 cục sạc chằng chịt") giúp tăng tương tác rõ rệt.
-- Dùng emoji đúng ngữ cảnh nỗi đau: 🔌 😰 🎒 😮‍💨 — tránh lạm dụng 😤 (nhóm này Score thấp hơn).
-- Hook kiểu **cảnh báo riêng tư/mơ hồ** ("đọc trộm màn hình", "đọc tin nhắn") tương tác kém (Score 3) — hạn chế.
-- Hook than phiền chung chung, thiên về thẩm mỹ ("ốp mất dáng", "dính vân tay") kém hiệu quả — tránh.
-- Công thức nên theo: **[Tình huống đời thường] + [hậu quả mất mát/nguy cơ] + [câu hỏi chốt "?"]**.
-- Nhấn mạnh **rủi ro mất mát tài sản/thiết bị** thay vì bất tiện nhẹ — khơi cảm xúc mạnh hơn, kéo reaction + comment.
+- **Cảnh báo riêng tư thắng đậm nhất**: hook "có người đang đọc trộm màn hình/tin nhắn của bạn" đạt Score cao nhất (5), là công thức số 1 nên ưu tiên.
+
+- **Đánh vào nỗi sợ mất mát đắt tiền**: "rơi máy", "rơi 4 mét vẫn lành", "xước laptop 16 inch", "nặng túi mà vẫn hết pin" đều kéo Reactions lên — dùng kịch bản thiệt hại cụ thể + con số.
+
+- **Ưu tiên sản phẩm bảo vệ & chống trộm nhìn**: ốp chống sốc, túi/ngăn chống sốc laptop, dán chống nhìn trộm cho tương tác tốt hơn nhóm sạc/tổ chức.
+
+- **Dùng con số và tình huống cụ thể**: "4 mét", "16 inch", "3 ngày", "2 cái túi" nhỉnh hơn hook chung chung.
+
+- **Tránh hook kể lể gọn/tiện ích nhẹ**: "đóng gói như vali", "cáp rối", "mang 3 cục sạc", "ốp bám vân tay" chỉ đạt Score 3 — ít chạm cảm xúc, nên hạn chế hoặc viết lại theo hướng sợ mất mát.
+
+- **Mở bằng câu hỏi/cảnh báo gây giật mình**, chèn emoji cảm xúc mạnh (😰😮‍💨👀) ngay hook để tăng Reactions.
+
+- **Chưa hook nào tạo Share**: cần thêm yếu tố "mách bạn bè", "ai cũng nên biết", mẹo hữu ích để kích chia sẻ — đòn bẩy Score nặng nhất đang bỏ trống.
