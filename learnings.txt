@@ -1,13 +1,8 @@
-- **Lưu ý về dữ liệu:** Toàn bộ 20 hook có Shares=0 và tương tác rất thấp (Score 3–5), chênh lệch không đáng kể → kết luận chỉ mang tính tham khảo, chưa đủ mạnh để khẳng định.
-
-- **Hook cho Score cao nhất (5):** chạm nỗi lo riêng tư/an ninh cá nhân cụ thể — "Người bên cạnh đọc hết tin nhắn của bạn mà bạn không hay" (sản phẩm: kính dán chống nhìn trộm). Ưu tiên tình huống bị xâm phạm quyền riêng tư.
-
-- **Nhóm Score 4 (khá):** nỗi đau bảo vệ tài sản giá trị cao — laptop bị va/xước trong balo, chống sốc "rơi 4 mét vẫn lành", sạc đa thiết bị gọn gàng. Gắn con số cụ thể ("16 inch", "rơi 4 mét", "3 ngày") giúp tăng tương tác.
-
-- **Nhóm Score 3 (kém, nên tiết chế):** hook chung chung về rối dây, ốp dày/bám vân tay, mất ví/hộ chiếu — nỗi đau mơ hồ, thiếu hình ảnh cụ thể hoặc quá quen thuộc.
-
-- **Công thức hook hiệu quả:** mô tả cảnh bị xâm phạm/thiệt hại cá nhân + chi tiết số liệu cụ thể + emoji cảm xúc (😮‍💨 😰 👀). Câu hỏi khơi nỗi lo hoạt động tốt hơn câu khẳng định.
-
-- **Nên tránh:** hook lặp motif "dây sạc rối" và "ốp mất dáng/vân tay" — đã xuất hiện nhiều lần nhưng đều Score thấp, dấu hiệu bão hòa.
-
-- **Cần cải thiện gấp:** không hook nào tạo Share. Thử thêm yếu tố kích Share (mẹo hữu ích, "tag người cần", tình huống đồng cảm tập thể) thay vì chỉ nêu nỗi đau cá nhân.
+- Hook "đọc trộm màn hình/tin nhắn" (miếng dán chống nhìn trộm) cho tương tác cao nhất (Score 5) — ưu tiên khai thác nỗi lo riêng tư, bị người bên cạnh soi.
+- Dùng con số sốc + thách thức gây tò mò ("Rơi 4 mét vẫn lành lặn, bạn tin không?") để kéo reactions.
+- Nhắm nỗi đau cụ thể, định lượng được ("5 cục sạc", "16 inch", "công tác 3 ngày", "2 cái túi") hiệu quả hơn than chung chung.
+- Mở bằng câu hỏi tu từ + emoji cảm xúc (😮‍💨😤👀) đúng pain-point; emoji nên khớp ngữ cảnh.
+- Tránh hook chỉ liệt kê thông số, giá, bảo hành ngay trong hook (như củ Anker 45W) — khô, bán hàng lộ liễu, tương tác thấp nhất.
+- Tránh lặp lại mô-típ "công tác / dây sạc rối / balo xước" quá nhiều — trùng ý làm loãng, điểm trung bình thấp.
+- Tất cả hook đều 0 share: thêm yếu tố "hữu ích đáng lưu/gửi cho người thân" hoặc tình huống đồng cảm mạnh để kích share.
+- Giữ hook ngắn 1 câu, chạm thẳng vào hậu quả tệ ("tim rụng", "ác mộng", "mất luôn giấy tờ") thay vì mô tả tính năng.
