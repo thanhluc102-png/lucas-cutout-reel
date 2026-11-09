@@ -1,8 +1,8 @@
-- **Hook "đọc trộm màn hình/tin nhắn" (dán chống nhìn trộm) cho điểm cao nhất** (Score 5) — khai thác nỗi sợ bị xâm phạm riêng tư, dùng tiếp.
-- **Hook gợi nỗi lo mất tiền/hư hỏng đồ đắt tiền** (rơi 4m vẫn lành, xước laptop 16 inch, cồng kềnh khi công tác) đạt Score 4 — cụ thể hóa thiệt hại bằng con số/vật có giá trị.
-- **Tránh hook chèn sẵn thông số + giá + tên hãng** (Anker Nano 45W...) ngay trong câu mở — dài, giống quảng cáo, chỉ Score 3.
-- **Tránh hook "pain" chung chung lặp lại** (dây sạc rối, mưa ướt laptop, mang nhiều sạc) — bị nhàm vì trùng motif, đều Score 3.
-- **Mở bằng câu hỏi tu từ ngắn + emoji cảm xúc 👀😮‍💨😤** đánh trúng tình huống đời thường cho tương tác nhỉnh hơn.
-- **Dùng "bạn" trực tiếp + tình huống đặt người đọc vào vai nạn nhân** ("của bạn", "mà bạn không hay") kích phản hồi tốt hơn mô tả sản phẩm.
-- **Toàn bộ mẫu đều 0 Share → cần CTA kích chia sẻ** (mẹo hữu ích, "tag người hay quên", nội dung đáng lưu) để nâng Score.
-- **Ưu tiên sản phẩm có yếu tố bất ngờ/riêng tư/bảo vệ tài sản; hạ ưu tiên phụ kiện tiện ích phổ thông** (sạc, dây, túi gọn) vì khó tạo cảm xúc mạnh.
+- Hook khơi gợi nỗi sợ riêng tư, bị "nhìn trộm" (ví dụ: "Người bên cạnh đọc hết tin nhắn của bạn") cho tương tác cao nhất — ưu tiên khai thác góc bảo mật, quyền riêng tư.
+- Hook xoáy vào nỗi đau "mất đồ quý" (laptop ướt, xước máy, rơi vỡ) kéo thêm reaction và comment — nhấn mạnh thiệt hại tài sản đắt tiền cụ thể (16 inch, iPhone Air).
+- Thêm con số/tình huống cụ thể gây sốc ("Rơi 4 mét vẫn lành lặn", "balo rẻ xước laptop 16 inch") tăng tương tác hơn hook chung chung.
+- Chèn câu hỏi gợi tò mò, kết bằng emoji 👀😮‍💨 kích comment tốt hơn emoji bực tức 😤.
+- Tránh nhồi thông số kỹ thuật dài ngay trong hook (vụ Anker 45W) — làm loãng, tương tác thấp.
+- Tránh hook lặp mô-típ "mang 3 cục sạc / dây rối tổ chim" quá nhiều lần — đã bão hòa, chỉ đạt Score đáy (3).
+- Giữ hook ngắn 1 câu, mở bằng tình huống đau + chốt bằng câu hỏi để tối đa comment (yếu tố dễ đạt nhất, nhân hệ số 3).
+- Toàn bộ mẫu chưa có Share nào: thử thêm yếu tố "mẹo hữu ích/đáng chia sẻ" hoặc giá trị bất ngờ để kích Share (hệ số 5).
