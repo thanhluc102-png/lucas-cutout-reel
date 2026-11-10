@@ -1,8 +1,8 @@
-- Hook khơi gợi nỗi sợ riêng tư, bị "nhìn trộm" (ví dụ: "Người bên cạnh đọc hết tin nhắn của bạn") cho tương tác cao nhất — ưu tiên khai thác góc bảo mật, quyền riêng tư.
-- Hook xoáy vào nỗi đau "mất đồ quý" (laptop ướt, xước máy, rơi vỡ) kéo thêm reaction và comment — nhấn mạnh thiệt hại tài sản đắt tiền cụ thể (16 inch, iPhone Air).
-- Thêm con số/tình huống cụ thể gây sốc ("Rơi 4 mét vẫn lành lặn", "balo rẻ xước laptop 16 inch") tăng tương tác hơn hook chung chung.
-- Chèn câu hỏi gợi tò mò, kết bằng emoji 👀😮‍💨 kích comment tốt hơn emoji bực tức 😤.
-- Tránh nhồi thông số kỹ thuật dài ngay trong hook (vụ Anker 45W) — làm loãng, tương tác thấp.
-- Tránh hook lặp mô-típ "mang 3 cục sạc / dây rối tổ chim" quá nhiều lần — đã bão hòa, chỉ đạt Score đáy (3).
-- Giữ hook ngắn 1 câu, mở bằng tình huống đau + chốt bằng câu hỏi để tối đa comment (yếu tố dễ đạt nhất, nhân hệ số 3).
-- Toàn bộ mẫu chưa có Share nào: thử thêm yếu tố "mẹo hữu ích/đáng chia sẻ" hoặc giá trị bất ngờ để kích Share (hệ số 5).
+- Hook khơi gợi nỗi lo riêng tư/bảo mật ("người bên cạnh đọc hết tin nhắn") cho tương tác cao nhất — ưu tiên khai thác góc tò mò, bị theo dõi, lộ thông tin.
+- Hook về chống nước/bảo vệ laptop trong balo ("mưa tạt ướt laptop") đạt nhiều comment — nên dùng tình huống thiệt hại cụ thể, dễ hình dung.
+- Mở đầu bằng câu hỏi tu từ + con số/tình huống sốc ("rơi 4 mét vẫn lành lặn", "balo rẻ làm xước laptop 16 inch") kéo reaction tốt hơn hook chung chung.
+- Tránh hook liệt kê thông số/bán hàng ngay đầu (kiểu nhồi "Anker Nano 45W... 800.000đ") — tương tác thấp, để thông số xuống sau.
+- Tránh hook trùng lặp motif "3 cục sạc / dây rối như tổ chim" bị lặp nhiều lần — gây nhàm, score đều chỉ 3-4.
+- Luôn chạm nỗi đau cá nhân hoá ("mất hộ chiếu nơi đất khách", "tim rụng theo") kèm emoji cảm xúc 😰😮‍💨 ở cuối câu để tăng đồng cảm.
+- Ưu tiên sản phẩm bảo mật/riêng tư và chống sốc–chống nước; hạn chế lạm dụng chủ đề sạc nhanh vì phản hồi kém nổi bật.
+- Giữ hook 1 câu ngắn, 1 nỗi đau duy nhất, không gộp nhiều lợi ích; càng cụ thể thiệt hại càng nhiều comment.
