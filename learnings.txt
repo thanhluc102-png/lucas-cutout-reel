@@ -1,8 +1,8 @@
-- Hook khơi gợi nỗi lo riêng tư/bảo mật ("người bên cạnh đọc hết tin nhắn") cho tương tác cao nhất — ưu tiên khai thác góc tò mò, bị theo dõi, lộ thông tin.
-- Hook về chống nước/bảo vệ laptop trong balo ("mưa tạt ướt laptop") đạt nhiều comment — nên dùng tình huống thiệt hại cụ thể, dễ hình dung.
-- Mở đầu bằng câu hỏi tu từ + con số/tình huống sốc ("rơi 4 mét vẫn lành lặn", "balo rẻ làm xước laptop 16 inch") kéo reaction tốt hơn hook chung chung.
-- Tránh hook liệt kê thông số/bán hàng ngay đầu (kiểu nhồi "Anker Nano 45W... 800.000đ") — tương tác thấp, để thông số xuống sau.
-- Tránh hook trùng lặp motif "3 cục sạc / dây rối như tổ chim" bị lặp nhiều lần — gây nhàm, score đều chỉ 3-4.
-- Luôn chạm nỗi đau cá nhân hoá ("mất hộ chiếu nơi đất khách", "tim rụng theo") kèm emoji cảm xúc 😰😮‍💨 ở cuối câu để tăng đồng cảm.
-- Ưu tiên sản phẩm bảo mật/riêng tư và chống sốc–chống nước; hạn chế lạm dụng chủ đề sạc nhanh vì phản hồi kém nổi bật.
-- Giữ hook 1 câu ngắn, 1 nỗi đau duy nhất, không gộp nhiều lợi ích; càng cụ thể thiệt hại càng nhiều comment.
+- Hook khơi gợi nỗi lo riêng tư/an ninh ("người bên cạnh đọc hết tin nhắn") cho score cao nhất (5) — ưu tiên góc cảm xúc cá nhân, bị xâm phạm.
+- Hook xoáy vào rủi ro mất mát lớn (laptop ướt, xước máy, rơi vỡ, mất ví) kéo tương tác tốt hơn hook về tiện lợi chung chung.
+- Chủ đề balo/chống nước và bảo vệ laptop ổn định ở mức khá (score 3-6) — nên khai thác đều.
+- Mở đầu bằng câu hỏi tu từ + emoji cảm xúc (😮‍💨😤👀) hiệu quả; giữ 1 câu ngắn, chạm thẳng pain-point.
+- Tránh nhồi thông số kỹ thuật/tên sản phẩm/giá ngay trong hook (ví dụ Anker Nano 45W) — score thấp (3), gây khô cứng, giảm cảm xúc.
+- Tránh hook lặp lại mô-típ "mang 3 cục sạc / dây rối" đã bão hòa, tương tác chỉ 3-4.
+- Share gần như bằng 0 toàn bộ: cần thêm yếu tố gây bất ngờ/hữu ích đáng chia sẻ (mẹo, thử thách "rơi 4 mét") thay vì chỉ than phiền.
+- Dùng con số/tình huống cụ thể gây sốc ("rơi 4 mét", "16 inch", "3 ngày") để tăng độ tin và tò mò.
