@@ -1,8 +1,8 @@
-- Hook khơi gợi nỗi lo riêng tư/an ninh ("người bên cạnh đọc hết tin nhắn") cho score cao nhất (5) — ưu tiên góc cảm xúc cá nhân, bị xâm phạm.
-- Hook xoáy vào rủi ro mất mát lớn (laptop ướt, xước máy, rơi vỡ, mất ví) kéo tương tác tốt hơn hook về tiện lợi chung chung.
-- Chủ đề balo/chống nước và bảo vệ laptop ổn định ở mức khá (score 3-6) — nên khai thác đều.
-- Mở đầu bằng câu hỏi tu từ + emoji cảm xúc (😮‍💨😤👀) hiệu quả; giữ 1 câu ngắn, chạm thẳng pain-point.
-- Tránh nhồi thông số kỹ thuật/tên sản phẩm/giá ngay trong hook (ví dụ Anker Nano 45W) — score thấp (3), gây khô cứng, giảm cảm xúc.
-- Tránh hook lặp lại mô-típ "mang 3 cục sạc / dây rối" đã bão hòa, tương tác chỉ 3-4.
-- Share gần như bằng 0 toàn bộ: cần thêm yếu tố gây bất ngờ/hữu ích đáng chia sẻ (mẹo, thử thách "rơi 4 mét") thay vì chỉ than phiền.
-- Dùng con số/tình huống cụ thể gây sốc ("rơi 4 mét", "16 inch", "3 ngày") để tăng độ tin và tò mò.
+- Hook gợi tò mò về **quyền riêng tư / bị người khác nhìn lén** ("đọc hết tin nhắn mà không hay") cho tương tác cao nhất (Score 5) — ưu tiên khai thác góc an toàn thông tin, kính cường lực chống nhìn trộm.
+- Hook về **chống nước cho balo/laptop khi mưa** ổn định tốt (Score 3–6), nên dùng thường xuyên, thêm hình ảnh mưa tạt cụ thể để tăng comment.
+- Hook chạm **nỗi đau tài chính/mất mát lớn** ("mất ví là mất giấy tờ, tiền, thẻ", "xước laptop 16 inch") dễ kéo reaction — nhấn hậu quả nghiêm trọng, giá trị thiệt hại cụ thể.
+- Hook về **gọn nhẹ khi di chuyển/công tác** ("3 ngày 1 túi", "bớt cục sạc") đạt Score 4 — giữ, kết hợp con số cụ thể (3 ngày, 2 túi, 3 cục).
+- Tránh hook **mô tả tính năng dài, nhồi thông số + giá ngay đầu** (củ Anker 45W) — tụt xuống Score 3, nên tách phần bán hàng ra sau, mở đầu chỉ bằng nỗi đau.
+- Tránh **lặp lại cùng một nỗi đau "3 cục sạc / sạc chậm / dây rối"** quá nhiều lần — đã bão hòa, tương tác đều ở mức sàn Score 3.
+- Công thức hook mạnh: **câu hỏi chạm nỗi đau + hậu quả cụ thể + emoji cảm xúc (😤😮‍💨👀)**, ngắn 1 câu, chưa nhắc sản phẩm/giá.
+- Ưu tiên tạo **cảm giác bị theo dõi / tổn thất bất ngờ** hơn là bất tiện nhỏ nhặt — nhóm "khó chịu vặt" (vân tay, ốp dày) cho tương tác thấp nhất.
