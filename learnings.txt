@@ -1,8 +1,8 @@
-- Hook gợi tò mò về **quyền riêng tư / bị người khác nhìn lén** ("đọc hết tin nhắn mà không hay") cho tương tác cao nhất (Score 5) — ưu tiên khai thác góc an toàn thông tin, kính cường lực chống nhìn trộm.
-- Hook về **chống nước cho balo/laptop khi mưa** ổn định tốt (Score 3–6), nên dùng thường xuyên, thêm hình ảnh mưa tạt cụ thể để tăng comment.
-- Hook chạm **nỗi đau tài chính/mất mát lớn** ("mất ví là mất giấy tờ, tiền, thẻ", "xước laptop 16 inch") dễ kéo reaction — nhấn hậu quả nghiêm trọng, giá trị thiệt hại cụ thể.
-- Hook về **gọn nhẹ khi di chuyển/công tác** ("3 ngày 1 túi", "bớt cục sạc") đạt Score 4 — giữ, kết hợp con số cụ thể (3 ngày, 2 túi, 3 cục).
-- Tránh hook **mô tả tính năng dài, nhồi thông số + giá ngay đầu** (củ Anker 45W) — tụt xuống Score 3, nên tách phần bán hàng ra sau, mở đầu chỉ bằng nỗi đau.
-- Tránh **lặp lại cùng một nỗi đau "3 cục sạc / sạc chậm / dây rối"** quá nhiều lần — đã bão hòa, tương tác đều ở mức sàn Score 3.
-- Công thức hook mạnh: **câu hỏi chạm nỗi đau + hậu quả cụ thể + emoji cảm xúc (😤😮‍💨👀)**, ngắn 1 câu, chưa nhắc sản phẩm/giá.
-- Ưu tiên tạo **cảm giác bị theo dõi / tổn thất bất ngờ** hơn là bất tiện nhỏ nhặt — nhóm "khó chịu vặt" (vân tay, ốp dày) cho tương tác thấp nhất.
+- Hook khơi gợi sự tò mò/riêng tư ("Người bên cạnh đọc hết tin nhắn của bạn mà bạn không hay 👀") cho tương tác cao nhất (Score=5) — ưu tiên kiểu chạm nỗi lo bị lộ, bị theo dõi.
+- Hook về nỗi đau "mưa tạt ướt laptop/balo" kéo comment tốt (Score=6, nhiều comment nhất) — khai thác mạnh tình huống thiệt hại tài sản giá trị cao.
+- Thêm con số cụ thể gây đau ("laptop 16 inch", "2 laptop cùng lúc", "3 ngày 2 túi") giúp tăng reaction — luôn chèn số liệu/chi tiết hình dung được.
+- Hook nhồi thẳng thông số kỹ thuật + giá ngay trong câu đầu (kiểu Anker 45W) cho tương tác thấp (Score=3) — tránh bán hàng lộ liễu ở hook, để nỗi đau dẫn trước.
+- Mô típ "mang theo nhiều cục sạc/túi/ví lộn xộn" quá quen thuộc, lặp lại nhiều lần đều chỉ Score=3-4 — giảm tần suất, làm mới góc tiếp cận.
+- Emoji 😤😮‍💨 dùng tràn lan làm hook chìm nghỉm; emoji lạ/gợi tò mò 👀 nổi bật hơn — chọn emoji tạo cảm xúc khác biệt.
+- Không có hook nào đạt Share — cần kết thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, bảo vệ người thân, deal hời bất ngờ) để phá ngưỡng Share.
+- Công thức thắng: nỗi đau riêng tư/thiệt hại tài sản + chi tiết số cụ thể + emoji gợi tò mò, giấu phần bán hàng xuống sau.
