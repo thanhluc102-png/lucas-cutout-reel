@@ -1,8 +1,8 @@
-- Hook khơi gợi sự tò mò/riêng tư ("Người bên cạnh đọc hết tin nhắn của bạn mà bạn không hay 👀") cho tương tác cao nhất (Score=5) — ưu tiên kiểu chạm nỗi lo bị lộ, bị theo dõi.
-- Hook về nỗi đau "mưa tạt ướt laptop/balo" kéo comment tốt (Score=6, nhiều comment nhất) — khai thác mạnh tình huống thiệt hại tài sản giá trị cao.
-- Thêm con số cụ thể gây đau ("laptop 16 inch", "2 laptop cùng lúc", "3 ngày 2 túi") giúp tăng reaction — luôn chèn số liệu/chi tiết hình dung được.
-- Hook nhồi thẳng thông số kỹ thuật + giá ngay trong câu đầu (kiểu Anker 45W) cho tương tác thấp (Score=3) — tránh bán hàng lộ liễu ở hook, để nỗi đau dẫn trước.
-- Mô típ "mang theo nhiều cục sạc/túi/ví lộn xộn" quá quen thuộc, lặp lại nhiều lần đều chỉ Score=3-4 — giảm tần suất, làm mới góc tiếp cận.
-- Emoji 😤😮‍💨 dùng tràn lan làm hook chìm nghỉm; emoji lạ/gợi tò mò 👀 nổi bật hơn — chọn emoji tạo cảm xúc khác biệt.
-- Không có hook nào đạt Share — cần kết thêm yếu tố "đáng chia sẻ" (mẹo hữu ích, bảo vệ người thân, deal hời bất ngờ) để phá ngưỡng Share.
-- Công thức thắng: nỗi đau riêng tư/thiệt hại tài sản + chi tiết số cụ thể + emoji gợi tò mò, giấu phần bán hàng xuống sau.
+- Hook chạm nỗi lo riêng tư/cá nhân ("người bên cạnh đọc hết tin nhắn", "trộm rạch túi") cho tương tác cao nhất — ưu tiên khai thác góc bảo mật, sợ mất mát, tò mò.
+- Hook gợi cảnh "mưa tạt ướt laptop trong balo" ổn định hút comment — giữ mô-típ thiệt hại tài sản giá trị cao (laptop, đồ công nghệ).
+- Thêm con số/chi tiết cụ thể ("laptop 16 inch", "balo 7 triệu", "công tác 3 ngày") làm hook sống động, tăng reaction.
+- Mở bằng câu hỏi nhức nhối + emoji cảm xúc (😤 😮‍💨 👀) rồi bỏ lửng — giữ nguyên công thức này, nó kéo được comment đều.
+- Tránh hook nhồi hết thông số kỹ thuật + giá ngay trong hook (kiểu "Anker Nano 45W... 800.000đ") — dài, khô, tương tác thấp; để info sản phẩm xuống phần sau.
+- Tránh hook chung chung lặp lại ("dây sạc rối", "3 cục sạc", "ốp dính vân tay") — bị bão hòa, chỉ còn 1 comment lịch sự; cần góc mới hoặc tình huống bất ngờ.
+- Chủ đề cho Score cao: bảo mật/riêng tư > chống nước laptop > gọn nhẹ khi đi xa; chủ đề đuối: sạc nhanh, ốp lưng, tổ chức dây cáp.
+- Đẩy mạnh yếu tố "mất mát không cứu được" (rơi vỡ, trộm, lộ thông tin) hơn là "bất tiện vặt" — nỗi đau nặng kéo tương tác mạnh hơn.
