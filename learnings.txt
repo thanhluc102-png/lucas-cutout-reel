@@ -1,8 +1,8 @@
-- Hook chạm nỗi lo riêng tư/cá nhân ("người bên cạnh đọc hết tin nhắn", "trộm rạch túi") cho tương tác cao nhất — ưu tiên khai thác góc bảo mật, sợ mất mát, tò mò.
-- Hook gợi cảnh "mưa tạt ướt laptop trong balo" ổn định hút comment — giữ mô-típ thiệt hại tài sản giá trị cao (laptop, đồ công nghệ).
-- Thêm con số/chi tiết cụ thể ("laptop 16 inch", "balo 7 triệu", "công tác 3 ngày") làm hook sống động, tăng reaction.
-- Mở bằng câu hỏi nhức nhối + emoji cảm xúc (😤 😮‍💨 👀) rồi bỏ lửng — giữ nguyên công thức này, nó kéo được comment đều.
-- Tránh hook nhồi hết thông số kỹ thuật + giá ngay trong hook (kiểu "Anker Nano 45W... 800.000đ") — dài, khô, tương tác thấp; để info sản phẩm xuống phần sau.
-- Tránh hook chung chung lặp lại ("dây sạc rối", "3 cục sạc", "ốp dính vân tay") — bị bão hòa, chỉ còn 1 comment lịch sự; cần góc mới hoặc tình huống bất ngờ.
-- Chủ đề cho Score cao: bảo mật/riêng tư > chống nước laptop > gọn nhẹ khi đi xa; chủ đề đuối: sạc nhanh, ốp lưng, tổ chức dây cáp.
-- Đẩy mạnh yếu tố "mất mát không cứu được" (rơi vỡ, trộm, lộ thông tin) hơn là "bất tiện vặt" — nỗi đau nặng kéo tương tác mạnh hơn.
+- Hook khơi gợi nỗi sợ riêng tư/bảo mật ("người bên cạnh đọc hết tin nhắn") cho điểm cao nhất (Score=5) — ưu tiên khai thác góc tò mò, cá nhân, tâm lý.
+- Hook về chống nước laptop/balo khi mưa cho tương tác tốt (Score=4-6) — giữ mô-típ "mưa tạt → ướt đồ", dùng câu hỏi gây lo lắng cụ thể.
+- Hook nêu nỗi đau gọn + emoji 😤😮‍💨🎒 ở cuối hoạt động ổn; luôn mở đầu bằng tình huống bực bội quen thuộc, kết bằng câu hỏi.
+- Chủ đề sạc/pin/củ sạc bị bão hòa, điểm thấp đều (Score=3) — tránh lặp, hoặc đổi góc tiếp cận mới lạ.
+- Tuyệt đối tránh nhồi thông số/tên sản phẩm/giá ngay trong hook (vd củ Anker 45W) — làm tụt tương tác (Score=3), để phần sản phẩm xuống dưới.
+- Hook càng ngắn, một nỗi đau rõ ràng + emoji càng dễ ra comment; tránh liệt kê nhiều ý trong một câu.
+- Dùng con số cụ thể gây sốc ("balo 7 triệu", "laptop 16 inch", "3 ngày") để tăng độ tin và tò mò.
+- Chưa video nào đạt Share — thử thêm yếu tố "mẹo hữu ích/đáng chia sẻ" hoặc tình huống ai cũng gặp để kích share.
