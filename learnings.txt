@@ -1,8 +1,7 @@
-- Ưu tiên hook khơi gợi nỗi lo riêng tư/an toàn ("người bên cạnh đọc hết tin nhắn", "mưa tạt ướt laptop") — cho score cao nhất (5-6); đánh vào sợ mất mát, bị xâm phạm mạnh hơn sự tiện lợi.
-- Hook cụ thể, có hình ảnh thiệt hại rõ ("làm xước laptop 16 inch", "ướt nhẹp") hiệu quả hơn hook chung chung ("dây sạc rối như tổ chim").
-- Tránh lặp lại mô-típ "mang 3 cục sạc" / "dây sạc rối" — đã bão hòa, chỉ đạt score đáy (3).
-- Không nhồi thông số kỹ thuật + giá ngay trong hook (vụ Anker 45W) — làm loãng, score thấp (3); để phần sau.
-- Hook dạng câu hỏi khơi "cảnh khổ hằng ngày" (kẹt thang máy, tụt pin lúc cần) chỉ trung bình — cần thêm yếu tố bất ngờ/rủi ro để bật lên.
-- Mỗi hook nên chạm 1 nỗi đau sắc, kèm 1 emoji cảm xúc (😤👀), giữ độ ngắn 1 dòng.
-- Khai thác thêm góc "bị người khác nhìn/lộ thông tin" vì đây là mạch duy nhất kéo được Reactions=2.
-- Đa dạng sản phẩm, tránh dồn quá nhiều vào sạc/balo — phụ kiện lạ (phim chống nhìn trộm, ví định vị) dễ tạo tò mò hơn.
+- Hook chạm riêng tư/bảo mật ("người bên cạnh đọc hết tin nhắn", "mưa tạt ướt laptop") cho tương tác cao nhất — khơi nỗi sợ cụ thể, hậu quả rõ ràng.
+- Ưu tiên tình huống thiệt hại tài sản đắt tiền (laptop 16 inch ướt/xước) vì gây lo lắng mạnh, kéo comment gấp đôi.
+- Tránh hook chung chung lặp lại về "mang 3 cục sạc / dây rối" — đã bão hòa, chỉ đạt Score 3, khán giả lướt qua.
+- Hook càng cụ thể số liệu/bối cảnh ("đi công tác 3 ngày", "giờ cao điểm", "sân bay") nhỉnh hơn hook mơ hồ.
+- Không nhồi thông số sản phẩm + giá ngay trong hook (như củ Anker 45W) — làm loãng, giảm tương tác xuống Score 3.
+- Giữ hook ngắn 1 câu, kết bằng dấu hỏi + 1 emoji cảm xúc (😮‍💨😤👀) để kích comment.
+- Nhấn nỗi đau mất mát/xấu hổ (bị đọc lén, bị trộm, hỏng đồ) mạnh hơn nỗi đau tiện lợi (cồng kềnh, nặng túi).
