@@ -1,7 +1,8 @@
-- Hook chạm riêng tư/bảo mật ("người bên cạnh đọc hết tin nhắn", "mưa tạt ướt laptop") cho tương tác cao nhất — khơi nỗi sợ cụ thể, hậu quả rõ ràng.
-- Ưu tiên tình huống thiệt hại tài sản đắt tiền (laptop 16 inch ướt/xước) vì gây lo lắng mạnh, kéo comment gấp đôi.
-- Tránh hook chung chung lặp lại về "mang 3 cục sạc / dây rối" — đã bão hòa, chỉ đạt Score 3, khán giả lướt qua.
-- Hook càng cụ thể số liệu/bối cảnh ("đi công tác 3 ngày", "giờ cao điểm", "sân bay") nhỉnh hơn hook mơ hồ.
-- Không nhồi thông số sản phẩm + giá ngay trong hook (như củ Anker 45W) — làm loãng, giảm tương tác xuống Score 3.
-- Giữ hook ngắn 1 câu, kết bằng dấu hỏi + 1 emoji cảm xúc (😮‍💨😤👀) để kích comment.
-- Nhấn nỗi đau mất mát/xấu hổ (bị đọc lén, bị trộm, hỏng đồ) mạnh hơn nỗi đau tiện lợi (cồng kềnh, nặng túi).
+- **Dữ liệu còn rất mỏng** (score 3–6, Shares = 0 toàn bộ, Comments gần như luôn = 1). Chỉ coi đây là xu hướng sơ bộ, cần test thêm.
+- **Ưu tiên hook "nỗi sợ mất mát / rủi ro"**: laptop ướt mưa (6), bị đọc trộm tin nhắn (5), balo rẻ làm xước laptop (4). Kiểu hook bảo vệ đồ đắt tiền và quyền riêng tư kéo tương tác tốt nhất.
+- **Sản phẩm nên đẩy**: balo chống nước/chống sốc cho laptop, kính cường lực chống nhìn trộm, sạc đa cổng thay thế "2–3 cục". Hạn chế dây cáp, ốp lưng, ví thẻ và củ sạc "sạc chậm" chung chung (đều chỉ đạt 3).
+- **Viết hook theo cấu trúc**: 1 câu hỏi ngắn + tình huống cụ thể có con số ("3 ngày", "2 cái túi", "16 inch") + hậu quả rõ ràng. Tránh than phiền mơ hồ như "rối như tổ chim", "lề mề".
+- **Không nhồi thông số và giá vào hook**: hook dài kèm tên sản phẩm, công suất, bảo hành, giá chỉ đạt 3. Hook dưới 15 từ, chi tiết sản phẩm để ở phần thân.
+- **Tránh góc "balo đắt vẫn lo"** (như balo 7 triệu, chống rạch túi) và góc "đóng gói như vali". Các góc này ít đồng cảm nên tương tác thấp.
+- **Bắt buộc thêm mồi chia sẻ** vì Shares đang bằng 0: kết bằng "Tag đứa bạn hay đi công tác/hay quên sạc", hoặc mẹo hữu ích đáng lưu như "3 món nên có trong balo đi mưa".
+- **Emoji**: 🎒 và 👀 đi cùng hook rủi ro đạt điểm cao hơn. 😤 xuất hiện nhiều ở hook điểm thấp, nên hạn chế dùng.
