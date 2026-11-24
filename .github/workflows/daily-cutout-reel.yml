@@ -83,6 +83,11 @@ jobs:
         run: pip install faster-whisper
 
       - name: Cài dependency Node
+        # onnxruntime-node (kéo theo từ hyperframes) mặc định tải thêm bản CUDA/GPU trên Linux x64;
+        # file đó trên GitHub release đã 404 từ 18/11 → npm ci lỗi. Runner không có GPU nên bỏ qua,
+        # bản CPU đã có sẵn trong gói npm.
+        env:
+          ONNXRUNTIME_NODE_INSTALL_CUDA: skip
         run: npm ci || npm install
 
       - name: Chọn sản phẩm
