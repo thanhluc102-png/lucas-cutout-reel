@@ -15,6 +15,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync, spawnSync } from 'node:child_process';
+import { appendOutro } from './outro.mjs';
 
 const root = path.resolve(fileURLToPath(new URL('..', import.meta.url)));
 const file = process.argv[2];
@@ -488,5 +489,8 @@ execFileSync('npx', [
   '--yes', 'hyperframes@0.7.81', 'render', jobDir,
   '-o', finalMp4, '-f', '30', '-q', 'high'
 ], { stdio: 'inherit' });
+
+// Outro logo Lucas (mặt Lucy → logo, có tiếng) nối vào cuối. Tắt cho một reel: "outro": false trong job
+if (job.outro !== false) appendOutro(finalMp4, { fps: 30 });
 
 console.log(`Render thành công Painpoint Cutout Reel: ${finalMp4}`);
