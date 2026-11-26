@@ -1,8 +1,7 @@
-- **Lưu ý độ tin cậy:** Mẫu rất nhỏ (20 video), Score chỉ dao động 3–6, Shares đều bằng 0 và gần như video nào cũng chỉ có 1 comment. Các kết luận dưới đây chỉ là xu hướng sơ bộ, cần tiếp tục A/B test.
-- **Ưu tiên hook "rủi ro cho món đồ đắt tiền":** laptop bị ướt khi mưa (Score 6, cao nhất), laptop 16 inch bị xước (4), balo gặp mưa ướt đồ (4). Hãy nêu một tình huống cụ thể có hậu quả thấy ngay.
-- **Khai thác góc riêng tư/xã hội:** "Người bên cạnh đọc hết tin nhắn mà bạn không hay 👀" đạt 5 điểm, nhiều reaction nhất. Nên thử thêm hook kiểu "bị người khác nhìn/biết" hoặc tạo cảm giác giật mình.
-- **Hook "mang nhiều cục sạc" ổn định ở mức khá (4):** gộp đồ, nhẹ balo, một củ sạc cho cả điện thoại lẫn laptop. Nên nêu con số cụ thể (2 cục, 3 cục, 2 laptop).
-- **Tránh than phiền chung chung, quá quen thuộc:** dây sạc rối, sạc chậm, pin tụt, ốp dính vân tay, pin dự phòng tuột, rút thẻ thang máy đều chỉ đạt 3 điểm và không có reaction.
-- **Hook phải ngắn, một câu, không nhồi thông số/giá:** hook dài kèm tên Anker, 45W, bảo hành, giá chỉ đạt 3 điểm. Thông số và giá nên đưa xuống phần thân.
-- **Không dùng 😤 làm mặc định:** biểu tượng này xuất hiện ở phần lớn hook điểm thấp. Ưu tiên emoji gợi hình ảnh, gắn với tình huống (🎒, 👀).
-- **Chưa có share nào:** cần thêm yếu tố đáng chia sẻ, như mẹo hữu ích, lời kêu gọi kiểu "tag đứa bạn hay…", hoặc so sánh trước/sau gây bất ngờ.
+- Dữ liệu còn rất mỏng (Score 3–6, Shares đều bằng 0, gần như mọi video chỉ có 1 comment), nên coi đây là xu hướng sơ bộ và tiếp tục A/B test.
+- Ưu tiên hook về **nỗi sợ mất mát cụ thể, có hình ảnh rõ**, ví dụ: "Mưa tạt là laptop ướt nhẹp" (cao nhất, 6) hay "Người bên cạnh đọc hết tin nhắn của bạn 👀" (5). Hai hook này chạm đúng nỗi lo về tài sản và quyền riêng tư.
+- Nhóm sản phẩm triển vọng: **balo chống nước/bảo vệ laptop**, **kính/miếng dán chống nhìn trộm**, **sạc gộp nhiều thiết bị** (kiểu "mang 2–3 cục sạc" thường đạt 4).
+- Tránh hook than phiền chung chung, quá quen thuộc như "dây sạc rối", "sạc chậm", "pin tụt", "đóng gói đồ" hay "xách hai túi" (đều chỉ đạt 3).
+- Hook chỉ nên dài 1 câu, dưới 15 chữ, dạng câu hỏi hoặc tình huống, kèm 1 emoji. Không nhồi thông số, giá hay bảo hành vào hook (bản hook dài kèm spec Anker chỉ đạt 3).
+- Thêm yếu tố **khiến người xem muốn tag hoặc chia sẻ** vì hiện chưa có share nào. Ví dụ: "Tag đứa bạn hay để laptop dầm mưa", hoặc nhắm tới đối tượng cụ thể như dân văn phòng, người đi công tác, sinh viên.
+- Kết reel bằng CTA kích thích bình luận, như câu hỏi chọn A/B hay "Comment 'MƯA' để nhận giá", để tăng điểm Comments (x3).
