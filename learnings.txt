@@ -1,7 +1,8 @@
-- Dữ liệu còn rất mỏng (Score 3–6, Shares đều bằng 0, gần như mọi video chỉ có 1 comment), nên coi đây là xu hướng sơ bộ và tiếp tục A/B test.
-- Ưu tiên hook về **nỗi sợ mất mát cụ thể, có hình ảnh rõ**, ví dụ: "Mưa tạt là laptop ướt nhẹp" (cao nhất, 6) hay "Người bên cạnh đọc hết tin nhắn của bạn 👀" (5). Hai hook này chạm đúng nỗi lo về tài sản và quyền riêng tư.
-- Nhóm sản phẩm triển vọng: **balo chống nước/bảo vệ laptop**, **kính/miếng dán chống nhìn trộm**, **sạc gộp nhiều thiết bị** (kiểu "mang 2–3 cục sạc" thường đạt 4).
-- Tránh hook than phiền chung chung, quá quen thuộc như "dây sạc rối", "sạc chậm", "pin tụt", "đóng gói đồ" hay "xách hai túi" (đều chỉ đạt 3).
-- Hook chỉ nên dài 1 câu, dưới 15 chữ, dạng câu hỏi hoặc tình huống, kèm 1 emoji. Không nhồi thông số, giá hay bảo hành vào hook (bản hook dài kèm spec Anker chỉ đạt 3).
-- Thêm yếu tố **khiến người xem muốn tag hoặc chia sẻ** vì hiện chưa có share nào. Ví dụ: "Tag đứa bạn hay để laptop dầm mưa", hoặc nhắm tới đối tượng cụ thể như dân văn phòng, người đi công tác, sinh viên.
-- Kết reel bằng CTA kích thích bình luận, như câu hỏi chọn A/B hay "Comment 'MƯA' để nhận giá", để tăng điểm Comments (x3).
+- Dữ liệu rất mỏng (Score 3–6, Shares = 0 toàn bộ, gần như bài nào cũng đúng 1 comment) nên chỉ xem đây là xu hướng sơ bộ, chưa phải kết luận; mục tiêu số 1 là tạo ra lượt share đầu tiên.
+- Ưu tiên hook về rủi ro mất mát hoặc bị xâm phạm có hình ảnh cụ thể: laptop ướt vì mưa (6đ), người bên cạnh đọc trộm tin nhắn (5đ), balo rẻ làm xước laptop (4đ). Nỗi sợ "mất đồ, hỏng đồ, lộ riêng tư" hiệu quả hơn nỗi phiền "chậm, rối".
+- Hook nên có con số hoặc chi tiết đời thực ("2 cục", "3 ngày", "16 inch", "2 laptop"). Bản có số liệu cụ thể thường đạt 4đ, bản chung chung đạt 3đ.
+- Tránh các pain point nhàm, ai cũng nói: sạc chậm, dây cáp rối, pin tụt, pin dự phòng lỏng. Các hook này đều chỉ đạt 3đ.
+- Hook dài 1 câu, dưới khoảng 15 chữ, kết bằng câu hỏi gợi đồng cảm. Không nhồi tên sản phẩm, thông số, bảo hành hay giá vào hook; bản dài kiểu "Anker Nano 45W… 800.000đ" chỉ được 3đ.
+- Để kéo share, kết reel bằng lời gọi gắn với người thân, ví dụ "Tag đứa bạn hay để laptop dầm mưa" hoặc "Gửi cho người hay đi công tác". Để kéo comment, hỏi một câu dễ trả lời như "Bạn từng bị chưa?".
+- Đẩy nhóm sản phẩm balo chống nước, chống xước, chống trộm và miếng dán chống nhìn trộm. Giảm tần suất nhóm củ sạc, cáp, pin, vốn đã lặp lại nhiều mà tương tác thấp.
+- Mỗi lần chỉ thử một biến (kiểu hook, CTA hoặc sản phẩm) để đo được chính xác, tránh lặp lại cùng một pain point quá 2 lần.
